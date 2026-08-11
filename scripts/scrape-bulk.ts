@@ -261,10 +261,12 @@ function inferCategory(text: string): string {
 
 function mapAccesorio(text: string): MamboStep["accesorio"] {
   const t = toLower(text);
-  if (/\b(izquierda|giro.*izquierda|modo espiga|cuchara)\b/.test(t)) return "Pala MamboMix";
-  if (/\b(turbo|triturar|picar|licuado|batido|pure|batir|montar)\b/.test(t)) return "Cuchillas";
+  if (/\b(espiga)\b/.test(t)) return "Pala MamboMix";
+  if (/\b(izquierda|giro.*izquierda|cuchara)\b/.test(t)) return "Pala MamboMix";
+  if (/\b(mariposa)\b/.test(t)) return "Pala MamboMix";
   if (/\b(pala|mambo.?mix)\b/.test(t)) return "Pala MamboMix";
-  if (/\b(ninguna?|sin accesorio|sin cuchilla|horno)\b/.test(t)) return "Ninguno";
+  if (/\b(turbo|triturar|picar|licuado|batido|pure|batir|montar)\b/.test(t)) return "Cuchillas";
+  if (/\b(ninguna?|sin accesorio|sin cuchilla|horno|varoma)\b/.test(t)) return "Ninguno";
   const cat = inferCategory(t);
   if (cat === "guiso" || cat === "arroz" || cat === "lacteo" || cat === "legumbres") return "Pala MamboMix";
   if (/\b(pieza|enter[oa]|costillar|muslo)\b/.test(t)) return "Ninguno";
@@ -279,13 +281,14 @@ function inferVelocidad(text: string): number | "Turbo" {
   const m = /\bvel(?:ocidad)?\.?\s*(\d{1,2})\b/.exec(t);
   if (m) return Math.min(10, Math.max(0, Number(m[1])));
   if (/\bturbo\b/.test(t)) return "Turbo";
-  if (/\b(espiga|amasar)\b/.test(t)) return 2;
+  if (/\bvaroma\b/.test(t)) return 3;           // Velocidad Varoma → Vel. 3
+  if (/\b(espiga|amasar)\b/.test(t)) return 3;   // Espiga → Vel. 3
   if (/\b(pieza|enter[oa]|costillar|muslo)\b/.test(t)) return 0;
   const cat = inferCategory(t);
   if (cat === "vapor" || cat === "hervir") return 0;
   if (cat === "guiso" || cat === "arroz" || cat === "legumbres") return 1;
   if (cat === "lacteo") return 3;
-  if (cat === "triturar") return 6;
+  if (cat === "triturar") return 7;              // Picar Vel. 5-6 TM → Vel. 6-7 Mambo
   if (cat === "sofrito") return 2;
   if (cat === "liquido") return 5;
   return 1;

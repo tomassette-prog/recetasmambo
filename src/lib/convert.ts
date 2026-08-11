@@ -107,8 +107,11 @@ function inferVelocidad(text: string): MamboStep["velocidad"] {
 
   if (/\bturbo\b/.test(t)) return "Turbo";
 
-  // Modo Espiga → Vel. 2
-  if (/\b(espiga|amasar)\b/.test(t)) return 2;
+  // Velocidad Varoma (Thermomix) → Vel. 3 en Mambo
+  if (/\bvaroma\b/.test(t)) return 3;
+
+  // Modo Espiga → Vel. 3 (Cuchara MamboMix)
+  if (/\b(espiga|amasar)\b/.test(t)) return 3;
 
   // Piezas grandes, guisos sin mover, vapor → Vel. 0
   if (/\b(pieza|enter[oa]|costillar|muslo|muslos|sin mover|sin cuchilla|horno)\b/.test(t))
