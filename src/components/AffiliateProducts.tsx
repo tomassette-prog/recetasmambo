@@ -27,8 +27,8 @@ const PRODUCTS = [
 export default function AffiliateProducts({ compact = false }: { compact?: boolean }) {
   if (compact) {
     return (
-      <div className="bg-white rounded-xl border border-gray-100 p-5">
-        <h4 className="font-semibold text-sm mb-4">🛒 Accesorios recomendados</h4>
+      <div className="bg-white rounded-lg border border-gray-200 p-5">
+        <h4 className="font-semibold text-sm mb-4" style={{ color: "#23282A" }}>🛒 Accesorios recomendados</h4>
         <div className="space-y-3">
           {PRODUCTS.map((p) => (
             <a
@@ -40,7 +40,7 @@ export default function AffiliateProducts({ compact = false }: { compact?: boole
             >
               <span className="text-xl">{p.image}</span>
               <span className="flex-1 text-gray-700 font-medium">{p.name}</span>
-              <span className="font-semibold" style={{ color: "var(--color-accent)" }}>{p.price}</span>
+              <span className="font-semibold" style={{ color: "#00AC46" }}>{p.price}</span>
             </a>
           ))}
         </div>
@@ -49,24 +49,26 @@ export default function AffiliateProducts({ compact = false }: { compact?: boole
   }
 
   return (
-    <section className="py-12 px-4 sm:px-6" style={{ background: "#faf7f2" }}>
+    <section className="py-12 px-4 sm:px-6" style={{ background: "#f5f5f5" }}>
       <div className="mx-auto max-w-7xl">
-        <h3 className="text-xl font-bold mb-6">🛒 Accesorios para tu Mambo</h3>
-        <div className="scroll-row">
+        <div className="section-header">
+          <h3 className="section-title mb-0">🛒 Accesorios para tu Mambo</h3>
+        </div>
+        <div className="carousel">
           {PRODUCTS.map((p) => (
             <a
               key={p.name}
               href={p.url}
               target="_blank"
               rel="noopener noreferrer nofollow"
-              className="product-card block"
+              className="product-card carousel-item block"
             >
               <div className="text-4xl mb-3">{p.image}</div>
-              <h4 className="font-semibold text-sm text-gray-900 mb-1">{p.name}</h4>
+              <h4 className="font-semibold text-sm mb-1" style={{ color: "#23282A" }}>{p.name}</h4>
               <p className="text-xs text-gray-500 mb-3 leading-relaxed">{p.description}</p>
               <div className="flex items-center justify-between">
-                <span className="font-bold" style={{ color: "var(--color-accent)" }}>{p.price}</span>
-                <span className="text-xs font-medium text-white rounded-full px-3 py-1" style={{ background: "var(--color-accent)" }}>
+                <span className="font-bold" style={{ color: "#00AC46" }}>{p.price}</span>
+                <span className="text-xs font-medium text-white rounded-md px-3 py-1" style={{ background: "#00AC46" }}>
                   Ver en Amazon
                 </span>
               </div>

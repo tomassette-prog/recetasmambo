@@ -1,17 +1,13 @@
 import type { Metadata } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
+import { Roboto } from "next/font/google";
 import "./globals.css";
 import Link from "next/link";
 import { categories } from "@/lib/recipes-data";
 
-const geistSans = Geist({
-  variable: "--font-geist-sans",
+const roboto = Roboto({
+  variable: "--font-roboto",
   subsets: ["latin"],
-});
-
-const geistMono = Geist_Mono({
-  variable: "--font-geist-mono",
-  subsets: ["latin"],
+  weight: ["300", "400", "500", "700"],
 });
 
 export const metadata: Metadata = {
@@ -22,30 +18,27 @@ export const metadata: Metadata = {
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
-    <html
-      lang="es"
-      className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
-    >
-      <body className="min-h-full flex flex-col text-gray-900">
+    <html lang="es" className={`${roboto.variable} h-full antialiased`}>
+      <body className="min-h-full flex flex-col" style={{ fontFamily: '"Roboto", "Helvetica Neue", Arial, sans-serif' }}>
         {/* Header */}
         <header className="site-header">
           <div className="mx-auto max-w-7xl flex items-center justify-between px-4 sm:px-6 py-3">
-            <Link href="/" className="flex items-center gap-2 text-lg font-bold tracking-tight">
+            <Link href="/" className="flex items-center gap-2 text-lg font-bold tracking-tight" style={{ color: "#23282A" }}>
               <span className="text-2xl">🍳</span>
-              <span>Recetas <span style={{ color: "var(--color-accent)" }}>Mambo</span></span>
+              <span>Recetas <span style={{ color: "#00AC46" }}>Mambo</span></span>
             </Link>
             <nav className="hidden md:flex items-center gap-8 text-sm font-medium text-gray-600">
-              <Link href="/recetas" className="hover:text-gray-900 transition-colors">
+              <Link href="/recetas" className="hover:text-[#00AC46] transition-colors">
                 Recetas
               </Link>
-              <Link href="/categorias" className="hover:text-gray-900 transition-colors">
+              <Link href="/categorias" className="hover:text-[#00AC46] transition-colors">
                 Categorías
               </Link>
-              <Link href="/convertir" className="rounded-full px-5 py-2 text-white font-semibold transition-colors" style={{ background: "var(--color-accent)" }}>
+              <Link href="/convertir" className="btn-primary text-sm px-5 py-2">
                 Convertir Receta
               </Link>
             </nav>
-            <Link href="/convertir" className="md:hidden rounded-full px-3 py-1.5 text-sm text-white font-medium" style={{ background: "var(--color-accent)" }}>
+            <Link href="/convertir" className="md:hidden btn-primary text-sm px-3 py-1.5">
               Convertir
             </Link>
           </div>
@@ -54,7 +47,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
         <main className="flex-1">{children}</main>
 
         {/* Footer */}
-        <footer className="bg-gray-900 text-gray-300 mt-auto">
+        <footer style={{ background: "#23282A" }} className="text-gray-300 mt-auto">
           <div className="mx-auto max-w-7xl px-4 sm:px-6 py-12 grid grid-cols-1 sm:grid-cols-3 gap-10 text-sm">
             <div>
               <div className="flex items-center gap-2 text-white font-bold text-base mb-3">

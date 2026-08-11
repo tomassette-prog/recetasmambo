@@ -9,121 +9,49 @@ import SearchBox from "@/components/SearchBox";
 const featured = getFeaturedRecipes();
 const allRecipes = getAllRecipes();
 
-export default function Home() {
+/* Category → background gradient for placeholder tiles */
+const categoryGradients: Record<string, string> = {
+  "sopas-y-cremas": "linear-gradient(135deg, #f59e0b, #d97706)",
+  arroces: "linear-gradient(135deg, #eab308, #ca8a04)",
+  carnes: "linear-gradient(135deg, #ef4444, #dc2626)",
+  pescados: "linear-gradient(135deg, #06b6d4, #0891b2)",
+  postres: "linear-gradient(135deg, #ec4899, #db2777)",
+  salsas: "linear-gradient(135deg, #f59e0b, #d97706)",
+  "panes-masas": "linear-gradient(135deg, #a16207, #854d0e)",
+  verduras: "linear-gradient(135deg, #22c55e, #16a34a)",
+  bebidas: "linear-gradient(135deg, #3b82f6, #2563eb)",
+  legumbres: "linear-gradient(135deg, #a855f7, #9333ea)",
+};
+
+function CarouselRecipeCard({ recipe }: { recipe: (typeof allRecipes)[0] }) {
+  const cat = categories.find((c) => c.slug === recipe.categoria);
   return (
-    <div>
-      {/* Hero */}
-      <section className="relative overflow-hidden" style={{ background: "linear-gradient(135deg, #FFF5EB 0%, #FFE8CC 50%, #FFFAF5 100%)" }}>
-        <div className="mx-auto max-w-7xl px-4 sm:px-6 py-16 md:py-24 text-center">
-          <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold tracking-tight mb-5" style={{ color: "#1a1a1a" }}>
-            Recetas para tu <span style={{ color: "var(--color-accent)" }}>Mambo</span>
-          </h1>
-          <p className="text-base md:text-lg text-gray-500 mb-8 max-w-2xl mx-auto leading-relaxed">
-            Recetas de Thermomix adaptadas automáticamente a la <strong className="text-gray-700">Cecotec Mambo Cooking Total Gourmet</strong>.
-            Tiempos, temperaturas, accesorios y potencia calórica correctos.
-          </p>
-          <SearchBox />
+    <Link href={`/recetas/${recipe.slug}`} className="recipe-card carousel-item block" style={{ width: 280 }}>
+      <div className="card-image bg-gray-100">
+        {recipe.imagen ? (
+          <Image
+            src={recipe.imagen}
+            alt={recipe.titulo}
+            fill
+            className="object-cover"
+            sizes="280px"
+          />
+        ) : (
+          <div className="w-full h-full flex items-center justify-center text-5xl" style={{ background: categoryGradients[recipe.categoria] ?? "#f5f5f5" }}>{cat?.icono ?? "🍽️"}</div>
+        )}
+        <div className="recipe-card-overlay">
+          <h3>{recipe.titulo}</h3>
+          <div className="flex items-center gap-3 mt-1.5">
+            <span className="meta-badge">⏱ {recipe.tiempo_total_min} min</span>
+            <span className="meta-badge">{recipe.dificultad}</span>
+          </div>
         </div>
-      </section>
-
-      {/* Categorías — horizontal scroll */}
-      <section className="mx-auto max-w-7xl px-4 sm:px-6 py-10">
-        <h2 className="section-title">Categorías</h2>
-        <div className="scroll-row">
-          {categories.map((c) => (
-            <Link key={c.slug} href={`/categorias/${c.slug}`} className="category-pill">
-              <span className="text-lg">{c.icono}</span>
-              {c.nombre}
-            </Link>
-          ))}
-        </div>
-      </section>
-
-      {/* Featured hero card */}
-      {featured.length > 0 && (
-        <section className="mx-auto max-w-7xl px-4 sm:px-6 pb-10">
-          <Link href={`/recetas/${featured[0].slug}`} className="hero-recipe block group">
-            {featured[0].imagen ? (
-              <Image
-                src={featured[0].imagen}
-                alt={featured[0].titulo}
-                fill
-                className="object-cover group-hover:scale-105 transition-transform duration-500"
-                priority
-                sizes="(max-width: 1280px) 100vw, 1280px"
-              />
-            ) : (
-              <div className="w-full h-full flex items-center justify-center text-7xl" style={{ background: categoryColors[featured[0].categoria] ?? "#F5F5F5" }}>{categories.find((c) => c.slug === featured[0].categoria)?.icono ?? "🍽️"}</div>
-            )}
-            <div className="hero-overlay">
-              <span className="inline-block self-start rounded-full px-3 py-1 text-xs font-semibold mb-3" style={{ background: "var(--color-accent)", color: "white" }}>
-                ⭐ Destacada
-              </span>
-              <h2 className="text-2xl md:text-3xl font-bold mb-2">{featured[0].titulo}</h2>
-              <p className="text-sm text-gray-200 max-w-lg line-clamp-2">{featured[0].descripcion}</p>
-              <div className="flex items-center gap-4 mt-3 text-xs text-gray-300">
-                <span>⏱ {featured[0].tiempo_total_min} min</span>
-                <span>👥 {featured[0].comensales} pax</span>
-                <span>📊 {featured[0].dificultad}</span>
-              </div>
-            </div>
-          </Link>
-        </section>
-      )}
-
-      {/* Últimas recetas grid */}
-      <section className="mx-auto max-w-7xl px-4 sm:px-6 py-10">
-        <div className="flex items-center justify-between mb-6">
-          <h2 className="section-title mb-0">Últimas Recetas</h2>
-          <Link href="/recetas" className="text-sm font-medium hover:underline" style={{ color: "var(--color-accent)" }}>
-            Ver todas ({allRecipes.length}) →
-          </Link>
-        </div>
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-          {allRecipes.slice(0, 12).map((r) => (
-            <RecipeCard key={r.id} recipe={r} />
-          ))}
-        </div>
-      </section>
-
-      {/* Afiliados */}
-      <AffiliateProducts />
-
-      {/* Newsletter */}
-      <Newsletter />
-
-      {/* CTA */}
-      <section className="py-16 px-4 text-center" style={{ background: "linear-gradient(135deg, #E85D04, #D35400)" }}>
-        <h2 className="text-3xl md:text-4xl font-bold text-white mb-4">¿Tienes una receta de Thermomix?</h2>
-        <p className="text-orange-100 mb-8 max-w-lg mx-auto">
-          Pega la URL y la convertimos automáticamente a los ajustes de tu Mambo Cooking Total Gourmet.
-        </p>
-        <Link
-          href="/convertir"
-          className="inline-block rounded-full bg-white font-semibold px-8 py-3 hover:bg-gray-50 transition-colors"
-          style={{ color: "var(--color-accent)" }}
-        >
-          Convertir Receta →
-        </Link>
-      </section>
-    </div>
+      </div>
+    </Link>
   );
 }
 
-const categoryColors: Record<string, string> = {
-  "sopas-y-cremas": "#FFF3E0",
-  arroces: "#FFF8E1",
-  carnes: "#FFEBEE",
-  pescados: "#E0F7FA",
-  postres: "#FCE4EC",
-  salsas: "#FFF9C4",
-  "panes-masas": "#EFEBE9",
-  verduras: "#E8F5E9",
-  bebidas: "#E3F2FD",
-  legumbres: "#F3E5F5",
-};
-
-function RecipeCard({ recipe }: { recipe: (typeof allRecipes)[0] }) {
+function GridRecipeCard({ recipe }: { recipe: (typeof allRecipes)[0] }) {
   const cat = categories.find((c) => c.slug === recipe.categoria);
   return (
     <Link href={`/recetas/${recipe.slug}`} className="recipe-card block">
@@ -137,16 +65,14 @@ function RecipeCard({ recipe }: { recipe: (typeof allRecipes)[0] }) {
             sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
           />
         ) : (
-          <div className="flex items-center justify-center h-full text-5xl" style={{ background: categoryColors[recipe.categoria] ?? "#F5F5F5" }}>{cat?.icono ?? "🍽️"}</div>
+          <div className="w-full h-full flex items-center justify-center text-5xl" style={{ background: categoryGradients[recipe.categoria] ?? "#f5f5f5" }}>{cat?.icono ?? "🍽️"}</div>
         )}
         {cat && (
-          <span className="category-badge">
-            {cat.icono} {cat.nombre}
-          </span>
+          <span className="category-badge">{cat.icono} {cat.nombre}</span>
         )}
       </div>
       <div className="p-4">
-        <h3 className="font-semibold text-base mb-1 text-gray-900 leading-snug">
+        <h3 className="font-semibold text-base mb-1 leading-snug" style={{ color: "#23282A", fontWeight: 700 }}>
           {recipe.titulo}
         </h3>
         <p className="text-sm text-gray-500 line-clamp-2 leading-relaxed">{recipe.descripcion}</p>
@@ -157,6 +83,116 @@ function RecipeCard({ recipe }: { recipe: (typeof allRecipes)[0] }) {
         <span>📊 {recipe.dificultad}</span>
       </div>
     </Link>
+  );
+}
+
+export default function Home() {
+  const heroImage = featured[0]?.imagen ?? allRecipes[0]?.imagen ?? "";
+
+  return (
+    <div>
+      {/* ── Section 1: Hero Banner ── */}
+      <section className="hero-banner">
+        {heroImage ? (
+          <Image
+            src={heroImage}
+            alt="Recetas para tu Mambo"
+            fill
+            className="object-cover"
+            priority
+            sizes="100vw"
+          />
+        ) : (
+          <div className="w-full h-full" style={{ background: "linear-gradient(135deg, #00AC46, #008a38)" }} />
+        )}
+        <div className="hero-banner-content mx-auto max-w-7xl">
+          <h1 className="text-3xl md:text-5xl font-normal text-white mb-2" style={{ fontWeight: 400 }}>
+            Recetas para tu Mambo
+          </h1>
+          <p className="text-base text-white/85 mb-5 max-w-xl">
+            Miles de recetas de Thermomix adaptadas a la Cecotec Mambo Cooking Total Gourmet
+          </p>
+          <div className="flex flex-col sm:flex-row gap-3 items-start">
+            <Link href="/recetas" className="btn-primary">
+              Explorar recetas
+            </Link>
+          </div>
+          <div className="mt-5 max-w-md">
+            <SearchBox />
+          </div>
+        </div>
+      </section>
+
+      {/* ── Section 2: Featured Carousel ── */}
+      {featured.length > 0 && (
+        <section className="py-10 px-4 sm:px-6 bg-white">
+          <div className="mx-auto max-w-7xl">
+            <div className="section-header">
+              <h2 className="section-title mb-0">¡Lo que no te puedes perder!</h2>
+              <Link href="/recetas" className="section-link">Ver más →</Link>
+            </div>
+            <div className="carousel">
+              {featured.map((r) => (
+                <CarouselRecipeCard key={r.id} recipe={r} />
+              ))}
+              {allRecipes.filter((r) => !r.destacada).slice(0, 6).map((r) => (
+                <CarouselRecipeCard key={r.id} recipe={r} />
+              ))}
+            </div>
+          </div>
+        </section>
+      )}
+
+      {/* ── Section 3: Category Tiles ── */}
+      <section className="py-10 px-4 sm:px-6" style={{ background: "#f5f5f5" }}>
+        <div className="mx-auto max-w-7xl">
+          <div className="section-header">
+            <h2 className="section-title mb-0">Categorías populares</h2>
+            <Link href="/categorias" className="section-link">Ver todas →</Link>
+          </div>
+          <div className="carousel">
+            {categories.map((c) => (
+              <Link key={c.slug} href={`/categorias/${c.slug}`} className="category-tile">
+                <div className="w-full h-full flex items-center justify-center text-4xl" style={{ background: categoryGradients[c.slug] ?? "#888" }} />
+                <div className="category-tile-overlay">{c.icono} {c.nombre}</div>
+              </Link>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* ── Section 4: Latest Recipes Carousel ── */}
+      <section className="py-10 px-4 sm:px-6 bg-white">
+        <div className="mx-auto max-w-7xl">
+          <div className="section-header">
+            <h2 className="section-title mb-0">Últimas recetas</h2>
+            <Link href="/recetas" className="section-link">Ver todas ({allRecipes.length}) →</Link>
+          </div>
+          <div className="carousel">
+            {allRecipes.slice(0, 12).map((r) => (
+              <CarouselRecipeCard key={r.id} recipe={r} />
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* ── Section 5: CTA ── */}
+      <section className="py-16 px-4 text-center" style={{ background: "linear-gradient(135deg, #00AC46, #008a38)" }}>
+        <h2 className="text-3xl md:text-4xl text-white mb-4" style={{ fontWeight: 400 }}>¿Tienes una receta de Thermomix?</h2>
+        <p className="text-white/80 mb-8 max-w-lg mx-auto">
+          Pega la URL y la convertimos automáticamente a los ajustes de tu Mambo Cooking Total Gourmet.
+        </p>
+        <Link href="/convertir" className="inline-block bg-white font-semibold px-8 py-3 rounded-md hover:bg-gray-50 transition-colors" style={{ color: "#00AC46" }}>
+          Convertir Receta →
+        </Link>
+      </section>
+
+      {/* ── Section 6: Affiliate Products ── */}
+      <AffiliateProducts />
+
+      {/* ── Section 7: Newsletter ── */}
+      <Newsletter />
+    </div>
   );
 }
 

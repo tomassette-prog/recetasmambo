@@ -66,7 +66,7 @@ export default function ConvertPage() {
 
   return (
     <div className="mx-auto max-w-3xl px-4 py-10">
-      <h1 className="text-3xl font-bold mb-2">Convertir Receta</h1>
+      <h1 className="text-3xl mb-2" style={{ fontWeight: 400 }}>Convertir Receta</h1>
       <p className="text-gray-500 mb-8">
         Pega la URL de cualquier receta de Thermomix y la convertiremos automáticamente a los ajustes de tu <strong>Mambo Cooking Total Gourmet</strong>.
       </p>
@@ -78,12 +78,12 @@ export default function ConvertPage() {
           value={url}
           onChange={(e) => setUrl(e.target.value)}
           placeholder="https://www.thermorecetas.com/receta-ejemplo/"
-          className="flex-1 rounded-lg border border-gray-300 px-4 py-3 focus:outline-none focus:ring-2 focus:ring-emerald-500"
+          className="flex-1 rounded-lg border border-gray-300 px-4 py-3 focus:outline-none focus:ring-2 focus:ring-[#00AC46]"
         />
         <button
           type="submit"
           disabled={loading}
-          className="rounded-lg bg-emerald-600 px-6 py-3 font-medium text-white hover:bg-emerald-700 transition-colors disabled:opacity-60"
+          className="btn-primary rounded-lg px-6 py-3"
         >
           {loading ? "Convirtiendo..." : "Convertir"}
         </button>
@@ -108,7 +108,7 @@ export default function ConvertPage() {
               </button>
               <Link
                 href={`/recetas/${result.slug}`}
-                className="rounded-lg bg-emerald-600 px-4 py-2 text-sm font-medium text-white hover:bg-emerald-700 transition-colors"
+                className="btn-primary rounded-lg px-4 py-2 text-sm"
               >
                 Ver Receta →
               </Link>
@@ -130,7 +130,7 @@ export default function ConvertPage() {
               {result.pasos_mambo.map((paso) => (
                 <div key={paso.paso_numero} className="rounded-xl border border-gray-200 p-4">
                   <div className="flex items-center gap-2 mb-2">
-                    <span className="flex h-7 w-7 items-center justify-center rounded-full bg-emerald-600 text-white text-xs font-bold">
+                    <span className="flex h-7 w-7 items-center justify-center rounded-full text-white text-xs font-bold" style={{ background: "#00AC46" }}>
                       {paso.paso_numero}
                     </span>
                     <span className="text-sm font-medium">Paso {paso.paso_numero}</span>

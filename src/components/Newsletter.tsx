@@ -34,17 +34,15 @@ export default function Newsletter() {
   }
 
   return (
-    <section className="py-14 px-4" style={{ background: "var(--color-accent-light)" }}>
-      <div className="mx-auto max-w-2xl text-center">
+    <section className="newsletter-section">
+      <div className="mx-auto max-w-2xl">
         <div className="text-3xl mb-3">📬</div>
-        <h3 className="text-xl md:text-2xl font-bold mb-2" style={{ color: "#1a1a1a" }}>
-          Recibe una receta Mambo cada semana
-        </h3>
-        <p className="text-sm text-gray-500 mb-6">
+        <h3>Recibe una receta Mambo cada semana</h3>
+        <p>
           Únete a +5.000 cocineros que reciben recetas adaptadas, trucos y ofertas de accesorios.
         </p>
         {status === "success" ? (
-          <div className="rounded-xl p-4 text-sm font-medium" style={{ background: "#D1FAE5", color: "#065F46" }}>
+          <div className="rounded-lg p-4 text-sm font-medium bg-white/20 text-white">
             ✅ {message}
           </div>
         ) : (
@@ -55,23 +53,22 @@ export default function Newsletter() {
               value={email}
               onChange={(e) => setEmail(e.target.value)}
               placeholder="tu@email.com"
-              className="flex-1 rounded-full bg-white border border-gray-200 px-5 py-3 text-sm text-gray-900 focus:outline-none focus:ring-2 focus:border-transparent"
-              style={{ outlineColor: "var(--color-accent)" }}
+              className="flex-1 rounded-md bg-white border-0 px-5 py-3 text-sm text-gray-900 focus:outline-none focus:ring-2 focus:ring-white/50"
             />
             <button
               type="submit"
               disabled={status === "loading"}
-              className="rounded-full text-white font-semibold px-6 py-3 text-sm transition-colors disabled:opacity-60"
-              style={{ background: "var(--color-accent)" }}
+              className="rounded-md bg-white text-sm font-semibold px-6 py-3 transition-colors disabled:opacity-60"
+              style={{ color: "#00AC46" }}
             >
               {status === "loading" ? "..." : "Suscribirme"}
             </button>
           </form>
         )}
         {status === "error" && (
-          <p className="mt-2 text-sm text-red-500">{message}</p>
+          <p className="mt-2 text-sm text-white/80">{message}</p>
         )}
-        <p className="mt-4 text-xs text-gray-400">Sin spam. Cancela cuando quieras.</p>
+        <p className="mt-4 text-xs text-white/60">Sin spam. Cancela cuando quieras.</p>
       </div>
     </section>
   );

@@ -3,17 +3,17 @@ import Image from "next/image";
 import { getAllRecipes } from "@/lib/store";
 import { categories } from "@/lib/recipes-data";
 
-const categoryColors: Record<string, string> = {
-  "sopas-y-cremas": "#FFF3E0",
-  arroces: "#FFF8E1",
-  carnes: "#FFEBEE",
-  pescados: "#E0F7FA",
-  postres: "#FCE4EC",
-  salsas: "#FFF9C4",
-  "panes-masas": "#EFEBE9",
-  verduras: "#E8F5E9",
-  bebidas: "#E3F2FD",
-  legumbres: "#F3E5F5",
+const categoryGradients: Record<string, string> = {
+  "sopas-y-cremas": "linear-gradient(135deg, #f59e0b, #d97706)",
+  arroces: "linear-gradient(135deg, #eab308, #ca8a04)",
+  carnes: "linear-gradient(135deg, #ef4444, #dc2626)",
+  pescados: "linear-gradient(135deg, #06b6d4, #0891b2)",
+  postres: "linear-gradient(135deg, #ec4899, #db2777)",
+  salsas: "linear-gradient(135deg, #f59e0b, #d97706)",
+  "panes-masas": "linear-gradient(135deg, #a16207, #854d0e)",
+  verduras: "linear-gradient(135deg, #22c55e, #16a34a)",
+  bebidas: "linear-gradient(135deg, #3b82f6, #2563eb)",
+  legumbres: "linear-gradient(135deg, #a855f7, #9333ea)",
 };
 
 export const metadata = {
@@ -26,11 +26,11 @@ export default function RecipesPage() {
 
   return (
     <div className="mx-auto max-w-7xl px-4 sm:px-6 py-10">
-      <h1 className="text-3xl font-bold mb-2">Todas las Recetas</h1>
+      <h1 className="text-3xl mb-2" style={{ fontWeight: 400 }}>Todas las Recetas</h1>
       <p className="text-gray-500 mb-6">{recipes.length} recetas adaptadas a tu Mambo</p>
 
       {/* Category filter pills */}
-      <div className="scroll-row mb-8">
+      <div className="flex flex-wrap gap-2 mb-8">
         {categories.map((c) => (
           <Link key={c.slug} href={`/categorias/${c.slug}`} className="category-pill">
             <span className="text-base">{c.icono}</span>
@@ -55,7 +55,7 @@ export default function RecipesPage() {
                     sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
                   />
                 ) : (
-                  <div className="flex items-center justify-center h-full text-5xl" style={{ background: categoryColors[r.categoria] ?? "#F5F5F5" }}>{cat?.icono ?? "🍽️"}</div>
+                  <div className="w-full h-full flex items-center justify-center text-5xl" style={{ background: categoryGradients[r.categoria] ?? "#f5f5f5" }}>{cat?.icono ?? "🍽️"}</div>
                 )}
                 {cat && (
                   <span className="category-badge">
@@ -64,7 +64,7 @@ export default function RecipesPage() {
                 )}
               </div>
               <div className="p-4">
-                <h2 className="font-semibold text-base mb-1 text-gray-900 leading-snug">
+                <h2 className="text-base mb-1 leading-snug" style={{ fontWeight: 700, color: "#23282A" }}>
                   {r.titulo}
                 </h2>
                 <p className="text-sm text-gray-500 line-clamp-2 leading-relaxed">{r.descripcion}</p>

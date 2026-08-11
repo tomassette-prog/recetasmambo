@@ -5,19 +5,6 @@ import { getAllRecipes, getRecipeBySlug } from "@/lib/store";
 import { categories } from "@/lib/recipes-data";
 import AffiliateProducts from "@/components/AffiliateProducts";
 
-const categoryColors: Record<string, string> = {
-  "sopas-y-cremas": "#FFF3E0",
-  arroces: "#FFF8E1",
-  carnes: "#FFEBEE",
-  pescados: "#E0F7FA",
-  postres: "#FCE4EC",
-  salsas: "#FFF9C4",
-  "panes-masas": "#EFEBE9",
-  verduras: "#E8F5E9",
-  bebidas: "#E3F2FD",
-  legumbres: "#F3E5F5",
-};
-
 type Props = { params: Promise<{ slug: string }> };
 
 export async function generateStaticParams() {
@@ -72,7 +59,7 @@ export default async function RecipePage({ params }: Props) {
       />
 
       {/* Hero image — full width */}
-      <div className="relative w-full h-64 md:h-96">
+      <div className="hero-banner" style={{ height: 380 }}>
         {recipe.imagen ? (
           <Image
             src={recipe.imagen}
@@ -83,10 +70,9 @@ export default async function RecipePage({ params }: Props) {
             sizes="100vw"
           />
         ) : (
-          <div className="w-full h-full flex items-center justify-center text-7xl" style={{ background: categoryColors[recipe.categoria] ?? "#F5F5F5" }}>{cat?.icono ?? "🍽️"}</div>
+          <div className="w-full h-full flex items-center justify-center text-7xl" style={{ background: "#f5f5f5" }}>{cat?.icono ?? "🍽️"}</div>
         )}
-        <div className="absolute inset-0" style={{ background: "linear-gradient(to top, rgba(0,0,0,0.65) 0%, rgba(0,0,0,0.15) 50%, transparent 100%)" }} />
-        <div className="absolute bottom-0 left-0 right-0 px-4 sm:px-6 pb-6 md:pb-8 mx-auto max-w-7xl">
+        <div className="hero-banner-content mx-auto max-w-7xl">
           {/* Breadcrumb */}
           <nav className="breadcrumb mb-3 text-white/70">
             <Link href="/" className="hover:text-white">Inicio</Link>
@@ -99,8 +85,8 @@ export default async function RecipePage({ params }: Props) {
               </>
             )}
           </nav>
-          <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold text-white mb-2">{recipe.titulo}</h1>
-          <p className="text-sm text-gray-200 max-w-2xl">{recipe.descripcion}</p>
+          <h1 className="text-3xl md:text-4xl lg:text-5xl text-white mb-2" style={{ fontWeight: 400 }}>{recipe.titulo}</h1>
+          <p className="text-sm text-white/80 max-w-2xl">{recipe.descripcion}</p>
         </div>
       </div>
 
@@ -112,7 +98,7 @@ export default async function RecipePage({ params }: Props) {
           <span className="recipe-info-pill">📊 {recipe.dificultad}</span>
           {cat && <span className="recipe-info-pill">{cat.icono} {cat.nombre}</span>}
           <span className="recipe-info-pill">🍳 Mambo Cooking Total Gourmet</span>
-          {recipe.destacada && <span className="recipe-info-pill" style={{ background: "#FEF3C7", color: "#92400E" }}>⭐ Destacada</span>}
+          {recipe.destacada && <span className="recipe-info-pill" style={{ background: "#e6f7ed", color: "#00AC46" }}>⭐ Destacada</span>}
         </div>
 
         {/* Two-column: ingredients + steps */}
@@ -120,12 +106,12 @@ export default async function RecipePage({ params }: Props) {
           {/* Ingredients sidebar */}
           <div className="md:col-span-1">
             <div className="ingredients-sidebar">
-              <h2 className="text-xl font-bold mb-4">Ingredientes</h2>
-              <div className="bg-white rounded-xl border border-gray-100 p-5">
+              <h2 className="text-xl mb-4" style={{ fontWeight: 400 }}>Ingredientes</h2>
+              <div className="bg-white rounded-lg border border-gray-200 p-5">
                 <ul className="space-y-3">
                   {recipe.ingredientes.map((ing, i) => (
                     <li key={i} className="flex items-start gap-3 text-sm leading-relaxed">
-                      <span className="mt-1.5 h-2 w-2 rounded-full flex-shrink-0" style={{ background: "var(--color-accent)" }} />
+                      <span className="mt-1.5 h-2 w-2 rounded-full flex-shrink-0" style={{ background: "#00AC46" }} />
                       {ing}
                     </li>
                   ))}
@@ -136,7 +122,7 @@ export default async function RecipePage({ params }: Props) {
 
           {/* Steps main content */}
           <div className="md:col-span-2">
-            <h2 className="text-xl font-bold mb-5">Preparación en Mambo</h2>
+            <h2 className="text-xl mb-5" style={{ fontWeight: 400 }}>Preparación en Mambo</h2>
             <div className="space-y-5">
               {recipe.pasos_mambo.map((paso) => (
                 <div key={paso.paso_numero} className="step-card">
@@ -183,7 +169,7 @@ export default async function RecipePage({ params }: Props) {
         {recipe.fuente_url && (
           <div className="mt-10 pt-6 border-t border-gray-200 text-sm text-gray-400">
             Receta original:{" "}
-            <a href={recipe.fuente_url} target="_blank" rel="noopener noreferrer" style={{ color: "var(--color-accent)" }} className="hover:underline">
+            <a href={recipe.fuente_url} target="_blank" rel="noopener noreferrer" style={{ color: "#00AC46" }} className="hover:underline">
               {recipe.fuente_url}
             </a>
           </div>
