@@ -32,10 +32,13 @@ export default function Header() {
           </button>
 
           {/* Center: Brand */}
-          <Link href="/" className="absolute left-1/2 -translate-x-1/2 flex items-center gap-2">
-            <span className="text-xl">🍳</span>
-            <span className="text-base sm:text-lg font-bold tracking-tight" style={{ color: "#23282A" }}>
+          <Link href="/" className="absolute left-1/2 -translate-x-1/2 flex flex-col items-center">
+            <span className="text-xl leading-none mb-0.5">🍳</span>
+            <span className="text-base sm:text-lg font-bold tracking-tight leading-tight" style={{ color: "#23282A" }}>
               Mambo Cooking Total Gourmet
+            </span>
+            <span className="text-[10px] sm:text-xs text-gray-400 font-normal tracking-wide">
+              Recetas Thermomix adaptadas
             </span>
           </Link>
 
