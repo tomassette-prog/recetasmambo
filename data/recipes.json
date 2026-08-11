@@ -1,6 +1,6 @@
 [
   {
-    "id": "95d32dc9-61ec-4a91-a00b-1a5540f94976",
+    "id": "1fbc4f8e-d81f-49d9-b152-d016614c5f24",
     "slug": "tarta-brownie-con-crema-de-queso",
     "titulo": "Tarta brownie con crema de queso",
     "descripcion": "Receta de Tarta brownie con crema de queso adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -28,7 +28,7 @@
       {
         "paso_numero": 1,
         "instruccion": "Para el bizcocho:Precalentamos el horno a 180º, engrasamos y enharinamos el molde con un poco de mantequilla. Reservamos.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Ninguno",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -91,7 +91,7 @@
       {
         "paso_numero": 8,
         "instruccion": "Vertemos la masa en el molde que tenemos preparado y lo introducimos en el horno a la misma temperatura durante 40 minutos o hasta que la pincharlo, el palito salga limpio.Retiramos y dejamos enfriar sobre rejilla antes de desmoldar.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Ninguno",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -100,8 +100,8 @@
       {
         "paso_numero": 9,
         "instruccion": "Para la crema:Mientras se cuece el bizcocho podemos preparar la crema. Para ello, con el vaso limpio, pulverizamos el azúcar durante 10 segundos a velocidad progresiva 5-7-9 y reservamos.",
-        "accesorio": "Cuchillas",
-        "velocidad": 1,
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
         "temperatura_c": 100,
         "potencia_calorifica": 4,
         "tiempo_minutos": 10
@@ -136,8 +136,8 @@
       {
         "paso_numero": 13,
         "instruccion": "Para el montaje de la tarta:Cortamos el bizcocho por la mitad. Echamos almíbar a la primera capa, añadimos la crema de queso procurando que nos quede una capa nivelada.",
-        "accesorio": "Cuchillas",
-        "velocidad": 1,
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
         "temperatura_c": 100,
         "potencia_calorifica": 4,
         "tiempo_minutos": 10
@@ -145,8 +145,8 @@
       {
         "paso_numero": 14,
         "instruccion": "Calamos la segunda capa del bizcocho y la colocamos, con cuidado, encima de la crema&amp;#8230;¡ya tenemos la tarta lista para decorar!",
-        "accesorio": "Cuchillas",
-        "velocidad": 1,
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
         "temperatura_c": 100,
         "potencia_calorifica": 4,
         "tiempo_minutos": 10
@@ -156,7 +156,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "cb0be5a2-34f0-4ea2-90a5-8790c9ae2805",
+    "id": "0ecd9617-90ae-449f-b0fd-b106af9e24ee",
     "slug": "bunuelos-de-viento",
     "titulo": "Buñuelos de viento",
     "descripcion": "Receta de Buñuelos de viento adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -237,8 +237,8 @@
       {
         "paso_numero": 7,
         "instruccion": "Dejamos que enfríen y ya les podemos rellenar, con la ayuda de una manga pastelera (pinchamos con la boquilla en la masa y lo rellenamos) o abriendo una rajita en el medio con un cuchillo, de nata montada, trufa, crema pastelera, cabello de ángel, batata, …",
-        "accesorio": "Cuchillas",
-        "velocidad": 1,
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
         "temperatura_c": 100,
         "potencia_calorifica": 4,
         "tiempo_minutos": 10
@@ -257,7 +257,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "20e9ea0d-5ba4-4a27-a51d-7bec6f744f56",
+    "id": "9f84eb60-0682-47e9-855b-6a0090d14d95",
     "slug": "bunuelos-de-manzana",
     "titulo": "Buñuelos de manzana",
     "descripcion": "Receta de Buñuelos de manzana adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -311,7 +311,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "6d95557c-bc6f-41a9-9c4d-0f146bed4591",
+    "id": "0d31fe63-f09c-4d60-9392-9b5c96bf0bb1",
     "slug": "potaje-de-vigilia",
     "titulo": "Potaje de vigilia",
     "descripcion": "Receta de Potaje de vigilia adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -345,7 +345,7 @@
       {
         "paso_numero": 2,
         "instruccion": "Añadimos el pimentón, 4 cucharadas de garbanzos cocidos y 2 cucharadas de agua . Programamos 15 segundos, velocidad 6.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Pala MamboMix",
         "velocidad": 6,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -383,7 +383,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "40d4a1f8-7264-44d1-b052-497b6dac92ee",
+    "id": "5a7db745-818c-4b21-814d-fcfb10292e45",
     "slug": "panquemado",
     "titulo": "Panquemado",
     "descripcion": "Receta de Panquemado adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -419,7 +419,7 @@
       {
         "paso_numero": 2,
         "instruccion": "Sin lavar el vaso, ponemos los ingredientes de la masa madre (la leche,la levadura y la harina) y programamos 15 segundos, velocidad 3. Retiramos la masa del vaso y formamos una bola. Introducimos la masa madre en un bol con agua templada hasta que cubramos la masa. Cuando la bola flote, doble su volumen y sobresalga 2/4 partes sobre el agua, estará la masa lista (aproximadamente 30 minutos).",
-        "accesorio": "Cuchillas",
+        "accesorio": "Pala MamboMix",
         "velocidad": 3,
         "temperatura_c": 100,
         "potencia_calorifica": 4,
@@ -438,7 +438,7 @@
         "paso_numero": 4,
         "instruccion": "Amasamos después programando 3 minutos, vaso cerrado, velocidad espiga.",
         "accesorio": "Cuchillas",
-        "velocidad": 1,
+        "velocidad": 2,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
         "tiempo_minutos": 3
@@ -455,7 +455,7 @@
       {
         "paso_numero": 6,
         "instruccion": "Dividimos la masa en tres partes y sobre la encimera enharinada, formamos con cada una de ellas una bola. Las colocamos en bandejas de horno forradas con papel de hornear y las dejamos reposar en un sitio templado, hasta que doble su volumen (aproximadamente 1 hora).",
-        "accesorio": "Cuchillas",
+        "accesorio": "Ninguno",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -464,7 +464,7 @@
       {
         "paso_numero": 7,
         "instruccion": "Precalentamos el horno a 180º.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Ninguno",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -484,7 +484,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "9dca345c-8ea5-47b4-ab97-7d850f402fb3",
+    "id": "67c300bc-2915-406b-969c-d809df24da7e",
     "slug": "crema-de-calabaza",
     "titulo": "Crema de calabaza",
     "descripcion": "Receta de Crema de calabaza adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -546,7 +546,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "fed5747c-61b5-4724-bea5-4583e58173ef",
+    "id": "3f70e3a7-4aac-4126-94d7-777b34b77a8a",
     "slug": "fantasmitas-de-merengue",
     "titulo": "Fantasmitas de merengue",
     "descripcion": "Receta de Fantasmitas de merengue adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -566,7 +566,7 @@
       {
         "paso_numero": 1,
         "instruccion": "Precalentamos el horno a 120º.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Ninguno",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -602,7 +602,7 @@
       {
         "paso_numero": 5,
         "instruccion": "Destapamos el vaso y colocamos la mezcla en una manga pastelera. Preparamos una bandeja de horno con papel vegetal o lámina de silicona.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Ninguno",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -631,7 +631,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "0b4c116f-aeb4-41e4-b5ac-68308d488a7e",
+    "id": "7bba2e6e-61fc-4f8e-808f-2df4aac0a8e9",
     "slug": "halloween-tarta-de-aranas",
     "titulo": "Halloween Tarta de arañas",
     "descripcion": "Receta de Halloween Tarta de arañas adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -662,7 +662,7 @@
       {
         "paso_numero": 1,
         "instruccion": "Precalentamos el horno a 180º y engrasamos un molde desmoldable con mantequilla.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Ninguno",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -707,7 +707,7 @@
       {
         "paso_numero": 6,
         "instruccion": "Echamos esta mezcla en el molde que previamente hemos engrasado y metemos al horno y dejamos que se haga durante 50-60 minutos (dependiendo del horno), a 180º. Antes de sacarlo, comprobamos que está hecho pinchando con un palillo para ver si sale seco.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Ninguno",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -725,7 +725,7 @@
       {
         "paso_numero": 8,
         "instruccion": "Echamos el aceite en el vaso y lo calentamos 4 minutos, 80º, velocidad 1. Ponemos dentro el chocolate y programamos 1 minuto, 80º, velocidad 2. Nos aseguramos que quede como una crema líquida, sino ponemos otros 30 segundos a velocidad 3 para emulsionar. Lo echamos sobre la tarta cubriendola bien, ayudándonos de una espátula decoramos de chocolate también los lados.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Pala MamboMix",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 4,
@@ -743,7 +743,7 @@
       {
         "paso_numero": 10,
         "instruccion": "Cuando este derretido el chocolate blanco sacamos la bolsita de plastico, le hacemos un pequeño agujerito cortando una esquina de la bolsa con la tijera y ya tenemos una especie de lápiz de chocolate blanco para poder pintar sobre la tarta. Comenzamos haciendo la tela de araña, después para elaborar el cartel de “Happy Halloween” utilizamos una rebanada de pan de molde. La bañamos con chocolate negro y una vez que esté seco escribimos las letras y lo sujetamos en la tarta apoyándolo en dos barquillos.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Pala MamboMix",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -772,7 +772,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "2338b2d0-3fab-46c6-9a5a-1bb3eca21563",
+    "id": "650ffe12-bbb2-4125-8d8c-32c860e58df3",
     "slug": "coliflor-con-salchichas-y-salsa-de-queso",
     "titulo": "Coliflor con salchichas y salsa de queso",
     "descripcion": "Receta de Coliflor con salchichas y salsa de queso adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -860,7 +860,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "23d2f447-92f6-401c-9e8b-8460c3557578",
+    "id": "21d58dc0-aa14-4f65-8429-77ba9187fa7f",
     "slug": "brownie",
     "titulo": "Brownie",
     "descripcion": "Receta de Brownie adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -883,7 +883,7 @@
       {
         "paso_numero": 1,
         "instruccion": "Precalentamos el horno a 180º.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Ninguno",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -937,7 +937,7 @@
       {
         "paso_numero": 7,
         "instruccion": "Al sacarlo del horno, todavía calentito pero con cuidado de no quemarnos, volcamos el brownie y le hacemos los cortes con un cuchillo que corte bien y lo vamos colocando dándole la vuelta a los trozos en la bandeja que vayamos a presentarlo.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Ninguno",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -957,7 +957,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "b635bd32-a867-44d6-93ec-667f5e3e0b49",
+    "id": "6d05aefb-6639-4a46-a68c-d81303eed632",
     "slug": "crema-de-calabacines",
     "titulo": "Crema de calabacines",
     "descripcion": "Receta de Crema de calabacines adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -1008,7 +1008,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "3af196e7-793f-4ab6-ba82-2aad62b3d6e9",
+    "id": "06685dc1-19f4-42ec-a5a2-734bed2d890b",
     "slug": "tarta-de-arroz-con-leche",
     "titulo": "Tarta de Arroz con Leche",
     "descripcion": "Receta de Tarta de Arroz con Leche adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -1089,7 +1089,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "9f9b62e6-1dc6-400b-8af9-39a653088258",
+    "id": "ffa3d36b-2415-467b-bb96-cdcb6d85e478",
     "slug": "crema-de-espinacas",
     "titulo": "Crema de espinacas",
     "descripcion": "Receta de Crema de espinacas adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -1131,7 +1131,7 @@
         "paso_numero": 3,
         "instruccion": "Añadir los 15 g de aceite y pochar el puerro durante 5 minutos, 100º a velocidad cuchara.",
         "accesorio": "Pala MamboMix",
-        "velocidad": 1,
+        "velocidad": 2,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
         "tiempo_minutos": 5
@@ -1148,7 +1148,7 @@
       {
         "paso_numero": 5,
         "instruccion": "Cubrir las verduras con el agua. Añadir un cucharada o ½ pastilla de caldo deshidratado de carne o verduras.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Pala MamboMix",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -1175,8 +1175,8 @@
       {
         "paso_numero": 8,
         "instruccion": "Cuando la máquina pite, abrir el vaso y separar una parte del agua de cocción. Reservar por si queremos la crema más ligera.",
-        "accesorio": "Cuchillas",
-        "velocidad": 1,
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
         "temperatura_c": 100,
         "potencia_calorifica": 4,
         "tiempo_minutos": 8
@@ -1185,7 +1185,7 @@
         "paso_numero": 9,
         "instruccion": "Dejar que la temperatura baje, por lo menos, a 90 y batir durante 1 minuto a velocidad progresiva 7-10.",
         "accesorio": "Cuchillas",
-        "velocidad": 1,
+        "velocidad": 6,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
         "tiempo_minutos": 1
@@ -1193,7 +1193,7 @@
       {
         "paso_numero": 10,
         "instruccion": "Comprobar la densidad de la crema. Si nos gusta más ligera verter un poco del caldo reservado y mezclar durante 10 segundos a velocidad 4.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Pala MamboMix",
         "velocidad": 4,
         "temperatura_c": 100,
         "potencia_calorifica": 4,
@@ -1213,7 +1213,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "e86d7679-594b-473a-97fc-f07340e602c6",
+    "id": "4ee368c3-32fa-47cc-8709-bf9fc4a3e518",
     "slug": "bocaditos-de-nata",
     "titulo": "Bocaditos de Nata",
     "descripcion": "Receta de Bocaditos de Nata adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -1238,7 +1238,7 @@
       {
         "paso_numero": 1,
         "instruccion": "Lo primero precalentamos el horno a 180º.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Ninguno",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -1256,7 +1256,7 @@
       {
         "paso_numero": 3,
         "instruccion": "Vertemos en el vaso de la thermomix, la leche, el agua, la mantequilla, la sal y el azúcar. Programamos 5 minutos a 90º y velocidad 2.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Pala MamboMix",
         "velocidad": 2,
         "temperatura_c": 100,
         "potencia_calorifica": 4,
@@ -1283,7 +1283,7 @@
       {
         "paso_numero": 6,
         "instruccion": "Ponemos la pasta en una manga pastelera de boquilla rizada grande y vamos colocando las porciones en la bandeja de horno sobre papel vegetal y horneamos unos 30 minutos.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Ninguno",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -1302,7 +1302,7 @@
         "paso_numero": 8,
         "instruccion": "Para montar bien la nata, el vaso de la termomix tendrá que estar bien limpio y muy frío. Podemos meterlo en la nevera un rato, o sino podemos picar algo de hielo y secarlo con papel de cocina con cuidado.",
         "accesorio": "Cuchillas",
-        "velocidad": 1,
+        "velocidad": 6,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
         "tiempo_minutos": 10
@@ -1348,7 +1348,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "fca2c135-4f0e-46d0-9d5f-fd4663894559",
+    "id": "8442eb29-318e-4795-83df-2fb4a73f2b26",
     "slug": "crema-catalana",
     "titulo": "Crema catalana",
     "descripcion": "Receta de Crema catalana adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -1368,7 +1368,7 @@
       {
         "paso_numero": 1,
         "instruccion": "Ponemos la leche y la canela, en el vaso y programa 10 minutos, 100º, velocidad 1. Colamos y reservamos.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Pala MamboMix",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 4,
@@ -1377,7 +1377,7 @@
       {
         "paso_numero": 2,
         "instruccion": "Colocamos la mariposa en las cuchillas, ponemos en el vaso los huevos, el azúcar y la harina, programamos 15 segundos, velocidad 3 1/2, luego programamos 12 minutos, 90º, velocidad 2. Transcurridos 2 minutos de la programación, quitamos el cubilete de la tapa y añadimos poco a poco la leche por el vocal.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Pala MamboMix",
         "velocidad": 3,
         "temperatura_c": 100,
         "potencia_calorifica": 4,
@@ -1386,8 +1386,8 @@
       {
         "paso_numero": 3,
         "instruccion": "Vertemos la crema en cuencos de barro o similar y dejamos enfriar, y metemos en la nevera.",
-        "accesorio": "Cuchillas",
-        "velocidad": 1,
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
         "temperatura_c": 100,
         "potencia_calorifica": 4,
         "tiempo_minutos": 10
@@ -1406,7 +1406,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "377d5b91-4dbe-4879-90bd-0f5d4f4f26c1",
+    "id": "897010f6-3d7b-4a98-9377-7bf05afe20da",
     "slug": "graten-de-boniato",
     "titulo": "Gratén de Boniato",
     "descripcion": "Receta de Gratén de Boniato adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -1447,7 +1447,7 @@
       {
         "paso_numero": 3,
         "instruccion": "Precalentar el horno a 170º.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Ninguno",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -1510,7 +1510,7 @@
       {
         "paso_numero": 10,
         "instruccion": "Introducir en el horno durante 10 minutos a 170º. Transcurrido el tiempo comprobar con un pincho que está bien hecho por dentro. Y terminar dándole un gratinado superior durante 4 minutos.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Ninguno",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -1530,7 +1530,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "3cf33230-965f-47dd-9846-ae83a08ab9ea",
+    "id": "f28a3f11-0dad-4d52-a733-416e3b0be439",
     "slug": "bizcocho-de-leche-desnatada",
     "titulo": "Bizcocho de leche desnatada",
     "descripcion": "Receta de Bizcocho de leche desnatada adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -1553,7 +1553,7 @@
       {
         "paso_numero": 1,
         "instruccion": "Precalentamos el horno a 180º",
-        "accesorio": "Cuchillas",
+        "accesorio": "Ninguno",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -1571,7 +1571,7 @@
       {
         "paso_numero": 3,
         "instruccion": "Añadimos por el bocal, los huevos, el aceite y la leche. Programamos 30 segundos, velocidad 7.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Pala MamboMix",
         "velocidad": 7,
         "temperatura_c": 100,
         "potencia_calorifica": 4,
@@ -1609,7 +1609,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "0f798421-3e16-480d-aea7-d4d2ce429d0c",
+    "id": "88ef5065-d5cc-475d-bc4b-bc38dd06ea57",
     "slug": "pitufeando-una-tarta",
     "titulo": "Pitufeando una tarta",
     "descripcion": "Receta de Pitufeando una tarta adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -1668,7 +1668,7 @@
       {
         "paso_numero": 5,
         "instruccion": "Ponemos las nubes y la leche en el vaso 5 minutos, temperatura 90, velocidad 2. Comprobamos que se han deshecho.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Pala MamboMix",
         "velocidad": 2,
         "temperatura_c": 100,
         "potencia_calorifica": 4,
@@ -1686,8 +1686,8 @@
       {
         "paso_numero": 7,
         "instruccion": "Lo ponemos en un bol y dejamos que temple sin que llegue a cuajar (textura crema)",
-        "accesorio": "Cuchillas",
-        "velocidad": 1,
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
         "temperatura_c": 100,
         "potencia_calorifica": 4,
         "tiempo_minutos": 10
@@ -1715,7 +1715,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "707a4048-a4c5-49e8-bbd6-8d080d5c6f74",
+    "id": "ceb59068-a58d-45cb-93e0-a06f40084803",
     "slug": "frapuccino-de-caramelo",
     "titulo": "Frapuccino de Caramelo",
     "descripcion": "Receta de Frapuccino de Caramelo adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -1738,8 +1738,8 @@
       {
         "paso_numero": 1,
         "instruccion": "Ponemos en el vaso la leche, los hielos, el azúcar y las gotas de aroma de vainilla. Programamos 1 minuto, velocidad progresiva 5-10. Cuando le faltan unos 10 segundos para terminar, retiramos el cubilete y echamos el sirope de caramelo para que al caer el propio movimiento ayude a moverlo y que no se pegue abajo.",
-        "accesorio": "Cuchillas",
-        "velocidad": 1,
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
         "temperatura_c": 100,
         "potencia_calorifica": 4,
         "tiempo_minutos": 1
@@ -1758,7 +1758,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "5aced524-8c32-4791-b8d4-167982b1c12a",
+    "id": "e5b6d5ff-8d93-48dd-be54-ffa584e202f3",
     "slug": "migas",
     "titulo": "Migas",
     "descripcion": "Receta de Migas adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -1779,7 +1779,7 @@
       {
         "paso_numero": 1,
         "instruccion": "Troceamos el pan velocidad 4, durante unos 5 segundos (aproximadamente), lo ponemos en un bol, humedecemos el pan ligeramente, pero sólo un poco para que no se apelmace y reservamos.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Pala MamboMix",
         "velocidad": 4,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -1862,7 +1862,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "8996dd68-7f5b-49fa-bd94-adbb4c92f804",
+    "id": "a296cba8-25c4-4edc-85b2-dd47a0f2675f",
     "slug": "caracolas-de-lubina-rellenas-con-salsa-de-cava-y-azafran",
     "titulo": "Caracolas de lubina rellenas con salsa de cava y azafrán",
     "descripcion": "Receta de Caracolas de lubina rellenas con salsa de cava y azafrán adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -1905,7 +1905,7 @@
       {
         "paso_numero": 2,
         "instruccion": "Comenzaremos preparando el caldo de pescado. En una olla express o en una olla tradicional, ponemos las cabezas y las espinas de la lubina, el agua, el laurel, el perejil, un chorrito de aceite de oliva y la sal. Si usamos olla express, lo tendremos unos 10-15 minutos a máxima potencia. Si usamos una olla tradicional lo dejaremos unos 30 minutos. Cuando termine el tiempo, colamos el caldo y lo reservamos.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Pala MamboMix",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -1932,7 +1932,7 @@
       {
         "paso_numero": 5,
         "instruccion": "Los filetes de lubina los cortamos por la mitad a lo largo (de tal forma que de cada filete nos salgan dos ¿esto se entiende? Pensad que tenéis que rellenarlos, así que queremos piezas largas y estrechas. Mirad las fotos. Los salpimentamos y con una cucharilla vamos poniendo un poquito de relleno sobre el filete. No los rellenéis demasiado. Los enrollaremos empezando por la cola, la parte más estrecha. No os preocupéis si se os va cayendo el relleno porque una vez que estén enrollados, les pondremos ese relleno por encima. Para cerrarlos, tendréis que utilizar palillos, así no se nos abrirán en el horno. Cuesta un poco traspasar la piel de la lubina con el palillo, así que paciencia, un pelín de fuerza y maña (clavad los palillos en diagonal).",
-        "accesorio": "Cuchillas",
+        "accesorio": "Ninguno",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -1941,7 +1941,7 @@
       {
         "paso_numero": 6,
         "instruccion": "Precalentamos el horno a 200º. En una fuente de horno echamos un chorrito de aceite de oliva. Vamos colocando las caracolas y les ponemos por encima lo que se les haya caído mientras los rellenábamos y si nos ha sobrado algo del relleno, lo repartimos por encima de todas las caracolas. Les echamos por encima un chorrito de aceite. Introducimos en el horno a 200º durante 15 minutos. Cuando termine el tiempo, los dejamos dentro del horno (con el horno apagado) hasta que tengamos la salsa lista. Así se nos mantendrán calentitos.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Ninguno",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -1950,7 +1950,7 @@
       {
         "paso_numero": 7,
         "instruccion": "Mientras tenemos las caracolas en el horno vamos a preparar la salsa de cava y azafrán. Introducimos el puerro y el aceite y trituramos 5 segundos, velocidad 5. Bajamos los restos del vaso y la tapa y programamos 10 minutos, velocidad 1, temperatura varoma.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Ninguno",
         "velocidad": 5,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -1959,7 +1959,7 @@
       {
         "paso_numero": 8,
         "instruccion": "Incorporamos el cava, el caldo de pescado que teníamos reservado, la sal y el azafrán. Programamos 12 minutos, velocidad 1, temperatura varoma.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Pala MamboMix",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -1988,7 +1988,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "39ff5996-7a8b-4aa3-a527-155da0e57933",
+    "id": "036d4af6-24e5-4b78-950a-20c638765e38",
     "slug": "turron-de-chocolate-con-pistachos",
     "titulo": "Turrón de Chocolate con Pistachos",
     "descripcion": "Receta de Turrón de Chocolate con Pistachos adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -2045,7 +2045,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "68c95ab5-c907-4681-b594-7a76eab8b47a",
+    "id": "6bfcafa2-56e1-4d7b-894f-50bd517fdc8f",
     "slug": "toffees",
     "titulo": "Toffees",
     "descripcion": "Receta de Toffees adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -2073,7 +2073,7 @@
       {
         "paso_numero": 2,
         "instruccion": "Añade la leche condensada y programa 20 minutos, temperatura Varoma, velocidad 3, no pongas el cubilete para facilitar la evaporación, y la masa no coja mucha agua.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Pala MamboMix",
         "velocidad": 3,
         "temperatura_c": 100,
         "potencia_calorifica": 4,
@@ -2102,7 +2102,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "6a24fa35-ab4b-4aa5-8b32-45e3abaf9f8e",
+    "id": "52df5a53-ebee-4649-b154-74c82296f13b",
     "slug": "galletas-de-navidad",
     "titulo": "Galletas de Navidad",
     "descripcion": "Receta de Galletas de Navidad adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -2164,7 +2164,7 @@
       {
         "paso_numero": 5,
         "instruccion": "Dejar reposar en la nevera otros 30 minutos. Mientras precalentar el horno a 160º.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Ninguno",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -2173,7 +2173,7 @@
       {
         "paso_numero": 6,
         "instruccion": "Una vez transcurrido el tiempo hornear las galletas, a la misma temperatura, entre 10 y 15 minutos. Hasta que los bordes se doren. El tiempo variará dependiendo del horno, del tamaño de las galletas…",
-        "accesorio": "Cuchillas",
+        "accesorio": "Ninguno",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -2182,7 +2182,7 @@
       {
         "paso_numero": 7,
         "instruccion": "Cuando las galletas ya estén cocidas, sacarlas del horno y dejarlas en la bandeja durante 5 minutos. Después pasarlas con cuidado a una rejilla para que se enfríen completamente.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Ninguno",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -2238,7 +2238,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "905f2870-cb9c-4bbc-9afb-b15fdf0fa867",
+    "id": "663a0bc9-b66e-4e8c-93f6-c554de8c4e81",
     "slug": "paletillas-de-lechal-en-el-varoma",
     "titulo": "Paletillas de Lechal en el Varoma",
     "descripcion": "Receta de Paletillas de Lechal en el Varoma adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -2290,7 +2290,7 @@
       {
         "paso_numero": 4,
         "instruccion": "Cuando termine el tiempo programado, abrimos la tapa del recipiente Varoma hacia el lado opuesto a nosotros, para evitar quemarnos con el vapor y damos la vuelta a la bolsa con el cordero. Ponemos 150 g más de agua en el vaso y programamos nuevamente 60 minutos, temperatura Varoma, velocidad 1.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Ninguno",
         "velocidad": 1,
         "temperatura_c": 120,
         "potencia_calorifica": 9,
@@ -2299,7 +2299,7 @@
       {
         "paso_numero": 5,
         "instruccion": "Precaliente el horno a 200º.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Ninguno",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -2319,7 +2319,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "1ffe2d3e-b099-4003-b702-e067d646cc36",
+    "id": "bef827b3-c7ab-4bbe-a7df-2604cf94105b",
     "slug": "crema-de-whisky-baileys",
     "titulo": "Crema de whisky “Baileys”",
     "descripcion": "Receta de Crema de whisky “Baileys” adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -2368,7 +2368,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "dcd83300-bc12-4f80-9b21-7028540f8ba2",
+    "id": "b3efe560-2d33-4107-a133-92f187e51e5a",
     "slug": "pastel-de-salmon",
     "titulo": "Pastel de Salmón",
     "descripcion": "Receta de Pastel de Salmón adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -2424,7 +2424,7 @@
       {
         "paso_numero": 4,
         "instruccion": "Remojar el pan en leche, escurrir y reservar.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Pala MamboMix",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 4,
@@ -2442,7 +2442,7 @@
       {
         "paso_numero": 6,
         "instruccion": "Transcurrido el tiempo de cocción. Retirar el Varoma con mucho cuidado y dejar escurrir las verduras. Retirar también el agua y, sin lavar, el vaso añadir el salmón, el queso, la miga de pan reservada, la mantequilla fundida, ralladura de limón, el eneldo y el licor. Salpimentar teniendo cuidado ya que el salmón suele ser salado. Mezclarlo todo programando 1 minutos, velocidad 3.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Pala MamboMix",
         "velocidad": 3,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -2489,7 +2489,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "28cf1fbe-81d9-47d0-836f-33ebe53ed8e9",
+    "id": "58f68f8e-551c-4cb7-9e9e-e83ce2a31724",
     "slug": "tartaletas-de-champinones",
     "titulo": "Tartaletas de champiñones",
     "descripcion": "Receta de Tartaletas de champiñones adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -2542,7 +2542,7 @@
       {
         "paso_numero": 4,
         "instruccion": "Precalentamos el horno a 180º.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Ninguno",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -2589,7 +2589,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "a4cc290d-cd2f-4908-8bde-0e095cb8632c",
+    "id": "12f1b53f-fbae-4255-9771-4630015891b7",
     "slug": "marquesas",
     "titulo": "Marquesas",
     "descripcion": "Receta de Marquesas adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -2628,7 +2628,7 @@
       {
         "paso_numero": 3,
         "instruccion": "Rellenamos los moldes, algo más que si fueran magdalenas pues no suben tanto al no llevar levadura. Bajamos el horno a 180º y horneamos durante 15 minutos.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Ninguno",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -2637,7 +2637,7 @@
       {
         "paso_numero": 4,
         "instruccion": "Sacamos del horno y cuando estén totalmente frías las espolvoreamos con azúcar glas y las colocamos cuidadosamente en una bandeja para presentarlas.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Ninguno",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -2648,7 +2648,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "8a4b6da7-6fdf-4d42-b906-525882d8ef43",
+    "id": "912d8c66-2ff2-49c2-98ad-158deffb9eca",
     "slug": "peras-al-vino-con-crema-de-queso",
     "titulo": "Peras al vino con crema de queso",
     "descripcion": "Receta de Peras al vino con crema de queso adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -2700,7 +2700,7 @@
       {
         "paso_numero": 4,
         "instruccion": "Pon los ingredientes de la crema en el vaso, programamos 15 segundos a velocidad 4. Retiramos la crema.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Pala MamboMix",
         "velocidad": 4,
         "temperatura_c": 100,
         "potencia_calorifica": 4,
@@ -2709,8 +2709,8 @@
       {
         "paso_numero": 5,
         "instruccion": "Para servir, ponemos la crema en un plato o copa grande, cortar la pera en rodajas y las colocamos sobre la crema y regamos con un poco del almíbar de macerar las peras.",
-        "accesorio": "Cuchillas",
-        "velocidad": 1,
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
         "temperatura_c": 100,
         "potencia_calorifica": 4,
         "tiempo_minutos": 10
@@ -2720,7 +2720,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "0661f6e5-0ada-4358-a3f7-f5289fda1399",
+    "id": "9fc199d0-88a8-4b10-990c-d1c256e13100",
     "slug": "pudin-parfait-de-navidad",
     "titulo": "Pudín Parfait de Navidad",
     "descripcion": "Receta de Pudín Parfait de Navidad adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -2746,7 +2746,7 @@
       {
         "paso_numero": 1,
         "instruccion": "Forrar un molde rectangular con film transparente. Se puede utilizar el model de hacer plum cake o pan de molde. Reservar.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Pala MamboMix",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -2774,7 +2774,7 @@
         "paso_numero": 4,
         "instruccion": "Poner las uvas y las ciruelas pasas, la cucharita de especias, la ralladura y el zumo de naranja y las dos cucharadas de Oporto en el vaso. Programar durante 5 minutos, 90º, velocidad cuchara y giro a la izquierda para que las frutas se hinchen con el líquido.",
         "accesorio": "Pala MamboMix",
-        "velocidad": 1,
+        "velocidad": 5,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
         "tiempo_minutos": 5
@@ -2847,7 +2847,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "d4da2b2d-ea6f-4ef0-a48a-c162d1f309fa",
+    "id": "ded72b10-79f2-46be-a828-2007c822cd1f",
     "slug": "risotto-de-esparragos-y-gambas",
     "titulo": "Risotto de espárragos y gambas",
     "descripcion": "Receta de Risotto de espárragos y gambas adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -2902,7 +2902,7 @@
         "paso_numero": 4,
         "instruccion": "Agregamos el sobre de azafrán molido, el vino blanco y caldo hirviendo (yo lo calenté muy bien en el microondas, pero podéis ponerlo al fuego también). Programamos 16 minutos, temperatura 100º, giro a la izquierda y velocidad cuchara.",
         "accesorio": "Pala MamboMix",
-        "velocidad": 1,
+        "velocidad": 0,
         "temperatura_c": 100,
         "potencia_calorifica": 9,
         "tiempo_minutos": 13
@@ -2939,7 +2939,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "0bbc4ce1-c665-4a45-beac-bf7d05798d85",
+    "id": "e7f7353e-bc95-4546-a5e2-bbf98728205f",
     "slug": "besugo-con-guarnicion",
     "titulo": "Besugo con guarnición",
     "descripcion": "Receta de Besugo con guarnición adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -2995,7 +2995,7 @@
       {
         "paso_numero": 4,
         "instruccion": "Forramos el recipiente Varoma con papel de hornear humedecido y escurrido. Ponemos dentro, por capas la cebolla y el tomate. Colocamos encima los trozos de besugo salpimentado, los ajos, la guindilla, el limón y espolvoree el besugo con pan rallado. Regamos el conjunto con el aceite reservado de las patatas.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Pala MamboMix",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -3013,7 +3013,7 @@
       {
         "paso_numero": 6,
         "instruccion": "Precalentamos el horno a 180º.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Ninguno",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -3022,7 +3022,7 @@
       {
         "paso_numero": 7,
         "instruccion": "En una fuente de crstal apta para el horno colocamos las patatas y los pimientos del cestillo. Distribuya por encima el contenido del papel del recipiente Varoma y regamos con el caldo que queda.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Ninguno",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -3031,7 +3031,7 @@
       {
         "paso_numero": 8,
         "instruccion": "Introducimos en el horno y gratinamos durante 10 minutos o hasta que quede dorado. Servimos inmediatamente.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Ninguno",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -3042,7 +3042,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "f4b22761-acca-4fbf-b6c1-ac35ab0dc783",
+    "id": "c4c3ca1f-dd6f-4ac1-ab5d-059576ce5a72",
     "slug": "cardo-de-navidad",
     "titulo": "Cardo de Navidad",
     "descripcion": "Receta de Cardo de Navidad adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -3100,7 +3100,7 @@
       {
         "paso_numero": 5,
         "instruccion": "Añadir la leche y el caldo, salpimentar y programar 11 minutos, 100º, velocidad 4.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Pala MamboMix",
         "velocidad": 4,
         "temperatura_c": 100,
         "potencia_calorifica": 4,
@@ -3109,7 +3109,7 @@
       {
         "paso_numero": 6,
         "instruccion": "Colocar las pencas en una bandeja y verter la mezcla sobre ellas. Rallar un poquito de nuez moscada o macis por encima. Gratinar en el horno o microondas durante unos minutos.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Ninguno",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -3129,7 +3129,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "de1230c7-52ab-460c-b829-664793cfe851",
+    "id": "91e73da9-fc33-4f96-81f9-fa809f858d26",
     "slug": "tronco-de-salmon-y-puerros",
     "titulo": "Tronco de salmón y puerros",
     "descripcion": "Receta de Tronco de salmón y puerros adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -3180,7 +3180,7 @@
       {
         "paso_numero": 4,
         "instruccion": "Colocamos en la bandeja de horno papel especial de horno y echamos por encima la masa del bizcocho extendiéndola muy bien por toda la bandeja.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Ninguno",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -3189,7 +3189,7 @@
       {
         "paso_numero": 5,
         "instruccion": "Metemos en el horno, que habíamos encendido al principio para que se precaliente, a 200º unos 8 o 10 minutos (dependerá de cada horno). No debe tostarse por encima porque si no, se nos romperá cuando lo doblemos. Debe estar justo recién hecho, pero no dorado, así que nos toca estar muy pendientes estos 10 minutos. Cuando ya hayan pasado unos 8 minutos, lo abrimos y tocamos la superficie del bizcocho. Si está hecho, no se pegará nada a nuestros dedos.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Ninguno",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -3225,7 +3225,7 @@
       {
         "paso_numero": 9,
         "instruccion": "papel de horno.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Ninguno",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -3234,7 +3234,7 @@
       {
         "paso_numero": 10,
         "instruccion": "Enrollamos la plancha de bizcocho sobre sí misma (sin hacer demasiada presión para que no se rompa) y la envolvemos con el papel de horno que hemos utilizado y después sobre el paño húmedo. Lo dejamos bien liado hasta que se enfríe.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Ninguno",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -3299,7 +3299,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "0b408148-b66a-4dc0-9dfe-9ffdb3e96bf4",
+    "id": "424770df-e271-4a96-8b50-cc3c5fcd438c",
     "slug": "lomo-de-cerdo-relleno",
     "titulo": "Lomo de cerdo relleno",
     "descripcion": "Receta de Lomo de cerdo relleno adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -3386,7 +3386,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "63a73d1b-c9ed-460f-9dc3-706f5464a386",
+    "id": "b82be52a-4029-4933-a5c3-415cf3157cd2",
     "slug": "tarta-chocolate-con-nueces",
     "titulo": "Tarta chocolate con nueces",
     "descripcion": "Receta de Tarta chocolate con nueces adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -3445,7 +3445,7 @@
       {
         "paso_numero": 5,
         "instruccion": "Precalentar el horno a 180º de temperatura.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Ninguno",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -3499,7 +3499,7 @@
       {
         "paso_numero": 11,
         "instruccion": "A continuación, programar 30 segundos a velocidad 5-10 progresiva hasta obtener una crema homogénea.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Pala MamboMix",
         "velocidad": 5,
         "temperatura_c": 100,
         "potencia_calorifica": 4,
@@ -3535,8 +3535,8 @@
       {
         "paso_numero": 15,
         "instruccion": "Cubrir la base de bizcocho con la crema de chocolate.",
-        "accesorio": "Cuchillas",
-        "velocidad": 1,
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
         "temperatura_c": 100,
         "potencia_calorifica": 4,
         "tiempo_minutos": 10
@@ -3546,7 +3546,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "72a8ac1d-355b-48ca-9e72-99aa26204328",
+    "id": "c1466f9d-a9f8-40fb-a332-264379c17306",
     "slug": "crema-de-marisco-navidena",
     "titulo": "Crema de marisco navideña",
     "descripcion": "Receta de Crema de marisco navideña adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -3710,7 +3710,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "a08aa87e-5ae8-48f6-b142-109a43e705ca",
+    "id": "a3fd2279-c185-406c-9d93-f99b3254c7d8",
     "slug": "zumo-florida",
     "titulo": "Zumo Florida",
     "descripcion": "Receta de Zumo Florida adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -3770,7 +3770,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "ee9f9976-78a5-4d59-a585-3f9aaefbf118",
+    "id": "a6187a94-6ea9-4f44-973c-185af322cacc",
     "slug": "tarta-de-queso-con-turron-de-chocolate",
     "titulo": "Tarta de Queso con Turrón de Chocolate",
     "descripcion": "Receta de Tarta de Queso con Turrón de Chocolate adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -3791,7 +3791,7 @@
       {
         "paso_numero": 1,
         "instruccion": "Precalienta el horno a 200º. Untar con mantequilla un molde de horno.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Ninguno",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -3818,7 +3818,7 @@
       {
         "paso_numero": 4,
         "instruccion": "Introduce el molde en el horno y baja la temperatura a 180º durante 30 minutos. Comprobar si está hecho con una aguja o palillo, que debe salir limpio (yo utilizo un palillo de pinchito de acero).",
-        "accesorio": "Cuchillas",
+        "accesorio": "Ninguno",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -3838,7 +3838,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "9bf55e6f-a708-4f00-9658-bfef34bd47cc",
+    "id": "e7c6050c-e0c9-4b45-9b2c-f03f378a1ecc",
     "slug": "veloute-de-calabaza",
     "titulo": "Velouté de Calabaza",
     "descripcion": "Receta de Velouté de Calabaza adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -3891,7 +3891,7 @@
         "paso_numero": 4,
         "instruccion": "Añadirlas a la cebolla cuando esté ya transparente. Rehogar todo junto durante 2 minutos, 100º y velocidad .",
         "accesorio": "Cuchillas",
-        "velocidad": 1,
+        "velocidad": 2,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
         "tiempo_minutos": 2
@@ -3899,7 +3899,7 @@
       {
         "paso_numero": 5,
         "instruccion": "A continuación añadir el caldo y dejar cocer durante 20 minutos, 100º, velocidad 1. Si veis que la calabaza aún está dura se puede dejar cocer otros 5 minutos, a la misma temperatura y velocidad.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Pala MamboMix",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -3926,7 +3926,7 @@
       {
         "paso_numero": 8,
         "instruccion": "Bajar la crema hacia las cuchillas, añadir la nata y rectificar de sal. Remover durante 15 segundos a velocidad 2.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Pala MamboMix",
         "velocidad": 2,
         "temperatura_c": 100,
         "potencia_calorifica": 4,
@@ -3946,7 +3946,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "69ddd9fe-1653-4bb6-9b36-50b8e7df324d",
+    "id": "d9cc29a3-6af2-4ce3-a01d-4e259822517d",
     "slug": "huevos-de-codorniz-con-salsa-de-pesto",
     "titulo": "Huevos de codorniz con salsa de pesto",
     "descripcion": "Receta de Huevos de codorniz con salsa de pesto adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -3980,8 +3980,8 @@
       {
         "paso_numero": 2,
         "instruccion": "Sacamos inmediatamente el cestillo (con ayuda de la espátula y con cuidado de no quemarnos con el vapor que sale del vaso) y ponemos los huevos en un recipiente con agua fría.",
-        "accesorio": "Cuchillas",
-        "velocidad": 1,
+        "accesorio": "Ninguno",
+        "velocidad": 0,
         "temperatura_c": 120,
         "potencia_calorifica": 9,
         "tiempo_minutos": 8
@@ -4027,7 +4027,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "1454a58d-7a2e-4cf7-a46c-c7803c1df506",
+    "id": "0f7347ab-1c47-4c18-8470-947878f50345",
     "slug": "gulas-a-la-bilbaina",
     "titulo": "Gulas a la Bilbaína",
     "descripcion": "Receta de Gulas a la Bilbaína adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -4047,7 +4047,7 @@
       {
         "paso_numero": 1,
         "instruccion": "Precalentamos en el horno una cazuela de barro.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Ninguno",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -4094,7 +4094,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "01ee12f8-04a2-4bdf-bbc6-3421755447fa",
+    "id": "78860241-10ef-4de6-b2d3-fb552c37a03e",
     "slug": "espinacas-con-garbanzos",
     "titulo": "Espinacas con garbanzos",
     "descripcion": "Receta de Espinacas con garbanzos adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -4127,7 +4127,7 @@
       {
         "paso_numero": 2,
         "instruccion": "Echamos los ajos y el pan, programamos 12 minutos temperatura Varoma, velocidad 1.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Pala MamboMix",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -4165,7 +4165,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "b0386fbc-8d9b-4172-9e76-9a4da9a4ebdf",
+    "id": "d726ec1c-0501-4856-9ffe-b4aad43d0cef",
     "slug": "rollo-de-carne-con-huevo-duro",
     "titulo": "Rollo de Carne con Huevo Duro",
     "descripcion": "Receta de Rollo de Carne con Huevo Duro adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -4195,7 +4195,7 @@
       {
         "paso_numero": 1,
         "instruccion": "Quitarle la corteza al pan y remojarlo en leche.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Pala MamboMix",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 4,
@@ -4204,7 +4204,7 @@
       {
         "paso_numero": 2,
         "instruccion": "Precalentar el horno a 175º.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Ninguno",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -4231,7 +4231,7 @@
       {
         "paso_numero": 5,
         "instruccion": "Añadir los 15 g de aceite y sofreír durante 5 minutos, 100º velocidad 1. Mientras escurrir la miga de pan.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Pala MamboMix",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -4240,7 +4240,7 @@
       {
         "paso_numero": 6,
         "instruccion": "Transcurrido el tiempo añadir la carne y la miga de pan escurrida. Salpimentar, añadir la salsa Perrins, el vino blanco, el perejil, el cebollino y el huevo. Mezclar todo durante 30 segundos, velocidad 4.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Pala MamboMix",
         "velocidad": 4,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -4287,7 +4287,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "a13567f8-0b2a-4c66-9507-d421a7baea74",
+    "id": "90c0d85a-5747-4fd1-ae22-6a6488a6e7f5",
     "slug": "rulo-de-cabra-a-la-plancha-con-mermelada-de-tomate",
     "titulo": "Rulo de cabra a la plancha con mermelada de tomate",
     "descripcion": "Receta de Rulo de cabra a la plancha con mermelada de tomate adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -4308,7 +4308,7 @@
         "paso_numero": 1,
         "instruccion": "Primero tenemos que pelar los tomates. Para ello, ponemos agua a hervir en un cazo, lavamos los tomates y les hacemos una cruz con un cuchillo en el culo. Cuando empiece a hervir el agua, retiramos del fuego, introducimos los tomates y los dejamos dentro unos 2-3 minutos. Los pasamos por agua fría, escurrimos y ya podemos pelarlos fácilmente.",
         "accesorio": "Cuchillas",
-        "velocidad": 1,
+        "velocidad": 0,
         "temperatura_c": 100,
         "potencia_calorifica": 9,
         "tiempo_minutos": 2
@@ -4363,7 +4363,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "e403973d-342d-4b86-91d1-ea920621da49",
+    "id": "067392cb-d7fc-4581-8599-f79cf622618d",
     "slug": "lasana-de-acelgas-con-jamon-serrano",
     "titulo": "Lasaña de acelgas con jamón serrano",
     "descripcion": "Receta de Lasaña de acelgas con jamón serrano adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -4426,7 +4426,7 @@
       {
         "paso_numero": 5,
         "instruccion": "Precalentamos el horno a 180º.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Ninguno",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -4435,7 +4435,7 @@
       {
         "paso_numero": 6,
         "instruccion": "Acto seguido ponemos en el vaso, todos los ingredientes de la bechamel y programamos 7 minutos, a 100º, velocidad 4.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Pala MamboMix",
         "velocidad": 4,
         "temperatura_c": 100,
         "potencia_calorifica": 4,
@@ -4444,8 +4444,8 @@
       {
         "paso_numero": 7,
         "instruccion": "Ponemos en una fuente, previamente untada de mantequilla, una capa de láminas de pasta, cubrimos con acelgas, láminas de jamón serrano y un poquito de bechamel. Repetimos la misma operación hasta terminar con una capa de láminas, que cubriremos con la mayor cantidad de bechamel, espolvoreándole el queso rallado.",
-        "accesorio": "Cuchillas",
-        "velocidad": 1,
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
         "temperatura_c": 100,
         "potencia_calorifica": 4,
         "tiempo_minutos": 10
@@ -4453,7 +4453,7 @@
       {
         "paso_numero": 8,
         "instruccion": "Horneamos 20 minutos, con el horno precalentado a 180º, después gratinamos hasta obtener un bonito color dorado.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Ninguno",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -4464,7 +4464,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "dc3503c1-2240-4d65-8e89-bf6c841eddfd",
+    "id": "242a6d93-6105-4abe-83f1-a87aef435d6b",
     "slug": "tarta-piruleta",
     "titulo": "Tarta piruleta",
     "descripcion": "Receta de Tarta piruleta adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -4562,7 +4562,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "33eeb45f-a23b-4c3b-8be6-f9fc1b2f7815",
+    "id": "867be81d-cb74-4bd0-93c8-00a3764671e9",
     "slug": "crema-de-judias-verdes",
     "titulo": "Crema de judías verdes",
     "descripcion": "Receta de Crema de judías verdes adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -4594,7 +4594,7 @@
         "paso_numero": 2,
         "instruccion": "Añadir el aceite y rehogar durante 6 minutos, 100º a velocidad cuchara.",
         "accesorio": "Pala MamboMix",
-        "velocidad": 1,
+        "velocidad": 2,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
         "tiempo_minutos": 6
@@ -4602,7 +4602,7 @@
       {
         "paso_numero": 3,
         "instruccion": "Mientras pelar y trocear la patata. Lavar las judías verdes, despuntarlas y trocearlas. Y pelar los dientes de ajo.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Pala MamboMix",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -4620,7 +4620,7 @@
       {
         "paso_numero": 5,
         "instruccion": "Después agregar las judías verdes, salpimentar y cubrir con el caldo de verduras. Dejar cocer durante 35 minutos a 100º y velocidad 2.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Pala MamboMix",
         "velocidad": 2,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -4638,10 +4638,10 @@
       {
         "paso_numero": 7,
         "instruccion": "Nuestra máquina tritura todo perfectamente pero si queremos podemos pasar la crema por el chino para evitar posibles hilos de las judías. Rectificar de sal.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Pala MamboMix",
         "velocidad": 1,
         "temperatura_c": 100,
-        "potencia_calorifica": 4,
+        "potencia_calorifica": 5,
         "tiempo_minutos": 10
       },
       {
@@ -4658,7 +4658,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "1f716b4f-8610-4938-8749-b60da1b7e95b",
+    "id": "9932081f-4b6e-4f8c-8cd1-9d9991e7fb80",
     "slug": "pasta-con-salsa-de-tomate-casera-esparragos-y-atun",
     "titulo": "Pasta con salsa de tomate casera, espárragos y atún",
     "descripcion": "Receta de Pasta con salsa de tomate casera, espárragos y atún adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -4779,7 +4779,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "5d5dacce-d283-4f1f-956a-446bd58fe5ee",
+    "id": "d05273c4-d9a9-4818-81df-bf061758cd92",
     "slug": "plum-cake-de-manzanas-y-caramelo",
     "titulo": "Plum cake de manzanas y caramelo",
     "descripcion": "Receta de Plum cake de manzanas y caramelo adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -4809,7 +4809,7 @@
       {
         "paso_numero": 1,
         "instruccion": "Precalentamos el horno a 180º calor arriba y abajo.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Ninguno",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -4819,7 +4819,7 @@
         "paso_numero": 2,
         "instruccion": "Untamos con caramelo el fondo y las paredes de un molde de plum-cake 25 x 12 x 7 cm. A continuación lo cubrimos con láminas de manzana rociadas con una cucharada de zumo de limón.",
         "accesorio": "Cuchillas",
-        "velocidad": 1,
+        "velocidad": 5,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
         "tiempo_minutos": 10
@@ -4899,7 +4899,7 @@
       {
         "paso_numero": 11,
         "instruccion": "Introducimos en el horno durante 40 o 45 minutos a 180º. Desmoldamos en caliente. Dejamos enfriar y servimos.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Ninguno",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -4910,7 +4910,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "76db5657-0a0d-4fe7-a973-68d5598b8f89",
+    "id": "daa302ca-6500-46d0-80c4-a71b07a708a3",
     "slug": "polea-espolea-o-gachas-dulces",
     "titulo": "Poleá (Espoleá o Gachas dulces)",
     "descripcion": "Receta de Poleá (Espoleá o Gachas dulces) adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -4951,7 +4951,7 @@
       {
         "paso_numero": 3,
         "instruccion": "Volvemos a echar en el vaso y añadimos, el azúcar, la harina y la leche. Programamos 10 minutos, temperatura 100º, velocidad 3 1/2.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Pala MamboMix",
         "velocidad": 3,
         "temperatura_c": 100,
         "potencia_calorifica": 4,
@@ -4960,7 +4960,7 @@
       {
         "paso_numero": 4,
         "instruccion": "Se sirven con canela por encima y acompañamos de pan frito.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Pala MamboMix",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -4980,7 +4980,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "ce51fdeb-a15f-4366-bed4-4192e8a68161",
+    "id": "41d29fed-7c51-40be-933d-99e6dfae1742",
     "slug": "pudin-de-bizcocho-genoves",
     "titulo": "Pudin de Bizcocho Genovés",
     "descripcion": "Receta de Pudin de Bizcocho Genovés adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -5011,7 +5011,7 @@
       {
         "paso_numero": 2,
         "instruccion": "Poner la leche y el azúcar en el vaso, programar 2 minutos a 90º y velocidad 2. Añadir los recortes del bizcocho genovés y mezclarlos con la leche programando 30 segundos, velocidad 3. Verter la mezcla en un recipiente y reservar.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Pala MamboMix",
         "velocidad": 2,
         "temperatura_c": 100,
         "potencia_calorifica": 4,
@@ -5029,7 +5029,7 @@
       {
         "paso_numero": 4,
         "instruccion": "Incorporar la mezcla de leche y bizcocho que teníamos reservado. Mezclar durante 10 segundos a velocidad 3.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Pala MamboMix",
         "velocidad": 3,
         "temperatura_c": 100,
         "potencia_calorifica": 4,
@@ -5076,7 +5076,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "b54d17e8-f4dd-464d-aeb4-ca80064138f7",
+    "id": "6ca3055d-8f40-42b6-923f-4776c2e11653",
     "slug": "truchas-asalmonadas-con-patatas",
     "titulo": "Truchas asalmonadas con patatas",
     "descripcion": "Receta de Truchas asalmonadas con patatas adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -5109,7 +5109,7 @@
       {
         "paso_numero": 2,
         "instruccion": "Sin lavar el vaso, ponemos la mariposa en las cuchillas, echamos los 100 g de agua y 100 g de aceite y el avecrem (o caldo de carne casero) y programamos 4 minutos, temperatura varoma y velocidad 1.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Pala MamboMix",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -5136,7 +5136,7 @@
       {
         "paso_numero": 5,
         "instruccion": "Con el horno precalentado a 180 º, ponemos en una bandeja de horno la cama de patatas y cebolla que teníamos en el vaso con su caldo correspondiente. El caldo sólo debe ser un poco, en ningún caso debe cubrir las patatas (digamos que les llegue por un poquito menos de la mitad). Añadimos por encima el vino blanco y colocamos las truchas limpias encima y espolvoreamos con perejil.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Ninguno",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -5145,7 +5145,7 @@
       {
         "paso_numero": 6,
         "instruccion": "Metemos al horno a 180º durante 15 minutos.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Ninguno",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -5156,7 +5156,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "4336752e-5d89-4342-bdd3-968ff5e5b5ef",
+    "id": "f5a6dcaa-3338-4e16-88cf-3dd7efe07974",
     "slug": "mousse-de-yogur-griego-y-queso",
     "titulo": "Mousse de yogur griego y queso",
     "descripcion": "Receta de Mousse de yogur griego y queso adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -5214,7 +5214,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "89222b5c-aa4e-49a7-b7be-c9db8f8f00a2",
+    "id": "cc6b1da6-dfb8-4f80-adcd-513a2b5f59f8",
     "slug": "guisantes-con-jamon-y-tomate",
     "titulo": "Guisantes con Jamón y Tomate",
     "descripcion": "Receta de Guisantes con Jamón y Tomate adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -5301,7 +5301,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "5c550b6b-083e-4fa9-a5eb-9beff490dc17",
+    "id": "a459e39c-8b52-492b-98e2-a55ba1d8f997",
     "slug": "potaje-de-lentejas-light",
     "titulo": "Potaje de lentejas light",
     "descripcion": "Receta de Potaje de lentejas light adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -5379,7 +5379,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "88aecd50-d4a2-4a37-909e-482c15cd132e",
+    "id": "9e25e4a4-bd18-48b9-bf42-0a71790af526",
     "slug": "pastel-golosina-de-frutos-secos",
     "titulo": "Pastel golosina de frutos secos",
     "descripcion": "Receta de Pastel golosina de frutos secos adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -5436,7 +5436,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "25280169-dba6-4059-94fb-b41df9ac9fbb",
+    "id": "efc774d7-ea81-4053-a7da-f54c7b54206e",
     "slug": "salsa-china",
     "titulo": "Salsa china",
     "descripcion": "Receta de Salsa china adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -5467,7 +5467,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "fc67a7ef-d766-4444-9418-7d7318ca9872",
+    "id": "0a82d37e-8f44-4d72-af24-f282ebe312db",
     "slug": "tomates-rellenos",
     "titulo": "Tomates rellenos",
     "descripcion": "Receta de Tomates rellenos adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -5489,7 +5489,7 @@
       {
         "paso_numero": 1,
         "instruccion": "Preparamos un molde para horno y echamos el aceite de la lata de atún y lo extendemos bien (así no se pegarán los tomates cuando los cocinemos en el horno).",
-        "accesorio": "Cuchillas",
+        "accesorio": "Ninguno",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -5498,7 +5498,7 @@
       {
         "paso_numero": 2,
         "instruccion": "Lavamos los tomates y los secamos. Les quitamos el tallo y vaciamos su contenido con la ayuda de un sacabolas o una cucharilla. Los dejamos bocabajo sobre papel absorbente para que escurran bien. Por lo menos hay que dejarlos 30 minutos, porque si no, cuando los cocinemos nos soltará demasiada agua. (Lo que quitamos del tomate lo guardamos en un bote y luego lo podemos utilizar para una ensalada, para cocinar, para untar encima de pan, etc).",
-        "accesorio": "Cuchillas",
+        "accesorio": "Pala MamboMix",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -5525,7 +5525,7 @@
       {
         "paso_numero": 5,
         "instruccion": "Los metemos al horno 10 minutos a 180º o hasta que el queso esté dorado.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Ninguno",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -5536,7 +5536,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "29dbd8ec-73cc-463a-90f0-abe0e184e89d",
+    "id": "65fa95c6-dd14-4b32-a128-79ddd849337c",
     "slug": "risotto-al-limon-y-al-romero",
     "titulo": "Risotto al Limón y al Romero",
     "descripcion": "Receta de Risotto al Limón y al Romero adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -5617,7 +5617,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "4a9f73c3-9674-4b2d-a151-4c183c229c6e",
+    "id": "c8897515-084e-43b8-b19b-b835c1b15b6f",
     "slug": "tartitas-de-manzana-con-natillas",
     "titulo": "Tartitas de manzana con natillas",
     "descripcion": "Receta de Tartitas de manzana con natillas adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -5642,7 +5642,7 @@
       {
         "paso_numero": 1,
         "instruccion": "Precalentamos el horno a 180º",
-        "accesorio": "Cuchillas",
+        "accesorio": "Ninguno",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -5670,7 +5670,7 @@
         "paso_numero": 4,
         "instruccion": "Añade 2 cucharadas de natillas en cada hojaldre, cubre con unas láminas de manzana peladas, pinta con el huevo batido y espolvorea con azúcar y canela.",
         "accesorio": "Cuchillas",
-        "velocidad": 1,
+        "velocidad": 5,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
         "tiempo_minutos": 10
@@ -5678,7 +5678,7 @@
       {
         "paso_numero": 5,
         "instruccion": "Introducimos en el horno durante unos 30 minutos aproximadamente.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Ninguno",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -5689,7 +5689,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "5820edfe-4a30-475b-a921-7393d3ad174a",
+    "id": "3bcbf99f-ec6f-4447-adbf-5ded5bbb0c16",
     "slug": "macarrones-bolonesa-al-toque-turco",
     "titulo": "Macarrones boloñesa al toque turco",
     "descripcion": "Receta de Macarrones boloñesa al toque turco adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -5826,7 +5826,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "08619a3b-f480-4ff8-a30f-5f6fa01af06b",
+    "id": "b9b2dfe0-bb77-43c5-8cba-056d746c4a43",
     "slug": "crema-de-cebolla-con-patata",
     "titulo": "Crema de cebolla con patata",
     "descripcion": "Receta de Crema de cebolla con patata adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -5922,7 +5922,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "7d7f9eb9-5a2b-4f22-bd79-eebab1e45b31",
+    "id": "0c9258bc-b3c6-4fd0-af90-3e34d4c9de98",
     "slug": "flan-de-platano",
     "titulo": "Flan de Plátano",
     "descripcion": "Receta de Flan de Plátano adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -5971,7 +5971,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "1c641fe3-e6cc-41ea-988d-8094aef2cf23",
+    "id": "ca11983f-1b8b-47ae-83b6-087a8923530f",
     "slug": "pastel-de-patata-y-verduras",
     "titulo": "Pastel de patata y verduras",
     "descripcion": "Receta de Pastel de patata y verduras adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -6007,7 +6007,7 @@
       {
         "paso_numero": 2,
         "instruccion": "Pelar y lavar la patata. Cortarla en trozos pequeños e introducirlos en el vaso. Añadir el agua y la leche. Programar 10 minutos a 100º y velocidad 1.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Pala MamboMix",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 4,
@@ -6052,7 +6052,7 @@
       {
         "paso_numero": 7,
         "instruccion": "Precalentar el horno a 200º.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Ninguno",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -6071,7 +6071,7 @@
         "paso_numero": 9,
         "instruccion": "En una fuente refractaria colocar la mitad del puré de patata, encima colocar todo el relleno de espinacas y panceta. Terminar con otra capa de puré de patata. Espolvorear el queso rallado y colocar los 10 g de mantequilla restantes en pequeños botones por encima. Hornear, a la misma temperatura, durante 10-15 minutos o hasta que la superficie tome un color dorado",
         "accesorio": "Cuchillas",
-        "velocidad": 1,
+        "velocidad": 5,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
         "tiempo_minutos": 15
@@ -6081,7 +6081,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "91318022-f08c-403d-a6ab-34f5187d1415",
+    "id": "5cd57231-45ad-4917-b6af-ca7b89120a09",
     "slug": "risotto-afumicatto",
     "titulo": "Risotto afumicatto",
     "descripcion": "Receta de Risotto afumicatto adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -6169,11 +6169,11 @@
       {
         "paso_numero": 8,
         "instruccion": "Ponga en una fuente el arroz, incorpore la mantequilla y el queso (reservando un poco para espolvorear al final). Es importante que esto lo hagáis en una fuente y no en el vaso de la thermomix porque si no, se os enredará todo el queso fundido entre las cuchillas (como me pasó a mí).",
-        "accesorio": "Cuchillas",
+        "accesorio": "Pala MamboMix",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
-        "tiempo_minutos": 18
+        "tiempo_minutos": 10
       },
       {
         "paso_numero": 9,
@@ -6189,7 +6189,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "794b3ad2-fae9-40fa-bac9-68026655d3e3",
+    "id": "a54c0954-f00e-4364-ab48-6ce9153e14b0",
     "slug": "pizza-de-champinones-al-ajillo",
     "titulo": "Pizza de champiñones al ajillo",
     "descripcion": "Receta de Pizza de champiñones al ajillo adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -6212,7 +6212,7 @@
       {
         "paso_numero": 1,
         "instruccion": "Precalienta el horno a 200º.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Ninguno",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -6230,7 +6230,7 @@
       {
         "paso_numero": 3,
         "instruccion": "Prepara la base de pizza. Espolvorea la mozzarella, vierte el preparado de champiñones. Cocina en horno caliente 8 minutos a 200º. Sirve bien caliente con parmesano rallado por encima y unos dientes de ajo fritos.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Ninguno",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -6241,7 +6241,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "c128794a-f772-4ed2-bc75-56e8b118e77f",
+    "id": "8f60a24d-b5db-419d-bcfb-935c55ca7ffd",
     "slug": "bistec-de-mesopotamia",
     "titulo": "Bistec de Mesopotamia",
     "descripcion": "Receta de Bistec de Mesopotamia adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -6334,7 +6334,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "e08835b5-779d-431d-abab-d9df374d8520",
+    "id": "93d2a181-3074-4945-99f3-82b18e6cb905",
     "slug": "crema-de-calabaza-y-manzana-con-queso",
     "titulo": "Crema de Calabaza y Manzana con Queso",
     "descripcion": "Receta de Crema de Calabaza y Manzana con Queso adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -6360,7 +6360,7 @@
       {
         "paso_numero": 1,
         "instruccion": "Primero tendremos que preparar la calabaza para ello precalentaremos el horno a 175º.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Ninguno",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -6369,8 +6369,8 @@
       {
         "paso_numero": 2,
         "instruccion": "Si la calabaza está entera habrá que partirla a la mitad. Después retirar las semillas y colocarla en una fuente de horno, de cristal o cerámica, con la pulpa hacia abajo o la piel hacia arriba, que viene a ser lo mismo.",
-        "accesorio": "Cuchillas",
-        "velocidad": 1,
+        "accesorio": "Ninguno",
+        "velocidad": 0,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
         "tiempo_minutos": 10
@@ -6423,7 +6423,7 @@
       {
         "paso_numero": 8,
         "instruccion": "Finalizado el tiempo agregar la pulpa de calabaza reservada y cubrir con el caldo de verduras. Salpimentarlo y programar 20 minutos, 100º a velocidad 1.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Pala MamboMix",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -6442,7 +6442,7 @@
         "paso_numero": 10,
         "instruccion": "Calentar el queso con la nata en el microondas pero sin que llegue a hervir. Mezclar bien para que los ingredientes queden integrados.",
         "accesorio": "Cuchillas",
-        "velocidad": 1,
+        "velocidad": 0,
         "temperatura_c": 100,
         "potencia_calorifica": 9,
         "tiempo_minutos": 8
@@ -6461,7 +6461,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "c890cba4-c06b-4ca7-abfd-a84bd4403080",
+    "id": "f19cf5c1-0a37-4141-804e-8a245c984c93",
     "slug": "dalky",
     "titulo": "Dalky",
     "descripcion": "Receta de Dalky adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -6481,8 +6481,8 @@
       {
         "paso_numero": 1,
         "instruccion": "Introducimos en el vaso todos los ingredientes menos el vaso de leche.",
-        "accesorio": "Cuchillas",
-        "velocidad": 1,
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
         "temperatura_c": 100,
         "potencia_calorifica": 4,
         "tiempo_minutos": 10
@@ -6499,7 +6499,7 @@
       {
         "paso_numero": 3,
         "instruccion": "Luego añadimos el vaso de leche, volvemos a programar 2 minutos 90º velocidad 9. A los 15 segundos bajamos a velocidad 4.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Pala MamboMix",
         "velocidad": 9,
         "temperatura_c": 100,
         "potencia_calorifica": 4,
@@ -6519,7 +6519,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "5ba7e569-3256-4925-8dbd-4f26105edc47",
+    "id": "d64056f4-d975-40c3-8c2d-684c271285d8",
     "slug": "crema-de-zanahoria-y-mozzarella",
     "titulo": "Crema de zanahoria y mozzarella",
     "descripcion": "Receta de Crema de zanahoria y mozzarella adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -6544,7 +6544,7 @@
       {
         "paso_numero": 1,
         "instruccion": "Echamos las zanahorias y la patata cortadas en trozos, en el vaso. Trituramos 10 segundos, a velocidad 5. Bajamos los restos que hayan quedado en las paredes y añadimos el puerro en trozos, la pastilla de caldo, el agua y el aceite. Programamos [b]25 minutos, temperatura 90º y velocidad 2.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Pala MamboMix",
         "velocidad": 5,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -6609,7 +6609,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "4c9537cb-0c34-4ff1-a789-87a6096602ea",
+    "id": "53d1bc79-b228-4020-8a98-b831f97a4e99",
     "slug": "guiso-de-pavo",
     "titulo": "Guiso de Pavo",
     "descripcion": "Receta de Guiso de Pavo adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -6708,7 +6708,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "8223e944-f7fb-4935-9449-1fc2571c1d3d",
+    "id": "b62536ab-f475-4edc-967c-fea4ab918d5e",
     "slug": "tartan-san-valentin",
     "titulo": "Tartan San Valentín",
     "descripcion": "Receta de Tartan San Valentín adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -6767,7 +6767,7 @@
       {
         "paso_numero": 4,
         "instruccion": "Precalentamos el horno a 180º",
-        "accesorio": "Cuchillas",
+        "accesorio": "Ninguno",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -6859,7 +6859,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "e9de71a7-0fad-46b7-9b38-667aa785c7a1",
+    "id": "1bb0450a-9a53-4e2e-b842-40503006173f",
     "slug": "coliflor-sorpresa",
     "titulo": "Coliflor sorpresa",
     "descripcion": "Receta de Coliflor sorpresa adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -6907,7 +6907,7 @@
       {
         "paso_numero": 4,
         "instruccion": "En una fuente amplia y bajita (apta para horno) vamos colocando los ramilletes de coliflor y les echamos una pizca de sal. Colocamos trozos de pechuga de pavo escondidos por los ramilletes (yo los iba cortaba con la mano). Cubrimos con una capa gruesa de mayonesa y espolvoreamos con queso rallado.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Ninguno",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -6916,7 +6916,7 @@
       {
         "paso_numero": 5,
         "instruccion": "Introducimos en el horno a 200º hasta que esté fundido el queso y un poquito dorado.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Ninguno",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -6936,7 +6936,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "4ea448a6-705b-4ad9-b306-c59fc87050e6",
+    "id": "a4fb81c3-16ce-4659-8eb0-f5f2a4ea6be2",
     "slug": "hojaldres-de-san-valentin",
     "titulo": "Hojaldres de San Valentín",
     "descripcion": "Receta de Hojaldres de San Valentín adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -6976,7 +6976,7 @@
       {
         "paso_numero": 3,
         "instruccion": "Precalentar el horno a 180º.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Ninguno",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -6995,7 +6995,7 @@
         "paso_numero": 5,
         "instruccion": "Pincelarlos con el huevo batido y colocarles un corazón de pimiento morrón hecho con un cortagalletas con forma de corazón pequeño",
         "accesorio": "Cuchillas",
-        "velocidad": 1,
+        "velocidad": 5,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
         "tiempo_minutos": 10
@@ -7023,7 +7023,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "28de2399-e5ad-4623-8c1b-b35a5db29f07",
+    "id": "1d601520-8e64-4ea3-8dde-f708dadc156b",
     "slug": "doowaps",
     "titulo": "Doowaps",
     "descripcion": "Receta de Doowaps adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -7056,7 +7056,7 @@
       {
         "paso_numero": 2,
         "instruccion": "Pon la leche en el vaso junto a la levadura y programa 3 minutos, 37º, velocidad 3.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Pala MamboMix",
         "velocidad": 3,
         "temperatura_c": 100,
         "potencia_calorifica": 4,
@@ -7066,7 +7066,7 @@
         "paso_numero": 3,
         "instruccion": "Agrega el aceite, la yema, vainilla, harina, azúcar, sal, programa 3 minutos, vaso cerrado, velocidad espiga.",
         "accesorio": "Cuchillas",
-        "velocidad": 1,
+        "velocidad": 2,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
         "tiempo_minutos": 3
@@ -7092,7 +7092,7 @@
       {
         "paso_numero": 6,
         "instruccion": "Colócalos en la bandeja del horno con papel vegetal, tapa con un trapo y deja reposar de nuevo hasta que doble el volumen.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Ninguno",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -7102,7 +7102,7 @@
         "paso_numero": 7,
         "instruccion": "Pinta con huevo batido. Ponlos en el horno precalentado a 180º unos 10 minutos. Hasta que se vean doraditos.",
         "accesorio": "Cuchillas",
-        "velocidad": 1,
+        "velocidad": 5,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
         "tiempo_minutos": 10
@@ -7112,7 +7112,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "5976b282-e76a-4a88-ac03-8ffd6f357e79",
+    "id": "ed59d212-f238-4246-bd37-4361919c5650",
     "slug": "pasta-ai-funghi",
     "titulo": "Pasta ai funghi",
     "descripcion": "Receta de Pasta ai funghi adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -7202,7 +7202,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "a66a018a-d60d-4884-932f-d2ae0ab031e4",
+    "id": "857fa01f-e0e9-4f06-afa1-aa06eeea37c1",
     "slug": "crema-de-guisantes",
     "titulo": "Crema de Guisantes",
     "descripcion": "Receta de Crema de Guisantes adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -7228,7 +7228,7 @@
         "paso_numero": 1,
         "instruccion": "Extender la lámina de hojaldre y cortar unas figuritas con los cortadores de galletas. Calcular 3 o 4 por comensal. Ponerlas en una bandeja del horno forrada con papel de hornear o similar. Pintarlas con el huevo batido y hornearlas durante 10-12 minutos en el horno, precalentado, a 200º.",
         "accesorio": "Cuchillas",
-        "velocidad": 1,
+        "velocidad": 5,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
         "tiempo_minutos": 12
@@ -7245,7 +7245,7 @@
       {
         "paso_numero": 3,
         "instruccion": "Pelar, lavar y trocear la patata. Añadirla al vaso junto con los guisantes. Cubrir con el caldo de verduras y cocer durante 15 minutos a 100º y velocidad 2.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Pala MamboMix",
         "velocidad": 2,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -7272,8 +7272,8 @@
       {
         "paso_numero": 6,
         "instruccion": "Distribuir la crema en dos platos o cuencos. Espolvorear unos granos de sésamo y colocar los adornos de hojaldre.",
-        "accesorio": "Cuchillas",
-        "velocidad": 1,
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
         "temperatura_c": 100,
         "potencia_calorifica": 4,
         "tiempo_minutos": 10
@@ -7283,7 +7283,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "6f7faf07-1d59-44b0-b19d-8f78e45545f5",
+    "id": "d39790c6-7a8c-4800-afe5-111258a404d7",
     "slug": "pastel-de-galletas-con-crema-de-galletas",
     "titulo": "Pastel de galletas con crema de galletas",
     "descripcion": "Receta de Pastel de galletas con crema de galletas adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -7312,7 +7312,7 @@
       {
         "paso_numero": 2,
         "instruccion": "Añadimos la leche condensada y el queso, batimos a velocidad 6 hasta que se haga una crema.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Pala MamboMix",
         "velocidad": 6,
         "temperatura_c": 100,
         "potencia_calorifica": 4,
@@ -7321,8 +7321,8 @@
       {
         "paso_numero": 3,
         "instruccion": "En un molde ponemos una capa de galletas ligeramente mojadas en leche, una capa de crema, otra de galletas. D dejando la última capa de crema.",
-        "accesorio": "Cuchillas",
-        "velocidad": 1,
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
         "temperatura_c": 100,
         "potencia_calorifica": 4,
         "tiempo_minutos": 10
@@ -7341,7 +7341,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "9846bf93-17bd-47e8-ac46-30c1c15320ae",
+    "id": "05098d7c-702e-4fd5-b711-fb64cbeaf160",
     "slug": "crema-de-coliflor",
     "titulo": "Crema de coliflor",
     "descripcion": "Receta de Crema de coliflor adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -7366,7 +7366,7 @@
       {
         "paso_numero": 1,
         "instruccion": "Sacamos los ramilletes de la coliflor. Pelamos y cortamos las patatas en trozos grandes. Lo ponemos en el vaso y lo cubrimos con agua (el agua tiene que sobre pasar 2 dedos por encima de las verduras). Añadimos el aceite, el caldo de carne casero/pastilla de avecrem, la pimienta y la nuez moscada.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Pala MamboMix",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -7384,7 +7384,7 @@
       {
         "paso_numero": 3,
         "instruccion": "Cuando termine el tiempo dejamos enfriar hasta que la temperatura llegue a 80º, añadimos los quesitos y trituramos 1 minuto, velocidad progresiva 5-7-10. Miramos cómo está de espeso, y si es así, añadimos un chorrito de leche y programamos 3 minutos, 90º, velocidad 3 1/2.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Pala MamboMix",
         "velocidad": 3,
         "temperatura_c": 100,
         "potencia_calorifica": 4,
@@ -7404,7 +7404,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "7257ea30-0bd8-4f40-b623-9685cf658a33",
+    "id": "6ec2a142-4e8e-4123-8917-080a5331802f",
     "slug": "flamenquines-con-guarnicion",
     "titulo": "Flamenquines con Guarnición",
     "descripcion": "Receta de Flamenquines con Guarnición adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -7438,7 +7438,7 @@
       {
         "paso_numero": 2,
         "instruccion": "Mientras tanto preparar los flamenquines. Estirar y aplanar los filetes de pollo, colocar encima lonchas de jamón serrano hasta cubrirlos. Enrollar y pinchar con un palillo para que no se abran. Pasarlos por pan rallado y freírlos en abundante aceite caliente. Una vez que estén dorados, retirarlos y dejarlos escurrir sobre papel absorbente.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Pala MamboMix",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -7476,7 +7476,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "a040f97e-6846-42b6-89ec-2ef6970fc3ae",
+    "id": "ec3188f7-5fb3-413c-b1f4-53f85ef98b55",
     "slug": "bizcocho-esponjoso-con-costra",
     "titulo": "Bizcocho esponjoso con costra",
     "descripcion": "Receta de Bizcocho esponjoso con costra adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -7497,7 +7497,7 @@
       {
         "paso_numero": 1,
         "instruccion": "Precalentamos el horno a 180º.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Ninguno",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -7551,7 +7551,7 @@
       {
         "paso_numero": 7,
         "instruccion": "Lo introducimos en el horno durante 30 minutos o hasta que al pincharlo el palito salga limpio.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Ninguno",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -7562,7 +7562,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "45704804-eea5-49a3-8a9e-075cd066e11f",
+    "id": "8b8ff20d-9b29-40e2-ac74-7142166927b6",
     "slug": "costillar-de-cerdo-con-salsa-barbacoa",
     "titulo": "Costillar de cerdo con salsa barbacoa",
     "descripcion": "Receta de Costillar de cerdo con salsa barbacoa adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -7596,8 +7596,8 @@
       {
         "paso_numero": 2,
         "instruccion": "Echamos sal y pimienta por los dos lados del costillar y lo colocamos en una fuente de horno. Le echamos la salsa por encima y untamos bien por todos los lados.",
-        "accesorio": "Cuchillas",
-        "velocidad": 1,
+        "accesorio": "Ninguno",
+        "velocidad": 0,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
         "tiempo_minutos": 10
@@ -7605,7 +7605,7 @@
       {
         "paso_numero": 3,
         "instruccion": "Cocinamos en el horno a 200º (si tenéis función de ventilador mejor porque así se reparte el calor de forma uniforme por todo el horno) durante 45 minutos. Encendemos el gratinador y las gratinamos por ambos lados unos 4-5 minutos o hasta que estén bien doradas.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Ninguno",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -7625,7 +7625,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "a1437dc1-ce36-4e54-9dda-3c673685ab0d",
+    "id": "a126734a-ae29-47d9-94d0-300a57390766",
     "slug": "pasta-con-champinones",
     "titulo": "Pasta con Champiñones",
     "descripcion": "Receta de Pasta con Champiñones adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -7714,7 +7714,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "6def6a1f-e68b-49e5-936a-a84c994af4d0",
+    "id": "cc84dc96-442c-456b-86ea-25622fe6d879",
     "slug": "tarta-melocoton",
     "titulo": "Tarta melocotón",
     "descripcion": "Receta de Tarta melocotón adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -7750,7 +7750,7 @@
       {
         "paso_numero": 2,
         "instruccion": "Pon todos los ingredientes de la crema pastelera y programa 6 minutos, 100º, velocidad 4. Retira del vaso y reserva en un bol.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Pala MamboMix",
         "velocidad": 4,
         "temperatura_c": 100,
         "potencia_calorifica": 4,
@@ -7759,8 +7759,8 @@
       {
         "paso_numero": 3,
         "instruccion": "Cubre con un film transparente pegado a la crema para que no forme corteza.",
-        "accesorio": "Cuchillas",
-        "velocidad": 1,
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
         "temperatura_c": 100,
         "potencia_calorifica": 4,
         "tiempo_minutos": 10
@@ -7795,8 +7795,8 @@
       {
         "paso_numero": 7,
         "instruccion": "Pincela con el almíbar y cubre con la crema de melocotón.",
-        "accesorio": "Cuchillas",
-        "velocidad": 1,
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
         "temperatura_c": 100,
         "potencia_calorifica": 4,
         "tiempo_minutos": 10
@@ -7804,8 +7804,8 @@
       {
         "paso_numero": 8,
         "instruccion": "Vuelve a colocar otra capa de sobaos (o placa de bizcocho), pincela con el almíbar y vierte la crema pastelera.",
-        "accesorio": "Cuchillas",
-        "velocidad": 1,
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
         "temperatura_c": 100,
         "potencia_calorifica": 4,
         "tiempo_minutos": 10
@@ -7842,7 +7842,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "2c496a32-4c5d-4dfa-a25e-308cb514554f",
+    "id": "cf337ffc-9168-4f2d-a0f3-c101714e68a0",
     "slug": "brocoli-y-calabaza-con-pure-de-patata",
     "titulo": "Brócoli y Calabaza con Puré de Patata",
     "descripcion": "Receta de Brócoli y Calabaza con Puré de Patata adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -7896,7 +7896,7 @@
         "paso_numero": 4,
         "instruccion": "Mientras mezclar en un cuenco la mostaza, el zumo de naranja y el aceite. Batir bien hasta que los ingredientes estén integrados.",
         "accesorio": "Cuchillas",
-        "velocidad": 1,
+        "velocidad": 6,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
         "tiempo_minutos": 10
@@ -7913,7 +7913,7 @@
       {
         "paso_numero": 6,
         "instruccion": "Retirar el agua y aclarar el vaso. Cortar las patatas en trozos pequeños e introducirlos en el vaso. Añadir el agua y la leche. Programar 10 minutos a 100º y velocidad 1.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Pala MamboMix",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 4,
@@ -7932,7 +7932,7 @@
         "paso_numero": 8,
         "instruccion": "Repartir el puré de patata en dos platos, acompañarlo de las verduras y aliñar todo con la vinagreta.",
         "accesorio": "Cuchillas",
-        "velocidad": 1,
+        "velocidad": 5,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
         "tiempo_minutos": 10
@@ -7951,7 +7951,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "31eab35e-dde1-43de-bf0c-9bea6493367c",
+    "id": "6e0cc3ab-057e-4715-b530-427f0b62a83f",
     "slug": "bacalao-con-mantequilla-de-citricos",
     "titulo": "Bacalao con mantequilla de cítricos",
     "descripcion": "Receta de Bacalao con mantequilla de cítricos adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -8040,7 +8040,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "4459499a-1a6b-4f7f-a09e-d60f0469bb4c",
+    "id": "f5bba585-2d0f-455f-bb22-0fe02cf8ea2a",
     "slug": "facilisima-tarta-de-manzana",
     "titulo": "Facilísima tarta de manzana",
     "descripcion": "Receta de Facilísima tarta de manzana adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -8063,7 +8063,7 @@
       {
         "paso_numero": 1,
         "instruccion": "Precalentamos el horno a 170º con calor arriba y abajo.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Ninguno",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -8099,7 +8099,7 @@
       {
         "paso_numero": 5,
         "instruccion": "Ponemos la mezcla en una fuente de horno previamente engrasada y decoramos con la manzana restante cortada en láminas finas.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Ninguno",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -8128,7 +8128,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "9e1d932f-5738-4716-b0d4-36421161841c",
+    "id": "4cc64816-0925-4aa8-b5e1-221697a672bb",
     "slug": "palitos-de-cangrejo-en-su-salsa",
     "titulo": "Palitos de cangrejo en su salsa",
     "descripcion": "Receta de Palitos de cangrejo en su salsa adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -8209,7 +8209,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "119ba755-289d-4f72-a8ec-15655a08b079",
+    "id": "f53be58f-9888-498c-b2f4-b42e15a9af7c",
     "slug": "ketchup",
     "titulo": "Ketchup",
     "descripcion": "Receta de Ketchup adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -8293,7 +8293,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "f605f2c4-8aae-4a7b-8a97-1efe89e50e8e",
+    "id": "27d45a83-4bb7-4db9-be77-88994c084f40",
     "slug": "dalky-de-fresa-natural",
     "titulo": "Dalky de fresa natural",
     "descripcion": "Receta de Dalky de fresa natural adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -8342,7 +8342,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "21280818-9f85-473e-b2bf-cb87685e2caa",
+    "id": "eef7822f-7bdf-45e7-a3bf-f4899af3cd37",
     "slug": "merluza-con-salsa-de-almendras",
     "titulo": "Merluza con salsa de almendras.",
     "descripcion": "Receta de Merluza con salsa de almendras. adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -8396,7 +8396,7 @@
       {
         "paso_numero": 4,
         "instruccion": "Añade el agua, vino, sal, perejil, pastilla caldo y las almendras, 10 segundos, velocidad 8.",
-        "accesorio": "Cuchillas",
+        "accesorio": "Pala MamboMix",
         "velocidad": 8,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
@@ -8425,7 +8425,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "4d466f4a-26e4-4d70-ad1e-3718c014deb4",
+    "id": "eda3668e-d07d-4f24-a150-f99f380a9929",
     "slug": "arroz-a-banda-con-ali-oli",
     "titulo": "Arroz a banda con ali oli",
     "descripcion": "Receta de Arroz a banda con ali oli adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -8497,7 +8497,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "e0e65d2f-e80c-4133-898f-6f9b72b5c85d",
+    "id": "b989d8c2-8f3d-4019-8b69-efdb014ac514",
     "slug": "estofado-de-cordero",
     "titulo": "Estofado de Cordero",
     "descripcion": "Receta de Estofado de Cordero adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -8595,7 +8595,7 @@
     "creado_en": "2026-08-11"
   },
   {
-    "id": "9fcfcbfa-0492-4823-9a8f-e854a98c0ff8",
+    "id": "68199c98-32e3-4dfd-96be-9452186604e7",
     "slug": "bizcocho-chocolate-y-pistachos",
     "titulo": "Bizcocho chocolate y pistachos",
     "descripcion": "Receta de Bizcocho chocolate y pistachos adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
@@ -8617,7 +8617,7 @@
       {
         "paso_numero": 1,
         "instruccion": "Precalentar el horno a 180º",
-        "accesorio": "Cuchillas",
+        "accesorio": "Ninguno",
         "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,

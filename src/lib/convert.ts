@@ -38,10 +38,11 @@ function inferCategory(text: string): string {
   const t = toLower(text);
 
   if (/\bvapor\b/.test(t)) return "vapor";
-  if (/\b(hervir|hervor|hirviendo|agua)\b/.test(t)) return "hervir";
-  if (/\b(pan|amasar|amasar)\b/.test(t)) return "amasar";
-  if (/\b(picar|triturar|turbo|velocidad turbo)\b/.test(t)) return "triturar";
+  if (/\b(hervir|hervor|hirviendo)\b/.test(t)) return "hervir";
+  if (/\b(pan|amasar)\b/.test(t)) return "amasar";
+  if (/\b(picar|triturar|turbo|velocidad turbo|batir|montar)\b/.test(t)) return "triturar";
   if (/\bsofrit[oa]|sofrire|rehogar|pochar\b/.test(t)) return "sofrito";
+  if (/\blenteja|garbanzo|judia|alubia|potaje\b/.test(t)) return "legumbres";
   if (/\bguiso|estofad[oa]|cald[oa]|brasas?\b/.test(t)) return "guiso";
   if (/\barroz|paella|risotto\b/.test(t)) return "arroz";
   if (/\bleche|bechamel|crema|natilla\b/.test(t)) return "lacteo";
@@ -53,20 +54,47 @@ function inferCategory(text: string): string {
 function mapAccesorio(text: string): MamboStep["accesorio"] {
   const t = toLower(text);
 
-  if (/\b(izquierda|giro a la izquierda|modo espiga|cuchara)\b/.test(t))
+  // Explícito: Modo Espiga / Giro a la izquierda / Cuchara → Pala MamboMix
+  if (/\b(izquierda|giro.*izquierda|modo espiga|cuchara)\b/.test(t))
     return "Pala MamboMix";
 
-  if (/\b(turbo|triturar|picar|licuado|batido|pure)\b/.test(t))
+  // Explícito: triturar / picar / turbo / licuado / batido → Cuchillas
+  if (/\b(turbo|triturar|picar|licuado|batido|pure|batir|montar)\b/.test(t))
     return "Cuchillas";
 
-  if (/\b(pala|mambo mix|mambomix)\b/.test(t)) return "Pala MamboMix";
+  // Explícito: pala / mambo mix → Pala MamboMix
+  if (/\b(pala|mambo.?mix)\b/.test(t)) return "Pala MamboMix";
 
+  // Explícito: sin accesorio / sin cuchilla → Ninguno
+  if (/\b(ninguna?|sin accesorio|sin cuchilla|horno)\b/.test(t))
+    return "Ninguno";
+
+  // Por categoría de cocción: guisos, arroces, lácteos → Pala MamboMix
+  const cat = inferCategory(t);
+  if (cat === "guiso" || cat === "arroz" || cat === "lacteo")
+    return "Pala MamboMix";
+
+  // Piezas grandes sin mover → Ninguno
+  if (/\b(pieza|enter[oa]|costillar|muslo|muslos|entero)\b/.test(t))
+    return "Ninguno";
+
+  // Vapor → generalmente sin accesorio (cestillo)
+  if (cat === "vapor") return "Ninguno";
+
+  // Amasar → Pala MamboMix
+  if (cat === "amasar") return "Pala MamboMix";
+
+  // Sofrito con cuchillas (para picar y sofreír)
+  if (cat === "sofrito") return "Cuchillas";
+
+  // Por defecto: Cuchillas (triturar, mezclar)
   return "Cuchillas";
 }
 
 function inferVelocidad(text: string): MamboStep["velocidad"] {
   const t = toLower(text);
 
+  // Velocidad explícita en el texto
   if (/\bvelocidad\s*(\d{1,2})\b/.test(t)) {
     const v = extractNumber(t, [/\bvelocidad\s*(\d{1,2})\b/]) ?? 2;
     return Math.min(10, Math.max(0, v));
@@ -79,15 +107,35 @@ function inferVelocidad(text: string): MamboStep["velocidad"] {
 
   if (/\bturbo\b/.test(t)) return "Turbo";
 
+  // Modo Espiga → Vel. 2
+  if (/\b(espiga|amasar)\b/.test(t)) return 2;
+
+  // Piezas grandes, guisos sin mover, vapor → Vel. 0
+  if (/\b(pieza|enter[oa]|costillar|muslo|muslos|sin mover|sin cuchilla|horno)\b/.test(t))
+    return 0;
+
   const cat = inferCategory(t);
 
-  if (cat === "triturar") return 6;
-  if (cat === "amasar") return "Espiga" as unknown as number; // normalize below
-  if (cat === "sofrito") return 2;
-  if (cat === "guiso") return 1;
-  if (cat === "arroz") return 1;
+  // Vapor → Vel. 0 (cestillo, no se mueven las cuchillas)
+  if (cat === "vapor") return 0;
+
+  // Guisos y arroces → Vel. 1 (Pala MamboMix lenta)
+  if (cat === "guiso" || cat === "arroz") return 1;
+
+  // Lácteos → Vel. 3 (remover suave)
   if (cat === "lacteo") return 3;
+
+  // Triturar → Vel. 6
+  if (cat === "triturar") return 6;
+
+  // Sofrito → Vel. 2 (Pala MamboMix o cuchillas lentas)
+  if (cat === "sofrito") return 2;
+
+  // Líquidos → Vel. 5
   if (cat === "liquido") return 5;
+
+  // Hervir → Vel. 0 (no se mueve nada)
+  if (cat === "hervir") return 0;
 
   return 1;
 }
@@ -105,12 +153,13 @@ function inferPotencia(text: string): MamboStep["potencia_calorifica"] {
 
   const cat = inferCategory(t);
 
-  if (cat === "vapor" || cat === "hervir") return 9;
-  if (cat === "sofrito") return 7;
-  if (cat === "guiso") return 5;
-  if (cat === "arroz") return 5;
-  if (cat === "lacteo") return 4;
-  if (cat === "amasar" || cat === "triturar" || cat === "liquido") return null;
+  if (cat === "vapor" || cat === "hervir") return 9;    // Hervir agua / vapor
+  if (cat === "sofrito") return 7;                       // Sofrito: 6-7
+  if (cat === "guiso") return 5;                         // Guisos: 4-5
+  if (cat === "arroz") return 5;                         // Arroces: 4-5
+  if (cat === "legumbres") return 5;                     // Legumbres: 4-5
+  if (cat === "lacteo") return 4;                        // Lácteos: 4-5
+  if (cat === "amasar" || cat === "triturar" || cat === "liquido") return null; // Sin calor
 
   return 5;
 }

@@ -246,22 +246,31 @@ function toLower(value: string): string {
 
 function inferCategory(text: string): string {
   const t = toLower(text);
-  if (/\bpasta\b/.test(t)) return "pasta";
   if (/\bvapor\b/.test(t)) return "vapor";
+  if (/\b(hervir|hervor|hirviendo)\b/.test(t)) return "hervir";
+  if (/\b(pan|amasar)\b/.test(t)) return "amasar";
+  if (/\b(picar|triturar|turbo|batir|montar)\b/.test(t)) return "triturar";
   if (/\bsofrit[oa]|rehogar|pochar\b/.test(t)) return "sofrito";
+  if (/\blenteja|garbanzo|judia|alubia|potaje\b/.test(t)) return "legumbres";
   if (/\bguiso|estofad[oa]|cald[oa]\b/.test(t)) return "guiso";
-  if (/\barroz|paella|risotto\b/.test(t)) return "arroces";
-  if (/\bleche|bechamel|crema|natilla\b/.test(t)) return "postres";
-  if (/\blicuado|batido|smoothie|zumo\b/.test(t)) return "bebidas";
-  if (/\bpan|amasar\b/.test(t)) return "panes-masas";
-  if (/\bpure\b/.test(t)) return "verduras";
+  if (/\barroz|paella|risotto\b/.test(t)) return "arroz";
+  if (/\bleche|bechamel|crema|natilla\b/.test(t)) return "lacteo";
+  if (/\blicuado|batido|smoothie|zumo|pure\b/.test(t)) return "liquido";
   return "general";
 }
 
 function mapAccesorio(text: string): MamboStep["accesorio"] {
   const t = toLower(text);
-  if (/\b(izquierda|giro a la izquierda|modo espiga|cuchara)\b/.test(t)) return "Pala MamboMix";
-  if (/\b(turbo|triturar|picar|licuado|batido|pure)\b/.test(t)) return "Cuchillas";
+  if (/\b(izquierda|giro.*izquierda|modo espiga|cuchara)\b/.test(t)) return "Pala MamboMix";
+  if (/\b(turbo|triturar|picar|licuado|batido|pure|batir|montar)\b/.test(t)) return "Cuchillas";
+  if (/\b(pala|mambo.?mix)\b/.test(t)) return "Pala MamboMix";
+  if (/\b(ninguna?|sin accesorio|sin cuchilla|horno)\b/.test(t)) return "Ninguno";
+  const cat = inferCategory(t);
+  if (cat === "guiso" || cat === "arroz" || cat === "lacteo" || cat === "legumbres") return "Pala MamboMix";
+  if (/\b(pieza|enter[oa]|costillar|muslo)\b/.test(t)) return "Ninguno";
+  if (cat === "vapor") return "Ninguno";
+  if (cat === "amasar") return "Pala MamboMix";
+  if (cat === "sofrito") return "Cuchillas";
   return "Cuchillas";
 }
 
@@ -270,6 +279,15 @@ function inferVelocidad(text: string): number | "Turbo" {
   const m = /\bvel(?:ocidad)?\.?\s*(\d{1,2})\b/.exec(t);
   if (m) return Math.min(10, Math.max(0, Number(m[1])));
   if (/\bturbo\b/.test(t)) return "Turbo";
+  if (/\b(espiga|amasar)\b/.test(t)) return 2;
+  if (/\b(pieza|enter[oa]|costillar|muslo)\b/.test(t)) return 0;
+  const cat = inferCategory(t);
+  if (cat === "vapor" || cat === "hervir") return 0;
+  if (cat === "guiso" || cat === "arroz" || cat === "legumbres") return 1;
+  if (cat === "lacteo") return 3;
+  if (cat === "triturar") return 6;
+  if (cat === "sofrito") return 2;
+  if (cat === "liquido") return 5;
   return 1;
 }
 
@@ -279,6 +297,7 @@ function inferPotencia(text: string): number {
   if (/\bsofrit[oa]\b/.test(t)) return 7;
   if (/\bguiso|estofad[oa]\b/.test(t)) return 5;
   if (/\barroz\b/.test(t)) return 5;
+  if (/\blenteja|garbanzo|judia|potaje\b/.test(t)) return 5;
   if (/\bleche|bechamel|crema\b/.test(t)) return 4;
   return 5;
 }
