@@ -53,7 +53,7 @@ export default function Home() {
                 sizes="(max-width: 1280px) 100vw, 1280px"
               />
             ) : (
-              <div className="w-full h-full bg-gray-200 flex items-center justify-center text-6xl">🍳</div>
+              <div className="w-full h-full flex items-center justify-center text-7xl" style={{ background: categoryColors[featured[0].categoria] ?? "#F5F5F5" }}>{categories.find((c) => c.slug === featured[0].categoria)?.icono ?? "🍽️"}</div>
             )}
             <div className="hero-overlay">
               <span className="inline-block self-start rounded-full px-3 py-1 text-xs font-semibold mb-3" style={{ background: "var(--color-accent)", color: "white" }}>
@@ -110,6 +110,19 @@ export default function Home() {
   );
 }
 
+const categoryColors: Record<string, string> = {
+  "sopas-y-cremas": "#FFF3E0",
+  arroces: "#FFF8E1",
+  carnes: "#FFEBEE",
+  pescados: "#E0F7FA",
+  postres: "#FCE4EC",
+  salsas: "#FFF9C4",
+  "panes-masas": "#EFEBE9",
+  verduras: "#E8F5E9",
+  bebidas: "#E3F2FD",
+  legumbres: "#F3E5F5",
+};
+
 function RecipeCard({ recipe }: { recipe: (typeof allRecipes)[0] }) {
   const cat = categories.find((c) => c.slug === recipe.categoria);
   return (
@@ -124,7 +137,7 @@ function RecipeCard({ recipe }: { recipe: (typeof allRecipes)[0] }) {
             sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
           />
         ) : (
-          <div className="flex items-center justify-center h-full text-4xl bg-gray-100">🍳</div>
+          <div className="flex items-center justify-center h-full text-5xl" style={{ background: categoryColors[recipe.categoria] ?? "#F5F5F5" }}>{cat?.icono ?? "🍽️"}</div>
         )}
         {cat && (
           <span className="category-badge">

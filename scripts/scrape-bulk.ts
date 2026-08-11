@@ -19,6 +19,7 @@ type ScrapedRecipe = {
   servings?: string;
   time?: string;
   instructions: string[];
+  image?: string;
 };
 
 type MamboStep = {
@@ -196,8 +197,20 @@ async function scrapeRecipe(url: string): Promise<ScrapedRecipe | null> {
                 .filter(Boolean)
             : [];
 
+          // Extract image from JSON-LD (handles string, array, object, array of objects)
+          const rawImage = recipe.image;
+          let image: string | undefined;
+          if (typeof rawImage === "string") {
+            image = rawImage;
+          } else if (Array.isArray(rawImage) && rawImage.length > 0) {
+            const first = rawImage[0];
+            image = typeof first === "string" ? first : first?.url;
+          } else if (rawImage && typeof rawImage === "object") {
+            image = rawImage.url;
+          }
+
           if (title && ingredients.length > 0 && instructions.length > 0) {
-            return { title, ingredients, servings, time, instructions };
+            return { title, ingredients, servings, time, instructions, image };
           }
         }
       } catch {
@@ -347,7 +360,7 @@ function convertToMambo(recipe: ScrapedRecipe): Omit<Recipe, "id" | "creado_en" 
     slug: slugify(recipe.title) || Math.random().toString(36).slice(2, 10),
     titulo: recipe.title,
     descripcion: `Receta de ${recipe.title} adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.`,
-    imagen: "",
+    imagen: recipe.image ?? "",
     categoria: mapCategory(globalCategory),
     tiempo_total_min: totalTime,
     comensales,

@@ -4,6 +4,19 @@ import { notFound } from "next/navigation";
 import { getRecipesByCategory } from "@/lib/store";
 import { categories } from "@/lib/recipes-data";
 
+const categoryColors: Record<string, string> = {
+  "sopas-y-cremas": "#FFF3E0",
+  arroces: "#FFF8E1",
+  carnes: "#FFEBEE",
+  pescados: "#E0F7FA",
+  postres: "#FCE4EC",
+  salsas: "#FFF9C4",
+  "panes-masas": "#EFEBE9",
+  verduras: "#E8F5E9",
+  bebidas: "#E3F2FD",
+  legumbres: "#F3E5F5",
+};
+
 type Props = { params: Promise<{ category: string }> };
 
 export async function generateStaticParams() {
@@ -59,13 +72,17 @@ export default async function CategoryPage({ params }: Props) {
           {recipes.map((r) => (
             <Link key={r.id} href={`/recetas/${r.slug}`} className="recipe-card block">
               <div className="card-image bg-gray-100">
-                <Image
-                  src={r.imagen}
-                  alt={r.titulo}
-                  fill
-                  className="object-cover"
-                  sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
-                />
+                {r.imagen ? (
+                  <Image
+                    src={r.imagen}
+                    alt={r.titulo}
+                    fill
+                    className="object-cover"
+                    sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
+                  />
+                ) : (
+                  <div className="flex items-center justify-center h-full text-5xl" style={{ background: categoryColors[r.categoria] ?? "#F5F5F5" }}>{cat.icono}</div>
+                )}
                 <span className="category-badge">
                   {cat.icono} {cat.nombre}
                 </span>

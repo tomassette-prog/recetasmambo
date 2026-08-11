@@ -5,6 +5,19 @@ import { getAllRecipes, getRecipeBySlug } from "@/lib/store";
 import { categories } from "@/lib/recipes-data";
 import AffiliateProducts from "@/components/AffiliateProducts";
 
+const categoryColors: Record<string, string> = {
+  "sopas-y-cremas": "#FFF3E0",
+  arroces: "#FFF8E1",
+  carnes: "#FFEBEE",
+  pescados: "#E0F7FA",
+  postres: "#FCE4EC",
+  salsas: "#FFF9C4",
+  "panes-masas": "#EFEBE9",
+  verduras: "#E8F5E9",
+  bebidas: "#E3F2FD",
+  legumbres: "#F3E5F5",
+};
+
 type Props = { params: Promise<{ slug: string }> };
 
 export async function generateStaticParams() {
@@ -70,7 +83,7 @@ export default async function RecipePage({ params }: Props) {
             sizes="100vw"
           />
         ) : (
-          <div className="w-full h-full bg-gray-200 flex items-center justify-center text-6xl">🍳</div>
+          <div className="w-full h-full flex items-center justify-center text-7xl" style={{ background: categoryColors[recipe.categoria] ?? "#F5F5F5" }}>{cat?.icono ?? "🍽️"}</div>
         )}
         <div className="absolute inset-0" style={{ background: "linear-gradient(to top, rgba(0,0,0,0.65) 0%, rgba(0,0,0,0.15) 50%, transparent 100%)" }} />
         <div className="absolute bottom-0 left-0 right-0 px-4 sm:px-6 pb-6 md:pb-8 mx-auto max-w-7xl">
