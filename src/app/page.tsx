@@ -93,7 +93,7 @@ export default function Home() {
       <section
         className="hero-banner"
         style={{
-          backgroundImage: "url('https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=1600&h=900&fit=crop&q=80')",
+          backgroundImage: "url('/images/hero-banner.jpg')",
           backgroundSize: "cover",
           backgroundPosition: "center",
         }}
