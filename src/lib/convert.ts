@@ -172,6 +172,10 @@ function inferTemperatura(text: string): MamboStep["temperatura_c"] {
   if (explicit) return explicit;
 
   const t = toLower(text);
+
+  // Varoma = 120°C (Thermomix y Mambo)
+  if (/\bvaroma\b/.test(t)) return 120;
+
   const cat = inferCategory(t);
 
   if (cat === "vapor") return 120;
@@ -179,6 +183,7 @@ function inferTemperatura(text: string): MamboStep["temperatura_c"] {
   if (cat === "sofrito") return 135;
   if (cat === "guiso") return 100;
   if (cat === "arroz") return 100;
+  if (cat === "legumbres") return 100;
   if (cat === "lacteo") return 80;
   if (cat === "liquido") return null;
   if (cat === "amasar") return null;

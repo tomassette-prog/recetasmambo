@@ -309,9 +309,11 @@ function inferTemperatura(text: string): number | null {
   const m = /(\d{2,3})\s*°/.exec(text);
   if (m) return Number(m[1]);
   const t = toLower(text);
+  if (/\bvaroma\b/.test(t)) return 120;  // Varoma = 120°C
   if (/\bvapor\b/.test(t)) return 120;
   if (/\bhervir\b/.test(t)) return 100;
   if (/\bsofrit[oa]\b/.test(t)) return 135;
+  if (/\blenteja|garbanzo|guiso|estofad/.test(t)) return 100;
   return 100;
 }
 
