@@ -27,7 +27,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
               <span className="text-2xl">🍳</span>
               <span>Recetas <span style={{ color: "#00AC46" }}>Mambo</span></span>
             </Link>
-            <nav className="hidden md:flex items-center gap-8 text-sm font-medium text-gray-600">
+            <nav className="flex items-center gap-6 sm:gap-8 text-sm font-medium text-gray-600">
               <Link href="/recetas" className="hover:text-[#00AC46] transition-colors">
                 Recetas
               </Link>
@@ -38,9 +38,6 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
                 Convertir Receta
               </Link>
             </nav>
-            <Link href="/convertir" className="md:hidden btn-primary text-sm px-3 py-1.5">
-              Convertir
-            </Link>
           </div>
         </header>
 
