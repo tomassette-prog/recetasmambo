@@ -34,16 +34,17 @@ export default function Newsletter() {
   }
 
   return (
-    <section className="bg-emerald-700 text-white py-12 px-4">
+    <section className="py-14 px-4" style={{ background: "var(--color-accent-light)" }}>
       <div className="mx-auto max-w-2xl text-center">
-        <h3 className="text-2xl font-bold mb-2">
-          📬 Recibe una receta Mambo cada semana
+        <div className="text-3xl mb-3">📬</div>
+        <h3 className="text-xl md:text-2xl font-bold mb-2" style={{ color: "#1a1a1a" }}>
+          Recibe una receta Mambo cada semana
         </h3>
-        <p className="text-emerald-100 mb-6">
+        <p className="text-sm text-gray-500 mb-6">
           Únete a +5.000 cocineros que reciben recetas adaptadas, trucos y ofertas de accesorios.
         </p>
         {status === "success" ? (
-          <div className="rounded-lg bg-emerald-600 p-4 text-sm">
+          <div className="rounded-xl p-4 text-sm font-medium" style={{ background: "#D1FAE5", color: "#065F46" }}>
             ✅ {message}
           </div>
         ) : (
@@ -54,20 +55,23 @@ export default function Newsletter() {
               value={email}
               onChange={(e) => setEmail(e.target.value)}
               placeholder="tu@email.com"
-              className="flex-1 rounded-full px-5 py-3 text-gray-900 text-sm focus:outline-none focus:ring-2 focus:ring-emerald-300"
+              className="flex-1 rounded-full bg-white border border-gray-200 px-5 py-3 text-sm text-gray-900 focus:outline-none focus:ring-2 focus:border-transparent"
+              style={{ outlineColor: "var(--color-accent)" }}
             />
             <button
               type="submit"
               disabled={status === "loading"}
-              className="rounded-full bg-white text-emerald-700 font-semibold px-6 py-3 text-sm hover:bg-emerald-50 transition-colors disabled:opacity-60"
+              className="rounded-full text-white font-semibold px-6 py-3 text-sm transition-colors disabled:opacity-60"
+              style={{ background: "var(--color-accent)" }}
             >
               {status === "loading" ? "..." : "Suscribirme"}
             </button>
           </form>
         )}
         {status === "error" && (
-          <p className="mt-2 text-sm text-red-200">{message}</p>
+          <p className="mt-2 text-sm text-red-500">{message}</p>
         )}
+        <p className="mt-4 text-xs text-gray-400">Sin spam. Cancela cuando quieras.</p>
       </div>
     </section>
   );

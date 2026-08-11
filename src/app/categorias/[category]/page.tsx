@@ -28,22 +28,27 @@ export default async function CategoryPage({ params }: Props) {
   const recipes = getRecipesByCategory(category);
 
   return (
-    <div className="mx-auto max-w-6xl px-4 py-10">
-      <nav className="text-sm text-gray-400 mb-6">
-        <Link href="/" className="hover:text-emerald-600">Inicio</Link>
-        <span className="mx-2">→</span>
-        <Link href="/categorias" className="hover:text-emerald-600">Categorías</Link>
-        <span className="mx-2">→</span>
-        <span className="text-gray-600">{cat.nombre}</span>
+    <div className="mx-auto max-w-7xl px-4 sm:px-6 py-10">
+      {/* Breadcrumb */}
+      <nav className="breadcrumb mb-6">
+        <Link href="/">Inicio</Link>
+        <span className="separator mx-1">›</span>
+        <Link href="/categorias">Categorías</Link>
+        <span className="separator mx-1">›</span>
+        <span className="current">{cat.nombre}</span>
       </nav>
 
-      <div className="flex items-center gap-3 mb-8">
-        <span className="text-4xl">{cat.icono}</span>
+      {/* Category header */}
+      <div className="flex items-center gap-4 mb-2">
+        <span className="text-5xl">{cat.icono}</span>
         <div>
           <h1 className="text-3xl font-bold">{cat.nombre}</h1>
           <p className="text-gray-500">{cat.descripcion}</p>
         </div>
       </div>
+      <p className="text-sm font-medium mb-8" style={{ color: "var(--color-accent)" }}>
+        {recipes.length} {recipes.length === 1 ? "receta" : "recetas"}
+      </p>
 
       {recipes.length === 0 ? (
         <p className="text-gray-400 py-16 text-center">
@@ -52,29 +57,29 @@ export default async function CategoryPage({ params }: Props) {
       ) : (
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
           {recipes.map((r) => (
-            <Link
-              key={r.id}
-              href={`/recetas/${r.slug}`}
-              className="group rounded-xl border border-gray-200 overflow-hidden hover:shadow-lg transition-shadow"
-            >
-              <div className="relative h-48 bg-gray-100">
+            <Link key={r.id} href={`/recetas/${r.slug}`} className="recipe-card block">
+              <div className="card-image bg-gray-100">
                 <Image
                   src={r.imagen}
                   alt={r.titulo}
                   fill
-                  className="object-cover group-hover:scale-105 transition-transform duration-300"
+                  className="object-cover"
                   sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
                 />
+                <span className="category-badge">
+                  {cat.icono} {cat.nombre}
+                </span>
               </div>
               <div className="p-4">
-                <h2 className="font-semibold text-lg mb-1 group-hover:text-emerald-700 transition-colors">
+                <h2 className="font-semibold text-base mb-1 text-gray-900 leading-snug">
                   {r.titulo}
                 </h2>
-                <p className="text-sm text-gray-500 line-clamp-2">{r.descripcion}</p>
-                <div className="flex items-center gap-3 mt-3 text-xs text-gray-400">
-                  <span>⏱ {r.tiempo_total_min} min</span>
-                  <span>👥 {r.comensales} pax</span>
-                </div>
+                <p className="text-sm text-gray-500 line-clamp-2 leading-relaxed">{r.descripcion}</p>
+              </div>
+              <div className="card-meta">
+                <span>⏱ {r.tiempo_total_min} min</span>
+                <span>👥 {r.comensales} pax</span>
+                <span>📊 {r.dificultad}</span>
               </div>
             </Link>
           ))}

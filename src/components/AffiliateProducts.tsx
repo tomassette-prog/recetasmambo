@@ -27,20 +27,20 @@ const PRODUCTS = [
 export default function AffiliateProducts({ compact = false }: { compact?: boolean }) {
   if (compact) {
     return (
-      <div className="rounded-xl border border-gray-200 p-4">
-        <h4 className="font-semibold text-sm mb-3">🛒 Accesorios recomendados</h4>
-        <div className="space-y-2">
+      <div className="bg-white rounded-xl border border-gray-100 p-5">
+        <h4 className="font-semibold text-sm mb-4">🛒 Accesorios recomendados</h4>
+        <div className="space-y-3">
           {PRODUCTS.map((p) => (
             <a
               key={p.name}
               href={p.url}
               target="_blank"
               rel="noopener noreferrer nofollow"
-              className="flex items-center gap-2 text-xs text-emerald-700 hover:underline"
+              className="flex items-center gap-3 text-sm hover:opacity-80 transition-opacity"
             >
-              <span>{p.image}</span>
-              <span>{p.name}</span>
-              <span className="ml-auto font-medium">{p.price}</span>
+              <span className="text-xl">{p.image}</span>
+              <span className="flex-1 text-gray-700 font-medium">{p.name}</span>
+              <span className="font-semibold" style={{ color: "var(--color-accent)" }}>{p.price}</span>
             </a>
           ))}
         </div>
@@ -49,25 +49,30 @@ export default function AffiliateProducts({ compact = false }: { compact?: boole
   }
 
   return (
-    <section className="mx-auto max-w-6xl px-4 py-10">
-      <h3 className="text-2xl font-bold mb-6">🛒 Accesorios para tu Mambo</h3>
-      <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
-        {PRODUCTS.map((p) => (
-          <a
-            key={p.name}
-            href={p.url}
-            target="_blank"
-            rel="noopener noreferrer nofollow"
-            className="group rounded-xl border border-gray-200 p-5 hover:border-emerald-400 hover:shadow-md transition-all"
-          >
-            <div className="text-3xl mb-2">{p.image}</div>
-            <h4 className="font-semibold group-hover:text-emerald-700 transition-colors">
-              {p.name}
-            </h4>
-            <p className="text-sm text-gray-500 mt-1">{p.description}</p>
-            <div className="mt-3 font-bold text-emerald-700">{p.price}</div>
-          </a>
-        ))}
+    <section className="py-12 px-4 sm:px-6" style={{ background: "#faf7f2" }}>
+      <div className="mx-auto max-w-7xl">
+        <h3 className="text-xl font-bold mb-6">🛒 Accesorios para tu Mambo</h3>
+        <div className="scroll-row">
+          {PRODUCTS.map((p) => (
+            <a
+              key={p.name}
+              href={p.url}
+              target="_blank"
+              rel="noopener noreferrer nofollow"
+              className="product-card block"
+            >
+              <div className="text-4xl mb-3">{p.image}</div>
+              <h4 className="font-semibold text-sm text-gray-900 mb-1">{p.name}</h4>
+              <p className="text-xs text-gray-500 mb-3 leading-relaxed">{p.description}</p>
+              <div className="flex items-center justify-between">
+                <span className="font-bold" style={{ color: "var(--color-accent)" }}>{p.price}</span>
+                <span className="text-xs font-medium text-white rounded-full px-3 py-1" style={{ background: "var(--color-accent)" }}>
+                  Ver en Amazon
+                </span>
+              </div>
+            </a>
+          ))}
+        </div>
       </div>
     </section>
   );

@@ -9,8 +9,9 @@ export const metadata = {
 
 export default function CategoriesPage() {
   return (
-    <div className="mx-auto max-w-6xl px-4 py-10">
-      <h1 className="text-3xl font-bold mb-8">Categorías</h1>
+    <div className="mx-auto max-w-7xl px-4 sm:px-6 py-10">
+      <h1 className="text-3xl font-bold mb-2">Categorías</h1>
+      <p className="text-gray-500 mb-8">Explora nuestras recetas por tipo de plato</p>
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
         {categories.map((c) => {
           const count = getRecipesByCategory(c.slug).length;
@@ -18,14 +19,14 @@ export default function CategoriesPage() {
             <Link
               key={c.slug}
               href={`/categorias/${c.slug}`}
-              className="group rounded-xl border border-gray-200 p-6 hover:border-emerald-400 hover:shadow-md transition-all"
+              className="recipe-card block p-6"
             >
               <div className="text-4xl mb-3">{c.icono}</div>
-              <h2 className="text-xl font-semibold mb-1 group-hover:text-emerald-700 transition-colors">
+              <h2 className="text-lg font-semibold mb-1 text-gray-900">
                 {c.nombre}
               </h2>
-              <p className="text-sm text-gray-500 mb-2">{c.descripcion}</p>
-              <span className="text-xs text-emerald-600 font-medium">
+              <p className="text-sm text-gray-500 mb-3 leading-relaxed">{c.descripcion}</p>
+              <span className="text-xs font-semibold rounded-full px-3 py-1" style={{ background: "var(--color-accent-light)", color: "var(--color-accent)" }}>
                 {count} {count === 1 ? "receta" : "recetas"}
               </span>
             </Link>

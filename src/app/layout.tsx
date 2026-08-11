@@ -26,24 +26,26 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
       lang="es"
       className={`${geistSans.variable} ${geistMono.variable} h-full antialiased`}
     >
-      <body className="min-h-full flex flex-col bg-white text-gray-900">
-        <header className="border-b border-gray-200 bg-white sticky top-0 z-50">
-          <div className="mx-auto max-w-6xl flex items-center justify-between px-4 py-3">
-            <Link href="/" className="text-xl font-bold tracking-tight">
-              🍳 <span className="text-emerald-700">Mambo</span>Recetas
+      <body className="min-h-full flex flex-col text-gray-900">
+        {/* Header */}
+        <header className="site-header">
+          <div className="mx-auto max-w-7xl flex items-center justify-between px-4 sm:px-6 py-3">
+            <Link href="/" className="flex items-center gap-2 text-lg font-bold tracking-tight">
+              <span className="text-2xl">🍳</span>
+              <span>Recetas <span style={{ color: "var(--color-accent)" }}>Mambo</span></span>
             </Link>
-            <nav className="hidden md:flex items-center gap-6 text-sm font-medium">
-              <Link href="/recetas" className="hover:text-emerald-700 transition-colors">
+            <nav className="hidden md:flex items-center gap-8 text-sm font-medium text-gray-600">
+              <Link href="/recetas" className="hover:text-gray-900 transition-colors">
                 Recetas
               </Link>
-              <Link href="/categorias" className="hover:text-emerald-700 transition-colors">
+              <Link href="/categorias" className="hover:text-gray-900 transition-colors">
                 Categorías
               </Link>
-              <Link href="/convertir" className="rounded-full bg-emerald-600 px-4 py-1.5 text-white hover:bg-emerald-700 transition-colors">
+              <Link href="/convertir" className="rounded-full px-5 py-2 text-white font-semibold transition-colors" style={{ background: "var(--color-accent)" }}>
                 Convertir Receta
               </Link>
             </nav>
-            <Link href="/convertir" className="md:hidden rounded-full bg-emerald-600 px-3 py-1.5 text-sm text-white">
+            <Link href="/convertir" className="md:hidden rounded-full px-3 py-1.5 text-sm text-white font-medium" style={{ background: "var(--color-accent)" }}>
               Convertir
             </Link>
           </div>
@@ -51,18 +53,23 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
 
         <main className="flex-1">{children}</main>
 
-        <footer className="border-t border-gray-200 bg-gray-50">
-          <div className="mx-auto max-w-6xl px-4 py-10 grid grid-cols-1 sm:grid-cols-3 gap-8 text-sm text-gray-600">
+        {/* Footer */}
+        <footer className="bg-gray-900 text-gray-300 mt-auto">
+          <div className="mx-auto max-w-7xl px-4 sm:px-6 py-12 grid grid-cols-1 sm:grid-cols-3 gap-10 text-sm">
             <div>
-              <div className="font-bold text-gray-900 mb-2">🍳 Recetas Mambo</div>
-              <p>Recetas adaptadas de Thermomix a la Cecotec Mambo Cooking Total Gourmet.</p>
+              <div className="flex items-center gap-2 text-white font-bold text-base mb-3">
+                <span className="text-xl">🍳</span> Recetas Mambo
+              </div>
+              <p className="text-gray-400 leading-relaxed">
+                Recetas públicas de blogs de Thermomix adaptadas automáticamente a la Cecotec Mambo Cooking Total Gourmet.
+              </p>
             </div>
             <div>
-              <div className="font-bold text-gray-900 mb-2">Categorías</div>
-              <ul className="space-y-1">
+              <div className="text-white font-semibold mb-3">Categorías</div>
+              <ul className="space-y-2">
                 {categories.slice(0, 6).map((c) => (
                   <li key={c.slug}>
-                    <Link href={`/categorias/${c.slug}`} className="hover:text-emerald-700">
+                    <Link href={`/categorias/${c.slug}`} className="text-gray-400 hover:text-white transition-colors">
                       {c.icono} {c.nombre}
                     </Link>
                   </li>
@@ -70,15 +77,16 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
               </ul>
             </div>
             <div>
-              <div className="font-bold text-gray-900 mb-2">Herramientas</div>
-              <ul className="space-y-1">
-                <li><Link href="/convertir" className="hover:text-emerald-700">Convertir Receta</Link></li>
-                <li><Link href="/recetas" className="hover:text-emerald-700">Todas las Recetas</Link></li>
+              <div className="text-white font-semibold mb-3">Herramientas</div>
+              <ul className="space-y-2">
+                <li><Link href="/convertir" className="text-gray-400 hover:text-white transition-colors">Convertir Receta</Link></li>
+                <li><Link href="/recetas" className="text-gray-400 hover:text-white transition-colors">Todas las Recetas</Link></li>
+                <li><Link href="/categorias" className="text-gray-400 hover:text-white transition-colors">Explorar Categorías</Link></li>
               </ul>
             </div>
           </div>
-          <div className="border-t border-gray-200 text-center text-xs text-gray-400 py-4">
-            © {new Date().getFullYear()} Recetas Mambo — Recetas públicas de blogs de Thermomix adaptadas a Mambo Cooking Total Gourmet.
+          <div className="border-t border-gray-800 text-center text-xs text-gray-500 py-5">
+            © {new Date().getFullYear()} Recetas Mambo. Todos los derechos reservados.
           </div>
         </footer>
       </body>
