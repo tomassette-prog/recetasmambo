@@ -24,7 +24,6 @@ export const metadata: Metadata = {
     url: "https://recetasmambo.com",
   },
   other: {
-    "p:domain_verify": "357d65755cb3404fd61f33139c400c5f",
     "pinterest-rich-pin": "true",
   },
 };
@@ -32,6 +31,9 @@ export const metadata: Metadata = {
 export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
     <html lang="es" className={`${roboto.variable} h-full antialiased`}>
+      <head>
+        <meta name="p:domain_verify" content="357d65755cb3404fd61f33139c400c5f" />
+      </head>
       <body className="min-h-full flex flex-col" style={{ fontFamily: '"Roboto", "Helvetica Neue", Arial, sans-serif' }}>
         <GoogleAnalytics />
         <Header />
