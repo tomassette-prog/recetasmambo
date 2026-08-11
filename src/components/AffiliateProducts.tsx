@@ -6,21 +6,21 @@ const PRODUCTS = [
     description: "El robot de cocina con inducción de 1800W. 4,5L de capacidad.",
     price: "399,00 €",
     image: "🍳",
-    url: "https://www.amazon.es/s?k=cecotec+mambo+cooking+total+gourmet&tag=mamborecetas-21",
+    url: "https://www.amazon.es/s?k=cecotec+mambo+cooking+total+gourmet&tag=biohackdose-21",
   },
   {
     name: "Pala MamboMix Oficial",
     description: "Accesorio esencial para guisos, arroces y amasados.",
     price: "29,99 €",
     image: "🥄",
-    url: "https://www.amazon.es/s?k=pala+mambomix&tag=mamborecetas-21",
+    url: "https://www.amazon.es/s?k=pala+mambomix&tag=biohackdose-21",
   },
   {
     name: "Cuchillas de Repuesto Mambo",
     description: "Juego de cuchillas de acero inoxidable para tu Mambo.",
     price: "19,99 €",
     image: "🔪",
-    url: "https://www.amazon.es/s?k=cuchillas+cecotec+mambo&tag=mamborecetas-21",
+    url: "https://www.amazon.es/s?k=cuchillas+cecotec+mambo&tag=biohackdose-21",
   },
 ];
 
