@@ -16,7 +16,7 @@ export async function generateMetadata({ params }: Props) {
   const recipe = getRecipeBySlug(slug);
   if (!recipe) return { title: "Receta no encontrada" };
   return {
-    title: `${recipe.titulo} — MamboRecetas`,
+    title: `${recipe.titulo} — Recetas Mambo`,
     description: recipe.descripcion,
     openGraph: {
       title: recipe.titulo,

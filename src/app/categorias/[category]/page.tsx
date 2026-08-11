@@ -15,7 +15,7 @@ export async function generateMetadata({ params }: Props) {
   const cat = categories.find((c) => c.slug === category);
   if (!cat) return { title: "Categoría no encontrada" };
   return {
-    title: `${cat.nombre} — MamboRecetas`,
+    title: `${cat.nombre} — Recetas Mambo`,
     description: cat.descripcion,
   };
 }

@@ -3,7 +3,7 @@ import { categories } from "@/lib/recipes-data";
 import { getRecipesByCategory } from "@/lib/store";
 
 export const metadata = {
-  title: "Categorías — MamboRecetas",
+  title: "Categorías — Recetas Mambo",
   description: "Explora recetas por categorías para tu Mambo Cooking Total Gourmet.",
 };
 
