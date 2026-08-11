@@ -4,6 +4,7 @@ import "./globals.css";
 import Link from "next/link";
 import { categories } from "@/lib/recipes-data";
 import Header from "@/components/Header";
+import GoogleAnalytics from "@/components/GoogleAnalytics";
 
 const roboto = Roboto({
   variable: "--font-roboto",
@@ -15,12 +16,28 @@ export const metadata: Metadata = {
   title: "Mambo Cooking Total Gourmet — Recetas adaptadas de Thermomix",
   description:
     "Recetas adaptadas de Thermomix a la Cecotec Mambo Cooking Total Gourmet. Conversión automática con tiempos, temperaturas y accesorios correctos.",
+  metadataBase: new URL("https://recetasmambo.com"),
+  openGraph: {
+    type: "website",
+    locale: "es_ES",
+    siteName: "Recetas Mambo",
+    url: "https://recetasmambo.com",
+  },
+  verification: {
+    other: {
+      "p:domain_verify": "357d65755cb3404fd61f33139c400c5f",
+    },
+  },
+  other: {
+    "pinterest-rich-pin": "true",
+  },
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
     <html lang="es" className={`${roboto.variable} h-full antialiased`}>
       <body className="min-h-full flex flex-col" style={{ fontFamily: '"Roboto", "Helvetica Neue", Arial, sans-serif' }}>
+        <GoogleAnalytics />
         <Header />
 
         <main className="flex-1">{children}</main>

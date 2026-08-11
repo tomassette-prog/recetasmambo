@@ -37,16 +37,26 @@ async function main() {
   // 5. Generate social media posts for new recipes
   run("npx tsx scripts/social-media.ts");
 
-  // 6. Commit changes
+  // 6. Generate Pinterest cards for new recipes
+  run("npx tsx scripts/generate-pinterest-cards.ts");
+
+  // 7. Publish new pins to Pinterest (if token is set)
+  if (process.env.PINTEREST_ACCESS_TOKEN && process.env.PINTEREST_BOARD_ID) {
+    run("npx tsx scripts/publish-pinterest.ts --limit 8");
+  } else {
+    console.log("⚠️  Pinterest credentials not set, skipping pin publishing");
+  }
+
+  // 8. Commit changes
   try {
     run("git add -A");
-    run('git commit -m "chore: daily scrape — new recipes + images + social posts"');
+    run('git commit -m "chore: daily scrape — new recipes + images + social posts + pinterest"');
     run("git push");
   } catch {
     console.log("No changes to commit (no new recipes found)");
   }
 
-  // 7. Redeploy to Vercel
+  // 9. Redeploy to Vercel
   try {
     run("npx vercel --prod --yes");
   } catch {

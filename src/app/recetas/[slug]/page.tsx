@@ -4,6 +4,7 @@ import { notFound } from "next/navigation";
 import { getAllRecipes, getRecipeBySlug } from "@/lib/store";
 import { categories } from "@/lib/recipes-data";
 import AffiliateProducts from "@/components/AffiliateProducts";
+import PinterestShare from "@/components/PinterestShare";
 
 type Props = { params: Promise<{ slug: string }> };
 
@@ -203,6 +204,14 @@ export default async function RecipePage({ params }: Props) {
           </div>
         )}
       </div>
+
+      {/* Pinterest Share floating button */}
+      <PinterestShare
+        slug={recipe.slug}
+        title={recipe.titulo}
+        description={recipe.descripcion}
+        imageUrl={recipe.imagen}
+      />
     </>
   );
 }

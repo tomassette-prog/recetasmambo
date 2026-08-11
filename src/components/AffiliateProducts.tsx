@@ -5,29 +5,62 @@ const PRODUCTS = [
     name: "Cecotec Mambo Cooking Total Gourmet",
     description: "El robot de cocina con inducción de 1800W. 4,5L de capacidad.",
     price: "399,00 €",
+    priceValue: 399.00,
     image: "🍳",
     url: "https://www.amazon.es/s?k=cecotec+mambo+cooking+total+gourmet&tag=biohackdose-21",
+    sku: "MAMBO-CTG-001",
   },
   {
     name: "Pala MamboMix Oficial",
     description: "Accesorio esencial para guisos, arroces y amasados.",
     price: "29,99 €",
+    priceValue: 29.99,
     image: "🥄",
     url: "https://www.amazon.es/s?k=pala+mambomix&tag=biohackdose-21",
+    sku: "MAMBO-PALA-001",
   },
   {
     name: "Cuchillas de Repuesto Mambo",
     description: "Juego de cuchillas de acero inoxidable para tu Mambo.",
     price: "19,99 €",
+    priceValue: 19.99,
     image: "🔪",
     url: "https://www.amazon.es/s?k=cuchillas+cecotec+mambo&tag=biohackdose-21",
+    sku: "MAMBO-CUCH-001",
   },
 ];
 
 export default function AffiliateProducts({ compact = false }: { compact?: boolean }) {
+  // Schema.org Product markup for rich snippets
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    itemListElement: PRODUCTS.map((p, i) => ({
+      "@type": "ListItem",
+      position: i + 1,
+      item: {
+        "@type": "Product",
+        name: p.name,
+        description: p.description,
+        sku: p.sku,
+        offers: {
+          "@type": "Offer",
+          price: p.priceValue,
+          priceCurrency: "EUR",
+          availability: "https://schema.org/InStock",
+          url: p.url,
+        },
+      },
+    })),
+  };
+
   if (compact) {
     return (
       <div className="bg-white rounded-lg border border-gray-200 p-5">
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+        />
         <h4 className="font-semibold text-sm mb-4" style={{ color: "#23282A" }}>🛒 Accesorios recomendados</h4>
         <div className="space-y-3">
           {PRODUCTS.map((p) => (
