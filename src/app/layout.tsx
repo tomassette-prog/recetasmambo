@@ -3,6 +3,7 @@ import { Roboto } from "next/font/google";
 import "./globals.css";
 import Link from "next/link";
 import { categories } from "@/lib/recipes-data";
+import Header from "@/components/Header";
 
 const roboto = Roboto({
   variable: "--font-roboto",
@@ -11,7 +12,7 @@ const roboto = Roboto({
 });
 
 export const metadata: Metadata = {
-  title: "Recetas Mambo — Recetas para Mambo Cooking Total Gourmet",
+  title: "Mambo Cooking Total Gourmet — Recetas adaptadas de Thermomix",
   description:
     "Recetas adaptadas de Thermomix a la Cecotec Mambo Cooking Total Gourmet. Conversión automática con tiempos, temperaturas y accesorios correctos.",
 };
@@ -20,26 +21,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
     <html lang="es" className={`${roboto.variable} h-full antialiased`}>
       <body className="min-h-full flex flex-col" style={{ fontFamily: '"Roboto", "Helvetica Neue", Arial, sans-serif' }}>
-        {/* Header */}
-        <header className="site-header">
-          <div className="mx-auto max-w-7xl flex items-center justify-between px-4 sm:px-6 py-3">
-            <Link href="/" className="flex items-center gap-2 text-lg font-bold tracking-tight" style={{ color: "#23282A" }}>
-              <span className="text-2xl">🍳</span>
-              <span>Recetas <span style={{ color: "#00AC46" }}>Mambo</span></span>
-            </Link>
-            <nav className="flex items-center gap-6 sm:gap-8 text-sm font-medium text-gray-600">
-              <Link href="/recetas" className="hover:text-[#00AC46] transition-colors">
-                Recetas
-              </Link>
-              <Link href="/categorias" className="hover:text-[#00AC46] transition-colors">
-                Categorías
-              </Link>
-              <Link href="/convertir" className="btn-primary text-sm px-5 py-2">
-                Convertir Receta
-              </Link>
-            </nav>
-          </div>
-        </header>
+        <Header />
 
         <main className="flex-1">{children}</main>
 
