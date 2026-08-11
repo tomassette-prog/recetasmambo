@@ -1,8 +1,53 @@
 #!/usr/bin/env node
 /**
- * Fix script: re-categorizes scraped recipes and fixes encoding issues.
+ * Fix script: re-categorizes recipes, fixes encoding, and applies
+ * conversion corrections (Varoma=120°C, Espiga=Vel.3, etc.)
+ *
  * Usage: npx tsx scripts/fix-recipes.ts
  */
+
+import fs from "node:fs";
+import path from "node:path";
+
+const DATA_PATH = path.join(process.cwd(), "data", "recipes.json");
+
+function norm(s: string): string {
+  return s.normalize("NFD").replace(/\p{Diacritic}/gu, "").toLowerCase();
+}
+
+function fixStep(step: any): any {
+  const t = norm(step.instruccion || "");
+
+  // Varoma → 120°C, Vel. 3
+  if (/\bvaroma\b/.test(t)) {
+    step.temperatura_c = 120;
+    step.velocidad = 3;
+  }
+
+  // Espiga → Pala MamboMix, Vel. 3
+  if (/\bespiga\b/.test(t)) {
+    step.accesorio = "Pala MamboMix";
+    step.velocidad = 3;
+  }
+
+  // Mariposa → Pala MamboMix
+  if (/\bmariposa\b/.test(t)) {
+    step.accesorio = "Pala MamboMix";
+  }
+
+  // Guisos/arroces/legumbres → Pala MamboMix
+  if (/\b(guiso|estofad[oa]|arroz|paella|risotto|lenteja|garbanzo|potaje)\b/.test(t) && step.accesorio === "Cuchillas") {
+    step.accesorio = "Pala MamboMix";
+  }
+
+  // Vapor → Vel. 0, 120°C
+  if (/\bvapor\b/.test(t)) {
+    step.velocidad = 0;
+    step.temperatura_c = 120;
+  }
+
+  return step;
+}
 
 import fs from "node:fs";
 import path from "node:path";
@@ -97,6 +142,9 @@ function main() {
       ...p,
       instruccion: fixEncoding(p.instruccion),
     }));
+
+    // Fix conversion rules (Varoma=120°C, Espiga=Vel.3, etc.)
+    r.pasos_mambo = r.pasos_mambo.map((p: any) => fixStep(p));
 
     // Re-categorize
     r.categoria = guessCategory(r.titulo, r.ingredientes, r.pasos_mambo.map((p: any) => p.instruccion));
