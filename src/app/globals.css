@@ -53,18 +53,23 @@ h1, h2, h3, h4, h5, h6 {
 
 .hero-banner {
   position: relative;
-  height: 420px;
+  height: 80vh;
+  min-height: 500px;
+  max-height: 700px;
   overflow: hidden;
+  background: #23282A;
 }
 
 .hero-banner::after {
   content: '';
   position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  height: 60%;
-  background: linear-gradient(transparent, rgba(0, 0, 0, 0.7));
+  inset: 0;
+  background: linear-gradient(
+    to bottom,
+    rgba(0, 0, 0, 0.15) 0%,
+    rgba(0, 0, 0, 0.3) 50%,
+    rgba(0, 0, 0, 0.75) 100%
+  );
   z-index: 1;
 }
 
@@ -155,17 +160,17 @@ h1, h2, h3, h4, h5, h6 {
   overflow: hidden;
   position: relative;
   background: var(--color-surface);
-  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.06);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
   transition: transform 0.25s ease, box-shadow 0.25s ease;
 }
 
 .recipe-card:hover {
-  transform: translateY(-3px);
-  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+  transform: translateY(-4px);
+  box-shadow: 0 12px 32px rgba(0, 0, 0, 0.15);
 }
 
 .recipe-card .card-image {
-  aspect-ratio: 3 / 2;
+  aspect-ratio: 4 / 3;
   overflow: hidden;
   position: relative;
 }
@@ -183,8 +188,8 @@ h1, h2, h3, h4, h5, h6 {
   bottom: 0;
   left: 0;
   right: 0;
-  padding: 32px 14px 14px;
-  background: linear-gradient(transparent, rgba(0, 0, 0, 0.7));
+  padding: 48px 16px 16px;
+  background: linear-gradient(transparent, rgba(0, 0, 0, 0.75));
   color: white;
 }
 

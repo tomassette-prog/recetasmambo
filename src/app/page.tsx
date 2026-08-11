@@ -26,7 +26,7 @@ const categoryGradients: Record<string, string> = {
 function CarouselRecipeCard({ recipe }: { recipe: (typeof allRecipes)[0] }) {
   const cat = categories.find((c) => c.slug === recipe.categoria);
   return (
-    <Link href={`/recetas/${recipe.slug}`} className="recipe-card carousel-item block" style={{ width: 280 }}>
+    <Link href={`/recetas/${recipe.slug}`} className="recipe-card carousel-item block" style={{ width: 320 }}>
       <div className="card-image bg-gray-100">
         {recipe.imagen ? (
           <Image
@@ -34,7 +34,7 @@ function CarouselRecipeCard({ recipe }: { recipe: (typeof allRecipes)[0] }) {
             alt={recipe.titulo}
             fill
             className="object-cover"
-            sizes="280px"
+            sizes="320px"
           />
         ) : (
           <div className="w-full h-full flex items-center justify-center text-5xl" style={{ background: categoryGradients[recipe.categoria] ?? "#f5f5f5" }}>{cat?.icono ?? "🍽️"}</div>
@@ -87,37 +87,30 @@ function GridRecipeCard({ recipe }: { recipe: (typeof allRecipes)[0] }) {
 }
 
 export default function Home() {
-  const heroImage = featured[0]?.imagen ?? allRecipes[0]?.imagen ?? "";
-
   return (
     <div>
-      {/* ── Section 1: Hero Banner ── */}
-      <section className="hero-banner">
-        {heroImage ? (
-          <Image
-            src={heroImage}
-            alt="Recetas para tu Mambo"
-            fill
-            className="object-cover"
-            priority
-            sizes="100vw"
-          />
-        ) : (
-          <div className="w-full h-full" style={{ background: "linear-gradient(135deg, #00AC46, #008a38)" }} />
-        )}
+      {/* ── Section 1: Hero Banner (Cookidoo style) ── */}
+      <section
+        className="hero-banner"
+        style={{
+          backgroundImage: "url('https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=1600&h=900&fit=crop&q=80')",
+          backgroundSize: "cover",
+          backgroundPosition: "center",
+        }}
+      >
         <div className="hero-banner-content mx-auto max-w-7xl">
-          <h1 className="text-3xl md:text-5xl font-normal text-white mb-2" style={{ fontWeight: 400 }}>
-            Recetas para tu Mambo
+          <h1 className="text-4xl md:text-6xl text-white mb-3" style={{ fontWeight: 300, lineHeight: 1.15 }}>
+            Recetas para tu<br /><strong style={{ fontWeight: 600 }}>Mambo</strong>
           </h1>
-          <p className="text-base text-white/85 mb-5 max-w-xl">
+          <p className="text-lg text-white/90 mb-6 max-w-lg" style={{ lineHeight: 1.5 }}>
             Miles de recetas de Thermomix adaptadas a la Cecotec Mambo Cooking Total Gourmet
           </p>
           <div className="flex flex-col sm:flex-row gap-3 items-start">
-            <Link href="/recetas" className="btn-primary">
+            <Link href="/recetas" className="btn-primary" style={{ fontSize: "1rem", padding: "14px 28px" }}>
               Explorar recetas
             </Link>
           </div>
-          <div className="mt-5 max-w-md">
+          <div className="mt-6 max-w-lg w-full">
             <SearchBox />
           </div>
         </div>
