@@ -91,26 +91,38 @@ export default async function RecipePage({ params }: Props) {
       </div>
 
       <div className="mx-auto max-w-7xl px-4 sm:px-6 py-8">
-        {/* Meta info bar */}
-        <div className="recipe-info-bar">
-          <span className="recipe-info-pill">⏱ {recipe.tiempo_total_min} min</span>
-          <span className="recipe-info-pill">👥 {recipe.comensales} comensales</span>
-          <span className="recipe-info-pill">📊 {recipe.dificultad}</span>
-          {cat && <span className="recipe-info-pill">{cat.icono} {cat.nombre}</span>}
-          <span className="recipe-info-pill">🍳 Mambo Cooking Total Gourmet</span>
-          {recipe.destacada && <span className="recipe-info-pill" style={{ background: "#e6f7ed", color: "#00AC46" }}>⭐ Destacada</span>}
+        {/* Meta info bar — Cookidoo style */}
+        <div className="flex flex-wrap items-center gap-3 mb-8">
+          <span className="inline-flex items-center gap-1.5 rounded-full bg-gray-100 px-3 py-1.5 text-sm font-medium text-gray-700">
+            🍳 Mambo Cooking Total Gourmet
+          </span>
+          <span className="inline-flex items-center gap-1.5 rounded-full bg-gray-100 px-3 py-1.5 text-sm text-gray-600">
+            ⏱ {recipe.tiempo_total_min} min
+          </span>
+          <span className="inline-flex items-center gap-1.5 rounded-full bg-gray-100 px-3 py-1.5 text-sm text-gray-600">
+            👥 {recipe.comensales} comensales
+          </span>
+          <span className="inline-flex items-center gap-1.5 rounded-full bg-gray-100 px-3 py-1.5 text-sm text-gray-600">
+            {recipe.dificultad === "Fácil" ? "🟢" : recipe.dificultad === "Media" ? "🟡" : "🔴"} {recipe.dificultad}
+          </span>
+          {cat && (
+            <span className="inline-flex items-center gap-1.5 rounded-full px-3 py-1.5 text-sm font-medium" style={{ background: "#e6f7ed", color: "#00AC46" }}>
+              {cat.icono} {cat.nombre}
+            </span>
+          )}
         </div>
 
         {/* Two-column: ingredients + steps */}
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mt-6">
-          {/* Ingredients sidebar */}
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
+          {/* Ingredients sidebar — Cookidoo style */}
           <div className="md:col-span-1">
-            <div className="ingredients-sidebar">
-              <h2 className="text-xl mb-4" style={{ fontWeight: 400 }}>Ingredientes</h2>
-              <div className="bg-white rounded-lg border border-gray-200 p-5">
+            <div className="ingredients-sidebar sticky top-20">
+              <h2 className="text-lg mb-4" style={{ fontWeight: 500, color: "#23282A" }}>Ingredientes</h2>
+              <div className="bg-white rounded-xl border border-gray-200 p-5 shadow-sm">
+                <p className="text-xs text-gray-400 mb-3">Para {recipe.comensales} comensales</p>
                 <ul className="space-y-3">
                   {recipe.ingredientes.map((ing, i) => (
-                    <li key={i} className="flex items-start gap-3 text-sm leading-relaxed">
+                    <li key={i} className="flex items-start gap-3 text-sm leading-relaxed" style={{ color: "#23282A" }}>
                       <span className="mt-1.5 h-2 w-2 rounded-full flex-shrink-0" style={{ background: "#00AC46" }} />
                       {ing}
                     </li>
@@ -120,38 +132,54 @@ export default async function RecipePage({ params }: Props) {
             </div>
           </div>
 
-          {/* Steps main content */}
+          {/* Steps — Cookidoo detailed format */}
           <div className="md:col-span-2">
-            <h2 className="text-xl mb-5" style={{ fontWeight: 400 }}>Preparación en Mambo</h2>
-            <div className="space-y-5">
+            <h2 className="text-lg mb-5" style={{ fontWeight: 500, color: "#23282A" }}>Preparación</h2>
+            <div className="space-y-6">
               {recipe.pasos_mambo.map((paso) => (
-                <div key={paso.paso_numero} className="step-card">
-                  <div className="flex items-start gap-4 mb-3">
-                    <span className="step-number">{paso.paso_numero}</span>
+                <div key={paso.paso_numero} className="rounded-xl border border-gray-200 bg-white overflow-hidden shadow-sm">
+                  {/* Step header */}
+                  <div className="flex items-center gap-4 px-5 py-4" style={{ background: "#f8faf8" }}>
+                    <span className="flex h-10 w-10 items-center justify-center rounded-full text-white text-base font-bold" style={{ background: "#00AC46" }}>
+                      {paso.paso_numero}
+                    </span>
                     <div className="flex-1">
-                      <p className="text-gray-700 leading-relaxed">{paso.instruccion}</p>
+                      <p className="text-[15px] leading-relaxed" style={{ color: "#23282A", fontWeight: 500 }}>
+                        {paso.instruccion}
+                      </p>
                     </div>
                   </div>
-                  <div className="step-mambo-grid">
-                    <div className="step-mambo-cell">
-                      <div className="label">Accesorio</div>
-                      <div className="value">{paso.accesorio}</div>
+                  {/* Mambo settings — clean grid like Cookidoo */}
+                  <div className="grid grid-cols-5 divide-x divide-gray-100 border-t border-gray-100">
+                    <div className="px-3 py-3 text-center">
+                      <div className="text-[11px] text-gray-400 uppercase tracking-wide mb-1">Accesorio</div>
+                      <div className="text-sm font-medium" style={{ color: "#23282A" }}>
+                        {paso.accesorio === "Pala MamboMix" ? "🥄 Pala" : paso.accesorio === "Cuchillas" ? "🔪 Cuchillas" : "—"}
+                      </div>
                     </div>
-                    <div className="step-mambo-cell">
-                      <div className="label">Velocidad</div>
-                      <div className="value">{String(paso.velocidad)}</div>
+                    <div className="px-3 py-3 text-center">
+                      <div className="text-[11px] text-gray-400 uppercase tracking-wide mb-1">Velocidad</div>
+                      <div className="text-sm font-medium" style={{ color: "#23282A" }}>
+                        {paso.velocidad === "Turbo" ? "⚡ Turbo" : paso.velocidad}
+                      </div>
                     </div>
-                    <div className="step-mambo-cell">
-                      <div className="label">Potencia</div>
-                      <div className="value">{paso.potencia_calorifica ?? "—"}</div>
+                    <div className="px-3 py-3 text-center">
+                      <div className="text-[11px] text-gray-400 uppercase tracking-wide mb-1">Potencia</div>
+                      <div className="text-sm font-medium" style={{ color: "#23282A" }}>
+                        {paso.potencia_calorifica ?? "—"}
+                      </div>
                     </div>
-                    <div className="step-mambo-cell">
-                      <div className="label">Temperatura</div>
-                      <div className="value">{paso.temperatura_c ? `${paso.temperatura_c} °C` : "—"}</div>
+                    <div className="px-3 py-3 text-center">
+                      <div className="text-[11px] text-gray-400 uppercase tracking-wide mb-1">Temperatura</div>
+                      <div className="text-sm font-medium" style={{ color: "#23282A" }}>
+                        {paso.temperatura_c ? `${paso.temperatura_c}°C` : "—"}
+                      </div>
                     </div>
-                    <div className="step-mambo-cell">
-                      <div className="label">Tiempo</div>
-                      <div className="value">{paso.tiempo_minutos ? `${paso.tiempo_minutos} min` : "—"}</div>
+                    <div className="px-3 py-3 text-center">
+                      <div className="text-[11px] text-gray-400 uppercase tracking-wide mb-1">Tiempo</div>
+                      <div className="text-sm font-medium" style={{ color: "#00AC46" }}>
+                        {paso.tiempo_minutos ? `${paso.tiempo_minutos} min` : "—"}
+                      </div>
                     </div>
                   </div>
                 </div>
