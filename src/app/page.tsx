@@ -175,8 +175,8 @@ export default function Home() {
         <p className="text-white/80 mb-8 max-w-lg mx-auto">
           Pega la URL y la convertimos automáticamente a los ajustes de tu Mambo Cooking Total Gourmet.
         </p>
-        <Link href="/convertir" className="inline-block bg-white font-semibold px-8 py-3 rounded-md hover:bg-gray-50 transition-colors" style={{ color: "#00AC46" }}>
-          Convertir Receta →
+        <Link href="/recetas" className="inline-block bg-white font-semibold px-8 py-3 rounded-md hover:bg-gray-50 transition-colors" style={{ color: "#00AC46" }}>
+          Ver todas las recetas →
         </Link>
       </section>
 
