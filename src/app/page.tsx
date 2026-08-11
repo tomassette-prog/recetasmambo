@@ -146,7 +146,12 @@ export default function Home() {
           <div className="carousel">
             {categories.map((c) => (
               <Link key={c.slug} href={`/categorias/${c.slug}`} className="category-tile">
-                <div className="w-full h-full flex items-center justify-center text-4xl" style={{ background: categoryGradients[c.slug] ?? "#888" }} />
+                <img
+                  src={`/images/categories/${c.slug}.jpg`}
+                  alt={c.nombre}
+                  className="w-full h-full object-cover"
+                  loading="lazy"
+                />
                 <div className="category-tile-overlay">{c.icono} {c.nombre}</div>
               </Link>
             ))}
