@@ -337,7 +337,7 @@
         "paso_numero": 1,
         "instruccion": "Ponemos en el vaso la cebolla y los ajos. Programamos 5 segundos, velocidad 4. Sofreímos programando 5 minutos, temperatura Varoma, velocidad cuchara.",
         "accesorio": "Pala MamboMix",
-        "velocidad": 4,
+        "velocidad": 3,
         "temperatura_c": 120,
         "potencia_calorifica": 5,
         "tiempo_minutos": 5
@@ -518,7 +518,7 @@
         "paso_numero": 2,
         "instruccion": "Añadimos el aceite y el orégano ponemos 6 minutos, temperatura varoma, velocidad 1.",
         "accesorio": "Ninguno",
-        "velocidad": 1,
+        "velocidad": 3,
         "temperatura_c": 120,
         "potencia_calorifica": 5,
         "tiempo_minutos": 6
@@ -735,7 +735,7 @@
         "paso_numero": 9,
         "instruccion": "Para derretir el chocolate blanco, ponemos una tableta de chocolate blanco en trocitos dentro de una bolsa de plástico tipo manga pastelera y la colocamos dentro del cestillo. Ponemos el agua en el vaso, introducimos el cestillo en su posición y programamos 14 minutos, temperatura varoma, velocidad 2.",
         "accesorio": "Ninguno",
-        "velocidad": 2,
+        "velocidad": 3,
         "temperatura_c": 120,
         "potencia_calorifica": 5,
         "tiempo_minutos": 11
@@ -796,7 +796,7 @@
         "paso_numero": 1,
         "instruccion": "Echamos en el vaso, el agua y lo programamos 10 minutos, temperatura varoma y velocidad 1.",
         "accesorio": "Ninguno",
-        "velocidad": 1,
+        "velocidad": 3,
         "temperatura_c": 120,
         "potencia_calorifica": 5,
         "tiempo_minutos": 8
@@ -1430,7 +1430,7 @@
         "paso_numero": 1,
         "instruccion": "Lavar bien el boniato, colocarlo en Varoma. Verter 500 g de agua y programar 30 minutos, temperatura Varoma, velocidad 2.",
         "accesorio": "Ninguno",
-        "velocidad": 2,
+        "velocidad": 3,
         "temperatura_c": 120,
         "potencia_calorifica": 5,
         "tiempo_minutos": 25
@@ -1798,7 +1798,7 @@
         "paso_numero": 3,
         "instruccion": "Calentamos el aceite 4 minutos, temperatura Varoma, velocidad 1.",
         "accesorio": "Ninguno",
-        "velocidad": 1,
+        "velocidad": 3,
         "temperatura_c": 120,
         "potencia_calorifica": 5,
         "tiempo_minutos": 4
@@ -1807,7 +1807,7 @@
         "paso_numero": 4,
         "instruccion": "Echamos los ajos ligeramente machacados, programamos 4 minutos, temperatura Varoma, velocidad 1, desde aquí, sin cubilete, para que no coja agua.",
         "accesorio": "Ninguno",
-        "velocidad": 1,
+        "velocidad": 3,
         "temperatura_c": 120,
         "potencia_calorifica": 5,
         "tiempo_minutos": 3
@@ -1915,7 +1915,7 @@
         "paso_numero": 3,
         "instruccion": "Ahora vamos a preparar el relleno de las caracolas. Quitamos la primera capa del puerro y lo limpiamos bien (por si tuviera un poco de tierra). Cortamos la parte blanca en trozos grandes. Introducimos en el vaso y trituramos 5 segundos, velocidad 4. Bajamos los restos de las paredes y la tapa. A parte, lavamos los pimientos y los cortamos en la tabla en cuadraditos (así no nos soltarán agua). Introducimos los pimientos en el vaso y añadimos el aceite. Programamos 10 minutos, velocidad 1, temperatura varoma. Sacamos del vaso y reservamos.",
         "accesorio": "Ninguno",
-        "velocidad": 4,
+        "velocidad": 3,
         "temperatura_c": 120,
         "potencia_calorifica": 5,
         "tiempo_minutos": 8
@@ -1951,7 +1951,7 @@
         "paso_numero": 7,
         "instruccion": "Mientras tenemos las caracolas en el horno vamos a preparar la salsa de cava y azafrán. Introducimos el puerro y el aceite y trituramos 5 segundos, velocidad 5. Bajamos los restos del vaso y la tapa y programamos 10 minutos, velocidad 1, temperatura varoma.",
         "accesorio": "Ninguno",
-        "velocidad": 5,
+        "velocidad": 3,
         "temperatura_c": 120,
         "potencia_calorifica": 5,
         "tiempo_minutos": 10
@@ -1960,7 +1960,7 @@
         "paso_numero": 8,
         "instruccion": "Incorporamos el cava, el caldo de pescado que teníamos reservado, la sal y el azafrán. Programamos 12 minutos, velocidad 1, temperatura varoma.",
         "accesorio": "Ninguno",
-        "velocidad": 1,
+        "velocidad": 3,
         "temperatura_c": 120,
         "potencia_calorifica": 5,
         "tiempo_minutos": 10
@@ -2282,7 +2282,7 @@
         "paso_numero": 3,
         "instruccion": "Ponemos 2000 g de agua en el vaso (no es necesario lavarlo). Colocamos el recipiente Varoma en su posición y programamos 60 minutos, temperatura Varoma, velocidad 1.",
         "accesorio": "Ninguno",
-        "velocidad": 1,
+        "velocidad": 3,
         "temperatura_c": 120,
         "potencia_calorifica": 5,
         "tiempo_minutos": 49
@@ -2291,7 +2291,7 @@
         "paso_numero": 4,
         "instruccion": "Cuando termine el tiempo programado, abrimos la tapa del recipiente Varoma hacia el lado opuesto a nosotros, para evitar quemarnos con el vapor y damos la vuelta a la bolsa con el cordero. Ponemos 150 g más de agua en el vaso y programamos nuevamente 60 minutos, temperatura Varoma, velocidad 1.",
         "accesorio": "Ninguno",
-        "velocidad": 1,
+        "velocidad": 0,
         "temperatura_c": 120,
         "potencia_calorifica": 9,
         "tiempo_minutos": 49
@@ -2398,7 +2398,7 @@
         "paso_numero": 1,
         "instruccion": "Poner el agua en el vaso y programar 8 minutos, temperatura Varoma, velocidad 1.",
         "accesorio": "Ninguno",
-        "velocidad": 1,
+        "velocidad": 3,
         "temperatura_c": 120,
         "potencia_calorifica": 5,
         "tiempo_minutos": 7
@@ -2525,7 +2525,7 @@
         "paso_numero": 2,
         "instruccion": "Sin lavar el vaso, echamos el aceite en el vaso y los ajos. Trituramos 5 segundos, velocidad 6. Bajamos los restos de las paredes y la tapa y programamos 3 minutos, velocidad 1, temperatura Varoma.",
         "accesorio": "Ninguno",
-        "velocidad": 6,
+        "velocidad": 3,
         "temperatura_c": 120,
         "potencia_calorifica": 5,
         "tiempo_minutos": 3
@@ -2552,7 +2552,7 @@
         "paso_numero": 5,
         "instruccion": "Ponemos la mariposa en la thermomix, añadimos los champiñones, la sal, la pimienta y la nuez moscada y programamos 10 minutos, giro a la izquierda, velocidad 1, temperatura Varoma, sin el cubilete puesto, así conseguiremos que evapore el agua que van soltando los champiñones. Miramos que no haya “aguilla”, si no, programamos 2 minutos más.",
         "accesorio": "Pala MamboMix",
-        "velocidad": 1,
+        "velocidad": 3,
         "temperatura_c": 120,
         "potencia_calorifica": 5,
         "tiempo_minutos": 8
@@ -2561,7 +2561,7 @@
         "paso_numero": 6,
         "instruccion": "Añadimos el vino por el bocal y programamos 3 minutos, giro a la izquierda, velocidad 1, temperatura Varoma, también sin cubilete para que se evapore bien el alcohol. Después añadimos la nata y programamos 2 minutos, giro a la izquierda, velocidad 1, temperatura Varoma (ahora sí, con el cubilete puesto). Echamos el contenido en una fuente y mezclamos con el jamón. Rectificamos el punto de sal y reservamos caliente.",
         "accesorio": "Pala MamboMix",
-        "velocidad": 1,
+        "velocidad": 3,
         "temperatura_c": 120,
         "potencia_calorifica": 5,
         "tiempo_minutos": 3
@@ -2969,7 +2969,7 @@
         "paso_numero": 1,
         "instruccion": "Colocamos la mariposa en las cuchillas y echamos en el vaso el aceite y el agua. Programamos 4 minutos, temperatura Varoma, velocidad 1.",
         "accesorio": "Pala MamboMix",
-        "velocidad": 1,
+        "velocidad": 3,
         "temperatura_c": 120,
         "potencia_calorifica": 5,
         "tiempo_minutos": 3
@@ -2978,7 +2978,7 @@
         "paso_numero": 2,
         "instruccion": "Incorporamos las patatas, los pimientos y sal. Programe 13 minutos, temperatura Varoma, velocidad 1.",
         "accesorio": "Ninguno",
-        "velocidad": 1,
+        "velocidad": 3,
         "temperatura_c": 120,
         "potencia_calorifica": 5,
         "tiempo_minutos": 13
@@ -3005,7 +3005,7 @@
         "paso_numero": 5,
         "instruccion": "Sin lavar el vaso, echamos el agua y situamos el recipiente Varoma en su posición. Programamos 20 minutos, temperatura Varoma, velocidad 1.",
         "accesorio": "Ninguno",
-        "velocidad": 1,
+        "velocidad": 3,
         "temperatura_c": 120,
         "potencia_calorifica": 5,
         "tiempo_minutos": 16
@@ -3083,7 +3083,7 @@
         "paso_numero": 3,
         "instruccion": "Añadir el aceite y sofreírlos durante 3 minutos, temperatura Varoma, velocidad 2.",
         "accesorio": "Ninguno",
-        "velocidad": 2,
+        "velocidad": 3,
         "temperatura_c": 120,
         "potencia_calorifica": 5,
         "tiempo_minutos": 3
@@ -3092,7 +3092,7 @@
         "paso_numero": 4,
         "instruccion": "Transcurrido el tiempo añadir la harina y programar de nuevo 4 minutos, temperatura Varoma, velocidad 2.",
         "accesorio": "Ninguno",
-        "velocidad": 2,
+        "velocidad": 3,
         "temperatura_c": 120,
         "potencia_calorifica": 5,
         "tiempo_minutos": 4
@@ -3253,7 +3253,7 @@
         "paso_numero": 12,
         "instruccion": "Programamos 10 minutos, velocidad 1, temperatura varoma. Cuando termine sacamos del vaso y escurrimos el puerro si le sobra algo de aceite y dejamos templar.",
         "accesorio": "Ninguno",
-        "velocidad": 1,
+        "velocidad": 3,
         "temperatura_c": 120,
         "potencia_calorifica": 5,
         "tiempo_minutos": 10
@@ -3367,7 +3367,7 @@
         "paso_numero": 6,
         "instruccion": "Ponemos el agua en el vaso, colocamos el recipiente varoma encima y programamos 40 minutos, temperatura varoma, velocidad 2.",
         "accesorio": "Ninguno",
-        "velocidad": 2,
+        "velocidad": 3,
         "temperatura_c": 120,
         "potencia_calorifica": 5,
         "tiempo_minutos": 33
@@ -3583,7 +3583,7 @@
         "paso_numero": 1,
         "instruccion": "Echamos en el vaso de la Thermomix las cáscaras, las cabezas de las gambas, 1 puerro troceado y el aceite y programamos 5 minutos, temperatura Varoma, velocidad 4.",
         "accesorio": "Ninguno",
-        "velocidad": 4,
+        "velocidad": 3,
         "temperatura_c": 120,
         "potencia_calorifica": 5,
         "tiempo_minutos": 5
@@ -3601,7 +3601,7 @@
         "paso_numero": 3,
         "instruccion": "Después, incorporamos el agua, el brandy, los huesos de rape (opcional), la sal y el perejil. Colocamos el recipiente varoma con los mejillones encima y programamos 10 minutos, 100º, velocidad 2. A veces se sale por el bocal cuando lleva un tiempo hirviendo, si os pasa esto, bajad la temperatura a 90º.",
         "accesorio": "Ninguno",
-        "velocidad": 2,
+        "velocidad": 3,
         "temperatura_c": 120,
         "potencia_calorifica": 9,
         "tiempo_minutos": 8
@@ -3646,7 +3646,7 @@
         "paso_numero": 8,
         "instruccion": "Añadir 3/4 del fumet de marisco que teníamos reservado (nunca sobrepaséis la marca de 1,5 litros, si no, se nos desbordará cuando añadamos los pescados). Poner el recipiente Varoma con la merluza, el rape y las gambas (guardad alguna para adornar el plato después). Programar 10 minutos a temperatura Varoma y velocidad 1. Vigilar que no se salga por el bocal cuando hierva, si es así, bajad la temperatura a 90º.",
         "accesorio": "Ninguno",
-        "velocidad": 1,
+        "velocidad": 3,
         "temperatura_c": 120,
         "potencia_calorifica": 5,
         "tiempo_minutos": 10
@@ -3664,7 +3664,7 @@
         "paso_numero": 10,
         "instruccion": "Cuando termine el tiempo, incorporar al vaso los pescados que teníamos en el Varoma y los mejillones (dejad alguno para decorar). Dejar que baje la temperatura a unos 80º y triturar 30 segundos a velocidad 7.",
         "accesorio": "Cuchillas",
-        "velocidad": 7,
+        "velocidad": 3,
         "temperatura_c": 120,
         "potencia_calorifica": 5,
         "tiempo_minutos": 10
@@ -3972,7 +3972,7 @@
         "paso_numero": 1,
         "instruccion": "Añadimos el agua y el vinagre al vaso, colocamos el cestillo con los huevos de codorniz dentro, tapamos y programamos 13 minutos, velocidad 2, temperatura varoma. Según la temperatura que tenga el agua cuando la pongáis (fría, del tiempo o caliente) tardará más o menos en llegar a la temperatura varoma. Así que como indicación os digo que los huevos de codorniz, como son pequeñitos, se cuecen en 4 minutos a temperatura Varoma. Por eso, los 13 minutos que os digo son orientativos, así que controlad que una vez que se ha iluminado la luz de varoma contad que estén 4 o 5 minutos.",
         "accesorio": "Ninguno",
-        "velocidad": 2,
+        "velocidad": 3,
         "temperatura_c": 120,
         "potencia_calorifica": 5,
         "tiempo_minutos": 11
@@ -4057,7 +4057,7 @@
         "paso_numero": 2,
         "instruccion": "Ponemos el aceite en el vaso y programamos 5 minutos, temperatura varoma, velocidad 1.",
         "accesorio": "Ninguno",
-        "velocidad": 1,
+        "velocidad": 3,
         "temperatura_c": 120,
         "potencia_calorifica": 5,
         "tiempo_minutos": 5
@@ -4075,7 +4075,7 @@
         "paso_numero": 4,
         "instruccion": "Incorporamos la guindilla y las gulas para sofreír, 3 minutos, temperatura varoma, giro a la izquierda, velocidad 1. En los últimos 15 segundos, agregamos por el bocal en vinagre.",
         "accesorio": "Pala MamboMix",
-        "velocidad": 1,
+        "velocidad": 3,
         "temperatura_c": 120,
         "potencia_calorifica": 5,
         "tiempo_minutos": 3
@@ -4119,7 +4119,7 @@
         "paso_numero": 1,
         "instruccion": "Calienta el aceite 5 minutos, temperatura Varoma, velocidad 1.",
         "accesorio": "Ninguno",
-        "velocidad": 1,
+        "velocidad": 3,
         "temperatura_c": 120,
         "potencia_calorifica": 5,
         "tiempo_minutos": 5
@@ -4128,7 +4128,7 @@
         "paso_numero": 2,
         "instruccion": "Echamos los ajos y el pan, programamos 12 minutos temperatura Varoma, velocidad 1.",
         "accesorio": "Ninguno",
-        "velocidad": 1,
+        "velocidad": 3,
         "temperatura_c": 120,
         "potencia_calorifica": 5,
         "tiempo_minutos": 12
@@ -4326,7 +4326,7 @@
         "paso_numero": 3,
         "instruccion": "Volvemos a programar otros 10 minutos, a temperatura varoma y velocidad 2.",
         "accesorio": "Ninguno",
-        "velocidad": 2,
+        "velocidad": 3,
         "temperatura_c": 120,
         "potencia_calorifica": 5,
         "tiempo_minutos": 10
@@ -4409,7 +4409,7 @@
         "paso_numero": 3,
         "instruccion": "Ponemos los ajos en el vaso y programamos 5 segundos, velocidad 7. Bajamos los restos de ajo hacia las cuchillas y añadimos el aceite, programamos 5 minutos, temperatura varoma, velocidad 2.",
         "accesorio": "Ninguno",
-        "velocidad": 7,
+        "velocidad": 3,
         "temperatura_c": 120,
         "potencia_calorifica": 5,
         "tiempo_minutos": 5
@@ -4534,7 +4534,7 @@
         "paso_numero": 6,
         "instruccion": "Pon en el vaso el agua y las piruletas troceadas. Programa 4-5 minutos, varoma, velocidad 2 (hasta que se haya disuelto bien el caramelo en el agua) Agrega la gelatina escurrida y mezcla unos segundos en velocidad 3. Echa el licor, vuelve a mezclar unos segundos a la misma velocidad y une a los demás ingredientes que tienes en el bol.",
         "accesorio": "Ninguno",
-        "velocidad": 2,
+        "velocidad": 3,
         "temperatura_c": 120,
         "potencia_calorifica": 5,
         "tiempo_minutos": 4
@@ -4688,7 +4688,7 @@
         "paso_numero": 1,
         "instruccion": "Ponemos el aceite en el vaso, la cebolla y el ajo. Trituramos 5 segundos, velocidad 5 y programamos 3 minutos, temperatura varoma, velocidad 1.",
         "accesorio": "Ninguno",
-        "velocidad": 5,
+        "velocidad": 3,
         "temperatura_c": 120,
         "potencia_calorifica": 5,
         "tiempo_minutos": 3
@@ -4697,7 +4697,7 @@
         "paso_numero": 2,
         "instruccion": "Añadimos el resto de ingredientes, tapamos y colocamos el cestillo sobre la tapa apoyando las 4 patitas para facilitar la evaporación y evitar salpicaduras. Programamos 35 minutos, temperatura varoma, velocidad 1.",
         "accesorio": "Ninguno",
-        "velocidad": 1,
+        "velocidad": 3,
         "temperatura_c": 120,
         "potencia_calorifica": 5,
         "tiempo_minutos": 35
@@ -4742,7 +4742,7 @@
         "paso_numero": 7,
         "instruccion": "Secamos bien el vaso y echamos el aceite de las dos latas de atún. Programamos 4 minutos, varoma, velocidad 1.",
         "accesorio": "Ninguno",
-        "velocidad": 1,
+        "velocidad": 3,
         "temperatura_c": 120,
         "potencia_calorifica": 5,
         "tiempo_minutos": 4
@@ -4751,7 +4751,7 @@
         "paso_numero": 8,
         "instruccion": "Mientras lavamos los espárragos y los cortamos con un cuchillo el trozos grandes. Los echamos en el vaso, ponemos una pizca de sal y pimienta y programamos 4 minutos, varoma, velocidad 1, giro a la izquierda.",
         "accesorio": "Pala MamboMix",
-        "velocidad": 1,
+        "velocidad": 3,
         "temperatura_c": 120,
         "potencia_calorifica": 5,
         "tiempo_minutos": 4
@@ -4760,7 +4760,7 @@
         "paso_numero": 9,
         "instruccion": "Añadimos el atún de las latas y programamos 2 minutos, varoma, velocidad 1, giro a la izquierda.",
         "accesorio": "Pala MamboMix",
-        "velocidad": 1,
+        "velocidad": 3,
         "temperatura_c": 120,
         "potencia_calorifica": 5,
         "tiempo_minutos": 2
@@ -4934,7 +4934,7 @@
         "paso_numero": 1,
         "instruccion": "Pon el aceite, la cáscara del limón y la matalauva en el vaso programar 5 minutos, temperatura Varoma, velocidad 1.",
         "accesorio": "Ninguno",
-        "velocidad": 1,
+        "velocidad": 3,
         "temperatura_c": 120,
         "potencia_calorifica": 5,
         "tiempo_minutos": 5
@@ -5048,7 +5048,7 @@
         "paso_numero": 6,
         "instruccion": "Poner en el vaso agua hasta la marca de 1 litro. Cerrar el vaso y colocar el Varoma en su posición. Programar 40 minutos, temperatura Varoma, velocidad 2.",
         "accesorio": "Ninguno",
-        "velocidad": 2,
+        "velocidad": 3,
         "temperatura_c": 120,
         "potencia_calorifica": 5,
         "tiempo_minutos": 33
@@ -5110,7 +5110,7 @@
         "paso_numero": 2,
         "instruccion": "Sin lavar el vaso, ponemos la mariposa en las cuchillas, echamos los 100 g de agua y 100 g de aceite y el avecrem (o caldo de carne casero) y programamos 4 minutos, temperatura varoma y velocidad 1.",
         "accesorio": "Pala MamboMix",
-        "velocidad": 1,
+        "velocidad": 3,
         "temperatura_c": 120,
         "potencia_calorifica": 5,
         "tiempo_minutos": 3
@@ -5237,7 +5237,7 @@
         "paso_numero": 1,
         "instruccion": "Verter en el vaso 500 g de agua. Echar un pellizco de sal y calentar durante 5 minutos, temperatura Varoma, velocidad 1.",
         "accesorio": "Ninguno",
-        "velocidad": 1,
+        "velocidad": 3,
         "temperatura_c": 120,
         "potencia_calorifica": 5,
         "tiempo_minutos": 4
@@ -5744,7 +5744,7 @@
         "paso_numero": 3,
         "instruccion": "Añadimos el aceite y sofreimos 7 minutos, temperatura varoma, velocidad 1.",
         "accesorio": "Ninguno",
-        "velocidad": 1,
+        "velocidad": 3,
         "temperatura_c": 120,
         "potencia_calorifica": 5,
         "tiempo_minutos": 7
@@ -5885,7 +5885,7 @@
         "paso_numero": 5,
         "instruccion": "Añadir el agua, salpimentar y programar 3 minutos, temperatura varoma, velocidad 1.",
         "accesorio": "Ninguno",
-        "velocidad": 1,
+        "velocidad": 3,
         "temperatura_c": 120,
         "potencia_calorifica": 5,
         "tiempo_minutos": 2
@@ -6680,7 +6680,7 @@
         "paso_numero": 6,
         "instruccion": "Mientras pelar las patatas, lavarlas, trocearlas y añadirlas junto con el pavo al vaso. Incorporar el vino blanco y programar 2 minutos, temperatura Varoma, velocidad 1, giro a la izquierda.",
         "accesorio": "Pala MamboMix",
-        "velocidad": 1,
+        "velocidad": 3,
         "temperatura_c": 120,
         "potencia_calorifica": 5,
         "tiempo_minutos": 2
@@ -6881,7 +6881,7 @@
         "paso_numero": 1,
         "instruccion": "Echamos en el vaso, el agua y lo programamos 10 minutos, temperatura varoma y velocidad 1.",
         "accesorio": "Ninguno",
-        "velocidad": 1,
+        "velocidad": 3,
         "temperatura_c": 120,
         "potencia_calorifica": 5,
         "tiempo_minutos": 8
@@ -7376,7 +7376,7 @@
         "paso_numero": 2,
         "instruccion": "Ponemos a cocinar 30 minutos, velocidad 1, temperatura varoma.",
         "accesorio": "Ninguno",
-        "velocidad": 1,
+        "velocidad": 3,
         "temperatura_c": 120,
         "potencia_calorifica": 5,
         "tiempo_minutos": 30
@@ -7677,7 +7677,7 @@
         "paso_numero": 4,
         "instruccion": "Añadir los champiñones y rehogarlos durante 3 minutos, temperatura Varoma, velocidad 1, giro a la izquierda, sin cubilete.",
         "accesorio": "Pala MamboMix",
-        "velocidad": 1,
+        "velocidad": 3,
         "temperatura_c": 120,
         "potencia_calorifica": 5,
         "tiempo_minutos": 3
@@ -8003,7 +8003,7 @@
         "paso_numero": 4,
         "instruccion": "Colocamos el recipiente varoma en su posición y programamos 25 minutos, varoma, velocidad 1. Una vez acabado el tiempo, retiramos el varoma y extraemos el cestillo. Vaciamos el vaso.",
         "accesorio": "Ninguno",
-        "velocidad": 1,
+        "velocidad": 3,
         "temperatura_c": 120,
         "potencia_calorifica": 5,
         "tiempo_minutos": 25
@@ -8163,7 +8163,7 @@
         "paso_numero": 2,
         "instruccion": "Programamos 7 minutos, varoma, velocidad 1. Los ajos deben quedar doraditos, así que si con los 7 minutos no están, ponedle un poquito más. Lo dejamos en el vaso.",
         "accesorio": "Ninguno",
-        "velocidad": 1,
+        "velocidad": 3,
         "temperatura_c": 120,
         "potencia_calorifica": 5,
         "tiempo_minutos": 7
@@ -8388,7 +8388,7 @@
         "paso_numero": 3,
         "instruccion": "Agrega el aceite, programa 9 minutos, temperatura Varoma, velocidad 1.",
         "accesorio": "Ninguno",
-        "velocidad": 1,
+        "velocidad": 3,
         "temperatura_c": 120,
         "potencia_calorifica": 5,
         "tiempo_minutos": 9
@@ -8406,7 +8406,7 @@
         "paso_numero": 5,
         "instruccion": "Pon el recipiente varoma, programa 18 minutos, temperatura Varoma, velocidad 2.",
         "accesorio": "Ninguno",
-        "velocidad": 2,
+        "velocidad": 3,
         "temperatura_c": 120,
         "potencia_calorifica": 5,
         "tiempo_minutos": 18

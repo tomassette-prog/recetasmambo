@@ -49,15 +49,6 @@ function fixStep(step: any): any {
   return step;
 }
 
-import fs from "node:fs";
-import path from "node:path";
-
-const STORE_PATH = path.join(process.cwd(), "data", "recipes.json");
-
-function norm(s: string): string {
-  return s.normalize("NFD").replace(/\p{Diacritic}/gu, "").toLowerCase();
-}
-
 function fixEncoding(text: string): string {
   // Fix common UTF-8 double-encoding issues
   const map: Record<string, string> = {
@@ -124,12 +115,12 @@ function guessCategory(title: string, ingredients: string[], instructions: strin
 }
 
 function main() {
-  if (!fs.existsSync(STORE_PATH)) {
+  if (!fs.existsSync(DATA_PATH)) {
     console.log("No recipes.json found.");
     return;
   }
 
-  const recipes = JSON.parse(fs.readFileSync(STORE_PATH, "utf-8"));
+  const recipes = JSON.parse(fs.readFileSync(DATA_PATH, "utf-8"));
   let fixed = 0;
 
   for (const r of recipes) {
@@ -152,10 +143,10 @@ function main() {
     if (r.titulo !== oldTitulo) fixed++;
   }
 
-  fs.writeFileSync(STORE_PATH, JSON.stringify(recipes, null, 2), "utf-8");
+  fs.writeFileSync(DATA_PATH, JSON.stringify(recipes, null, 2), "utf-8");
 
   console.log(`✅ Fixed ${fixed} recipes (encoding + categories)`);
-  console.log(`📁 ${STORE_PATH}`);
+  console.log(`📁 ${DATA_PATH}`);
 
   // Show category distribution
   const cats: Record<string, number> = {};
