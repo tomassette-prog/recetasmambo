@@ -23,12 +23,8 @@ export const metadata: Metadata = {
     siteName: "Recetas Mambo",
     url: "https://recetasmambo.com",
   },
-  verification: {
-    other: {
-      "p:domain_verify": "357d65755cb3404fd61f33139c400c5f",
-    },
-  },
   other: {
+    "p:domain_verify": "357d65755cb3404fd61f33139c400c5f",
     "pinterest-rich-pin": "true",
   },
 };
