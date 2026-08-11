@@ -58,7 +58,13 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
             </div>
           </div>
           <div className="border-t border-gray-800 text-center text-xs text-gray-500 py-5">
-            © {new Date().getFullYear()} Recetas Mambo. Todos los derechos reservados.
+            <div className="mb-2 space-x-4">
+              <Link href="/privacidad" className="hover:text-white transition-colors">Privacidad</Link>
+              <Link href="/aviso-legal" className="hover:text-white transition-colors">Aviso Legal</Link>
+              <Link href="/cookies" className="hover:text-white transition-colors">Cookies</Link>
+              <a href="/feed.xml" className="hover:text-white transition-colors">RSS</a>
+            </div>
+            © {new Date().getFullYear()} Recetas Mambo — Recetas de Thermomix adaptadas a Mambo Cooking Total Gourmet.
           </div>
         </footer>
       </body>

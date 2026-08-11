@@ -23,6 +23,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${base}/recetas`, changeFrequency: "daily", priority: 0.9 },
     { url: `${base}/categorias`, changeFrequency: "weekly", priority: 0.7 },
     { url: `${base}/convertir`, changeFrequency: "monthly", priority: 0.5 },
+    { url: `${base}/privacidad`, changeFrequency: "yearly", priority: 0.2 },
+    { url: `${base}/aviso-legal`, changeFrequency: "yearly", priority: 0.2 },
+    { url: `${base}/cookies`, changeFrequency: "yearly", priority: 0.2 },
     ...cats,
     ...recipes,
   ];
