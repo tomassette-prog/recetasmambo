@@ -58,6 +58,7 @@ async function captureWithPlaywright(
   destPath: string
 ): Promise<boolean> {
   try {
+    // @ts-ignore - playwright is optional, used only for fallback
     const { chromium } = await import("playwright");
     const browser = await chromium.launch({ headless: true });
     const page = await browser.newPage();
