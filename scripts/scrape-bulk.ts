@@ -59,12 +59,16 @@ const SOURCES = [
     sitemap: "https://www.thermorecetas.com/sitemap_index.xml",
     baseUrl: "https://www.thermorecetas.com",
   },
-  // Sources removed — thermomix.es redirects to vorwerk.com,
-  // recetas-thermomix.net sitemap returns 0 URLs
-  // To add new sources, they MUST have:
-  //   1. Thermomix-specific recipes (with velocidad/temperatura instructions)
-  //   2. JSON-LD Recipe schema on recipe pages
-  //   3. An accessible sitemap.xml
+  {
+    name: "misthermorecetas",
+    sitemap: "https://www.misthermorecetas.com/sitemap_index.xml",
+    baseUrl: "https://www.misthermorecetas.com",
+  },
+  {
+    name: "velocidadcuchara",
+    sitemap: "https://www.velocidadcuchara.com/sitemap.xml",
+    baseUrl: "https://www.velocidadcuchara.com",
+  },
 ];
 
 // ---------------------------------------------------------------------------
