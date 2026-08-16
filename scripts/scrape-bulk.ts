@@ -3,7 +3,7 @@
  * extracts JSON-LD Recipe data, converts to Mambo format,
  * and saves to the persistent JSON store.
  *
- * Usage: npx tsx scripts/scrape-bulk.ts [--limit 20] [--source thermorecetas]
+ * Usage: npx tsx scripts/scrape-bulk.ts [--limit 10] [--source thermorecetas]
  */
 
 import fs from "node:fs";
@@ -438,7 +438,7 @@ function saveStore(recipes: Recipe[]): void {
 async function main() {
   const args = process.argv.slice(2);
   const limitIdx = args.indexOf("--limit");
-  const limit = limitIdx >= 0 ? parseInt(args[limitIdx + 1], 10) : 20;
+  const limit = limitIdx >= 0 ? parseInt(args[limitIdx + 1], 10) : 10;
   const sourceIdx = args.indexOf("--source");
   const sourceFilter = sourceIdx >= 0 ? args[sourceIdx + 1] : null;
 

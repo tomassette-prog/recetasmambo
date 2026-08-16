@@ -23,13 +23,13 @@ async function main() {
   console.log("─".repeat(50));
 
   // 1. Scrape new recipes (100 per source)
-  run("npx tsx scripts/scrape-bulk.ts --limit 20");
+  run("npx tsx scripts/scrape-bulk.ts --limit 10");
 
   // 2. Enrich images (download from source pages)
-  run("npx tsx scripts/enrich-images.ts --limit 20");
+  run("npx tsx scripts/enrich-images.ts --limit 10");
 
   // 3. Download images locally
-  run("npx tsx scripts/download-images.ts --limit 20");
+  run("npx tsx scripts/download-images.ts --limit 10");
 
   // 4. Fix categories, encoding, and conversion rules
   run("npx tsx scripts/fix-recipes.ts");
