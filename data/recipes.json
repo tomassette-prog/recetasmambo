@@ -1131,7 +1131,7 @@
         "paso_numero": 3,
         "instruccion": "Añadir los 15 g de aceite y pochar el puerro durante 5 minutos, 100º a velocidad cuchara.",
         "accesorio": "Pala MamboMix",
-        "velocidad": 2,
+        "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
         "tiempo_minutos": 5
@@ -2774,7 +2774,7 @@
         "paso_numero": 4,
         "instruccion": "Poner las uvas y las ciruelas pasas, la cucharita de especias, la ralladura y el zumo de naranja y las dos cucharadas de Oporto en el vaso. Programar durante 5 minutos, 90º, velocidad cuchara y giro a la izquierda para que las frutas se hinchen con el líquido.",
         "accesorio": "Pala MamboMix",
-        "velocidad": 5,
+        "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
         "tiempo_minutos": 5
@@ -2902,7 +2902,7 @@
         "paso_numero": 4,
         "instruccion": "Agregamos el sobre de azafrán molido, el vino blanco y caldo hirviendo (yo lo calenté muy bien en el microondas, pero podéis ponerlo al fuego también). Programamos 16 minutos, temperatura 100º, giro a la izquierda y velocidad cuchara.",
         "accesorio": "Pala MamboMix",
-        "velocidad": 0,
+        "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 9,
         "tiempo_minutos": 13
@@ -4594,7 +4594,7 @@
         "paso_numero": 2,
         "instruccion": "Añadir el aceite y rehogar durante 6 minutos, 100º a velocidad cuchara.",
         "accesorio": "Pala MamboMix",
-        "velocidad": 2,
+        "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
         "tiempo_minutos": 6
@@ -7650,7 +7650,7 @@
         "paso_numero": 1,
         "instruccion": "Colocar 1 litro de agua en el vaso. Programar 8 minutos a 100º velocidad 2. Incorporar la pasta y programar el tiempo indicado en el paquete, 100º, velocidad cuchara y giro a la izquierda. Poner el cubilete inclinado para que el agua no salga por arriba. Terminado el tiempo, escurrir la pasta y reservar.",
         "accesorio": "Pala MamboMix",
-        "velocidad": 2,
+        "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
         "tiempo_minutos": 7
@@ -13766,7 +13766,7 @@
         "paso_numero": 4,
         "instruccion": "Vaciar el agua del vaso. Pelar y trocear la cebolla, añadirla al vaso junto con el aceite. Picarla durante 4 segundos a velocidad 5. Bajar los trocitos hacia las cuchillas y pocharla durante 5 minutos, 100º y velocidad cuchara.",
         "accesorio": "Pala MamboMix",
-        "velocidad": 5,
+        "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
         "tiempo_minutos": 4
@@ -16414,7 +16414,7 @@
         "paso_numero": 4,
         "instruccion": "Una vez pochada la cebolla añadir la nata y la mostaza. Colocar los guisantes congelados en el cestillo y poner este dentro del vaso. Cerrar y programar 7 minutos, 90º y velocidad cuchara. Terminado el tiempo la crema estará suave. Si queremos podemos triturar durante 10 segundos a velocidad 5.",
         "accesorio": "Pala MamboMix",
-        "velocidad": 5,
+        "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 4,
         "tiempo_minutos": 7
@@ -16594,7 +16594,7 @@
         "paso_numero": 1,
         "instruccion": "Lavar bien el puerro y trocearlo grueso. Ponerlo en el vaso junto con 10 g de aceite de oliva. Programar 7 segundos, velocidad 5. Bajar con la espátula los trocitos hacia las cuchillas. Pochar durante 10 minutos, 100º y velocidad cuchara.",
         "accesorio": "Pala MamboMix",
-        "velocidad": 5,
+        "velocidad": 1,
         "temperatura_c": 100,
         "potencia_calorifica": 5,
         "tiempo_minutos": 10

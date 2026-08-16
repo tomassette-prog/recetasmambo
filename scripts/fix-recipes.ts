@@ -18,6 +18,16 @@ function norm(s: string): string {
 function fixStep(step: any): any {
   const t = norm(step.instruccion || "");
 
+  // Giro a la izquierda (Thermomix) → Pala MamboMix (Mambo)
+  if (/\b(giro.*izquierda|izquierda)\b/.test(t)) {
+    step.accesorio = "Pala MamboMix";
+  }
+
+  // Velocidad cuchara (Thermomix) → Vel. 1 (Mambo)
+  if (/\bvelocidad\s*cuchara\b/.test(t)) {
+    step.velocidad = 1;
+  }
+
   // Varoma → 120°C, Vel. 3
   if (/\bvaroma\b/.test(t)) {
     step.temperatura_c = 120;
