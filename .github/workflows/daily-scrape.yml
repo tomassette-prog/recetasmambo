@@ -25,14 +25,14 @@ jobs:
         run: npx playwright install chromium --with-deps
 
       - name: Scrape new recipes
-        run: npx tsx scripts/scrape-bulk.ts --limit 100
+        run: npx tsx scripts/scrape-bulk.ts --limit 20
 
       - name: Enrich images from source pages
-        run: npx tsx scripts/enrich-images.ts --limit 100
+        run: npx tsx scripts/enrich-images.ts --limit 20
         continue-on-error: true
 
       - name: Download recipe images locally
-        run: npx tsx scripts/download-images.ts --limit 100
+        run: npx tsx scripts/download-images.ts --limit 20
         continue-on-error: true
 
       - name: Fix categories, encoding, conversion rules
