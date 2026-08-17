@@ -16847,5 +16847,528 @@
     ],
     "fuente_url": "https://www.thermorecetas.com/tacos-mexicanos/",
     "creado_en": "2026-08-16"
+  },
+  {
+    "id": "4d834710-0c86-43e4-af0c-891c7ee86b5d",
+    "slug": "sandwich-de-manzana-roquefort-y-nueces",
+    "titulo": "Sándwich de manzana, roquefort y nueces",
+    "descripcion": "Receta de Sándwich de manzana, roquefort y nueces adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/06/sandwich-manzana-roquefort-nueces-Mayra-Fdez-Joglar.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 2,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "200 g de queso de untar",
+      "100 g de queso Roquefort",
+      "6 nueces peladas",
+      "½ manzana Granny Smith",
+      "zumo de limón"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Poner las nueces peladas en el vaso y picarlas durante 3 segundos a velocidad 4. Retirar y reservar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Pelar la manzana y cortarla en trozos grandes. Rociarla con un chorrito de zumo de limón para que no se oxide. Escurrir y reservar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Colocar la mariposa en las cuchillas. Poner en el vaso los dos quesos y mezclar durante 30 segundos, velocidad 3.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Retirar la mariposa e incorporar la manzana. Programar 10 segundos, velocidad 3. Bajar los trocitos hacia las cuchillas.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Añadir las nueces reservadas y mezclar durante 5 segundos, velocidad 2, giro a la izquierda. Acabar de mezclar con la espátula. Poner en un cuenco y dejar enfriar en la nevera.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "A la hora de servir también se pueden utilizar tostadas o galletas saladas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/sandwich-de-manzana-roquefort-y-nueces/",
+    "creado_en": "2026-08-17"
+  },
+  {
+    "id": "a243440d-6636-432c-8b84-9fc2142fbd01",
+    "slug": "pan-de-molde-saludable",
+    "titulo": "Pan de molde saludable",
+    "descripcion": "Receta de Pan de molde saludable adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/05/pan-de-molde-saludable.jpg",
+    "categoria": "panes-masas",
+    "tiempo_total_min": 4,
+    "comensales": 10,
+    "dificultad": "Media",
+    "ingredientes": [
+      "100 g de agua",
+      "20 g de levadura fresca prensada de panadería",
+      "1 cucharadita de azúcar",
+      "130 g de harina de fuerza",
+      "250 g de agua",
+      "1 cucharadita de azúcar",
+      "20 g de aceite de oliva virgen extra",
+      "1 cucharadita de sal",
+      "500 g de harina de fuerza",
+      "Aceite para pintar el molde"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos en el vaso todos los ingredientes de la masa madre y programamos 30 segundos, velocidad 4. Dejamos reposar en el vaso hasta que doble su volumen (unos 30 minutos).",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 30
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Añadimos todos los ingredientes de la masa de pan y programamos 2 minutos, vaso cerrado, velocidad espiga.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 2
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Dejamos reposar la masa dentro del vaso hasta que doble su volumen (30 minutos aproximadamente).",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 30
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Engrasamos el molde con aceite. Hacemos una bola con la masa y le damos forma alargada. La colocamos dentro del molde empujándola bien con las manos para que cubra toda la superficie del molde. Dejamos el pan en un sitio cálido, sin corrientes de aire, hasta que doble su volumen (una hora o algo más).",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Precalentamos el horno a 200º y horneamos durante 30 o 40 minutos aproximadamente. Cuando veamos que el pan está hecho, lo sacamos del horno, lo desmoldamos todavía en caliente y lo dejamos enfriar sobre una rejilla.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 40
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Con esta cantidad de masa tenemos para hacer un pan de molde grande (31x15x10 cm) o dos pequeños (25x11x7,5 cms).",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/pan-de-molde-saludable/",
+    "creado_en": "2026-08-17"
+  },
+  {
+    "id": "68c2cd84-c07d-4322-b96c-07a9eb4425cf",
+    "slug": "copa-de-aguacate-y-fresas",
+    "titulo": "Copa de aguacate y fresas",
+    "descripcion": "Receta de Copa de aguacate y fresas adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/06/copa-aguacate-fresas-Mayra-Fdez-Joglar.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 3,
+    "comensales": 2,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "200 g de pulpa de aguacate",
+      "½ yogur natural",
+      "30 g de zumo de naranja",
+      "1 chorro de zumo de limón",
+      "50 g de azúcar glas",
+      "125 g de fresas",
+      "Unas hojas de hierbabuena para decorar"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Lavar y secar con papel de cocina las hojas de hierbabuena. Reservar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Hacer lo mismo con las fresas. Retirarles los tallos y picarlas en trozos menudos. Colocarlos en el fondo de la copa, reservando algunos trozos para la decoración.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Cortar el aguacate por la mitad, retirar el hueso y extraer la pulpa con la ayuda de una cuchara.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Poner la pulpa en el vaso con el azúcar y el zumo de las frutas. Programar 30 segundos, velocidad 3. Bajar los trocitos hacia las cuchillas y volver a programar otros 30 segundos a velocidad 3.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Añadir el yogur natural y mezclar durante 15 segundos a velocidad 2.",
+        "accesorio": "Cuchillas",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Pasar esta mezcla por un tamiz de malla fina para eliminar todos posibles grumos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Rellenar las copas con esta crema y terminar decorando con los trocitos de fresas y las hojitas de hierbabuena que teníamos reservadas.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Reservar en la nevera como mucho un par de horas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/copa-aguacate-y-fresas/",
+    "creado_en": "2026-08-17"
+  },
+  {
+    "id": "751f4d7e-b00a-41e3-adc3-fb90eeff14ab",
+    "slug": "fondant-de-nubes",
+    "titulo": "Fondant de nubes",
+    "descripcion": "Receta de Fondant de nubes adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/06/fondant-de-nubes.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 5,
+    "comensales": 8,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "250 g de nubes blancas",
+      "500 g de azúcar glas (comprada, no hecha en Thermomix)",
+      "2 cucharadas de agua",
+      "Maicena",
+      "Colorante alimentario"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "La masa hay que hacerla el día anterior a cuando queramos trabajarla ya que el fondant debe reposar 24 horas en la nevera. Las nubes las encontramos en supermercados. Lo ideal es que sean blancas pero si las encontráis blancas-rosas también nos valen, sabiendo que tendréis que cortarlas para utilizar sólo la parte blanca.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1440
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Echamos en el vaso las nubes y el agua y programamos 5 minutos, 90º, velocidad 2. Si queréis hacer otra cantidad tened en cuenta que hay que echar el doble de azúcar que de nubes",
+        "accesorio": "Cuchillas",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 4
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Ponemos el azúcar glass en la mesa de trabajo dándole forma de montañita. Hacemos un agujero en el centro y ahí ponemos la mezcla que acabamos de hacer con las nubes y el agua. Ahora hay que ir mezclando -os aconsejo que para ello os ayudéis de una espátula o, si no tenéis, de una tarjeta (yo lo hice con la de Ikea). Tened siempre a mano la Maicena porque el mejunje es muy pegajoso.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "La Maicena nos servirá para que la masa no se pegue así que la utilizamos para ponerla sobre la encimera, en el rodillo, en nuestras manos…",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Cuando tengamos lista la masa (debe parecerse a cualquier masa de modelar) le damos forma de bola, la envolvemos en papel film, la metemos en una bolsa de plástico y a la nevera. Ahí estará hasta el día siguiente.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Pasadas las 24 horas sacamos nuestra masa de la nevera. Ahora toca trabajarla. Si la masa está muy dura la podemos meter unos segundos al microondas. La trabajamos como si fuera plastilina. Podemos utilizar colorantes alimentarios para cambiar el color de la masa -la masa es blanca así que, cuando sepamos lo qué queremos hacer, la dividimos y vamos haciendo fondant de colores, según nuestras necesidades. Estiramos con el rodillo la pasta ya coloreada y le damos la forma que queremos -podemos utilizar cortapastas-.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1440
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Para que el fondant se pegue a nuestra tarta, magdalena, bizcocho… os aconsejo utilizar crema de cacao (Nutella, Nocilla o similares) blanca. Extendemos la crema por la superficie que queramos cubrir y luego ponemos nuestra decoración de fondant.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Y ya solo nos queda disfrutar al ver la cara de nuestros comensales.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/fondant-de-nubes/",
+    "creado_en": "2026-08-17"
+  },
+  {
+    "id": "4b4d5c9d-38cc-4353-802c-69586c6a9e94",
+    "slug": "bizcochitos-integrales-de-naranja",
+    "titulo": "Bizcochitos integrales de naranja",
+    "descripcion": "Receta de Bizcochitos integrales de naranja adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/06/BIZCOCHITOS_INTEGRALES_DE_NARANJA.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 5,
+    "comensales": 20,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "110 g de mantequilla ambiente",
+      "150 g de azúcar morena",
+      "2 huevos",
+      "150 g de harina de espelta",
+      "125 g de harina blanca",
+      "90 g de leche",
+      "Zumo de media naranja",
+      "Ralladura de media naranja",
+      "2 cucharaditas de levadura química en polvo"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Tamizamos la harina y la levadura. Reservar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Batimos la mantequilla ambiente con el azúcar 2 minutos a velocidad 3 hasta obtener una crema.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 182
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Añadimos los huevos y batimos 1 minuto a velocidad 3.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Incorporamos la leche, el zumo y la ralladura de naranja, mezclamos 30 segundos a velocidad 3.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Por ultimo añadimos las harinas tamizadas y la levadura, y mezclamos 1 minuto a velocidad 3.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Dejamos reposar en la nevera 30 minutos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 30
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Rellenamos los moldes como a la mitad.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Con el horno precalentado a 180º, cocinar unos 20-25 minutos.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 25
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Si lo deseas en el paso número 4 puedes añadir unas pepitas de chocolate a la mezcla, ¡el resultado es delicioso!",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/bizcochitos-integrales-de-naranja/",
+    "creado_en": "2026-08-17"
+  },
+  {
+    "id": "bca41cfe-9f58-4d8f-872f-60afc2574569",
+    "slug": "refresco-de-cerezas",
+    "titulo": "Refresco de cerezas",
+    "descripcion": "Receta de Refresco de cerezas adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/06/refresco-cerezas-Mayra-Fdez-Joglar.jpg",
+    "categoria": "bebidas",
+    "tiempo_total_min": 16,
+    "comensales": 3,
+    "dificultad": "Media",
+    "ingredientes": [
+      "180 g de cerezas con hueso",
+      "100 g de agua mineral para el jarabe",
+      "70 g de azúcar blanquilla",
+      "1 limón",
+      "100 g de agua mineral para la limonada",
+      "500 g de agua con gas",
+      "Cubitos de hielo (opcional)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Lavar las cerezas y quitarles el pedúnculo. No hace falta deshuesarlas. Ponerlas en el vaso junto con el azúcar y el agua mineral para el jarabe. Programar 15 minutos, temperatura Varoma, velocidad 1, sin cubilete. Así el jarabe quedará más denso.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 12
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Trascurrido el tiempo filtrar la preparación con un colador de malla fina, presionando bien para que las cerezas suelten todo su jugo. Dejar enfriar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Sin lavar el vaso introducir el limón y el agua mineral para la limonada. Sujetar el cubilete con una mano y programar vaso cerrado, 2 segundos, velocidad turbo.",
+        "accesorio": "Cuchillas",
+        "velocidad": "Turbo",
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Filtrar la limonada con un colador de malla fina e incorporarlo al jarabe de cereza.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Añadir el agua con gas, los cubitos de hielo y servir.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/refresco-de-cerezas/",
+    "creado_en": "2026-08-17"
   }
 ]
