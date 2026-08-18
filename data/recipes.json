@@ -17370,5 +17370,595 @@
     ],
     "fuente_url": "https://www.thermorecetas.com/refresco-de-cerezas/",
     "creado_en": "2026-08-17"
+  },
+  {
+    "id": "4b5d73aa-e834-404d-ad95-d21ceb77f1b1",
+    "slug": "cheesecake-con-mermelada-de-ciruelas-y-nueces",
+    "titulo": "Cheesecake con mermelada de ciruelas y nueces",
+    "descripcion": "Receta de Cheesecake con mermelada de ciruelas y nueces adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/06/cheese-cake-de-mermelada-de-cieruela-y-nueces.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 5,
+    "comensales": 8,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "180 g de magdalenas (si lo preferís podéis utilizar galletas)",
+      "80 g de mantequilla",
+      "La piel de un limón",
+      "150 g de azúcar",
+      "350 g de ricotta",
+      "200 g de yoghurt griego natural",
+      "100 g de nata de repostería (sin montar)",
+      "3 huevos enteros",
+      "40 g de zumo de limón (más o menos el zumo de dos limones)",
+      "Mermelada de ciruelas",
+      "Nueces"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Trituramos las magdalenas programando 5 segundos, velocidad 7.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Añadimos la mantequilla (del tiempo) y mezclamos 10 segundos, velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Forramos con papel de horno la base de un molde redondo desmontable de 24 centímetros de diámetro. Ponemos la mezcla de magdalenas y mantequilla en el molde y lo distribuimos uniformemente con la mano (podéis realzar un poco el borde).",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Lo metemos en el frigorífico para que enfríe unos 30 minutos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 30
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Trituramos la piel del limón, 5 segundos, velocidad 7. Añadimos el azúcar y pulverizamos 5 segundos, velocidad 8.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Añadimos el queso ricotta, el yogurt y la nata y batimos 20 segundos, velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Añadimos los huevos y el zumo de limón y mezclamos 20 segundos, velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Sacamos del frigorífico el molde y echamos la mezcla que acabamos de hacer sobre la base de magdalenas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Precalentamos el horno a 160º y horneamos 20 minutos. Subimos la temperatura a 180º y horneamos otros 20-30 minutos aproximadamente. El tiempo exacto de horneado dependerá del tipo de horno, el diámetro del recipiente…",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 20
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Cuando esté cocido sacamos la tarta del horno y la dejamos enfriar a temperatura ambiente.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 11,
+        "instruccion": "Mezclamos la mermelada con las nueces y cubrimos la tarta con esta mezcla.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 12,
+        "instruccion": "Metemos al frigorífico. Desmoldamos y servimos fría.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 13,
+        "instruccion": "¡A disfrutarla!",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/cheesecake-con-mermelada-de-ciruelas-y-nueces/",
+    "creado_en": "2026-08-18"
+  },
+  {
+    "id": "9f35613b-06c6-44d6-b21a-81542abf7a9c",
+    "slug": "crema-de-verano-de-calabacin",
+    "titulo": "Crema de verano de calabacín",
+    "descripcion": "Receta de Crema de verano de calabacín adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/06/crema_de_verano_de_calabacin.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 40,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "30 g de aceite",
+      "30 g de mantequilla",
+      "150 g de puerros (parte blanca)",
+      "1 diente de ajo",
+      "700 g de calabacines muy bien lavados y troceados",
+      "700 g de caldo de verduras",
+      "sal, pimienta, nuez moscada",
+      "8 quesitos",
+      "200 leche semidesnatada"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Echamos en el vaso el aceite, la mantequilla, los puerros cortados en rodajas grandes, el ajo y trituramos 8 segundos, velocidad 5. Bajamos los restos de las paredes y la tapa hacia las cuchillas y programamos 12 minutos, temperatura varoma, velocidad 2.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 12
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Añadimos 200 gr del caldo de verduras y trituramos 40 segundos en velocidad 7. Agregamos todos los ingredientes restantes excepto los quesitos y la leche y programamos [b]20 minutos, temperatura 100º, velocidad 1.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 16
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "[/b]",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Cuando termine el tiempo esperamos a que baje la temperatura un poco y trituramos 1 minuto, velocidad progresiva 5-7-10.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Agrega los quesitos y programamos 5 minutos, temperatura 90, velocidad 3.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Añadimos los 200 g de leche y mezclamos unos segundos, en velocidad 4. Tiene que quedar una crema bastante ligera, así que si está un poco espesa añadimos más leche o agua.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Podéis acompañarlo con picatostes.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/crema-de-verano-de-calabacin/",
+    "creado_en": "2026-08-18"
+  },
+  {
+    "id": "e42384ef-d263-4111-920a-438800f653a9",
+    "slug": "hogaza-con-masa-de-pan-enriquecida",
+    "titulo": "Hogaza con masa de pan enriquecida",
+    "descripcion": "Receta de Hogaza con masa de pan enriquecida adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/06/hogaza-con-masa-de-pan-enriquecida.jpg",
+    "categoria": "panes-masas",
+    "tiempo_total_min": 7,
+    "comensales": 8,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "70 g de agua templada",
+      "20 g de levadura fresca de panadería",
+      "120 g de harina de fuerza",
+      "200 g de leche entera",
+      "20 g de aceite de oliva virgen extra",
+      "5 g de azúcar",
+      "10 g de sal",
+      "380 g de harina de fuerza"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Echamos el agua y la levadura en el vaso y programamos 10 segundos, velocidad 3.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Agregamos la harina y mezclamos programando 30 segundos, velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Amasamos programando 1 minuto, vaso cerrado, velocidad espiga.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Sacamos la masa madre y la dejamos reposar en un bol, cubriéndola con agua templada. Cuando la masa flote estará lista (15 minutos aproximadamente).",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 12
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Ponemos en el vaso los ingredientes de la masa de pan y programamos 30 segundos, velocidad 6.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 6,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Amasamos 2 minutos, vaso cerrado, velocidad espiga.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 2
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Incorporamos la masa madre y volvemos a amasar 3 minutos, vaso cerrado, velocidad espiga. Dejamos reposar en el vaso hasta que doble su volumen (una hora o algo más).",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 3
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Le damos la forma deseada y colocamos la hogaza en la bandeja de horno cubierta con papel de hornear. Le hacemos unos cortes con el cuchillo para decorar. Dejamos reposar en un sitio cálido, libre de corrientes de aire, hasta que doble su volumen (yo lo dejé casi 2 horas).",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 120
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Precalentamos el horno a 220º. Cuando esté caliente metemos la hogaza. La tendremos en el horno unos 30-35 minutos.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 35
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Para que la corteza quede más crujiente se puede rociar de vez en cuando el pan con un poco de agua, utilizando un pulverizador.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/hogaza-con-masa-de-pan-enriquecida/",
+    "creado_en": "2026-08-18"
+  },
+  {
+    "id": "20b0d16b-c0c4-4942-bc82-fecfc3d2a792",
+    "slug": "ensalada-de-verano-de-judias-blancas",
+    "titulo": "Ensalada de verano de judías blancas",
+    "descripcion": "Receta de Ensalada de verano de judías blancas adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/06/ensalada_de_verano_de_judías_blancas-tmr.jpg",
+    "categoria": "verduras",
+    "tiempo_total_min": 1,
+    "comensales": 4,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "un bote de judías blancas ya cocidas (400 g)",
+      "100 g de pimiento rojo",
+      "100 g de pimiento verde",
+      "100 g de cebolleta",
+      "50 g de aceitunas verdes",
+      "50 g de aceitunas negras",
+      "unas hojitas de perejil fresco",
+      "75 g de aceite de oliva virgen extra",
+      "un chorrito de vinagre",
+      "un chorrito de limón",
+      "1/2 cucharadita de cominos en polvo",
+      "una pizca de pimentón dulce",
+      "sal al gusto"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Sacamos las judías de su bote, las lavamos bien y las escurrimos. Las colocamos en una ensaladera y reservamos.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Introducimos en el vaso todos los ingredientes de la vinagreta y trituramos 4 segundos, velocidad 5. Mezclamos la vinagreta con las judías y removemos bien.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/ensalada-de-verano-de-judias-blancas/",
+    "creado_en": "2026-08-18"
+  },
+  {
+    "id": "0aa53120-9a05-4fec-bb07-77ee1ebf0c63",
+    "slug": "hummus-de-remolacha-con-crujiente-de-parmesano",
+    "titulo": "Hummus de remolacha con crujiente de parmesano",
+    "descripcion": "Receta de Hummus de remolacha con crujiente de parmesano adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/06/hummus-de-remolacha4.jpg",
+    "categoria": "pescados",
+    "tiempo_total_min": 6,
+    "comensales": 4,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "70 g de aceite de oliva",
+      "150 g de cebolla",
+      "250 g de garbanzos cocidos",
+      "150 g de remolacha cocida",
+      "1 diente de ajo",
+      "1 cucharada de comino molido",
+      "1 cucharada de zumo de limón",
+      "Media cucharadita de sal",
+      "100 g de queso parmesano"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Empezaremos por el crujiente. Así, mientras se hornea, preparamos el hummus.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Crujiente de parmesano:",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Troceamos el queso y lo introducimos en el vaso. Lo rallamos con unos golpes de turbo.",
+        "accesorio": "Cuchillas",
+        "velocidad": "Turbo",
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Colocamos el queso en montoncitos en una bandeja cubierta con papel de horno y lo introducimos en el horno precalentado a 150º. Cuando el queso se haya fundido y adquiera un color dorado, lo sacamos del horno y lo dejamos enfriar. Una vez frío, los extraeremos fácilmente.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "¡Y ya tenemos los crujientes!",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Mientras están en el horno, hacemos el hummus:",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Ponemos los garbanzos a escurrir, es importante que no les quede agua de cocción para que el hummus no quede acuoso.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Ponemos el aceite y la cebolla en el vaso y programamos 5 segundos velocidad 5. Bajamos los restos de las paredes del vaso con la espátula y programamos 5 minutos, temperatura Varoma, velocidad 1.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Añadimos los garbanzos, la remolacha cocida (yo uso de la envasada al vacío, la de conserva suele llevar vinagre), el ajo, el comino, el limón y la sal. Programamos 5 segundos velocidad 4.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "¡Y ya tenemos el hummus!",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 11,
+        "instruccion": "Yo lo adorné con una hojita de menta. Queda bonito el contraste.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/hummus-de-remolacha-con-crujiente-de-parmesano-4/",
+    "creado_en": "2026-08-18"
+  },
+  {
+    "id": "b9abbb25-9ca4-43f5-ae57-7c4cb0fb74d9",
+    "slug": "huevos-rellenos-de-mejillones",
+    "titulo": "Huevos rellenos de mejillones",
+    "descripcion": "Receta de Huevos rellenos de mejillones adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/06/huevos-rellenos-mejillones-Mayra-Fdez-Joglar.jpg",
+    "categoria": "pescados",
+    "tiempo_total_min": 11,
+    "comensales": 2,
+    "dificultad": "Media",
+    "ingredientes": [
+      "4 huevos cocidos",
+      "50 g de puerro",
+      "10 g de aceite",
+      "1 lata de mejillones al natural",
+      "Perejil",
+      "Sal y pimienta"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Lavar muy bien el puerro y cortarlo en trozos grandes, ponerlo en el vaso y picarlo durante 7 segundos a velocidad 5. Bajar los trocitos hacia las cuchillas. Añadir el aceite y programar 10 minutos, 100º y velocidad cuchara.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Mientras pelar los huevos y cortarlos por la mitad, retirar la yema y reservar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Cuando el puerro esté pochado añadir 3 de las yemas, 4 mejillones y el perejil. Salpimentar y mezclar todo durante 5 segundos a velocidad 5. Bajar los trocitos hacia las cuchillas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Rellenar los huecos de las claras con la preparación obtenida. Dejar enfriar en la nevera al menos durante 1 hora.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 60
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "A la hora de servir, colocar un mejillón en cada mitad y ponerles un palillo para que no se caigan.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/huevos-rellenos-de-mejillones-2/",
+    "creado_en": "2026-08-18"
   }
 ]
