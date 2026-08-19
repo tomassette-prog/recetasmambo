@@ -17960,5 +17960,656 @@
     ],
     "fuente_url": "https://www.thermorecetas.com/huevos-rellenos-de-mejillones-2/",
     "creado_en": "2026-08-18"
+  },
+  {
+    "id": "92022091-c9a6-49e0-a2ef-b8d70d1d6e7a",
+    "slug": "natillas-de-vainilla-con-espuma-de-leche-y-polvo-de-naranja",
+    "titulo": "Natillas de vainilla con espuma de leche y polvo de naranja",
+    "descripcion": "Receta de Natillas de vainilla con espuma de leche y polvo de naranja adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/06/natillas-de-vainilla-con-espuma-de-leche-y-polvo-de-naranja.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 65,
+    "comensales": 4,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "Piel 1 naranja",
+      "150 g de azúcar",
+      "600 g de leche desnatada",
+      "1 vaina de vainilla o 1/2 cucharadita de vainilla en polvo",
+      "100 g de azúcar",
+      "3 huevos",
+      "10 g de maicena",
+      "400 g de leche desnatada muy fría, semi congelada"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Precalentamos el horno a 150º.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Ponemos la piel de la naranja (sólo la parte naranja) en una bandeja de horno forrada con papel de hornear. Introducimos la bandeja en el horno durante 30 minutos aproximadamente -estad atentos porque cada horno es un mundo- dándoles la vuelta a las pieles para que se sequen de forma uniforme y sin quemarse. Sacamos y dejamos enfriar.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 30
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Ponemos el azúcar y las pieles secas en el vaso y pulverizamos programando 30 segundos, velocidad progresiva 5-10. Retiramos del vaso y reservamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Sin lavar el vaso, vertemos la leche. Cortamos la vaina de vainilla en sentido longitudinal y raspamos el interior con un cuchillo. Añadimos la raspadura de vainilla al vaso (o la vainilla en polvo si lo preferimos). Añadimos también el azúcar, los huevos y la maicena. Programamos 8 minutos, 90º, velocidad 4.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Vertemos las natillas en moldes individuales y reservamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Lavamos el vaso con agua fría y secamos bien. El vaso tiene que estar frío. Colocamos la mariposa en las cuchillas. Vertemos en el vaso la leche semi congelada y programamos 2 minutos, velocidad 3 y 3/4.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 2
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Si queremos las natillas frías tendremos que haberlas preparado con antelación. El polvo de naranja también se puede preparar antes. Justo antes de servir hacemos el merengue de leche.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Para presentarlo, ponemos una cucharada de merengue de leche sobre las natillas y espolvoreamos con una cucharadita de polvo de naranja.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/natillas-de-vainilla-con-merengue-de-leche-y-polvo-de-naranja/",
+    "creado_en": "2026-08-19"
+  },
+  {
+    "id": "9f338c04-55f9-4180-8239-16b4ecc2bc02",
+    "slug": "sopa-de-mayonesa-con-tortilla-de-patatas",
+    "titulo": "Sopa de mayonesa con tortilla de patatas",
+    "descripcion": "Receta de Sopa de mayonesa con tortilla de patatas adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/06/Sopa_de_mayonesa_con_tortilla_de_patatas-tmx.jpg",
+    "categoria": "salsas",
+    "tiempo_total_min": 25,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "1 huevo",
+      "200 gr de aceite de oliva virgen extra (que no sea muy intenso de sabor)",
+      "1000 gr de agua",
+      "1 cucharada rasa de sal",
+      "2 ajos",
+      "1 ramillete de perejil",
+      "un chorrito de vinagre"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Lo primero que debemos hacer es pesar el aceite y para ello, ponemos una jarra encima de la tapa de la thermomix, pulsamos la función balanza y pesamos el aceite. Retiramos y reservamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Añadimos el huevo y mezclamos 10 segundos en velocidad 4. Con el cubilete de la Thermomix puesto en la tapadera, ponemos el selector velocidad en la posición 4 (sin programar ni tiempo ni temperatura) y vamos echando el aceite muy poco a poco sobre la tapa.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Cuando tengamos lista nuestra mayonesa, la pasamos a un recipiente. Os quedará una salsa de mayonesa muy ligerita.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Sin lavar el vaso, añadimos el agua, la sal, los ajos y el perejil. Programamos 20 minutos, velocidad cuchara, temperatura varoma. Cuando esté listo, retiramos los ajos y el perejil y esperamos a que baje la temperatura a 70º. Esto es importantísimo, porque si echamos la mayonesa cuando el agua está muy caliente, se nos cortará.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 16
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Sin programar tiempo, ponemos el selector de velocidad en la posición 3 1/2, quitamos el cubilete y vamos incorporando por el bocal toda la mayonesa poco a poco. Probamos de sal y vinagre, y si es necesario, rectificamos. Cuando esté todo bien mezclado, programamos 2 minutos, temperatura 80º, velocidad 2 1/2.",
+        "accesorio": "Cuchillas",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 2
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "¡Ya tenemos nuestra sopa de mayonesa! Ahora sólo nos falta servirla en los platos, poner dentro el trozo de tortilla de patatas bien caliente, cortarla y a comer.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "¡Así de fácil!",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/sopa-de-mayonesa-con-tortilla-de-patatas/",
+    "creado_en": "2026-08-19"
+  },
+  {
+    "id": "44876c61-aa3a-438e-91c2-8b7205e94d31",
+    "slug": "gazpacho-con-cerezas",
+    "titulo": "Gazpacho con cerezas",
+    "descripcion": "Receta de Gazpacho con cerezas adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/07/gazpacho-cerezas-Mayra-Fdez-Joglar.jpg",
+    "categoria": "panes-masas",
+    "tiempo_total_min": 4,
+    "comensales": 3,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "250 g de cerezas",
+      "400 g de tomates maduros",
+      "60 g de pimiento rojo",
+      "50 g de pepino",
+      "50 g de cebolla",
+      "125 g de agua mineral fría",
+      "30 g de aceite de oliva virgen extra",
+      "1 cucharada de vinagre",
+      "1 rebanada de pan",
+      "50 g de queso de Burgos"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Colocar un cuenco encima de la tapa y activar la función balanza. Pesar el aceite y reservar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Lavar, secar y deshuesar las cerezas. Lavar también los tomates y cortarlos en trozos medianos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Lavar el pimiento y retirar el pedúnculo, las semillas y los hilos blancos interiores. Cortar en trozos medianos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Lavar y cortar, también, el pepino.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Pelar y trocar la cebolla. Añadir todas las verduras al vaso junto con las cerezas, reservando algunas para la decoración.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Mezclar el agua y el vinagre. Remojar el pan en este líquido. Escurrir y añadirlo también al vaso. Salpimentar.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Triturarlo todo durante 45 segundos a velocidad 5. Con la espátula bajar la mezcla hacia las cuchillas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Programar velocidad 4 sin tiempo y, con el cubilete puesto, verter en la tapa el aceite reservado. Parar la máquina cuando el aceite se haya filtrado hacia el gazpacho.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Pasar el gazpacho por un tamiz de malla fina y reservar en la nevera durante, al menos, un par de horas para que esté bien frío.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "A la hora de servir decorar con cerezas, trocitos de queso de Burgos y un hilo de aceite.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/gazpacho-con-cerezas/",
+    "creado_en": "2026-08-19"
+  },
+  {
+    "id": "0b889cbd-e453-4a93-a7be-531b990b93ff",
+    "slug": "trenza-angelica",
+    "titulo": "Trenza Angélica",
+    "descripcion": "Receta de Trenza Angélica adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/07/trenza-tipo-angelica.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 5,
+    "comensales": 4,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "130 g de harina de repostería",
+      "100 g de agua a temperatura ambiente",
+      "15 g de levadura fresca de panadería",
+      "70 g de pasas sultanas",
+      "40 g de brandy",
+      "400 g de harina de fuerza",
+      "100 g de azúcar",
+      "1 pizca de sal",
+      "120 g de leche templada",
+      "120 g de mantequilla a temperatura ambiente",
+      "3 yemas de huevo",
+      "50 g de mantequilla fundida",
+      "50 g de piel de naranja rallada"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Echamos en el bocal la harina de repostería, el agua y la levadura y mezclamos 20 segundos, velocidad 4 1/2. Sacamos la mezcla y la ponemos en un bol pintado con aceite. Tapamos el bol con film transparente y dejamos levar la mezcla unos 30 minutos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 25
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Ponemos en un vaso el Brandy y metemos también las pasas sultanas. Las dejamos ahí para que se pongan blanditas y cojan sabor.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Pasados los 30 minutos preparamos la masa echando en el bocal la harina de fuerza, el azúcar, la sal, la leche, la mantequilla y las yemas de huevo. Mezclamos 2 minutos, vaso cerrado, velocidad espiga.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 30
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Añadimos a esta mezcla la masa madre que hemos preparado anteriormente y mezclamos 2 minutos, vaso cerrado, velocidad espiga.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 2
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Metemos toda la masa en el bol grande aceitado y cubrimos de nuevo con film. Dejamos levar 1 hora aproximadamente -debe doblar el volumen-.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 60
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Pasada la hora, enharinamos la mesa de trabajo. Extendemos la masa con el rodillo hasta conseguir una plancha rectangular de unos 3 mm de espesor.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Pintamos toda la superficie con la mantequilla fundida, repartimos en todo el rectángulo las pasas bien escurridas y también la piel de naranja rallada.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Enrollamos la pasta por el lado más largo, como si fuera un brazo de gitano.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Cortamos con un cuchillo afilado lo que sería el brazo por la mitad pero ¡ojo!, el corte es longitudinal, por el lado más largo, de forma que obtendremos dos tiras largas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Separamos con cuidado las dos mitades y formamos una trenza, teniendo en cuenta que lo que antes era el interior del brazo de gitano ahora ha de quedar arriba (las capas de masa con las pasas y la naranja es lo que se va a ver).",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 11,
+        "instruccion": "Cubrimos con papel de horno la bandeja donde lo vamos a hornear. Cogemos la trenza y unimos los dos extremos para formar un anillo (como si fuera un roscón). Lo colocamos sobre la bandeja de horno.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 12,
+        "instruccion": "Dejamos levar otros 40 minutos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 40
+      },
+      {
+        "paso_numero": 13,
+        "instruccion": "Horneamos a 200º durante 20 o 25 minutos aproximadamente.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 25
+      },
+      {
+        "paso_numero": 14,
+        "instruccion": "Cuando lo saquemos del horno podemos decorarla con azúcar glass.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/trenza-angelica/",
+    "creado_en": "2026-08-19"
+  },
+  {
+    "id": "7efc330d-20aa-4d96-949e-ef1816959c22",
+    "slug": "pastel-de-verduras-my-way",
+    "titulo": "Pastel de verduras my way",
+    "descripcion": "Receta de Pastel de verduras my way adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/07/pastel-de-verduras.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 8,
+    "comensales": 6,
+    "dificultad": "Media",
+    "ingredientes": [
+      "2 puerros",
+      "1/2 cebolla",
+      "4 zanahorias",
+      "1 pimiento rojo",
+      "1 pimiento verde",
+      "1 patata",
+      "6 huevos",
+      "300 ml de nata",
+      "100 g de queso emmental rallado",
+      "1 cucharadita de sal",
+      "1/2 cubilete de aceite de oliva",
+      "Para acompañar: crema de vinagre balsámico o tomate frito"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Pelamos las zanahorias, lavamos y troceamos todas las verduras y las introducimos en el vaso. Programamos 5 segundos, velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Añadimos el aceite y la sal y programamos 7 minutos, temperatura varoma, velocidad 1.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 7
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Añadimos los huevos y la nata. Lo batimos todo 10 segundos, velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Vertemos la mezcla en un molde para microondas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Añadimos el queso rallado en la superficie.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Introducimos al microondas. Yo lo pongo 10 minutos en potencia 1.000. Pero estará hecho cuando, al introducir una aguja o la punta de un cuchillo, salga limpia. Id probando según la potencia de vuestro microondas y vais añadiendo más minutos si es necesario.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Puede servirse caliente o frío.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/pastel-de-verduras-my-way/",
+    "creado_en": "2026-08-19"
+  },
+  {
+    "id": "9fc58422-a000-4c3e-8d4c-9df582fea072",
+    "slug": "curry-de-pollo",
+    "titulo": "Curry de pollo",
+    "descripcion": "Receta de Curry de pollo adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/07/curry_pollo-tmr.jpg",
+    "categoria": "arroces",
+    "tiempo_total_min": 41,
+    "comensales": 4,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "500 g de pechuga de pollo troceada pequeñita",
+      "120 g de arroz tipo jazmín o basmati (si no tenéis podéis usar arroz redondo)",
+      "1 cebolla",
+      "un puñado de ciruelas pasas",
+      "50 g de pimiento rojo",
+      "20 + 30 g aceite de oliva virgen",
+      "1 cucharada grande de curry",
+      "1 cucharada grande de cúrcuma (colorante amarillo)",
+      "1 cucharadita de pimentón rojo dulce",
+      "Sal",
+      "Pimienta",
+      "500 g de queso batido",
+      "½ cucharadita de azúcar"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "En primer lugar vamos a cocer el arroz:",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Ponemos en el vaso 1 litro de agua, un chorrito de aceite y sal. Colocamos el cestillo cerramos el vaso y programamos 8 minutos, temperatura varoma, velocidad 1.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 7
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Añadimos el arroz por el bocal y programamos 13 minutos, temperatura varoma, velocidad 2. Removemos con la espátula por el bocal, sin parar la máquina ni nada un par de veces durante los 13 minutos. Echamos en un recipiente y reservamos tapado y bien extendido.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 13
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Ahora vamos a preparar el curry de pollo:",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Podemos poner a macerar el pollo una hora antes de preparar la comida. En un bol amplio ponemos la pechuga de pollo, 20 g de aceite, sal y pimienta al gusto, el curry, la cúrcuma y el pimentón. Removemos muy bien y dejamos reposar, removiendo de vez en cuando.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Añadimos al vaso el pimiento rojo, las ciruelas pasas, los 30 g de aceite, la cebolla cortada a cuartos. Trituramos 6 segundos, velocidad 4. Bajamos los restos de las paredes y sofreímos durante 8 minutos, temperatura varoma, velocidad 1.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Añadimos el pollo troceado que teníamos marinando y programamos 10 minutos, temperatura varoma, velocidad cuchara.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Dejamos que baje la temperatura a 80º y añadimos el queso batido, el azúcar, una pizca de sal y programamos 1 minuto, velocidad 1, sin temperatura. Si le pusiéramos temperatura se nos cortaría.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/curry-de-pollo/",
+    "creado_en": "2026-08-19"
   }
 ]
