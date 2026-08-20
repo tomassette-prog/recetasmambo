@@ -18611,5 +18611,699 @@
     ],
     "fuente_url": "https://www.thermorecetas.com/curry-de-pollo/",
     "creado_en": "2026-08-19"
+  },
+  {
+    "id": "5b7e8df1-34a3-4f3b-a907-d0bcff517f4c",
+    "slug": "patatas-especiadas",
+    "titulo": "Patatas especiadas",
+    "descripcion": "Receta de Patatas especiadas adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/07/patatas-especiadas-Mayra-Fdez-Joglar.jpg",
+    "categoria": "salsas",
+    "tiempo_total_min": 18,
+    "comensales": 2,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "300 g de agua del grifo",
+      "2 pellizcos de sal",
+      "1 hoja de laurel",
+      "300 g de patatas peladas",
+      "40 g de aceite de oliva",
+      "4 dientes de ajo",
+      "1 cucharada de pimentón picante",
+      "½ cucharada de comino",
+      "½ cucharada de canela",
+      "2 clavos de olor",
+      "Perejil picado"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Poner en el vaso el agua, la sal y la hoja de laurel. Calentar durante 3 minutos a 100º, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 2
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Mientras cortar las patatas peladas en trozos grandes y colocarlas en el Varoma sin que se amontonen.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Terminado el tiempo colocar el Varoma en su sitio y programar 15 minutos, temperatura Varoma, velocidad 2.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 15
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Comprobar que las patatas están blandas, de lo contrario programar un par de minutos más a la misma temperatura y velocidad.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Retirar el Varoma y reservar.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Aclarar el vaso y secar. Poner los ajos y picarlos durante 4 segundos a velocidad 5. Bajar con la espátula los trocitos hacia las cuchillas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Añadir el aceite y sofreír durante 3 minutos, temperatura Varoma, velocidad 1.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 3
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Incorporar las especias; el pimentón, el comino, la canela y los clavos. Programar 1 minuto, 80º y velocidad 4, giro a la izquierda para que los clavos no queden triturados.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Mientras poner las patatas en un bol amplio.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Cuando el tiempo haya terminado verter la salsa por encima de las patatas, remover para que todas queden bien impregnadas con la salsa. Hay que tener cuidado de hacerlo con suavidad para que las patatas no se deshagan.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 11,
+        "instruccion": "Colocar las patatas en platos individuales o en una fuente, dejando en el cuenco el exceso de aceite. Antes de servir espolvorear perejil picado.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/patatas-especiadas-2/",
+    "creado_en": "2026-08-20"
+  },
+  {
+    "id": "b44770ee-936f-4a52-801a-97095c5f2f47",
+    "slug": "tortilla-de-calabacin",
+    "titulo": "Tortilla de calabacín",
+    "descripcion": "Receta de Tortilla de calabacín adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/06/tortilla-de-calabacin.jpg",
+    "categoria": "verduras",
+    "tiempo_total_min": 25,
+    "comensales": 6,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "150 g de cebolla",
+      "40 g de aceite de oliva virgen extra",
+      "300 g de calabacines muy bien lavados",
+      "2 o 3 huevos (según el tamaño)",
+      "70 g de queso tipo Philadelphia",
+      "1/2 cucharada de sal",
+      "Aceite para cuajar la tortilla en la sartén"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos la cebolla en el vaso y la troceamos programando 4 segundos, velocidad 4. La sacamos y reservamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Ponemos la mariposa en las cuchillas, echamos el aceite y programamos 4 minutos, temperatura varoma, velocidad cuchara. Cuando acabe el tiempo incorporamos la cebolla que hemos reservado antes y programamos 7 minutos, temperatura varoma, velocidad cuchara.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 4
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Mientras aprovechamos para cortar los calabacines en lonchas (del tamaño al que cortaríamos las patatas para tortilla).",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Cuando termine el tiempo programado anteriormente incorporamos los calabacines al vaso y programamos 12 minutos, temperatura varoma, velocidad 1.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 12
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Al terminar, vertemos todo en el castillo para que escurra bien.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Sin lavar el vaso ponemos los huevos junto con el queso y batimos 6 segundos, velocidad 3. Incorporamos la cebolla y el calabacín reservados, también la sal y mezclamos con la espátula.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Ponemos a calentar aceite en una sartén. Cuando esté caliente, vertemos en la sartén el contenido del vaso y dejamos que cuaje. Le damos la vuelta para que cuaje por el otro lado.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Y ¡lista para servir!. Por cierto, si ahora, con el calorcito, os apetece tomarla fría… no lo dudéis, también está muy buena.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/tortilla-de-calabacin/",
+    "creado_en": "2026-08-20"
+  },
+  {
+    "id": "616de937-8778-494e-b696-2be5e1124d85",
+    "slug": "hamburguesas-de-salmon-con-salsa-de-mango",
+    "titulo": "Hamburguesas de salmón con salsa de mango",
+    "descripcion": "Receta de Hamburguesas de salmón con salsa de mango adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/07/hamburguesa-de-salmon.jpg",
+    "categoria": "panes-masas",
+    "tiempo_total_min": 16,
+    "comensales": 4,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "500 g de salmón fresco (sin piel ni espinas)",
+      "150 g de cebolla",
+      "50 g de pan rallado",
+      "1 huevo",
+      "1 cucharada sopera de lima",
+      "1 cucharadita de sal",
+      "Un poco de aceite para hacer las hamburguesas a la plancha",
+      "1 mango (aprox. 170 g)",
+      "170 g de cebolla",
+      "1 diente de ajo",
+      "150 ml. de caldo de pescado o 150 ml de agua y media pastilla de caldo de pescado",
+      "50 g de mantequilla",
+      "2 cucharadas soperas de zumo de lima",
+      "1 cucharadita de sal",
+      "1/2 cucharadita de curry",
+      "pimienta negra molida al gusto"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Empezamos por la salsa de mango, así las hamburguesas no se resecan mientras tanto.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Ponemos la mantequilla en el vaso. Programamos 2 minutos, Varoma, velocidad cuchara.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 2
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Añadimos el ajo y la cebolla. 5 segundos, velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Bajamos con la espátula lo que haya quedado en las paredes del vaso y programamos 7 minutos, Varoma, velocidad cuchara.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 7
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Añadimos el zumo de lima, la sal, el curry, la pimienta y el mango. 5 segundos, velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Añadimos los 150 ml de caldo de pescado o, si no tenéis caldo hecho, 150 ml de agua y media pastillita de caldo concentrado de pescado. Programamos 5 minutos, varoma, velocidad 1.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 4
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Dejamos enfriar un poco y trituramos todo 15 segundos, velocidad progresiva 5-10.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Reservamos la salsa y, sin limpiar el vaso, nos ponemos con las hamburguesas de salmón:",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Ponemos la cebolla en el vaso. Trituramos 5 segundos, velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Empujamos con la espátula lo que haya quedado en las paredes e introducimos el resto de ingredientes. Trituramos 5 segundos, velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 11,
+        "instruccion": "Nos quedará una masa con la que formamos bolitas, grandes si queremos hamburguesas al uso, pequeñas si las queremos de aperitivo. Las aplastamos un poco con la palma de la mano o con una espátula y ya, las hacemos a la plancha como asamos habitualmente una hamburguesa de carne.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/hamburguesas-de-salmon-con-salsa-de-mango/",
+    "creado_en": "2026-08-20"
+  },
+  {
+    "id": "3f96fcec-4580-4e45-847b-1b32da42d29f",
+    "slug": "verduras-al-vapor-con-vinagreta-de-mostaza",
+    "titulo": "Verduras al vapor con vinagreta de mostaza",
+    "descripcion": "Receta de Verduras al vapor con vinagreta de mostaza adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/07/verduras-vapor-vinagreta-mostaza-thermorecetas.jpg",
+    "categoria": "panes-masas",
+    "tiempo_total_min": 27,
+    "comensales": 2,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "2 patatas (90 g cada una aproximadamente)",
+      "150 g de judías verdes planas",
+      "1 zanahoria",
+      "6 habas garrofón congeladas",
+      "6 ramilletes de brócoli congelado",
+      "6 espárragos verdes",
+      "40 g de jamón en tacos",
+      "60 g de aceite de oliva virgen extra",
+      "25 g de agua de cocer las verduras",
+      "½ cucharada de mostaza en grano",
+      "½ cucharada de pan rallado",
+      "10 g de vinagre de jerez",
+      "Sal y pimienta"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Llenar el vaso con agua del grifo hasta la marca de ½ litro. Programar 5 minutos, 100º, velocidad 1. Con el cubilete puesto.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 4
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Mientras preparar las verduras; quitarles los hilos y las puntas a las judías verdes. Lavar, trocear en oblicuo y colocarlas en el Varoma.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Pelar y lavar las patatas. Cortar a la mitad longitudinalmente y colocarlas en el Varoma.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Raspar y lavar la zanahoria. Cortarla a la mitad también a lo largo y colocarla en el Varoma.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Eliminar los tallos fibrosos de los espárragos, lavarlos y colocarlos en el Varoma.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Colocar también en el Varoma el garrofón y los ramilletes de brócoli congelados.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Finalizado el tiempo retirar el cubilete, colocar el Varoma en su sitio y programar 20 minutos, temperatura Varoma, velocidad 2.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 20
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Podemos aprovechar para preparar el crujiente de jamón. Para ello cogeremos un trozo de papel de hornear y lo colocamos encima de un plato. Ponemos los taquitos de jamón serrano bien esparcidos y colocamos otro trozo de papel de hornear. Ponemos un plato o una tapa encima y lo metemos en el microondas durante 3 minutos a potencia máxima.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 3
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Cuando haya pasado el tiempo, retiramos los papeles y los reservamos de los taquito crujientes en un plato limpio. Así evitamos que se reblandezcan con el agua que han soltado.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Cuando tengamos las verduras preparadas, retirar el Varoma con cuidado de no quemarse.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 11,
+        "instruccion": "Reservar parte del agua de cocer las verduras y desechar el resto.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 12,
+        "instruccion": "Aclarar y secar bien el vaso. Poner el jamón y triturarlo durante 3 segundos a velocidad 5. Retirar y reservar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 13,
+        "instruccion": "Sin lavar el vaso poner el agua de cocer las verduras, la mostaza, el pan, el vinagre y la pimienta. Programar 30 segundos, velocidad 4 e ir echando el aceite de oliva en la tapa, para que al caer vaya emulsionando la vinagreta.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 14,
+        "instruccion": "Colocar las verduras de forma apetecible en una fuente o en platos individuales. Regar con un hilo de vinagreta, reservando el resto para que cada comensal se ponga a su gusto.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 15,
+        "instruccion": "Terminar la presentación esparciendo el jamón picado por encima de las verduras y servir.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 16,
+        "instruccion": "¡¡Buen provecho¡¡",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/verduras-al-vapor-con-vinagreta-de-mostaza/",
+    "creado_en": "2026-08-20"
+  },
+  {
+    "id": "3b6868d1-7b9f-4c0c-979a-42e642ef8ee3",
+    "slug": "migas-con-chorizo-y-uvas",
+    "titulo": "Migas con chorizo y uvas",
+    "descripcion": "Receta de Migas con chorizo y uvas adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/07/migas-con-chorizo-y-uvas.jpg",
+    "categoria": "panes-masas",
+    "tiempo_total_min": 27,
+    "comensales": 6,
+    "dificultad": "Media",
+    "ingredientes": [
+      "500 g de pan candeal de dos días cortado en trozos (pero si no es candeal no pasa nada)",
+      "50-70 g de agua para humedecer el pan",
+      "100 g de aceite virgen extra",
+      "6 dientes de ajo sin pelar (con un pequeño corte) y 2 dientes de ajo pelados",
+      "2 o 3 chorizos cortados en cubitos",
+      "100 o 150 g de panceta de cerdo cortada en tiras",
+      "1 cucharadita de pimentón de la Vera o de pimentón de Murcia",
+      "150 g de uvas blancas para acompañar (o trocitos de ciruelas, de melocotón, de melón, sandía…)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos en el vaso 100 o 200 gr. de pan y troceamos programando 6 segundos, velocidad 5. Retiramos a un bol grande y reservamos. Repetimos esta operación con el resto de pan. Si quedaran trozos grandes volvemos a ponerlos en el vaso y los troceamos de la misma manera. Retiramos al bol y humedecemos las migas salpicándolas con unas gotitas de agua. Cubrimos el bol con un paño y reservamos.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Sin lavar el vaso, ponemos el aceite y los ajos (2 de ellos pelados) y programamos 5 minutos, varoma , giro a la izquierda, velocidad cuchara.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Incorporamos al vaso el chorizo y la panceta y programamos 5 minutos, varoma, giro a la izquierda, velocidad cuchara. Retiramos a un bol los ajos, el chorizo y la panceta. Dejamos el aceite en el vaso.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Ahora añadimos al vaso el pan (ya hecho migas) y el pimentón. Programamos 15 minutos, varoma, giro a la izquierda, velocidad cuchara. En este tiempo paramos un par de veces la máquina para remover todo con la espátula y que no queden migas de pan en las paredes del vaso.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 15
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Cuando falten tres minutos para que termine el tiempo programado añadimos por el bocal los ajos, el chorizo y la panceta que habíamos reservado antes.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Servimos inmediatamente con un platito de uvas o de otra fruta fresca al lado para que cada uno se sirva las que quiera. También las podéis acompañar con unos huevos poché.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "¡Y a disfrutar recordando viejos tiempos e inventando los nuevos!",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/migas-con-chorizo-y-uvas/",
+    "creado_en": "2026-08-20"
+  },
+  {
+    "id": "2624fc22-a74c-4dc3-8fb2-161415fde9ce",
+    "slug": "falafel-albondigas-vegetales-con-salsa-de-yogur",
+    "titulo": "Falafel: albóndigas vegetales con salsa de yogur",
+    "descripcion": "Receta de Falafel: albóndigas vegetales con salsa de yogur adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/07/falafel.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 1,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "250 g de garbanzos secos (en remojo durante 8 horas y sin cocer)",
+      "2 dientes de ajo",
+      "8/10 ramitas de perejil",
+      "2 ramitas de cilantro (opcional)",
+      "1 ramita de apio",
+      "100 g. de cebolla",
+      "1/2 cucharadita de pimienta negra molida",
+      "1/2 cucharadita de canela",
+      "1 cucharada de postre de comino molido",
+      "1/2 cucharadita de levadura en polvo (o bicarbonato)",
+      "Aceite",
+      "1 yogur blanco",
+      "1 cucharada de aceite de oliva",
+      "1 pizca de sal",
+      "1/2 cucharadita de azúcar"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "La preparación comienza 8 horas antes poniendo los garbanzos secos en remojo. Esta vez no podemos utilizar los cocidos de bote, nos quedarían unas albóndigas blandas y deformes (lo probé una vez y fue un desastre).",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 480
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Con los garbanzos ya listos y sin cocer (escurrimos los garbanzos hasta que no quede nada de agua), introducimos todos los ingredientes en el vaso. Programamos 10 segundos, velocidad 5. A veces quedan algunos garbanzos enteros por la parte superior del vaso. Si es así, los empujamos con la espátula y programamos otros 5 segundos, velocidad 5. Tiene que quedar una masa triturada.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Dejamos reposar media hora la masa en la nevera. Y luego, hacemos bolitas y las aplastamos un poco con la mano para que queden con forma circular, como las hamburguesas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Las freímos en abundante aceite caliente. Cuando estén doradas, están listas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Se mezclan todos sus ingredientes y se sirve como acompañamiento.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/falafel-albondigas-vegetales-con-salsa-de-yogur/",
+    "creado_en": "2026-08-20"
   }
 ]
