@@ -19305,5 +19305,704 @@
     ],
     "fuente_url": "https://www.thermorecetas.com/falafel-albondigas-vegetales-con-salsa-de-yogur/",
     "creado_en": "2026-08-20"
+  },
+  {
+    "id": "244fb549-fcaf-4bb4-86d9-ad8188399db4",
+    "slug": "pizza-naturale",
+    "titulo": "Pizza naturale",
+    "descripcion": "Receta de Pizza naturale adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/07/pizza-naturale-tmr.jpg",
+    "categoria": "panes-masas",
+    "tiempo_total_min": 12,
+    "comensales": 4,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "150 g de agua",
+      "30 g de aceite de oliva",
+      "15 g de levadura fresca o un sobre de levadura de panadería deshidratada",
+      "300 g de harina de fuerza (también podéis usar harina normal, aunque es mejor de fuerza)",
+      "1 cucharadita de moka de sal"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "En el vaso, echamos el agua y el aceite. Programamos 30 segundos, temperatura 37º y velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Añadimos la levadura y mezclamos durante 5 segundos, a velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Incorporamos la harina y la sal. Programamos 1 minuto, vaso cerrado y velocidad espiga. Miramos la textura de la masa: debe estar elástica y blanda, pero no pegarse a los dedos. Si se os pega, añadimos un poco de harina y volvemos a programar 30 segundos, vaso cerrado, velocidad espiga. Si veis que la masa está muy dura y poco elástica, es porque le falta agua. Así que añadimos un pelín (muy poquita) de agua tibia y programamos 1 minuto, vaso cerrado y velocidad espiga.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Cuando esté a nuestro gusto, sacamos la masa del vaso y formamos una bola con las manos. Introducimos la masa en un bol de cristal o de plástico, lo tapamos con un paño de cocina para que le de calor y dejamos que repose y doble su volumen en un lugar cálido y sin corrientes de aire (podéis meterlo en el horno o microondas apagado y dejarla, como mínimo, 30 minutos).",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 30
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Como habéis visto en los ingredientes es muy muy muy importante escurrir todos los ingredientes muy bien, porque si no, nos soltarán agua durante la cocción y harán que la masa esté demasiado blanda.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Extendemos la masa con ayuda de un rodillo o con las manos. Untamos la bandeja del horno con aceite de oliva y espolvoreamos con harina. Colocamos encima la masa.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Con una cuchara añadimos el tomate triturado y lo extendemos muy bien. Espolvoreamos con sal y un chorrito de aceite de oliva.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Cortamos en rodajas la mozzarella (importante que esté muy bien escurrida) y la colocamos encima dejando separación entre ellas (así cuando se funda quedará bien extendido). Espolvoreamos con sal.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Ponemos encima las aceitunas negras, el bacon y el jamón york. Espolvoreamos con orégano y un chorrito de aceite de oliva.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Con el horno precalentado a 230º, metemos la bandeja en el nivel 1 (el carril que está en la parte más baja del horno) y si tenemos función ventilador la ponemos. Lo tendremos unos 12 minutos. Controlad que no se queme por debajo.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 12
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/pizza-naturale/",
+    "creado_en": "2026-08-21"
+  },
+  {
+    "id": "4f7a8fc4-e888-48f2-a1cb-907f556f65ed",
+    "slug": "granizado-de-cafe-cremoso",
+    "titulo": "Granizado de café cremoso",
+    "descripcion": "Receta de Granizado de café cremoso adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/07/granizado-café-cremoso-Thermorecetas.jpg",
+    "categoria": "bebidas",
+    "tiempo_total_min": 1,
+    "comensales": 2,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "270 g de hielo",
+      "30 g de nata líquida para montar",
+      "50 g de café",
+      "2 cucharadas de azúcar",
+      "Cacao en polvo para adornar"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Hacer dos cafés expresos o solos (tal y como los hagáis habitualmente). Añadir el azúcar, remover bien y dejar enfriar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Poner el hielo, la nata y el café en el vaso. Triturar durante 8 segundos a velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Verter el granizado en dos copas y decorar con el cacao.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Servir y tomar en seguida.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/granizado-de-cafe-cremoso/",
+    "creado_en": "2026-08-21"
+  },
+  {
+    "id": "b19c84fa-3e4e-48e2-bd12-608beb74d31d",
+    "slug": "galletas-de-jengibre",
+    "titulo": "Galletas de jengibre",
+    "descripcion": "Receta de Galletas de jengibre adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/07/galletas-de-jengibre-1.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 8,
+    "comensales": 20,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "500 g de harina de repostería",
+      "½ cucharadita de bicarbonato",
+      "¼ cucharadita de sal",
+      "1 cucharadita de canela molida",
+      "2 cucharaditas jengibre",
+      "¼ cucharadita de clavos molidos",
+      "225 g de mantequilla a temperatura ambiente",
+      "150 g de azúcar moreno",
+      "1 huevo grande",
+      "180 g de melaza (yo no tenía y le he puesto la misma cantidad de miel)",
+      "Granillo y fideos de colores, bolitas…"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos en el vaso la harina, la sal, el bicarbonato y las especias (canela, jengibre y clavos). Mezclamos programando 1 minuto, velocidad 3. Sacamos del vaso y reservamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Ponemos en el vaso la mantequilla y el azúcar y mezclamos 3 minutos, velocidad 2.",
+        "accesorio": "Cuchillas",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 3
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Añadimos el huevo y la melaza o la miel y mezclamos 2 minutos, velocidad 3.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 2
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Metemos también en el vaso la mezcla que hemos hecho antes (harina ya especiada con sal y bicarbonato) de una sola vez. Mezclamos 2 minutos y 1/2, vaso cerrado, velocidad espiga.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 2
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Sacamos la masa del vaso y la dividimos en tres partes. Cortamos 6 trozos de papel de horno porque cada una de las partes la vamos a amasar entre dos láminas de papel, así no se nos pegará al rodillo ni a la encimera.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Para eso, ponemos 1 papel en la encimare, un trozo de masa (1/3) y otro papel encima. Extendemos con el rodillo dejando toda la masa con un grosor de 6 mm (aproximadamente).",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Cuando terminamos ponemos ese sandwich sobre una superficie plana (una bandeja de servir, o de horno, por ejemplo) y lo metemos a la nevera.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Hacemos lo mismo con las otras dos partes de masa y los otros trozos de papel. Cuando estén lisitos, con 6 mm de grosor, los ponemos sobre el otro sandwich que ya teníamos hecho y los metemos a la nevera. Quedarán uno encima de otro, sobre la bandeja.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Tenemos que dejar la masa en la nevera como mínimo dos horas. Podéis hacer la masa por la noche y luego cortar y decorar las galletas al día siguiente porque se conserva en la nevera hasta 2 días.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Para formar las galletas sacamos una de las planchas de masa de la nevera, quitamos el papel que la cubre y cortamos con el cortapastas. Cortamos tantas galletas como nos sea posible. Colocamos las galletas en la bandeja de horno cubierta con papel de hornear, y decoramos. En este paso ¡imaginación al poder!. Los recortes que nos hayan quedado de decorar las galletas los podemos meter en la nevera, envueltos en papel film, para, una vez hayamos recortado todas las planchas, juntarlos, extender la nueva masa, refrigerar un poco, y cortar nuevas formas.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 11,
+        "instruccion": "Una vez decorada la primera tanda de galletas las metemos un poco en el frigo (10 o 15 minutos). Mientras precalentamos el horno a 160º. Cuando hayan reposado nuestros hombrecitos en la nevera los sacamos y horneamos (horno a 160º) durante 15 minutos aproximadamente.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 15
+      },
+      {
+        "paso_numero": 12,
+        "instruccion": "Podemos aprovechar el tiempo de horneado para ir cortando y decorando nuevos hombrecitos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 13,
+        "instruccion": "Cuando sacamos las galletas del horno las dejamos reposar unos minutos en la bandeja de horno (si las cogemos inmediatamente se nos pueden romper) y luego las ponemos sobre una rejilla. Como rejilla podéis utilizar o la que suele venir en los hornos o la rejilla elevadora del microondas.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 14,
+        "instruccion": "Seguimos el mismo proceso hasta que estén todas las galletas horneadas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 15,
+        "instruccion": "Si os han ayudado los peques luego toca recoger porque tendréis vuestra cocina llena de bolitas de azúcar… Y, como recompensa, estos deliciosos hombrecillos a los que solo les falta hablar para decir… “cómeme”.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/galletas-de-jengibre/",
+    "creado_en": "2026-08-21"
+  },
+  {
+    "id": "da6e6aaf-1775-4462-bc3a-b36038e93ffb",
+    "slug": "bavarois-de-gambas-y-langostinos",
+    "titulo": "Bavarois de gambas y langostinos",
+    "descripcion": "Receta de Bavarois de gambas y langostinos adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/07/bavarois-de-gambas-y-langostinos.jpg",
+    "categoria": "pescados",
+    "tiempo_total_min": 28,
+    "comensales": 4,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "300 ml de caldo de pescado (o 300 ml de agua y media pastillita de caldo de pescado)",
+      "200 ml de agua fría",
+      "375 g de queso fresco tipo Burgos",
+      "1 sobre de gelatina en polvo (yo usé la gelatina neutra de la marca Royal)",
+      "250 g de gambas peladas y cocidas",
+      "250 g de langostinos pelados y cocidos",
+      "1 diente de ajo",
+      "50 g de cebollino",
+      "2 cucharaditas de eneldo picado (para decorar)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Introduce en el vaso 500 ml de agua y programa 7 minutos, temperatura varoma, velocidad 1.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 6
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Introduce las gambas peladas y programa 3 minutos, temperatura varoma, velocidad cuchara. Resérvalas.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 3
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Si no tienes caldo hecho: Introduce en el vaso el agua y la pastilla de caldo y programa 10 min, temperatura varoma, velocidad 1.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Si tienes caldo: Introdúcelo en el vaso y programa 7 min, temperatura varoma, velocidad 1.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 6
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "En ambos casos, a continuación vierte el caldo hirviendo en 1 recipiente y mezcla la gelatina en polvo. Añade los 200 ml de agua fría. Déjalo enfriar durante media hora.",
+        "accesorio": "Cuchillas",
+        "velocidad": 0,
+        "temperatura_c": 100,
+        "potencia_calorifica": 9,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Introduce en el vaso el caldo ya frío, el queso, el ajo, las gambas, los langostinos y el cebollino. Reserva el eneldo y alguna gamba o langostino para decorar. Programa 1 minuto, velocidad 5.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Distribúyelo en moldes individuales, tápalos con film transparente e introdúcelos en el frigorífico hasta que haya cuajado (unas dos horas).",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Desmolda y sírvelo espolvoreado con eneldo.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/bavarois-de-gambas-y-langostinos/",
+    "creado_en": "2026-08-21"
+  },
+  {
+    "id": "b3bbdc82-8d30-42aa-b244-e6cad3046ce7",
+    "slug": "coliflor-a-la-napolitana",
+    "titulo": "Coliflor a la napolitana",
+    "descripcion": "Receta de Coliflor a la napolitana adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/07/Coliflor-a-la-napolitana-tmr.jpg",
+    "categoria": "verduras",
+    "tiempo_total_min": 36,
+    "comensales": 6,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "1 coliflor",
+      "2 dientes de ajo",
+      "100 g de cebolla",
+      "50 g de aceite",
+      "800 g de tomate natural triturado",
+      "1 cucharadita de sal",
+      "1 cucharadita de azúcar",
+      "2 cucharaditas de orégano",
+      "Unas vueltas de pimienta recién molida",
+      "80 g de jamón serrano a taquitos",
+      "Queso rallado para gratinar y un poquito más de orégano"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Lavamos y cortamos la coliflor en ramilletes. La colocamos en el recipiente varoma y salpimentamos.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Introducimos en el vaso la cebolla y los ajos. Troceamos 4 segundos, velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Añadimos el aceite y cocinamos durante 5 minutos, temperatura Varoma, velocidad 1.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Añadimos el tomate, el azúcar, la sal y la pimienta.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Colocamos el recipiente varoma en su posición. Programamos 30 minutos, temperatura Varoma, velocidad 2, giro a la izquierda.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 30
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Mientras tanto, encedemos el grill del horno a potencia fuerte.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Al finalizar, bajamos el recipiente varoma y lo dejamos destapado, para que vaya soltando la coliflor el agua de la condensación.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Añadimos al vaso los taquitos de jamón y removemos con la espátula. Pasamos la salsa a una fuente apta para el horno. Colocamos los ramilletes de coliflor encima, con los rabitos para abajo. Espolvoreamos con mucho queso rallado y un poco de orégano.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Y gratinamos hasta verle un color doradito a nuestro gusto.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/coliflor-a-la-napolitana/",
+    "creado_en": "2026-08-21"
+  },
+  {
+    "id": "269ff09c-6918-4650-94af-f461f281949a",
+    "slug": "albondigas-al-vapor-con-salsa-de-pinones",
+    "titulo": "Albóndigas al vapor con salsa de piñones",
+    "descripcion": "Receta de Albóndigas al vapor con salsa de piñones adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/07/albóndigas-vapor-salsa-piñones-Thermorecetas.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 30,
+    "comensales": 20,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "350 g de carne picada (mejor si es mitad de cerdo y mitad de ternera)",
+      "40 g de sobrasada",
+      "1 huevo",
+      "Perejil",
+      "2 dientes de ajo",
+      "Pan rallado",
+      "100 g de cebolla",
+      "30 g de pimiento verde",
+      "2 tomates",
+      "30 g de aceite",
+      "250 g de caldo de verduras",
+      "1 hoja de laurel",
+      "1 cucharada pequeña de azúcar",
+      "1 pellizco de tomillo",
+      "15 g de piñones",
+      "Sal y pimienta"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Poner en el vaso los dientes de ajo picar durante 5 segundos a velocidad 5. Retirar y reservar la mitad, la otra mitad se quedará en el vaso.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Incorporar la carne picada, la sobrasada, dos cucharadas de pan rallado, el perejil y el huevo ligeramente batido. Sazonar con la sal y la pimienta. Mezclar durante 15 segundos a velocidad 3.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Para formar las albóndigas podemos utilizar el aparato especial que es parecido a unas pinzas. Si utilizas el sistema manual recuerda humedecer las manos para que no se pegue tanto la mezcla.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Una vez formadas las bolas, rebozarlas en pan rallado, colocarlas en el Varoma y reservar.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Pelar y trocear en grande la cebolla. Picarla con Thermomix durante 3 segundos a velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Añadir el aceite y sofreír durante 7 minutos, 100º y velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 7
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "A continuación incorporar el ajo que teníamos reservado y el pimiento verde. Programar 2 minutos, 100º y velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 2
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Mientras pelar y retirar las pepitas a dos tomates que nos darán, más o menos, unos 200 g de pulpa. Incorporarlos a la salsa junto con la hoja de laurel, el tomillo y el azúcar. Programa 2 minutos, 100º y velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 2
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Añadir el caldo y programar 20 minutos, temperatura Varoma, velocidad 1. Colocar el Varoma con las albóndigas en su sitio.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 16
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "A mitad cocción añadir los piñones al vaso y comprobar que la salsa tiene suficiente líquido. Si está muy espesa se le puede añadir un poco más de caldo.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 21
+      },
+      {
+        "paso_numero": 11,
+        "instruccion": "Menear un poco el Varoma para que las albóndigas rueden y se cambien de sitio. Así conseguiremos que se hagan perfectamente tanto por dentro como por fuera.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 12,
+        "instruccion": "Finalizado el tiempo retirar el Varoma con cuidado de no quemarse con el vapor.",
+        "accesorio": "Ninguno",
+        "velocidad": 0,
+        "temperatura_c": 120,
+        "potencia_calorifica": 9,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 13,
+        "instruccion": "Llegados a este punto tenemos dos opciones; dejar la salsa tal cual está y que se vean los ingredientes o triturarla y darle ese punto tan profesional que Thermomix consigue con las cremas y las salsas. Si optáis por la segunda opción, retirar la hoja de laurel y unos cuantos piñones enteros, después programar 15 segundos a velocidad 5.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 14,
+        "instruccion": "Servir las albóndigas con la salsa y los piñones.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/albondigas-al-vapor-con-salsa-de-pinones/",
+    "creado_en": "2026-08-21"
   }
 ]
