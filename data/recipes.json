@@ -20004,5 +20004,640 @@
     ],
     "fuente_url": "https://www.thermorecetas.com/albondigas-al-vapor-con-salsa-de-pinones/",
     "creado_en": "2026-08-21"
+  },
+  {
+    "id": "f247961c-e5cd-49f1-a7d1-e1eb941e5190",
+    "slug": "crema-de-chocolate-blanco",
+    "titulo": "Crema de chocolate blanco",
+    "descripcion": "Receta de Crema de chocolate blanco adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/07/crema-de-chocolate-blanco.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 10,
+    "comensales": 4,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "500 g de leche (yo puse leche entera fresca)",
+      "2 huevos",
+      "1 cucharadita de azúcar vainillado",
+      "30 g de maicena",
+      "20 g de azúcar",
+      "50 g de chocolate blanco"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Trituramos el chocolate blanco con varios golpes de turbo. Sacamos del vaso y reservamos. Si no os queda rallado no pasa nada. El chocolate blanco tiene mucha grasa y además, con este calor, puede que os quede algo más parecido a una masa que a una ralladura.",
+        "accesorio": "Cuchillas",
+        "velocidad": "Turbo",
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Sin lavar el vaso ponemos en él todos los ingredientes excepto el chocolate que acabamos de rallar. Mezclamos 3 segundos, velocidad 3 1/2. Luego programamos 7 minutos, 90º, velocidad 2.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 7
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Añadimos el chocolate blanco y mezclamos sin temperatura, velocidad 3 y 1/2, hasta que todo quede bien mezclado -un minuto suele ser suficiente-.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Servimos en vasitos y metemos en la nevera. Cuando esté bien frío lo tendremos ¡listo para servir!.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/crema-de-chocolate-blanco/",
+    "creado_en": "2026-08-22"
+  },
+  {
+    "id": "0695c37d-75bb-4304-8c83-8ad969e7f113",
+    "slug": "pina-colada",
+    "titulo": "Piña colada",
+    "descripcion": "Receta de Piña colada adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/07/Pina-colada.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 2,
+    "comensales": 4,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "7oo g de piña natural (pelada y sin la parte central). Os recomiendo la natural, es más sabrosa, pero se puede utilizar también piña en conserva.",
+      "100 ml de crema de coco (o 100 ml de leche de coco y 75 g de azúcar)",
+      "40 ml de ron blanco (con esta cantidad queda muy suave)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Trocear la piña e introducir en el vaso 1 minuto, velocidad 7.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Introducir la crema de coco (o la leche de coco y el azúcar) y el ron blanco 1 min 30 seg, velocidad progresiva 5-10.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Así queda un cóctel denso que puede tomarse perfectamente y está muy rico. Hay que refrigerarlo previamente. Pero la piña colada original requiere, pues eso, que se cuele. Así que, si queremos hacer nuestra piña colada auténtica, pasaríamos todo el líquido por un colador. Luego, a la nevera. Y a disfrutarlo.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/pina-colada-2/",
+    "creado_en": "2026-08-22"
+  },
+  {
+    "id": "5357a270-3265-4a9b-ac2c-7917b8764e36",
+    "slug": "sopa-fria-de-apio-y-tomate",
+    "titulo": "Sopa fría de apio y tomate",
+    "descripcion": "Receta de Sopa fría de apio y tomate adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/07/Sopa-fría-apio-y-tomate-tmr.jpg",
+    "categoria": "carnes",
+    "tiempo_total_min": 45,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "1 cebolla",
+      "1 diente de ajo",
+      "30 g aceite de aceite de oliva",
+      "300 g de tallos de apio",
+      "800 g tomates muy maduros",
+      "500 g caldo de pollo",
+      "una pizca de sal",
+      "una pizca de pimienta",
+      "1 cucharada de azúcar",
+      "2 cucharadas de concentrado de tomate (podéis poner tomate frito o directamente nada, es opcional)",
+      "1 limón (opcional)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Lavamos bien y cortamos en trozos el apio.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Pelamos la cebolla y la cortamos en cuartos. Añadimos el aceite, la cebolla y el ajo pelado, trituramos 10 segundos a velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Bajamos con la espátula todos los restos y programamos 10 minutos, temperatura varoma, velocidad 1. Añadimos el apio en trozos y trituramos 10 segundos a velocidad 5.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Incorporamos los tomates lavados y partidos por la mitad. Mezclamos todo 10 segundos a velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Cubrimos con los 500 g de caldo, un poco de sal, azúcar, pimienta y el concentrado de tomate. Cocinamos 30 minutos, temperatura 100º, velocidad 2.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 25
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Esperamos a que baje la temperatura un poco (a unos 80º), echamos un chorrito de limón (opcional) y trituramos 1 minuto, velocidad progresiva 5-7-10.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/sopa-fria-de-apio-y-tomate/",
+    "creado_en": "2026-08-22"
+  },
+  {
+    "id": "8c6323cd-b0fe-49cc-9f1e-89905e46e493",
+    "slug": "papillote-de-salmon-con-verduras",
+    "titulo": "Papillote de salmón con verduras",
+    "descripcion": "Receta de Papillote de salmón con verduras adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/07/papillote-salmón-con-verduras-Thermorecetas.jpg",
+    "categoria": "pescados",
+    "tiempo_total_min": 50,
+    "comensales": 2,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "350 g de filetes de salmón",
+      "60 g de cebolla",
+      "15 g de aceite de oliva",
+      "100 patata pequeña",
+      "1 diente de ajo",
+      "1/2 pimiento verde",
+      "85 g calabacín",
+      "2 rodajas de limón",
+      "750 g de agua del grifo",
+      "Vino blanco",
+      "Sal y pimienta"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Pelar la cebolla, cortarla en 3 o 4 trozos grandes. Añadir el ajo pelado y picarlo todo con la Thermomix programando 4 segundos, velocidad 5. Bajar con la espátula los trocitos hacia las cuchillas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Añadir el aceite y sofreír durante 5 minutos a 100º y con velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Mientras preparar el resto de las verduras; lavar y despuntar el calabacín. Lavar el pimiento y retirarle las semillas interiores y el pedúnculo. Pelar y lavar la patata.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Picar todas las verduras con corte brunoise. Reservar pero sin mezclarlas porque las vamos a ir integrando en la receta en diferentes tiempos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Cuando tengamos la cebolla preparada, añadir el pimiento y la patata. Programar 4 minutos, 100º y velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 4
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Mientras aprovechar para lavar y retirar piel y espinas al salmón. Trocear las rodajas en cuartos para desechar el hueso y espinas centrales.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Terminado el tiempo añadir el calabacín reservado y programar otros 2 minutos a 100º y velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 2
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "A continuación salpimentar y rehogar con un chorrito de vino blanco. Programar 2 minutos, temperatura Varoma, velocidad 1, sin cubilete para que se evapore bien el alcohol.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 2
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Transcurrido el tiempo retirar y reservar las verduritas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Sin lavar el vaso llenarlo con 750 g de agua del grifo. Calentar el agua durante 7 minutos a 100º y velocidad 1. Poner el cubilete para que se caliente antes.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 6
+      },
+      {
+        "paso_numero": 11,
+        "instruccion": "Entretanto, lavar y secar los limones. Cortar dos rodajas no demasiado gruesas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 12,
+        "instruccion": "Cortar dos trozos grandes de papel de hornear o papel de aluminio. Y repartir por encima las verduras ya preparadas. Colocar encima los trozos de salmón, salpimentar y coronar con una rodaja de limón.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 13,
+        "instruccion": "Cerrar los paquetes de modo que queden bien sellados. Colocarlos en el Varoma.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 14,
+        "instruccion": "Cuando veamos que ya sale vapor por el bocal colocar el Varoma en su sitio y programar 17 minutos, temperatura Varoma, velocidad 2.",
+        "accesorio": "Ninguno",
+        "velocidad": 0,
+        "temperatura_c": 120,
+        "potencia_calorifica": 9,
+        "tiempo_minutos": 14
+      },
+      {
+        "paso_numero": 15,
+        "instruccion": "Transcurrido el tiempo retirar los papillotes del Varoma con cuidado de no quemarse.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 16,
+        "instruccion": "Para servirlos podemos o bien abrir los paquetes y traspasar el contenido a un plato o bien poner los papillotes medio abiertos en un plato y servir.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/papillote-de-salmon-con-verduras/",
+    "creado_en": "2026-08-22"
+  },
+  {
+    "id": "d8bbb077-c593-4345-9027-9032aaf7ca1e",
+    "slug": "tarta-infantil-con-regalos",
+    "titulo": "Tarta infantil con regalos",
+    "descripcion": "Receta de Tarta infantil con regalos adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/07/tarta-infanti-con-regalos.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 40,
+    "comensales": 8,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "4 huevos medianos para cada bizcocho",
+      "120 gr de azúcar para cada bizcocho",
+      "1 cucharadita de azúcar vainillado para cada bizcocho",
+      "120 gr de harina de repostería para cada bizcocho",
+      "1 pellizco de sal para cada bizcocho",
+      "Y colorante alimentario azul que ponemos sólo en uno de los bizcochos",
+      "Para el relleno",
+      "Nata montada (500 gr de nata para montar, 80 gr de azúcar glass, 1 cucharada de queso Philadelphia)",
+      "Almíbar (260 gr de azúcar, 200 gr de agua, el zumo de 1 limón)",
+      "Mermelada, yo le he puesto de ciruela",
+      "Para decorar",
+      "Varias barritas de Kit Kat",
+      "Smarties",
+      "Trufa (500 gr de nata para montar, dos cucharadas de cacao puro en polvo, 80 gr de azúcar glass, 1 cucharada de queso Philadelphia)",
+      "Fondant de nubes",
+      "Figuritas de juguete"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Empezamos a preparar la tarta al menos el día anterior ya que así los bizcochos estarán más jugosos en el momento de su consumo.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Primero uno y luego el otro. Los dos se hacen del mismo modo, la única diferencia es que uno de ellos lleva unas gotas de colorante. Os pongo aquí cómo hacer uno:",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Colocamos la mariposa en las cuchillas, ponemos en el vaso los 4 huevos con el azúcar (120 gr) y el azúcar vainillado (1 cucharadita) y programamos 6 minutos, 37 º, velocidad 4.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 246
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Cuando acabe el tiempo, volvemos a programar otros 6 minutos, velocidad 4 (sin programar temperatura).",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 6
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Abrimos la tapa y añadimos la harina (120 gr) con la sal, echándola alrededor de la mariposa. Programamos 4 segundos, velocidad 3.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Retiramos la mariposa y terminamos de envolver la mezcla con cuidado ayudándonos con la espátula.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Vertemos la mezcla en un molde rectangular (el mío era de 25 x 40) y horneamos a 180º durante 20 o 25 minutos (metemos el molde cuando el horno esté caliente).",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 25
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Para hacer el segundo bizcocho seguimos el mismo procedimiento pero echamos unas gotas de colorante (en este caso azúl) en el primer paso. Pensaréis ¿azul? ¿pero si el bizcocho está verde?. Pues ese color surge de la mezcla entre los huevos y el colorante.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Vertemos el agua, el azúcar y el limón en el vaso y programamos 12 minutos, 100º, velocidad 2. Dejamos templar y lo metemos en la nevera.",
+        "accesorio": "Cuchillas",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Empezamos pulverizando el azúcar para hacerla glass (velocidad progresiva 5-10 durante 30 segundos). Ahora enfriamos el vaso picando unos cubitos de hielo que luego tiraremos (para montar la nata tanto el vaso como nuestra nata tienen que estar muy fríos). Ponemos la mariposa en las cuchillas. Agitamos bien el envase de nata y echamos su contenido en el vaso. Añadimos también una cucharada de queso Philadelphia que dará más consistencia a nuestra nata. Ponemos a funcionar la Thermomix en velocidad 3 1/2, sin programar tiempo. Cuando esté lista paramos la máquina y añadimos a la nata montada el azúcar glass. Integramos azúcar y nata ayudándonos con la espátula y con movimientos envolventes. Reservamos en la nevera.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 11,
+        "instruccion": "Cuando los bizcochos y el almíbar estén fríos, ponemos cada bizcocho sobre papel film o papel de horno y, ayudándonos con una cuchara, les ponemos almíbar por encima. El papel film o el de horno nos ayudarán a recoger el almíbar sobrante y a colocar después un bizcocho en la bandeja de servir y otro en la superficie de nuestra tarta (bañadlos bien para que no nos queden secos, sobre todo el verde ya que al no tener ninguna cobertura se resecará más).",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 12,
+        "instruccion": "Sobre el bizcocho blanco, después de haberlo bañado, ponemos mermelada. Yo he utilizado mermelada casera de ciruela pero podéis hacerlo con la que tengáis o más os guste.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 13,
+        "instruccion": "Sobre la mermelada colocamos la nata montada.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 14,
+        "instruccion": "Ponemos, con cuidado, la plancha de bizcocho verde encima, como os decía, ayudándonos con el film. La parte de abajo de esta plancha (la que estaba pegada al molde) será la que se va a ver ya que es la más bonita.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 15,
+        "instruccion": "Metemos la tarta a la nevera hasta que vayamos a decorarla.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 16,
+        "instruccion": "Hacemos el fondant de nubes siguiendo la receta que vimos hace unos días. También podéis comprar el fondant ya hecho. Lo teñimos de verde en este caso. Yo no tenía tintes especiales y lo he hecho con unas gotitas de colorante alimentario (2 amarillas y 1 azul)",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 17,
+        "instruccion": "Con el fondant yo he hecho los repollos aunque podéis hacer todo aquello que se os ocurra (pelotillas de fútbol, flores, animalitos… Para ello utilizamos los juguetitos redondos que queremos regalar a los niños -son juguetitos pequeños de goma que vienen en una pelota de plástico-, con el rodillo hacemos planchitas de fondant y luego forramos con ellas los juguetes. Después acabamos de hacer la figura con más fondant.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 18,
+        "instruccion": "Hacemos trufa para decorar. Podéis montar 250 g de nata o 500 g, según la cantidad que vayáis a necesitar para vuestra decoración. En este caso se hace tal y como os he indicado antes pero añadiendo dos cucharadas de chocolate puro en polvo antes de montar la nata.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 19,
+        "instruccion": "Decoramos la tarta con la figurita de juguete que regalaremos al cumpleañero, smarties, Kit Kat, nata, los juguetitos forrados con fondant y/o con todo aquello que se os ocurra que gusta a los niños.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 20,
+        "instruccion": "Ahora solo nos queda disfrutar de sus caritas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/tarta-infantil-con-regalos/",
+    "creado_en": "2026-08-22"
+  },
+  {
+    "id": "c03503c5-a358-4031-b810-055d518189d6",
+    "slug": "rape-al-vapor-con-salsa-de-tomate-y-hierbabuena",
+    "titulo": "Rape al vapor con salsa de tomate y hierbabuena",
+    "descripcion": "Receta de Rape al vapor con salsa de tomate y hierbabuena adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/07/Rape-con-tomate.jpg",
+    "categoria": "pescados",
+    "tiempo_total_min": 38,
+    "comensales": 4,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "4 colas de rape",
+      "1 cebolla (170 g aprox)",
+      "1 diente de ajo",
+      "50 ml de aceite (medio cubilete)",
+      "1 kg de tomates maduros",
+      "5 hojas de hierbabuena",
+      "1 cucharada de azúcar (yo le pongo azúcar moreno, me gusta más, pero si no tenéis, la blanca sirve)",
+      "1 cucharadita de sal",
+      "Preparación"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Poned en el vaso la cebolla y el ajo. Programar 5 segundos, velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Añadid el aceite. Programad 7 minutos, temperatura varoma, velocidad 1.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 7
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Añadid el tomate, el azúcar, la sal y la hierbabuena. Tapad con el cubilete y programar 5 segundos, velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Poned el rape en la Varoma y la Varoma sobre el vaso. Programad 30 minutos, temperatura varoma, velocidad 1.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 30
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/rape-al-vapor-con-salsa-de-tomate-y-hierbabuena/",
+    "creado_en": "2026-08-22"
   }
 ]
