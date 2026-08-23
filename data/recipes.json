@@ -20639,5 +20639,632 @@
     ],
     "fuente_url": "https://www.thermorecetas.com/rape-al-vapor-con-salsa-de-tomate-y-hierbabuena/",
     "creado_en": "2026-08-22"
+  },
+  {
+    "id": "f24d13e5-2b7c-4abf-885c-f3a0e290376a",
+    "slug": "ensalada-de-pasta-con-salsa-ligera-de-queso",
+    "titulo": "Ensalada de pasta con salsa ligera de queso",
+    "descripcion": "Receta de Ensalada de pasta con salsa ligera de queso adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/07/ensalada_pasta_salsa_yogur.jpg",
+    "categoria": "pescados",
+    "tiempo_total_min": 15,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "300 g de pasta de colores",
+      "1000 g de agua",
+      "sal",
+      "1 lata de maíz",
+      "2 latas de atún en aceite de oliva",
+      "8 palitos de cangrejo",
+      "1 zanahoria",
+      "Aceitunas negras (al gusto)",
+      "½ cebolleta",
+      "1 cucharadita de mostaza",
+      "250 g de queso batido 0% (podéis sustituirlo por 2 yogures)",
+      "Un chorrito de zumo de limón",
+      "Orégano",
+      "Sal",
+      "Pimienta",
+      "½ cucharadita de azúcar blanco"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Primero vamos a cocer la pasta.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Echamos el litro de agua en el vaso, una pizca de sal y programamos 8 minutos, temperatura varoma, velocidad 1.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 7
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Echamos la pasta por el bocal y programamos el tiempo que indique el paquete, 100º, velocidad 1. Probamos la textura y si nos gusta así, escurrimos la pasta y la echamos en la fuente donde vamos a servir la ensalada. Regamos con un pelín de aceite y espolvoreamos un pelín de sal. Removemos bien.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Añadimos a la pasta la lata de maíz, las 2 latas de atún con su aceite, los palitos de cangrejo troceado, las aceitunas y la zanahoria pelada y cortada a rodajas. Removemos bien. Y probamos el punto de sal.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Ahora vamos a preparar la salsa.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Sin lavar el vaso, echamos la cebolla troceada y trituramos 4 segundos, velocidad 5. Después bajamos los restos de las paredes y añadimos la mostaza, el queso batido, el limón, el orégano, la sal, la pimienta y el azúcar. Emulsionamos durante 20 segundos a velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Vertemos la salsa encima de la pasta y ¡a comer!",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/ensalada-de-pasta-con-salsa-ligera-de-queso/",
+    "creado_en": "2026-08-23"
+  },
+  {
+    "id": "14d5cf4b-d1e4-4dc0-9249-f6f35abfd342",
+    "slug": "ensalada-de-garbanzos-con-alino-de-limon",
+    "titulo": "Ensalada de garbanzos con aliño de limón",
+    "descripcion": "Receta de Ensalada de garbanzos con aliño de limón adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/07/ensalada-garbanzos-con-aliño-limón-Thermorecetas.jpg",
+    "categoria": "verduras",
+    "tiempo_total_min": 40,
+    "comensales": 2,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "150 g de garbanzos secos",
+      "10 tomates cherry",
+      "100 g de queso feta",
+      "60 g de cebolla morada o fresca",
+      "½ cucharadita de azúcar",
+      "2 cucharadas de aceite de oliva",
+      "2 cucharadas de agua mineral",
+      "½ limón",
+      "1 hoja de laurel",
+      "500 g de agua mineral",
+      "Perejil",
+      "Sal y pimienta"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "La noche anterior poner los garbanzos en remojo.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "A la mañana siguiente, llenar el vaso de agua hasta la marca de 1 litro. Añadir la hoja de laurel, salpimentar y calentar el agua programando 7 minutos, 100º, velocidad 1, con el cubilete puesto.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 6
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Mientras, lavar y escurrir bien los garbanzos y colocarlos en el cestillo. Cuando haya terminado el tiempo ponerlo dentro del vaso y programar 30 minutos, 100º y velocidad 4.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 30
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Entretanto lavar los tomates y cortarlos en cuartos. Cortar el queso en daditos y la cebolla en brunoise.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Lavar y secar el limón. Rallar la mitad cogiendo sólo la parte amarilla. Exprimir sólo la mitad del limón.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Lavar, secar bien y picar el perejil hasta llenar 1 cucharada pequeña. También se puede utilizar perejil congelado.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Una vez cocidos los garbanzos, refrescarlos bajo el chorro de agua y escurrirlos. Mezclarlos con el queso, los tomates y la cebolla. Dejar enfriar.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Durante el tiempo de enfriado podemos aprovechar para hacer la vinagreta. Para ello vaciar el vaso del líquido de cocción y sin lavarlo agregar las dos cucharadas de agua mineral, el azúcar y la ralladura de limón. Calentar durante 1 minuto, 50º y velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Añadir dos cucharadas de zumo de limón, el aceite y el perejil picado. Batir durante 15 segundos, a velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Minutos antes de servir poner un poco de aliño por encima de la ensalada y darle unas vueltas para que los ingredientes se impregnen.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 11,
+        "instruccion": "Servir en raciones individuales o en un cuenco hondo grande con el aliño por separado para que cada uno se pueda poner lo que estime oportuno.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/ensalada-de-garbanzos-con-alino-de-limon/",
+    "creado_en": "2026-08-23"
+  },
+  {
+    "id": "52355884-e150-45a9-83e8-11ee39bbf410",
+    "slug": "brise-de-queso-con-brocoli-y-tomate",
+    "titulo": "Brisé de queso con brócoli y tomate",
+    "descripcion": "Receta de Brisé de queso con brócoli y tomate adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/07/brise-de-queso-con-brocoli-y-tomate.jpg",
+    "categoria": "legumbres",
+    "tiempo_total_min": 5,
+    "comensales": 8,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "120 g de queso (puede ser un semicurado)",
+      "250 g de harina de repostería",
+      "130 g de mantequilla",
+      "125 g de agua muy fría",
+      "2 cucharadas de zumo de limón",
+      "125 g de nata",
+      "60 g de leche",
+      "70 g de queso (sirve el semicurado)",
+      "2 huevos",
+      "Sal",
+      "800 g de brócoli cocido al vapor",
+      "3 tomates en lonchas"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Metemos en queso en el vaso. Programamos 5 segundos, velocidad 6.",
+        "accesorio": "Cuchillas",
+        "velocidad": 6,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Añadimos en el vaso los otros ingredientes de la pasta y programamos 1 minuto, vaso cerrado, velocidad espiga.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Terminado el tiempo sacamos la masa y reservamos (es una masa blanda).",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Metemos en el vaso la nata, la leche, el queso, los huevos y la sal. Programamos 30 segundos, velocidad 3. Sacamos del vaso y reservamos.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Sin lavar el vaso metemos el brócoli y lo troceamos programando 10 segundos, velocidad 2 1/2.",
+        "accesorio": "Cuchillas",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Encendemos el horno a 200º.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Extendemos la masa en un molde de 24 o 26 cms de diámetro.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Recubrimos el fondo con el brócoli y salamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Echamos el relleno líquido que teníamos reservado y cubrimos todo con el tomate en rodajas. Salamos un poco.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Metemos al horno, ya caliente, por 10 minutos a 200º. Bajamos la temperatura del horno a 180º y lo dejamos cocer otros 20 o 25 minutos.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/brise-de-queso-con-brocoli-y-tomate/",
+    "creado_en": "2026-08-23"
+  },
+  {
+    "id": "da78115c-0e54-4cbd-9cf8-dbdc40cfd527",
+    "slug": "panacota",
+    "titulo": "Panacota",
+    "descripcion": "Receta de Panacota adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/07/Panacota-con-miel.jpg",
+    "categoria": "sopas-y-cremas",
+    "tiempo_total_min": 7,
+    "comensales": 6,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "6 hojas de gelatina",
+      "250 g de nata líquida",
+      "125 g de leche",
+      "75 g de azúcar blanca"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Sumergir la gelatina en agua fría hasta que esté hidratada (10/15 min)",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 12
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Poner en el vaso la leche, la nata y el azúcar y cocer durante 6 minutos, temperatura 80º, velocidad 3.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 6
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Añadir la gelatina escurrida y mezclar durante 10 segundos, velocidad 3",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Disponer en moldes e introducir en el frigorífico durante 2 horas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 120
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/panacota/",
+    "creado_en": "2026-08-23"
+  },
+  {
+    "id": "3f8c9915-9085-4663-8802-f08462c99cdb",
+    "slug": "cocois-de-jamon-y-queso",
+    "titulo": "Cocois de jamón y queso",
+    "descripcion": "Receta de Cocois de jamón y queso adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/07/Cocois-de-jamón-y-queso-portada-tmr.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 10,
+    "comensales": 4,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "1 plancha de hojaldre fresco (se compra en la sección de refrigerados)",
+      "jamón york",
+      "queso de loncha que funda bien (tipo tranchetes o queso de sándwich)",
+      "salsa de tomate casera",
+      "salsa bechamel casera",
+      "orégano",
+      "50 g de aceite",
+      "50 g de harina",
+      "600 g de leche",
+      "pimienta negra",
+      "nuez moscada",
+      "sal"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "En primer lugar prepararemos la salsa de tomate casera siguiendo las indicaciones del siguiente link: salsa de tomate casera.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Después preparemos la salsa bechamel: ponemos en el vaso el aceite 1 minuto a 100º vel.1.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Añadimos la harina, 2 minutos, 100º, velocidad 2.",
+        "accesorio": "Cuchillas",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 2
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Añadimos el resto de ingredientes, 5 segundos a velocidad 6. Programamos 7 minutos 100º, velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 6,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 7
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Tenemos que dejar enfriar tanto la salsa de tomate como la bechamel. Siempre que trabajemos con hojaldre recordad que tiene que ser en frío, tanto el hojaldre como el resto de ingredientes que utilicemos. Acordaos de sacar el hojaldre justo en el momento de rellenarlo.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Ahora que tenemos listo todo, precalentamos el horno a 180º con ventilador, si tenéis, si no, calor arriba y abajo y altura media.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Extendemos la masa de hojaldre (generalmente vienen con papel de hornear, así que lo utilizamos también) sobre la bandeja de horno fría (acordaos de sacarla cuando lo pongáis a precalentar).",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Ponemos en el centro de forma longitudinal una capa no muy gruesa de tomate, después cubrimos bien con jamón york, después añadimos otra capa tampoco muy gruesa de bechamel y terminamos con el queso.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Cerramos bien haciendo un paquete si vuestro hojaldre es de forma rectangular, o una media luna (en forma de empanadilla gigante) si vuestro hojaldre es circular. Es importante que quede bien cerrado y sellado para que no se salga nada cuando esté en el horno.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Pintáis con aceite de oliva la superficie y espolvoreáis con orégano.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 11,
+        "instruccion": "Lo cocináis en el horno a 180º durante unos 15 minutos o hasta que lo veáis doradito por la superficie.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 15
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/cocois-de-jamon-y-queso/",
+    "creado_en": "2026-08-23"
+  },
+  {
+    "id": "6021d2e4-3469-42f7-ad79-1ab112411bec",
+    "slug": "salsa-picante-de-cerezas",
+    "titulo": "Salsa picante de cerezas",
+    "descripcion": "Receta de Salsa picante de cerezas adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/07/salsa-picante-cerezas-Thermorecetas.jpg",
+    "categoria": "salsas",
+    "tiempo_total_min": 61,
+    "comensales": 20,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "50 g de puerro (sólo la parte blanca)",
+      "1 diente de ajo",
+      "5 g de raíz de jengibre",
+      "260 g de cerezas deshuesadas",
+      "100 g de agua mineral",
+      "50 g de vino tinto",
+      "10 g de azúcar moreno",
+      "1 guindilla seca (sin las semillas)",
+      "30 g de aceite de oliva virgen",
+      "Sal y pimienta"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Lavar bien el puerro retirando las hojas exteriores, cortar en trozos grandes e introducirlos en el vaso junto con el ajo pelado. Programar 7 segundos, velocidad 5. Con la espátula, bajar los trocitos hacia las cuchillas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Incorporar el jengibre pelado y rallado fino.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Añadir el aceite de oliva y programar 30 minutos, 100º y velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 30
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Entretanto, lavar bien las cerezas, retirar el pedúnculo y el hueso.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Transcurrido el tiempo incorporarlas al vaso junto con la guindilla sin semillas y salpimentar. Programar 5 minutos, 100º y velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Después incorporar el agua, el vino y el azúcar. Programar 20 minutos, 100º y velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 16
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "A continuación triturar durante 30 segundos, pasando de velocidad 5 a 7. Rectificar de sal.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Vuelve a calentar durante 5 minutos a 100º, velocidad 1 y sin cubilete. Así se facilita la evaporación del agua y la salsa quedará más densa.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 4
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/salsa-picante-de-cerezas/",
+    "creado_en": "2026-08-23"
   }
 ]
