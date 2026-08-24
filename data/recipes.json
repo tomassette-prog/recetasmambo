@@ -21266,5 +21266,533 @@
     ],
     "fuente_url": "https://www.thermorecetas.com/salsa-picante-de-cerezas/",
     "creado_en": "2026-08-23"
+  },
+  {
+    "id": "9dd4b91f-295f-4564-ad36-39db2721f4bd",
+    "slug": "helado-de-leche-cacao-avellanas-y-azucar",
+    "titulo": "Helado de leche, cacao, avellanas y azúcar",
+    "descripcion": "Receta de Helado de leche, cacao, avellanas y azúcar adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/07/helado-de-leche-cacao.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 8,
+    "comensales": 0,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "200 g de Nocilla o de Nutella",
+      "200 g de nata líquida",
+      "350 g de leche",
+      "50 g de azúcar (podéis ponerle menos)",
+      "4 yemas",
+      "1 pizca de sal"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos todos los ingredientes en el vaso y programamos 7 minutos, 90º, velocidad 4. Echamos la mezcla en un recipiente alargado y metemos en el congelador.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 7
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Después de unas horas, cuando esté congelado y queramos consumirlo, lo cortamos en cubitos. Trituramos 10 segundos, velocidad 6, y servimos (este tiempo es aproximado, si creéis que necesita algunos segundos más pues se los dais).",
+        "accesorio": "Cuchillas",
+        "velocidad": 6,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Después de este triturado también tenemos otra opción: podemos meterlo en los envases de helado (esos que venden con la forma de plástico y palito) y congelar de nuevo. Así, cuando queramos uno, sólo tendremos que sacarlo del congelador.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Si tenéis peques este helado os puede servir de gran ayuda en ciertos momentos, por ejemplo, “cuando recojáis la habitación os doy un helado…”. Veréis como no falla.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/helado-de-leche-cacao-avellanas-y-azucar/",
+    "creado_en": "2026-08-24"
+  },
+  {
+    "id": "3fad325e-25f5-4f2d-990a-3b59551907cb",
+    "slug": "ensalada-marroqui-de-zanahorias",
+    "titulo": "Ensalada marroquí de zanahorias",
+    "descripcion": "Receta de Ensalada marroquí de zanahorias adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/07/ensalada-de-zanahoria.jpg",
+    "categoria": "verduras",
+    "tiempo_total_min": 2,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "300 g de zanahorias",
+      "2 vainas de cardamomo",
+      "1 cucharadita de semillas de mostaza negra",
+      "1 cucharadita de comino molido",
+      "1 cucharadita de jengibre molido",
+      "1 cucharadita de pimentón",
+      "1 cucharada de zumo de limón",
+      "3 cucharadas de zumo de naranja",
+      "80 ml de aceite de oliva",
+      "35 g de pasas de corinto",
+      "25 g de perejil",
+      "100 g de frutos secos variados (almendras, nueces, pistachos, anacardos, pipas peladas… se puede comprar una bolsita de mix)",
+      "1 yogur natural"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Para que las especias adquieran todo su sabor, hay que tostarlas previamente. Así que vertemos dos cucharadas de aceite en el vaso y calentamos 1 minuto, temperatura varoma, velocidad 1.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Añadimos el cardamomo (hay que extraer la semilla de su vaina), las semillas de mostaza, el comino, el jengibre y el pimentón. Los tostamos 30 segundos, temperatura varoma, velocidad 1.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Incorporamos las zanahorias peladas, lavadas y en grandes trozos, los frutos secos, el zumo de limón, dos cucharadas del zumo de naranja (reservamos una), las pasas, el perejil y el aceite (reserva también una cucharada de aceite). Troceamos y mezclamos programando 5 segundos, velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Disponemos la ensalada en un bol y la dejamos reposar 30 minutos tapada con papel film para que adquiera todo su sabor.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 30
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Hacemos una salsa mezclando el yogur natural con la cucharada de naranja reservada y la cucharada de aceite reservada.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Serviremos por separado la ensalada y la salsa para que cada uno efectúe su mezcla al gusto.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/ensalada-marroqui-de-zanahorias/",
+    "creado_en": "2026-08-24"
+  },
+  {
+    "id": "89ca12de-70a8-49ef-aa33-de2a6d22f644",
+    "slug": "autentico-nestea",
+    "titulo": "Auténtico Nestea",
+    "descripcion": "Receta de Auténtico Nestea adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/07/Nestea-casero-tmr.jpg",
+    "categoria": "bebidas",
+    "tiempo_total_min": 9,
+    "comensales": 1,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "4 cucharadas grandes de azúcar blanco",
+      "3 bolsas de té tipo breakfast tea o té negro",
+      "1/2 limón muy bien lavado",
+      "1 litro de agua"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Tenemos preparada una jarra o un bote de cristal (resistente al calor) donde quepa un litro de agua.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Echamos el azúcar en el vaso y programamos 20 segundos, velocidad progresiva 5-7-10 para pulverizarlo y hacerlo azúcar glass.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "A continuación echamos el 1/2 limón y trituramos en vaso cerrado, 2 golpes de turbo. Retiramos el azúcar y el limón al bote de cristal que habíamos reservado.",
+        "accesorio": "Cuchillas",
+        "velocidad": "Turbo",
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Sin lavar el vaso añadimos 1 litro de agua y programamos 8 minutos, temperatura varoma, velocidad cuchara.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 7
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Mientras se calienta el agua, introducimos en el bote de cristal las 3 bolsitas de té.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Cuando el agua esté lista, la vertemos en el bote con dos precauciones: una es poner una cuchara de metal dentro del vaso (al ser de cristal se podría romper por el cambio de temperatura, de esta manera, la cuchara absorberá el calor y no se romperá el cristal), y la segunda es agarrar bien las cuerdecitas de las bolsas de té para que no se vayan al fondo.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Lo dejamos infusionar durante unos 5-7 minutos, escurrimos bien las bolsas y las retiramos. Removemos bien el té para que el azúcar no se quede en el fondo.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 7
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Colocamos el cestillo dentro del vaso, y volvemos pasar nuestro té al vaso de la thermomix (sin lavar aún) a través del cestillo a modo de colador. Ya lo tenemos listo. Ahora sólo queda que paséis el té al bote de antes o donde queráis conservarlo.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Lo dejáis templar y lo metéis en la nevera al menos 4 horas para que esté bien fresquito.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 240
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/autentico-nestea/",
+    "creado_en": "2026-08-24"
+  },
+  {
+    "id": "cee08c6e-b67f-48bc-9c2e-8b85117d4fc3",
+    "slug": "vichyssoise-de-tomate-a-la-hierbabuena",
+    "titulo": "Vichyssoise de tomate a la hierbabuena",
+    "descripcion": "Receta de Vichyssoise de tomate a la hierbabuena adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/07/vichyssoise-tomate-a-la-hierbabuena-Mayra-Fdez-Joglar.jpg",
+    "categoria": "sopas-y-cremas",
+    "tiempo_total_min": 28,
+    "comensales": 4,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "600 g de tomates maduros",
+      "1 patata mediana",
+      "85 g de puerro",
+      "15 g de mantequilla",
+      "1 vaso de agua mineral",
+      "1 pellizco de azúcar",
+      "Aceite de oliva virgen",
+      "Hierbabuena picada",
+      "Sal y pimienta"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Lavar bien el puerro, trocearlo y ponerlo en el vaso. Agregar la mantequilla y programar 5 segundos, velocidad 5. Bajar los trocitos con la espátula hacia las cuchillas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Pochar durante 6 minutos, 100º y velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 6
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Mientras pelar y lavar la patata. Cortarla en rodajas gruesas. Incorporarlas al vaso y programar 2 minutos, 100º y velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 2
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Lavar y secar los tomates, quitarles el pedúnculo y añadirlos al vaso junto con el azúcar, la sal y la pimienta. Programar 5 minutos, 100º y velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Agregar el agua y dejar cocer durante 13 minutos, 100º velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 11
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Pasado el tiempo triturar durante 30 segundos a velocidad 5. Y después otros 30 segundos a velocidad progresiva 5-7-9.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Pasar por el tamiz de malla fina para eliminar todas las pieles y pepitas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Dejar reposar en la nevera, por lo menos, durante 2 horas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 120
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Servir la vichyssoise en cuencos individuales, espolvorear la hierbabuena picada y decorar con un hilo de aceite de oliva virgen.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "¡Buen provecho!",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/vichyssoise-de-tomate-a-la-hierbabuena/",
+    "creado_en": "2026-08-24"
+  },
+  {
+    "id": "1a789609-28a7-4589-8981-824cc727f191",
+    "slug": "pollo-a-las-hierbas",
+    "titulo": "Pollo a las hierbas",
+    "descripcion": "Receta de Pollo a las hierbas adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/07/pollo-a-las-hierbas.jpg",
+    "categoria": "carnes",
+    "tiempo_total_min": 37,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "50 g de aceite de oliva virgen extra",
+      "6 contramuslos de pollo, sin piel",
+      "1 cucharadita de sal",
+      "1 ramita de tomillo",
+      "1 ramita de romero",
+      "1 cucharadita de orégano",
+      "1 hoja de laurel",
+      "1 cucharada de harina",
+      "50 g de coñac o de vino blanco",
+      "1 cucharadita de cúrcuma (opcional)",
+      "El zumo de un limón",
+      "250 g de agua"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos en el vaso el aceite y programamos 5 minutos, temperatura varoma, velocidad 1.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Colocamos la mariposa en las cuchillas. Añadimos al vaso el pollo, la sal, el tomillo, el romero, el orégano, el laurel y la harina. Programamos 10 minutos, temperatura varoma, giro a la izquierda, velocidad cuchara.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Añadimos el coñac o el vino blanco y programamos 2 minutos, temperatura varoma, giro a la izquierda, velocidad cuchara.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 2
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Incorporamos la cúrcuma (yo no tenía y no la he añadido), el zumo de limón y el agua. Programamos 20 minutos, temperatura varoma, giro a la izquierda, velocidad 1.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 16
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "¡Y a comer!",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/pollo-a-las-hierbas/",
+    "creado_en": "2026-08-24"
+  },
+  {
+    "id": "c7523c8c-3f5f-45db-ab2a-bbbd7732e3b8",
+    "slug": "crema-de-aguacate-y-menta",
+    "titulo": "Crema de aguacate y menta",
+    "descripcion": "Receta de Crema de aguacate y menta adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/08/crema-de-aguacate.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 33,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "25 g de mantequilla",
+      "3 cebolletas tiernas (400 g aprox.)",
+      "1 aguacate maduro (400 g aprox)",
+      "1 cucharada de zumo de limón",
+      "1 cucharadita de ralladura de corteza de limón",
+      "1 diente de ajo",
+      "15 g de harina de trigo",
+      "300 ml de caldo (vegetal o de pollo) o 300 ml de agua y media pastilla de caldo (vegetal o de pollo)",
+      "125 ml de leche",
+      "75 ml de nata líquida",
+      "5 hojas de menta",
+      "1 cucharadita de sal",
+      "pimienta al gusto"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Calentamos la mantequilla 1 minuto, temperatura varoma, velocidad 1",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Añadimos las cebolletas partidas y el ajo, trituramos 5 segundos, velocidad 5",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "A continuación, programamos 9 minutos, temperatura varoma, velocidad 1",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 9
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Añadimos la harina y la rehogamos durante 3 minutos, 100º, velocidad 1",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 3
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Durante el último minuto, añadir poco a poco el caldo (o el agua y al final la pastilla) a través del bocal de la tapa. Cocer todo junto durante 8 minutos, a temperatura Varoma, velocidad 1.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 7
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Añadir el aguacate pelado, deshuesado y troceado, el zumo de limón, la ralladura de la corteza de limón, la sal y la pimienta. Programar 10 minutos, velocidad 1, temperatura 100º.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Dejamos que se enfríe hasta que esté tibia, añadimos la leche, la nata y la menta y trituramos 1 minuto, velocidad progresiva 5-10.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 1
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/crema-de-aguacate-y-menta/",
+    "creado_en": "2026-08-24"
   }
 ]
