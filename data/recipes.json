@@ -21794,5 +21794,679 @@
     ],
     "fuente_url": "https://www.thermorecetas.com/crema-de-aguacate-y-menta/",
     "creado_en": "2026-08-24"
+  },
+  {
+    "id": "9f8b925a-e4a2-48ca-a417-5c5f6085f73e",
+    "slug": "ensalada-de-pasta-con-salsa-raita",
+    "titulo": "Ensalada de pasta con salsa raita",
+    "descripcion": "Receta de Ensalada de pasta con salsa raita adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/07/ensalada-pasta-salsa-raita-Mayra-Fdez-Joglar.jpg",
+    "categoria": "verduras",
+    "tiempo_total_min": 20,
+    "comensales": 2,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "175 g de pasta corta",
+      "1 zanahoria",
+      "6 tomates cherry",
+      "4 ramilletes de brócoli",
+      "2 champiñones laminados",
+      "½ calabacín",
+      "30 g de aceite de oliva virgen extra",
+      "30 g de pepino pelado y sin semillas",
+      "50 g de yogur natural",
+      "1 chorro de zumo de limón",
+      "Unas hojas de menta o hierbabuena picadas",
+      "Sal y pimienta blanca"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Poner en el vaso el pepino pelado y sin semillas, triturar durante 2 segundos a velocidad 5. Si veis que los trocitos os han quedado muy gruesos podéis programar unos segundos más pero cuidado de que no se haga puré.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Retirar sobre un escurridor, añadir un poquito de sal y dejar reposar. De vez en cuando podemos apretar con una cuchara para eliminar todo el líquido.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Mientras ir cociendo la pasta y preparando la ensalada. Para ello colocaremos agua del grifo hasta la marca de 1 litro. Salpimentar, colocar el cestillo y programar 7 minutos, 100º, velocidad 1. Colocar el cubilete para que se caliente antes.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 6
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Colocar los ramilletes de brócoli en el Varoma. (Puedes aprovechar para preparar otras recetas).",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Cuando el agua rompa a hervir agregar la pasta por el bocal. Colocar el Varoma en su sitio y programar el tiempo que marca el paquete, 100º y velocidad 4. En mi caso son 10 minutos.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 9,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Entretanto vamos a ir preparando el resto de los ingredientes; lavar los tomatitos y cortar en mitades.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Lavar y raspar la zanahoria. Lavar también el calabacín y cortar ambas verduras en bastoncillos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Retirar la tierra a los champiñones y laminar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Transcurrido el tiempo, retirar el Varoma con cuidado de no quemarse con el vapor. Retirar el cestillo y refrescar la pasta bajo el chorro de agua fría.",
+        "accesorio": "Ninguno",
+        "velocidad": 0,
+        "temperatura_c": 120,
+        "potencia_calorifica": 9,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Escurrir bien y colocar la pasta en un cuenco hondo. Aliñar con un chorrito de aceite de oliva e incorporar el brócoli y el resto de las verduras.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 11,
+        "instruccion": "Vaciar el vaso y sin lavarlo colocar dentro el pepino reservado, el yogur, la menta o hierbabuena, el zumo de limón, el aceite de oliva, la sal y la pimienta. Batir durante 10 segundos, velocidad 3 ½, giro a la izquierda.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 12,
+        "instruccion": "Bajar los trocitos con la espátula hacia las cuchillas, retirar del vaso y reservar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 13,
+        "instruccion": "A la hora de servir se puede poner la ensalada en platos individuales o en una ensaladera grande.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 14,
+        "instruccion": "Servir acompañado de la salsa servida en salsera o en cuenco independiente para que cada uno se pueda poner lo que quiera.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/ensalada-de-pasta-con-salsa-raita/",
+    "creado_en": "2026-08-25"
+  },
+  {
+    "id": "80e09476-7cc1-4741-a18c-104e7a0eebf6",
+    "slug": "fartons",
+    "titulo": "Fartons",
+    "descripcion": "Receta de Fartons adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/08/fartons-21.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 12,
+    "comensales": 20,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "100 g de agua",
+      "70 g de mantequilla (podéis sustituirla por aceite)",
+      "100 g de azúcar",
+      "30 g de levadura prensada fresca de panadería",
+      "2 huevos grandes",
+      "400 g de harina de fuerza",
+      "1/4 cucharadita de sal",
+      "150 g de agua",
+      "200 g de azúcar",
+      "50 g de azúcar glass"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Empezamos triturando el azúcar para conseguir nuestro azúcar glass que luego utilizaremos para espolvorear por encima. Para ello ponemos en el vaso 50 g de azúcar y trituramos durante 30 segundos aproximadamente en velocidad progresiva 5-10. Sacamos el azúcar glass y reservamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Lavamos el vaso para preparar la masa.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Ponemos en el vaso de Thermomix el agua, la mantequilla, el azúcar (no el que acabamos de hacer glass sino que que indica en los ingredientes de la masa), la levadura y los huevos. Programamos 10 segundos, velocidad 6.",
+        "accesorio": "Cuchillas",
+        "velocidad": 6,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Incorporamos la harina y la sal. Programamos 4 minutos, vaso cerrado, velocidad espiga. Dejamos reposar en el vaso unos 15 minutos.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 4
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Pasado ese tiempo ponemos aceite en la mesa de trabajo y volcamos la masa (será un a masa blanda y pegajosa pero no os asustéis que se trabaja bien). Nos untamos las manos en aceite y vamos formando bolas de unos 25 g. Para saber el peso de la masa podéis utilizar la balanza de la máquina. Cuando tengamos todas las bolitas preparadas las vamos estirando para formar cilindros de unos 20 centímetros (los hacemos rodar sobre la encimera con las palmas de las manos). Vamos colocando nuestros palitos en las bandejas de horno forradas con papel de hornear. Es importante que dejemos espacio entre cada bollito porque luego crecerán. Cuando estén todos formados los dejamos reposar 2 horas.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 120
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Pasado ese tiempo, precalentamos el horno a 200º.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Horneamos durante 5 minutos en tandas. Ojo, el tiempo es orientativo. Cuando metáis la primera tanda no os despistéis y vigilad vuestros fartons desde el primer minuto para sacarlos cuando creáis que están hechos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Mientras se hace la primera tanda, a la vez que no le quitamos ojo al horno, vamos preparando el almíbar. Para ello ponemos en el vaso los 150 g de agua y los 200 g de azúcar y programamos 7 minutos, 100º, velocidad 2. Vertemos el almíbar en un recipiente alargado para poder bañar en él la parte superior de nuestros bollos.",
+        "accesorio": "Ninguno",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 6
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Cuando sacamos los fartons del horno los bañamos en el almíbar (tienen que estar aún calientes). Luego espolvoreamos con el azúcar glass que hicimos en el primer paso y dejamos enfriar sobre una rejilla.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Nos preparamos nuestra horchata o, en su defecto, nuestro vaso de leche… y ¡a disfrutar!",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/fartons/",
+    "creado_en": "2026-08-25"
+  },
+  {
+    "id": "b2be7021-3c00-460e-9fa0-b45b53f905a6",
+    "slug": "leche-de-pantera",
+    "titulo": "Leche de Pantera",
+    "descripcion": "Receta de Leche de Pantera adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/08/Leche-de-Pantera.jpg",
+    "categoria": "sopas-y-cremas",
+    "tiempo_total_min": 1,
+    "comensales": 4,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "1 bote de leche condensada pequeño (350 g)",
+      "150 ml. de ron blanco (3 cubiletes)",
+      "50 ml de brandy (medio cubilete)",
+      "1 bandeja y media de hielo",
+      "canela al gusto"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Introducir la leche condensada, el ron blanco, el brandy y la bandeja de hielo en el vaso y triturar 1 minuto, velocidad progresiva 5-10.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Servir inmediatamente espolvoreada con canela.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/leche-de-pantera/",
+    "creado_en": "2026-08-25"
+  },
+  {
+    "id": "712af142-d041-4d70-afbf-74197a154b58",
+    "slug": "tartaletas-de-morcilla-y-huevos-de-codorniz",
+    "titulo": "Tartaletas de morcilla y huevos de codorniz",
+    "descripcion": "Receta de Tartaletas de morcilla y huevos de codorniz adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/07/Tartaletas-morcilla-y-huevos-de-codorniz-tmr.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 10,
+    "comensales": 12,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "200 g de harina de repostería",
+      "100 g de mantequilla",
+      "1 huevo",
+      "1/2 cucharadita de moka de sal",
+      "una pizca de azúcar",
+      "1 plancha de masa quebrada (casera o comprada)",
+      "1 morcilla de cebolla",
+      "12 huevos de codorniz",
+      "una pizca de sal",
+      "10 g de aceite",
+      "aceite para freír los huevos"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Echamos en el vaso todos los ingredientes de la masa: la harina, después la mantequilla cortada en dados y fría, el huevo frío, el azúcar y la sal.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Programamos 15 segundos, velocidad 4. Retiramos la masa del vaso y, sin manipularla mucho, hacemos una bola. La envolvemos en film transparente o la metemos dentro de una bolsa y la dejamos reposar en el frigorífico durante 1 hora.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 60
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Cuando pase esta hora, la extendemos sobre la encimera y le damos la forma que queramos. Acordaos de echar una pizca de harina en la encimera para que no se pegue. Otra precaución que debéis tener con esta masa es no manipularla en exceso, así que cuantas menos veces le pasemos el rodillo mejor.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Y si mientras la estáis colocando en el molde se os rompe, no pasa absolutamente nada. Esta es una de las características de la masa quebrada. Cogéis masa de otro sitio y se la pegáis encima. Veréis como se integra fenomenal y no se nota nada el remiendo.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "En primer lugar vamos a hornear la masa quebrada. La colocamos en sus moldes o molde correspondiente y pinchamos toda la base con un tenedor.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Introducimos en el horno (precalentado) a 180º calor arriba y abajo durante 12-15 minutos, o hasta que estén hechas (lo sabréis porque cogerá un color doradito). Sacamos del horno y reservamos.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 15
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Mientras se cocinan las tartaletas prepararemos la morcilla. Echamos en el vaso los 10 gr de aceite y programamos 3 minutos, velocidad 1, temperatura varoma.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 3
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Le quitamos la piel a la morcilla y la echamos en el vaso. Sofreímos durante 5 minutos, velocidad cuchara, giro a la izquierda, temperatura varoma. Reservamos.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Rellenamos las tartaletas con la morcilla y reservamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Vamos friendo los huevos de codorniz y según los vamos sacando los colocamos directamente sobre las tartaletas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/tartaletas-de-morcilla-y-huevos-de-codorniz/",
+    "creado_en": "2026-08-25"
+  },
+  {
+    "id": "d8750255-00f0-4936-8295-95d57666388c",
+    "slug": "pastel-de-pina-invertido",
+    "titulo": "Pastel de piña invertido",
+    "descripcion": "Receta de Pastel de piña invertido adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/07/Pastel-piña-invertido-Thermorecetas.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 8,
+    "comensales": 8,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "3 cucharadas de azúcar moreno",
+      "4 rodajas de piña en su jugo",
+      "7 cerezas confitadas",
+      "125 g de mantequilla a temperatura ambiente",
+      "100 g de azúcar blanquilla",
+      "2 huevos",
+      "La ralladura de 1 limón",
+      "80 g de harina bizcochona o leudante",
+      "5 g de levadura en polvo",
+      "2 cucharadas del jugo de la piña"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Precalentar el horno a 180º, con calor sólo arriba y abajo.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Poner las rodajas de piña sobre un trozo limpio de papel absorbente. Así conseguiremos retirar la mayor parte del jugo de piña.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Poner la mariposa en las cuchillas, añadir el azúcar y la mantequilla. Programar 5 minutos, velocidad 3 ½. Al finalizar el tiempo veremos que la mezcla está blanca y cremosa.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Mientras, untar bien un molde circular desmontable de 20 cm de diámetro. Espolvorear las 3 cucharadas de azúcar moreno, de forma que quede bien repartido. Si le damos golpes suaves al molde conseguiremos que se quede uniforme, como en la imagen 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Colocar una rodaja de piña en el centro. Cortar el resto por la mitad y colocarlas según la imagen 2.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Cortar las cerezas confitadas a la mitad y colocarlas en los huecos que haya entre los trozos de piña. Si os fijáis en la imagen 3, veréis que he puesto las cerezas con la parte plana hacia arriba. Así al darle la vuelta quedará más bonito. Reservar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Ahora que ya tenemos el molde preparado vamos a continuar con la masa. Con la crema de mantequilla y azúcar dentro del vaso programamos velocidad 3, sin tiempo. Añadir uno de los huevos, batir durante 30 segundos y añadir el otro, batir otros 30 segundos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Sin parar la máquina, incorporamos también la ralladura de limón y batimos otros 30 segundos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Paramos la máquina, abrimos la tapa y tamizamos encima la harina bizcochona y la levadura. Con la espátula bajamos la harina que se haya quedado encima de las aspas de la mariposa. Programamos 1 minuto a velocidad 2. Cuando hayan transcurrido 30 segundos añadimos, sin parar la máquina, las 2 cucharadas de jugo de piña.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Terminado el tiempo, abrimos y retiramos la mariposa.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 11,
+        "instruccion": "Ahora toca verter la masa encima del molde pero en este paso hay que poner un poco de atención ya que si vertemos la masa a lo bruto puede que la decoración se nos estropee. Así que lo mejor es verter poco a poco la masa. Yo he empezado colocando una cucharada de masa encima de cada piña, así la decoración queda como pegada y ya no se mueve. Después he continuado hasta terminar toda la masa.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 12,
+        "instruccion": "Alisar un poco la superficie e introducir en el horno, en la altura media, durante 20 o 25 minutos. Aunque ya sabéis que el mejor método es pinchar con un palito y comprobar. Si no sale limpio hay alargar unos minutos más la cocción. Si, por el contrario, sale limpio significa que ya lo podemos retirar del horno.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 25
+      },
+      {
+        "paso_numero": 13,
+        "instruccion": "Cuando tengamos el pastel listo, dejarlo enfriar en el molde sobre una rejilla durante 15 minutos. Transcurrido el tiempo pasar una espátula fina por el perímetro del pastel y retirar el aro.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 15
+      },
+      {
+        "paso_numero": 14,
+        "instruccion": "Colocar un plato bonito encima del pastel y con cuidado darle la vuelta. Retirar también con cautela la base del molde. Lo mejor es levantar un poco e ir mirando si se desprende bien. Si ves que está un poco pegada meter la espátula fina poco a poco para ayudar a que se desprenda…¡Ya tenemos nuestro pastel de piña invertido preparado!",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/pastel-de-pina-invertido/",
+    "creado_en": "2026-08-25"
+  },
+  {
+    "id": "f8789367-ece2-45ec-b51b-c081c3f1832d",
+    "slug": "minestrone-de-verano-con-pesto-a-la-genovesa",
+    "titulo": "Minestrone de verano con pesto a la genovesa",
+    "descripcion": "Receta de Minestrone de verano con pesto a la genovesa adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/07/minestrone-de-verano.jpg",
+    "categoria": "legumbres",
+    "tiempo_total_min": 30,
+    "comensales": 6,
+    "dificultad": "Media",
+    "ingredientes": [
+      "1 cebolla cortada en cuartos",
+      "1 diente de ajo sin pelar",
+      "40 g de aceite de oliva virgen extra y un poco más para condimentar al final",
+      "250 g de tomates cortados a cubitos",
+      "400 g de garbanzos ya cocidos -de bote o cocidos previamente- (también lo podéis hacer con alubias cocidas)",
+      "Unas hojas de salvia (voluntario)",
+      "400 g de agua o de caldo vegetal",
+      "3 cucharadas de tomate triturado",
+      "1 cucharada de pesto",
+      "Sal",
+      "180 g de pasta"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "El paso de cocer la pasta puede se el primero o el último, como prefiráis. Se trata de añadirla después, cuando la sopa esté fría y vayamos a consumirla. Os dejo aquí el link de como cocer pasta en Thermomix.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Metemos la cebolla en el bocal y trituramos 6 segundos, velocidad 5. Bajamos con la espátula todos los trocitos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Añadimos el ajo y el aceite y programamos 3 minutos, 100º, giro a la izquierda, velocidad 1. Retiramos el ajo.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 3
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Añadimos el tomate y cocinamos 5 minutos, 100º, giro a la izquierda, velocidad cuchara.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Añadimos los demás ingredientes (excepto la pasta) y cocinamos 10 minutos, 100º, giro a la izquierda, velocidad cuchara.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Dejamos enfriar. Añadimos la pasta cuando vayamos a consumirlo. Antes de servir, condimentamos también con un chorrito de aceite y dejamos el pesto en la mesa para quien quiera añadirle un poquito más.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Y ¡a disfrutar de este plato italiano!",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/minestrone-de-verano-con-pesto-a-la-genovesa/",
+    "creado_en": "2026-08-25"
   }
 ]
