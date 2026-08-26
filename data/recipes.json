@@ -22468,5 +22468,572 @@
     ],
     "fuente_url": "https://www.thermorecetas.com/minestrone-de-verano-con-pesto-a-la-genovesa/",
     "creado_en": "2026-08-25"
+  },
+  {
+    "id": "44ee737a-43e7-489e-bdca-5501921d3603",
+    "slug": "albondigas-de-cordero-rellenas-de-mozarella",
+    "titulo": "Albóndigas de cordero rellenas de mozarella",
+    "descripcion": "Receta de Albóndigas de cordero rellenas de mozarella adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/08/albondigas-de-cordero.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 11,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "200 g de carne de cordero (la pierna deshuesada es una buena opción).",
+      "20 bolitas de mozzarella de búfala: si no encontráis el formato que son bolitas, podéis comprar 200 g de mozzarella de búfala (la fresca, blanca) y cortarla en cubitos de 1 cm de lado aprox.",
+      "50 g de cebolla tierna",
+      "1 huevo",
+      "1 cucharada de pan rallado",
+      "1 cucharada de crema de leche (leche Ideal o similar)",
+      "4 hojas de albahaca",
+      "1 cucharadita de cáscara de limón",
+      "40 g de corn flakes (copos de maíz sin azucarar)",
+      "aceite",
+      "1 cucharadita de sal"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Triturar los corn flakes durante 8 segundos a velocidad 5. Sacar del vaso y reservar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Poner en el vaso dos cucharadas de aceite y la cebolla tierna. Triturar 5 segundos velocidad 5 y freír 9 minutos, varoma, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 9
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Sin retirar la cebolla, añadir la carne cortada en trozos de 2/3 cm de lado y sin nervios ni grasa (es importante para un buen triturado), el pan rallado, el huevo, la cáscara de limón, la crema de leche y la sal. Triturar todo 1 minuto a velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Ir sacando porciones del tamaño de una cuchara sopera, aplastarlas en la palma de la mano, hacer un hueco y colocar una bolita de mozzarella en el centro y formar una albóndiga de carne de forma que la mozzarella quede dentro.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Rebozar las albóndigas en los copos de maíz triturados y freír en aceite caliente.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/albondigas-de-cordero-rellenas-de-mozarella/",
+    "creado_en": "2026-08-26"
+  },
+  {
+    "id": "917f2082-9d45-474c-94bf-730fb5c6bff8",
+    "slug": "macarrones-fussion",
+    "titulo": "Macarrones fussion",
+    "descripcion": "Receta de Macarrones fussion adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/07/Macarrones_fusion-tmr.jpg",
+    "categoria": "sopas-y-cremas",
+    "tiempo_total_min": 32,
+    "comensales": 4,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "400 g de macarrones (o la pasta que más o guste)",
+      "1400 g de agua",
+      "sal",
+      "un chorrito de aceite para la pasta",
+      "50 g de aceite de oliva virgen",
+      "100 g de cebolla",
+      "2 bolas de mozzarella fresca y bien escurridas",
+      "200 g de pechuga de pavo en taquitos",
+      "100 g de aceitunas negras en rodajas",
+      "un chorrito de limón",
+      "albahaca fresca",
+      "orégano",
+      "pimienta"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Empezaremos cociendo la pasta. Para ello echamos en el vaso, el agua con la sal y el aceite en el vaso. Programamos 12 minutos, 100º, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Agregamos la pasta por el bocal del cubilete y programamos el tiempo indicado en el paquete de la misma, 100º, velocidad cuchara.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "La escurrimos utilizando el cestillo o el recipiente varoma y reservamos caliente.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Echamos los 50 g de aceite y la cebolla. Programamos 4 segundos, velocidad 4. Bajamos los restos que hayan quedado por las paredes y la tapa.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "A continuación programamos 8 minutos, velocidad 1, temperatura 100º.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Mientras se cocina la cebolla vamos cortando las bolas de mozzarella en taquitos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Colocamos en una fuente la pasta, echamos encima la cebolla que teníamos en el vaso, después añadimos la mozzarella, la pechuga de pavo y las aceitunas negras.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Rectificamos el punto de sal y añadimos un chorrito de limón, espolvoreamos con albahaca, pimienta y orégano.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/macarrones-fussion/",
+    "creado_en": "2026-08-26"
+  },
+  {
+    "id": "83ccff00-2f9c-4bfa-9673-eb972c666a5a",
+    "slug": "harina-tostada-de-garbanzos",
+    "titulo": "Harina tostada de garbanzos",
+    "descripcion": "Receta de Harina tostada de garbanzos adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/08/harina-tostada-garbanzos-Thermorecetas.jpg",
+    "categoria": "legumbres",
+    "tiempo_total_min": 22,
+    "comensales": 8,
+    "dificultad": "Media",
+    "ingredientes": [
+      "500 g de garbanzos"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Poner los garbanzos en el vaso. Programar vaso cerrado y apretar durante 2 segundos el botón de turbo.",
+        "accesorio": "Cuchillas",
+        "velocidad": "Turbo",
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "A continuación pulverizar durante 30 segundos, velocidad progresiva 5-7-10. Bajar la harina con la espátula hacia las cuchillas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Ahora procederemos a tostarla, para ello programar 20 minutos, 100º, velocidad 5, sin el cubilete para que se evapore mejor la humedad. Suelta algo de polvillo pero no como cuando se pulveriza el azúcar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 20
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Transcurrido el tiempo, verter la harina en una fuente grande para que se enfríe. Dependiendo del clima este paso nos puede llevar unos 15 minutos. No hace falta hacerle nada especial, sólo dejarla en la bandeja.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 15
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Cuando ya esté fría volver a meter en el vaso y darle el último golpe de pulverización, programando 30 segundos, velocidad progresiva 5-7-10.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Para conservarla, mejor si se hace en tarros de cristal con cierre hermético. Guardarlos en sitio oscuro y ventilado.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/harina-tostada-de-garbanzos/",
+    "creado_en": "2026-08-26"
+  },
+  {
+    "id": "3306c0c0-4898-47ee-ac3a-6c6eeda3dc0d",
+    "slug": "tartaletas-de-frutas",
+    "titulo": "Tartaletas de frutas",
+    "descripcion": "Receta de Tartaletas de frutas adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/07/tartaletas-de-frutas.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 15,
+    "comensales": 8,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "300 g de harina de repostería",
+      "150 g de mantequilla fría, en pequeños trozos",
+      "1 pellizco de sal",
+      "70 g de azúcar glass",
+      "2 yemas de huevo",
+      "25 g de leche fría",
+      "1 cucharadita de levadura química",
+      "Huevo para pintar la masa antes de hornear (nos valen las claras que nos sobraron antes)",
+      "50 g de azúcar",
+      "250 g de leche",
+      "25 g de maicena",
+      "2 huevos",
+      "1 cucharadita de azúcar vainillado",
+      "250 g de nata para montar",
+      "1 cucharada no muy llena de queso philadelphia",
+      "40 g de azúcar glass",
+      "Grosellas",
+      "Azúcar"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Empezamos haciendo el azúcar glass que utilizaremos después tanto para la masa sablé como para la nata. Para ello, ponemos azúcar en el vaso y trituramos en velocidad progresiva 5-10. Sacamos del vaso el azúcar ya triturado y lo utilizamos cuando nos los indique la receta.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Ponemos en el vaso todos los ingredientes en el mismo orden que os he puesto en el listado. Programamos 20 segundos, velocidad 6.",
+        "accesorio": "Cuchillas",
+        "velocidad": 6,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Introducimos la masa en una bolsa de plástico o la cubrimos con papel film y la dejamos reposar en el frigorífico durante, al menos, 15 minutos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 15
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Cogemos una porción de masa (la que creamos que necesitaremos para cubrir un molde). La estiramos con el rodillo. Ojo, enharinamos bien tanto la superficie como el rodillo para que no se nos pegue. Enharinamos también el molde. Cuando esté estirada la porción de masa, la cogemos con cuidado y la colocamos en nuestro molde. Quitamos la masa que sobresalga del molde. Hacemos esto con todos los moldes que tengamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Dejamos reposar los moldes, ya cubiertos, en el frigorífico durante 15 minutos. Pasado ese tiempo, pintamos la superficie con las claras batidas y pinchamos varias veces por toda la tartaleta con un tenedor para que no suba la masa.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 15
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Las introducimos en el horno precalentado a 180º durante 15 minutos.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 15
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Pasado ese tiempo, sacamos nuestras tartaletas y las dejamos enfriar un poco antes de desmoldarlas, para que no se nos rompan. Luego desmoldaremos con cuidado.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Ponemos todos los ingredientes en el vaso y programamos 7 minutos, 90º, velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 7
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Sacamos y reservamos en un recipiente cubierto con papel film. Cuando esté templado, la metemos a la nevera.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Metemos en el vaso de Thermomix unos cubitos de hielo y los picamos para enfriar el vaso. Los tiramos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 11,
+        "instruccion": "Ponemos la mariposa en las cuchillas. Echamos la nata y la cucharada de queso philadelphia. Ponemos velocidad 3 1/2 sin programar tiempo y estamos atentos para parar la máquina cuando la nata esté montada. Cuando lo esté, añadimos el azúcar glass y mezclamos ayudándonos con la espátula, con movimientos envolventes.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 12,
+        "instruccion": "Ponemos la nata en una manga pastelera. La metemos al frigorífico.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 13,
+        "instruccion": "Cuando las tartaletas y la crema pastelera estén frías comenzamos con el montaje.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 14,
+        "instruccion": "Cogemos una tartaleta, le ponemos crema pastelera ayudándonos con una cuchara. Sobre ella ponemos la nata montada. Cogemos una ramillete de grosellas y, tras lavarlas, las pasamos por azúcar. Colocamos la fruta sobre la nata.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 15,
+        "instruccion": "¡Y a disfrutar!",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/tartaletas-de-frutas/",
+    "creado_en": "2026-08-26"
+  },
+  {
+    "id": "57226331-c761-48bb-bbd4-50d1834f9d7a",
+    "slug": "daiquiri-de-sandia",
+    "titulo": "Daiquiri de sandía",
+    "descripcion": "Receta de Daiquiri de sandía adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/08/daiquiri-de-sandia.jpg",
+    "categoria": "bebidas",
+    "tiempo_total_min": 1,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "300 g de sandía",
+      "40 g de azúcar moreno",
+      "2 cucharadas de zumo de limón",
+      "300 g de hielo",
+      "100 ml (1 cubilete) de ron blanco"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Trocear la sandía y quitarle las pepitas ( si tienes sandía sin pepitas, te ahorras el trabajo de despepitar)",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Introducir todos los ingredientes, menos el hielo en el vaso, y triturar 5 segundos, velocidad 6",
+        "accesorio": "Cuchillas",
+        "velocidad": 6,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Introducir el hielo y triturar 10 segundos, velocidad 7",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Y… ¡a disfrutar del verano con tu daiquiri en la mano!",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Si te sobrara, puedes congelarlo y volverlo a triturar a golpe de turbo cuando quieras tomártelo.",
+        "accesorio": "Cuchillas",
+        "velocidad": "Turbo",
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/daiquiri-de-sandia/",
+    "creado_en": "2026-08-26"
+  },
+  {
+    "id": "62688a44-4d73-45b0-b46f-b82b110f963f",
+    "slug": "arroz-al-horno-de-cocido-madrileno",
+    "titulo": "Arroz al horno de cocido madrileño",
+    "descripcion": "Receta de Arroz al horno de cocido madrileño adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/08/Arroz-al-horno-de-cocido-arriba-tmr.jpg",
+    "categoria": "arroces",
+    "tiempo_total_min": 11,
+    "comensales": 6,
+    "dificultad": "Media",
+    "ingredientes": [
+      "300 g de arroz",
+      "50 g de panceta o de bacon (opcional)",
+      "800 g de caldo del cocido",
+      "70 g de aceite de oliva",
+      "1 cabeza de ajos sin pelar (sólo le quitamos un poquito la capa de fuera)",
+      "60 g de tomate triturado",
+      "1 cucharadita de pimentón",
+      "unas hebras de azafrán",
+      "2 chorizos en rodajas",
+      "6 cucharadas grandes y colmadas de garbanzos del cocido",
+      "2 patatas echas rodajas gruesas (o la cantidad que tengáis del cocido)",
+      "1 tomate natural hecho rodajas"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Precalentamos el horno a 200º.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Ponemos en el vaso la panceta, el aceite y la cabeza de ajos entera. Sofreímos 6 minutos, temperatura Varoma, giro a la izquierda, velocidad cuchara. Retiramos la cabeza de ajos.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 6
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Agregamos el tomate triturado y programamos 2 minutos, temperatura varoma, giro a la izquierda, velocidad cuchara.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 2
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Añadimos el arroz y rehogamos 3 minutos, temperatura 100º, giro a la izquierda, velocidad cuchara. Agregamos el pimentón y el azafrán y los 800 g de caldo de cocido. Verificamos el punto de sal y volcamos el contenido del vaso en una cazuela de barro o un recipiente apto para el horno.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 2
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "En el centro colocamos la cabeza de ajos y alrededor vamos colocando las rodajas de chorizo, los garbanzos, las patatas y las rodajas de tomate.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Horneamos a 170º, en la altura número 2 (una altura por debajo de la mitad) durante 20-25 minutos (cuando veáis que ya no queda más caldo). Lo dejamos reposar 5 minutos con el fuego apagado. Servir inmediatamente.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 21
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/arroz-al-horno-de-cocido-madrileno/",
+    "creado_en": "2026-08-26"
   }
 ]
