@@ -23035,5 +23035,544 @@
     ],
     "fuente_url": "https://www.thermorecetas.com/arroz-al-horno-de-cocido-madrileno/",
     "creado_en": "2026-08-26"
+  },
+  {
+    "id": "52cb6e9e-648a-4f35-8df7-25c233b5b1e6",
+    "slug": "torta-de-harina-tostada-de-garbanzos",
+    "titulo": "Torta de harina tostada de garbanzos",
+    "descripcion": "Receta de Torta de harina tostada de garbanzos adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/08/torta-de-harina-tostada-de-garbanzos-Thermorecetas.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 4,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "180 g de harina tostada de garbanzos",
+      "500 g de agua mineral",
+      "3 cucharadas de aceite de oliva",
+      "Un hilo de aceite para untar el molde",
+      "Sal y pimienta"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Precalentar el horno a 200º. Forrar una bandeja grande con papel de hornear y untarla con un hilo de aceite. Reservar.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Poner la mariposa en las cuchillas. Poner primero la harina de garbanzos y después el agua mineral con tres pellizcos de sal. Batir durante 30 segundos a velocidad 3 ½.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Programar 1 minuto, velocidad 3 ½ y añadir las cucharadas de aceite en la tapa. (Como si fuéramos a hacer mayonesa). De este modo la crema nos quedará más emulsionada.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Verter el contenido en la bandeja que teníamos preparada y reservada. Hornear durante 28 o 30 minutos. O hasta que esté marroncita y crujiente.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 30
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Una vez la torta esté cocida, sacar y darle la vuelta para retirar el papel de hornear y que ni sude y ni se humedezca. Espolvorear pimienta recién molida.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Cortarla en cuadrados y después en triángulos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Servir caliente o templada.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/torta-de-harina-tostada-de-garbanzos/",
+    "creado_en": "2026-08-27"
+  },
+  {
+    "id": "881b5cd6-9827-48e2-8b63-40194c02408f",
+    "slug": "magdalenas",
+    "titulo": "Magdalenas",
+    "descripcion": "Receta de Magdalenas adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/08/magdalenas.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 10,
+    "comensales": 8,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "250 g de azúcar",
+      "La piel de 1 limón ecológico (sólo la parte amarilla)",
+      "4 claras de huevo",
+      "1 pizca de sal",
+      "4 yemas de huevo",
+      "250 g de aceite de girasol",
+      "120 g de leche (yo he puesto leche entera pero si la consumís de otro tipo también os sirve)",
+      "350 g de harina de repostería",
+      "1 sobre (16 g) de levadura de repostería",
+      "Azúcar humedecida con unas gotas de agua o de limón para decorar"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Preparamos los moldes de papel que utilizaremos para las magdalenas (yo he utilizado un molde rígido -de Ikea- y en cada hueco he metido un molde de papel).",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Pesamos el aceite y la leche y reservamos. Lo pesamos utilizando la función de peso de la Thermomix, echándolo a un recipiente colocado sobre la tapa.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Pulverizamos el azúcar y la piel del limón programando 30 segundos, velocidad progresiva 5-10. Sacamos y reservamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Sin lavar el vaso, colocamos la mariposa en las cuchillas. Añadimos las claras de huevo con la sal y programamos 4 minutos, velocidad 3 1/2. Cuando estén montadas las ponemos en un bol grande y reservamos.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 4
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Con la mariposa puesta ponemos en el vaso las yemas y el pulverizado de azúcar y limón. Programamos 1 minuto, velocidad 3 1/2.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Programamos velocidad 3, sin programar tiempo, e incorporamos el aceite con la leche por el bocal (poco a poco o con el cubilete puesto).",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Abrimos la tapa, quitamos la mariposa, agregamos la harina y la levadura y mezclamos 30 segundos, velocidad 4. Vertemos la masa en el bol donde teníamos las claras a punto de nieve reservadas y mezclamos todo con movimientos envolventes.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Repartimos la mezcla en los moldes (los llenamos 3/4 partes de su capacidad) ayudándonos con dos cucharas o con una manga pastelera. Encendemos el horno y lo precalentamos a 220º. Dejamos reposar nuestra masa ya en los moldes al menos 15 minutos, mejor en la nevera (mientras pasa ese tiempo se va calentando el horno).",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 15
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Pasados los 15 minutos aproximados decoramos las magdalenas con azúcar húmedo e introducimos el molde en el horno. Horneamos aproximadamente 10-12 minutos, hasta que estén doradas.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 15
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Repetimos el llenado de los moldes y el horneado hasta que se acabe nuestra masa. A mi me han salido varias tandas de magdalenas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/magdalenas/",
+    "creado_en": "2026-08-27"
+  },
+  {
+    "id": "8259c6eb-34f9-462f-9d27-0559b2362b7b",
+    "slug": "migas-de-bacalao-confitado-sobre-mousse-de-berenjena-ahumada",
+    "titulo": "Migas de bacalao confitado sobre mousse de berenjena ahumada",
+    "descripcion": "Receta de Migas de bacalao confitado sobre mousse de berenjena ahumada adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/08/Bacalao-confitado-sobre-mousse-de-berenjena.jpg",
+    "categoria": "carnes",
+    "tiempo_total_min": 15,
+    "comensales": 4,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "4 hojas de gelatina",
+      "2 berenjenas medianas",
+      "200 g de aceite de oliva",
+      "200 g de lomos de bacalao desalado",
+      "2 ajos"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos las hojas de gelatina a hidratar cubriéndolas con agua fría.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "En la plancha muy caliente ponemos las berenjenas, sin pelar. Prácticamente se queman en la plancha. Se dejan sobre ella hasta que la parte que queda en contacto con la plancha pierde su forma redondeada y se convierte en plana, la piel se oscurece y se queda prácticamente negra, rígida y fácilmente quebradiza. Les damos la vuelta y hacemos lo mismo por el otro lado.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Una vez hechas, las pelamos, reservamos un par de láminas de piel para más tarde, escurrimos el agua que pueda quedar en la pulpa y ponemos esa pulpa en el vaso 1 minuto, 50º, velocidad 4. Durante ese minuto, incorporamos a través del bocal medio cubilete de aceite poco a poco.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Añadimos las hojas de gelatina escurridas y trituramos todo durante 20 segundos, velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Vertemos la mezcla en un molde de forma que no alcance mucha altura (2 cm. máximo), pues cuando solidifique, ésa será la base sobre la que pondremos el bacalao. Lo tapamos con papel film y lo introducimos en el frigorífico.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Limpiamos el vaso e introducimos el resto del aceite, los ajos, las láminas de piel de berenjena que habíamos reservado y los lomos de bacalao. Confitaremos programando 10 minutos, temperatura 60º, velocidad cuchara, giro a la izquierda.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Colamos el bacalao y extraemos las láminas de berenjena y los ajos. Reservamos el aceite resultante.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Con el aceite, que estará salpicado de capitas blancas de la gelatina del bacalao, y los ajos, haremos una salsa tipo pil-pil.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Trituramos los ajos durante 10 segundos, velocidad 7.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Bajamos los restos de las paredes con la espátula y programamos velocidad 5, sin tiempo. Iremos incorporando el aceite poco a poco dejándolo caer sobre la tapa para que escurra por el bocal hasta que se nos acabe el aceite.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 11,
+        "instruccion": "Y ahora ya, montamos el plato con una base de la mousse de berenjena que teníamos solidificando en la nevera. Si veis que todavía no está sólida, habrá que esperar, pero la textura no es de gelatina, sino tipo mousse, así que probablemente ya estará lista. Sobre la base de berenjena, disponemos las migas de bacalao y sobre ellas, un chorrito al gusto de la salsa pil-pil.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 12,
+        "instruccion": "Es laborioso, pero no difícil. Y de verdad que tiene el éxito asegurado.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/migas-de-bacalao-confitado-sobre-mousse-de-berenjena-ahumada/",
+    "creado_en": "2026-08-27"
+  },
+  {
+    "id": "623b7b72-e6a8-48b4-8ed3-7c31d96ddf70",
+    "slug": "crema-de-queso",
+    "titulo": "Crema de queso",
+    "descripcion": "Receta de Crema de queso adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/08/crema-de-queso-Thermorecetas.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 1,
+    "comensales": 4,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "125 g de crema de queso azul",
+      "200 g de queso fresco",
+      "1 cucharada de yogur natural",
+      "Pimienta negra",
+      "Sal (opcional)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Poner en el vaso los dos tipos de queso y la cuchara de yogur. Batir durante 30 segundos a velocidad 4.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Si fuera necesario rectificar de sal.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Verter en un bol bonito y cubrirlo con film transparente. Dejarlo en la nevera durante un par de horas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "A la hora de servir, retirar el film y espolvorear un poco de pimienta negra recién molida.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/crema-de-queso/",
+    "creado_en": "2026-08-27"
+  },
+  {
+    "id": "bdebe571-d378-4c3b-9bd9-5d3e10d9383f",
+    "slug": "guarnicion-de-ramilletes-de-coliflor-con-bechamel-y-jamon",
+    "titulo": "Guarnición de ramilletes de coliflor con bechamel y jamón",
+    "descripcion": "Receta de Guarnición de ramilletes de coliflor con bechamel y jamón adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/08/guarnición-de-coliflor.jpg",
+    "categoria": "pescados",
+    "tiempo_total_min": 57,
+    "comensales": 6,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "1 coliflor",
+      "1 litro de agua del grifo para cocinar la coliflor al varoma",
+      "Jamón o cualquier otro ingrediente que nos interese (salmón ahumado, atún…)",
+      "1 cucharada de aceite de oliva virgen extra",
+      "50 g de mantequilla",
+      "110 g de harina",
+      "800 g de leche (entera, semi o desnatada, la que prefiráis)",
+      "Sal",
+      "Nuez moscada y/o pimienta",
+      "Queso parmesano"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos el agua en el vaso y lo calentamos 10 minutos, temperatura varoma y velocidad 1.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Mientras se calienta el agua vamos preparando la coliflor en ramilletes y los colocamos en el recipiente varoma (es muy importante que el recipiente quede bien cerrado)",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Pasados los 10 minutos, quitamos el cubilete y colocamos el recipiente varoma en su posición. Programamos 35 minutos, temperatura varoma y velocidad 2. Si terminado este tiempo nos parece que todavía no está a nuestro gusto, programamos unos 5 minutos más (o lo que consideremos), temperatura varoma y velocidad 2.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Sacamos la coliflor y la dejamos enfriar un poco. Cogemos un ramillete y lo partimos por la mitad, para poner jamón o el relleno que deseemos en su interior. Vamos colocando los ramilletes en una fuente apta para horno.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Ponemos en el vaso el aceite y la mantequilla. Programamos 1 minuto, 100º, velocidad 2. Añadimos la harina y volvemos a programar 2 minutos, 100º, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Acabado el tiempo incorporamos el resto de los ingredientes y mezclamos 5 segundos, velocidad 7. Programamos 9 minutos, 100º, velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 9
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Cubrimos con la bechamel cada uno de los ramilletes.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Ponemos queso parmesano sobre cada porción y gratinamos en el horno.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/guarnicion-de-ramilletes-de-coliflor-con-bechamel-y-jamon/",
+    "creado_en": "2026-08-27"
+  },
+  {
+    "id": "aa2aed3c-b67b-414f-a7cd-529a57cfe69c",
+    "slug": "flan-de-queso",
+    "titulo": "Flan de Queso",
+    "descripcion": "Receta de Flan de Queso adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/08/Flan-de-queso.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 15,
+    "comensales": 8,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "200 gr de queso cremoso tipo Philadelphia",
+      "250 gr de leche",
+      "1 sobre de cuajada",
+      "1 huevo",
+      "100 g de azúcar",
+      "caramelo líquido o mermelada para acompañar"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos todos los ingredientes en el vaso y programamos 15 minutos, temperatura 100º, velocidad 3.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 15
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Vertemos en moldes (podemos poner caramelo líquido en el fondo del molde y se cuajará junto al flan, o, como en la foto, dejar el molde sin nada y disponer por encima del flan ya cuajado, el caramelo o la mermelada).",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Dejamos enfriar en la nevera hasta que esté cuajado (un par de horas)",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/flan-de-queso/",
+    "creado_en": "2026-08-27"
   }
 ]
