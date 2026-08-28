@@ -23574,5 +23574,641 @@
     ],
     "fuente_url": "https://www.thermorecetas.com/flan-de-queso/",
     "creado_en": "2026-08-27"
+  },
+  {
+    "id": "fc5831d3-d261-4e8c-abc3-25c2ce5659b3",
+    "slug": "pechuga-de-pollo-con-pimientos-del-piquillo",
+    "titulo": "Pechuga de pollo con pimientos del piquillo",
+    "descripcion": "Receta de Pechuga de pollo con pimientos del piquillo adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/08/Pechuga_de_pollo_con_pimientos.jpg",
+    "categoria": "carnes",
+    "tiempo_total_min": 28,
+    "comensales": 4,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "80 g de aceite de oliva",
+      "sal al gusto",
+      "pimienta blanca molida",
+      "500 g de pechuga de pollo troceada",
+      "30 g de harina de repostería",
+      "1 diente de ajo",
+      "150 g de cebolla cortada en cuartos",
+      "1 cucharada de perejil",
+      "60 g de vino blanco",
+      "200 g de pimientos del piquillo"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "En el vaso de la Thermomix, echamos el aceite y programamos 3 minutos, temperatura varoma, velocidad 1.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 3
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Mientras se calienta el aceite, salpimentamos los trozos de pechuga y los pasamos por harina (sacudimos los trozos de pollo para eliminar el exceso de harina).",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Terminados los 3 minutos, colocamos la mariposa en las cuchillas, añadimos el pollo y sofreímos durante 6 minutos, temperatura varoma, giro a la izquierda y velocidad cuchara.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 3
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Quitamos la mariposa y retiramos los trozos de pollo a un plato o bol, dejando el aceite en el vaso.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "En el vaso, incorporamos el ajo, la cebolla y la mitad del perejil. Programamos 4 segundos, a velocidad 4. Con la espátula, bajamos los restos que hayan quedado en las paredes y en la tapa del vaso hacia las cuchillas (si lo queremos más troceado, programamos 3 segundos más, a la misma velocidad).",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Programamos 7 minutos, temperatura 100º, giro a la izquierda y velocidad cuchara.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 7
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Añadimos el pollo reservado y el vino blanco. Programamos 12 minutos, temperatura 100º, giro a la izquierda y velocidad cuchara.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 12
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Mientras, cortamos en tiras los pimientos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Cuando falten 2 minutos para el final, añadimos los pimientos con su jugo por el bocal.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 2
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Lo vertemos en una fuente y espolvoreamos con el resto del perejil picado.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/pechuga-de-pollo-con-pimientos-del-piquillo/",
+    "creado_en": "2026-08-28"
+  },
+  {
+    "id": "d7b45f03-a153-4d19-9539-7c643d0e692b",
+    "slug": "tarta-de-tomates-cebolla-caramelizada-y-queso-feta",
+    "titulo": "Tarta de tomates, cebolla caramelizada y queso feta",
+    "descripcion": "Receta de Tarta de tomates, cebolla caramelizada y queso feta adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/08/tarta-tomates-y-cebolla-caramelizada-Thermorecetas.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 50,
+    "comensales": 6,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "200 g de harina",
+      "1 huevo",
+      "90 g de mantequilla a temperatura ambiente",
+      "20 g de agua mineral fría",
+      "2 pellizcos de sal",
+      "3 cebollas",
+      "30 g de aceite",
+      "2 tomates",
+      "65 g de queso feta",
+      "3 huevos",
+      "200 g de nata líquida",
+      "Sal y pimienta"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Poner en el vaso la harina, el huevo, la mantequilla y la sal. Programar 5 segundos, velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "A continuación programar 1 minuto, velocidad espiga. Por el bocal ir añadiendo poco a poco el agua fría.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Retirar la masa sobre un film transparente. Hacer una bola y envolver bien. Dejar reposar en la nevera durante 1 hora.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 60
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Pelar las cebollas y cortarlas en aros finos. Mejor si se hace con mandolina pero siempre utilizando el protector.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Colocar la mariposa en las cuchillas, poner la cebolla y aceite. Programar 45 minutos, temperatura Varoma, velocidad cuchara. De vez en cuando parar la máquina y bajar los trocitos de cebolla hacia las cuchillas.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 45
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Mientras, lavar los tomates. Trocearlos en cuartos, eliminar el agua de vegetación y las semillas. Cortarlos en rodajas y reservar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Cortar el queso feta en dados y reservar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Precalentar el horno a 180º con calor sólo arriba y abajo.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Cuando el tiempo haya terminado, retirar la cebolla a un plato. Colocar un cubierto debajo del plato, de forma que quede inclinado. Así conseguiremos que la cebolla se escurra y la tarta no se nos rompa por la humedad.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Untar el molde de tarta con mantequilla y reservar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 11,
+        "instruccion": "Estirar la masa sobre dos trozos de papel de hornear o film transparente. Cubrir el molde reservado y pinchar el fondo con un tenedor. Cuando el horno ya esté caliente, introducirlo en la altura media y hornear durante 10 minutos.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 12,
+        "instruccion": "Sin lavar el vaso colocar los huevos, la nata y salpimentar. Batir durante 30 segundos a velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 13,
+        "instruccion": "Sacar la masa del horno. Colocar la cebolla caramelizada y encima las rodajas de tomate. Verter la masa de huevos y nata con delicadeza. Colocar los trocitos de queso repartidos por toda la tarta.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 14,
+        "instruccion": "Introducir en el horno y hornear otros 30 minutos con la misma temperatura. La superficie tiene que quedar dorada y gratinada.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 30
+      },
+      {
+        "paso_numero": 15,
+        "instruccion": "Retirar y dejar enfriar en el molde sobre una rejilla. A la hora de servir desmoldar con cuidado y colocar la tarta en una fuente o plato bonito.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/tarta-de-tomates-cebolla-caramelizada-y-queso-feta/",
+    "creado_en": "2026-08-28"
+  },
+  {
+    "id": "288801c1-fcfb-40a7-b370-e867f3bcee0d",
+    "slug": "arroz-de-verduras",
+    "titulo": "Arroz de verduras",
+    "descripcion": "Receta de Arroz de verduras adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/08/arroz-de-verduras.jpg",
+    "categoria": "arroces",
+    "tiempo_total_min": 38,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "1 cebolla mediana",
+      "2 dientes de ajo",
+      "1 zanahoria (podéis sustituirla por otra verdura)",
+      "1 calabacín pequeño (podéis sustituirlo)",
+      "Algunas judías verdes, partidas en trozos grandes (podéis sustituirlo)",
+      "Algunos ramilletes de coliflor (podéis sustituirlo)",
+      "200 gr de tomate triturado, natural o en conserva -este ingrediente sí es necesario-",
+      "100 gr de aceite de oliva virgen extra",
+      "1 cucharadita de pimentón dulce (yo he puesto de la Vera)",
+      "1000 g de agua",
+      "200 gr de arroz",
+      "Sal",
+      "Azafrán (voluntario)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Si vamos a utilizar tomate natural comenzamos la receta triturándolo. Para ello, ponemos el tomate en el vaso y trituramos unos segundos en velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Añadimos en el vaso las verduras que queramos trocear, limpias y cortadas en trozos grandes. En este caso cebolla, ajo, zanahoria y calabacín. Ponemos el tomate triturado (si no lo tenemos aún en el baso). Programamos 5 segundos, velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Ahora ponemos las verduras que queremos que queden en trozos grandes (en este caso las judías verdes y los ramilletes de coliflor) ya partidas, al tamaño que queramos que luego queden en el plato.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Añadimos el aceite y programamos 15 minutos, temperatura varoma, giro a la izquierda, velocidad cuchara. Ahora podemos quitar un poco de aceite, lo que consideremos, para aligerar un poco el plato. A continuación echamos el pimentón dulce y programamos 15 segundos, temperatura varoma, giro a la izquierda, velocidad cuchara.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 15
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Añadimos el agua y la sal y programamos 20 minutos, 100º, giro a la izquierda, velocidad cuchara.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 16
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Por último añadimos azafran (si tenemos, si no no pasa nada) y el arroz. Programamos 13 minutos, 100º, giro a la izquierda, velocidad cuchara.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 13
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Servimos inmediatamente porque si no el arroz espesará demasiado. Eso sí, ¡cuidado con los niños, que recién hecho quema!",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/arroz-de-verduras/",
+    "creado_en": "2026-08-28"
+  },
+  {
+    "id": "cbb97527-bc2d-4c74-8f12-1f4b770b02d7",
+    "slug": "judias-verdes-con-jamon",
+    "titulo": "Judías verdes con jamón",
+    "descripcion": "Receta de Judías verdes con jamón adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/08/judias-verdes-con-jamon.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 41,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "400 g de judías verdes, de las cilíndricas y finas, tipo bobby",
+      "200 g de cebolla",
+      "1 ajo",
+      "60 g de tomate natural",
+      "100 g de jamón serrano a tacos (podemos comprarlo ya a taquitos o trocearlo a golpe de turbo)",
+      "1 cucharadita de postre de azúcar",
+      "1 cucharadita de café de sal",
+      "1 cubilete (100 ml) de vino blanco",
+      "2 cucharadas de aceite",
+      "1/2 pastilla de caldo de verduras (opcional)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos la cebolla y el ajo en el vaso y trituramos 5 segundos, velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Añadimos el aceite y rehogamos 5 minutos, 100º, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Mientras podemos ir lavando y troceando las judías.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Añadimos el jamón, el tomate, el azúcar y una cucharadita de café de sal. Rehogamos 5 minutos, 100º, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Lo sacamos todo del vaso y, sin limpiar, ponemos la mariposa para evitar que las judías verdes se nos troceen en exceso durante el cocinado.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Volvemos a volcar el sofrito en el vaso y añadimos las judías verdes troceadas, el vino blanco, la media pastilla de caldo. Programamos 30 minutos, 100º, velocidad cuchara, giro a la izquierda.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 135,
+        "potencia_calorifica": 7,
+        "tiempo_minutos": 25
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Y ya las tenemos. Jugosas, tiernecitas y sorprendentemente ricas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/judias-verdes-con-jamon/",
+    "creado_en": "2026-08-28"
+  },
+  {
+    "id": "f50184cb-6ef0-41c1-835a-18a240ed185f",
+    "slug": "mousse-de-alcachofas-y-anchoas",
+    "titulo": "Mousse de alcachofas y anchoas",
+    "descripcion": "Receta de Mousse de alcachofas y anchoas adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/08/Mousse_de_alcachofas_y_anchoas.jpg",
+    "categoria": "panes-masas",
+    "tiempo_total_min": 3,
+    "comensales": 6,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "200 gr de alcachofas en conserva",
+      "100 gr de queso tipo Philadelphia",
+      "4 anchoas en conserva",
+      "un chorrito de limón",
+      "biscotes o tostas de pan para untar"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos todos los ingredientes en el vaso (las alcachofas y las anchoas escurridas). Programamos 30 segundos, velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Bajamos los restos de las paredes y de la tapa y programamos 1 minuto, velocidad progresiva 5-7-10.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Como la anchoa y las alcachofas tienen una textura más dura, debemos repetir esta última operación hasta que tenga una consistencia agradable al paladar. Yo lo hice tres veces: bajamos los restos de las paredes y de la tapa y programamos 1 minuto, velocidad progresiva 5-7-10.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Dejamos metido en un bote en la nevera hasta el momento de consumir. Lo llevamos a la mesa en un recipiente junto con los biscotes para que cada persona se lo unte a su gusto.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/mousse-de-alcachofas-y-anchoas/",
+    "creado_en": "2026-08-28"
+  },
+  {
+    "id": "d99c20ee-7266-4e6c-976b-b94b799d7f02",
+    "slug": "cintas-de-pasta-y-verduras-con-salsa-de-queso",
+    "titulo": "Cintas de pasta y verduras con salsa de queso",
+    "descripcion": "Receta de Cintas de pasta y verduras con salsa de queso adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/08/cintas-de-pasta-y-verduras-con-salsa-de-queso-Thermorecetas.jpg",
+    "categoria": "verduras",
+    "tiempo_total_min": 23,
+    "comensales": 1,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "75 g de cintas de pasta",
+      "1 zanahoria",
+      "½ calabacín",
+      "25 g de queso parmesano",
+      "75 g de nata",
+      "Aceite",
+      "Sal y pimienta"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Llenar el vaso con 1 litro de agua, añadirle un chorrito de aceite y sal. Programar 7 minutos, 100º, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 6
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Mientras se caliente el agua podemos ir preparando las verduras. Para ello tendremos que lavarlas bien. Después rasparemos la zanahoria y haremos láminas finas a lo largo. Procederemos del mismo modo con el calabacín pero sin pelarlo. Para esta operación podemos utilizar la mandolina pero, por favor, utilizar siempre el protector.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Colocar las láminas finas de las verduras en el Varoma.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Cuando el agua ya esté caliente añadir la pasta por el bocal y colocar el Varoma en su sitio. Programar el tiempo indicado en el paquete de la pasta, 100º, velocidad cuchara con giro a la izquierda.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Transcurrido el tiempo comprobar que la pasta y las verduras están en su punto. De no ser así se puede prolongar la cocción 2 o 3 minutos, 100º, velocidad cuchara con giro a la izquierda.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 3
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "A continuación retirar con cuidado el Varoma. Escurrir la pasta y refrescarla bajo el chorro de agua fría para cortar la cocción.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Aclarar un poco el vaso y colocar el queso. Rallarlo durante 4 segundos a velocidad 7. Retirar y reservar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Colocar la nata y programar 4 minutos, 100º y velocidad 1 ½. A continuación añadir el queso reservado. Batir durante 4 segundos a velocidad 5. Bajar la salsa hacia las cuchillas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 4
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Verter la salsa en el plato de servir. Engrasar un aro de emplatar y colocarlo encima de la salsa, rellenarlo con cintas de pasta, zanahoria y calabacín. Retirar con cuidado el aro. Seguramente se nos desmoronará pero no pasa nada porque lo que buscamos es que las cintas queden “al natural”.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Coronar el plato con un poco de pimienta recién molida y una ramita de zanahoria lavada y seca.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/cintas-de-pasta-y-verduras-con-salsa-de-queso/",
+    "creado_en": "2026-08-28"
   }
 ]
