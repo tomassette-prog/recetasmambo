@@ -24210,5 +24210,570 @@
     ],
     "fuente_url": "https://www.thermorecetas.com/cintas-de-pasta-y-verduras-con-salsa-de-queso/",
     "creado_en": "2026-08-28"
+  },
+  {
+    "id": "ec7094d0-20c2-43f0-9bf2-d06b2a776975",
+    "slug": "rosas-de-pera-con-azucar-invertido-magdalenas",
+    "titulo": "Rosas de pera con azúcar invertido – Magdalenas",
+    "descripcion": "Receta de Rosas de pera con azúcar invertido – Magdalenas adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/08/rosas-de-pera-con-azúcar-invertido.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 10,
+    "comensales": 8,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "50 gr de azúcar invertido y 200 gr de azúcar normal (podéis poner un poquito menos de azúcar).",
+      "La piel de 1 limón ecológico (sólo la parte amarilla)",
+      "4 claras de huevo",
+      "1 pizca de sal",
+      "4 yemas de huevo",
+      "250 g de aceite de girasol",
+      "120 g de leche (yo he puesto leche entera pero si la consumís de otro tipo también os sirve)",
+      "350 g de harina de repostería",
+      "1 sobre (16 g) de levadura de repostería",
+      "Algunas peras"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Si tenéis moldes con forma de flor podéis utilizarlos -en este caso no pondremos cápsula-. Si no tenéis este molde preparamos las cápsulas como solemos hacer cuando preparamos magdalenas normales.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Pesamos el aceite y la leche y reservamos. Lo pesamos utilizando la función de peso de la Thermomix, echándolo a un recipiente colocado sobre la tapa.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Pulverizamos el azúcar en grano y la piel del limón programando 30 segundos, velocidad progresiva 5-10. Sacamos y reservamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Sin lavar el vaso, colocamos la mariposa en las cuchillas. Añadimos las claras de huevo con la sal y programamos 4 minutos, velocidad 3 1/2. Cuando estén montadas las ponemos en un bol grande y reservamos.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 4
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Con la mariposa puesta ponemos en el vaso las yemas, el azúcar invertido y el pulverizado de azúcar y limón. Programamos 1 minuto, velocidad 3 1/2.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Programamos velocidad 3, sin programar tiempo, e incorporamos el aceite con la leche por el bocal (poco a poco o con el cubilete puesto).",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Abrimos la tapa, quitamos la mariposa, agregamos la harina y la levadura y mezclamos 30 segundos, velocidad 4. Vertemos la masa en el bol donde teníamos las claras a punto de nieve reservadas y mezclamos todo con movimientos envolventes.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Repartimos la mezcla en los moldes (los llenamos 3/4 partes de su capacidad) ayudándonos con dos cucharas o con una manga pastelera. Encendemos el horno y lo precalentamos a 220º. Dejamos reposar nuestra masa ya en los moldes al menos 15 minutos, mejor en la nevera (mientras pasa ese tiempo se va calentando el horno).",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 15
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Es ese ratito vamos preparando las peras, pelándolas y cortándolas en láminas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Pasados los 15 minutos aproximados decoramos las magdalenas con las láminas de pera, haciendo la forma de flor.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 15
+      },
+      {
+        "paso_numero": 11,
+        "instruccion": "Introducimos el molde en el horno. Horneamos aproximadamente 10-12 minutos, hasta que estén doradas.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 12
+      },
+      {
+        "paso_numero": 12,
+        "instruccion": "Repetimos el llenado de los moldes y el horneado hasta que se acabe nuestra masa.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/rosas-de-pera-con-azucar-invertido/",
+    "creado_en": "2026-08-29"
+  },
+  {
+    "id": "fc347f59-bdcd-45a8-a5d0-07ac99b71639",
+    "slug": "leche-con-canela-y-limon",
+    "titulo": "Leche con canela y limón",
+    "descripcion": "Receta de Leche con canela y limón adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/09/leche-con-canela-y-limon.jpg",
+    "categoria": "sopas-y-cremas",
+    "tiempo_total_min": 16,
+    "comensales": 4,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "1 litro de leche (entera, si es para niños; si es para adultos, la que queráis)",
+      "la piel de un limón tamaño mediano",
+      "1 rama de canela (10 g)",
+      "50-80 g de azúcar blanquilla (También puede ser azúcar integral quedará deliciosa aunque más oscura)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Introducir el azúcar en el vaso y triturar 20 segundos, velocidad progresiva 5/10.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Incorporar el resto de los ingredientes y cocer durante 15 minutos, temperatura 98º, velocidad 1. Sin cubilete. Vamos vigilando que la leche al calentarse no se desborde por el bocal.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 15
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Colar, dejar enfriar e introducir en el frigorífico.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Servir muy fría.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/leche-con-canela-y-limon/",
+    "creado_en": "2026-08-29"
+  },
+  {
+    "id": "44989d83-4c5f-4474-98e6-5164e8cd63d3",
+    "slug": "espaguetis-con-tomate-natural-y-mozzarella",
+    "titulo": "Espaguetis con tomate natural y mozzarella",
+    "descripcion": "Receta de Espaguetis con tomate natural y mozzarella adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/08/Espaguetis_con_tomate_y_mozzarella.jpg",
+    "categoria": "verduras",
+    "tiempo_total_min": 23,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "400 gr de espaguetis",
+      "1500 gr de agua",
+      "un chorrito de aceite de oliva",
+      "sal",
+      "2 tomates grandes no muy maduros",
+      "3 bolas de mozzarella fresca",
+      "orégano",
+      "pimienta"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "En primer lugar, vamos a cocer la pasta.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Echamos en el vaso, el agua con la sal y el aceite en el vaso. Programamos 12 minutos, 100º, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Agregamos la pasta por el bocal del cubilete y programamos el tiempo indicado en el paquete de la misma, 100º, velocidad cuchara",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Mientras cocemos la pasta ponemos la mozzarella a escurrir y cortamos los tomates en daditos pequeños. Después cortaremos de igual forma la mozzarella. Lo colocamos en una fuente honda. Añadimos sal al gusto.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Cuando la pasta esté lista, la escurrimos utilizando el cestillo y servimos inmediatamente encima de la mozzarella y el tomate.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Añadimos un buen chorro de aceite de oliva virgen extra (como si estuviéramos aliñando una ensalada), una pizca de pimienta, orégano y rectificamos de sal si fuera necesario.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "¡Así de fácil y de rápido!",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/espaguetis-con-tomate-natural-y-mozzarella/",
+    "creado_en": "2026-08-29"
+  },
+  {
+    "id": "d30ce669-30ee-416c-accd-fd55fb38b741",
+    "slug": "huevos-benedict-con-esparragos",
+    "titulo": "Huevos Benedict con espárragos",
+    "descripcion": "Receta de Huevos Benedict con espárragos adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/09/huevos-benedict-Thermorecetas.jpg",
+    "categoria": "panes-masas",
+    "tiempo_total_min": 23,
+    "comensales": 2,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "2 huevos",
+      "2 yemas",
+      "2 rebanadas del pan ó panecillos de leche",
+      "8 espárragos verdes",
+      "25 g de agua mineral",
+      "65 g de mantequilla",
+      "Unas gotas de zumo de limón",
+      "Sal y pimienta"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Llenar el vaso con 700 g de agua del grifo. Calentarla durante 6 minutos a 100º y velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Mientras, lavar los espárragos y retirar la parte fibrosa. Colocarlos en el Varoma evitando que se monten unos con otros. Colocar también la bandeja del Varoma y cerrar con la tapa.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Cuando tengamos el agua caliente, colocar el Varoma en su sitio y programar 12 minutos, temperatura Varoma, velocidad 3.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Mientras aprovecharemos el tiempo para preparar los huevos poché. Para ello cogeremos dos cuadrados grandes y dos tiras de film transparente. Cubrir el cubilete con el film e introducir la mano en el hueco para darle forma.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Untar el interior del hueco con un poco de aceite para que el huevo se despegue bien.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Verter dentro el huevo con cuidado de que no se rompa la yema.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Coger las puntas del cuadrado y cerrarlo. Para que no quede aire, le daremos vueltas sobre sí mismo y terminaremos atándolo con las tiras de film transparente a modo de cordón. Tiene que quedar como una pelotita para que tenga forma bonita.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Cuando queden 5 minutos para que termine la cocción espárragos, abrir el Varoma con cuidado y poner los dos huevos en la bandeja. Cerrar y continuar con la cocción.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Transcurrido el tiempo retirar los huevos y refrescar los espárragos con agua helada.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Preparar la salsa holandesa es muy fácil sólo hay que verter las yemas, la mantequilla, los 25 g de agua mineral, las gotas de limón y un pellizco de sal en el vaso y programar 5 minutos, 80º y velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 4
+      },
+      {
+        "paso_numero": 11,
+        "instruccion": "Abrir por la mitad los bollitos de leche o recortar las rebanadas de pan con un cortapastas bonito. Colocar encima los espárragos troceados.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 12,
+        "instruccion": "Abrir con cuidado los paquetes de los huevos y colocarlos encima de los espárragos. Napar con la salsa holandesa y terminar espolvoreando un poco de pimienta recién molida.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 13,
+        "instruccion": "Servir enseguida.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/huevos-benedict-con-esparragos/",
+    "creado_en": "2026-08-29"
+  },
+  {
+    "id": "76fe03c6-6005-4f5b-84fb-700959dd2e84",
+    "slug": "mantequilla-aromatizada-con-cebollino",
+    "titulo": "Mantequilla aromatizada con cebollino",
+    "descripcion": "Receta de Mantequilla aromatizada con cebollino adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/09/mantquilla-aromatizada-con-cebollino.jpg",
+    "categoria": "sopas-y-cremas",
+    "tiempo_total_min": 30,
+    "comensales": 8,
+    "dificultad": "Media",
+    "ingredientes": [
+      "200 g de nata líquida, para montar (35% de materia grasa, mínimo)",
+      "Agua fría (del grifo o mineral)",
+      "Papel de cocina",
+      "Cebollino fresco",
+      "Sal"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Si nuestro agua del grifo no es muy buena o no sale demasiado fría, unas horas antes de hacer la mantequilla metemos una botella de agua en el frigorífico.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Ponemos la nata líquida en el vaso, sin la mariposa, y batimos unos minutos en velocidad 7, hasta que notemos que la máquina ha cambiado el sonido. Tenemos que ser pacientes porque al menos deben pasar 5 minutos para que eso suceda. El suero debe quedar separado de la grasa (podéis verlo en la foto).",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Ponemos todo en el cestillo y lo lavamos con agua fría (bajo el grifo o con la botella), hasta que el agua salga limpia. Escurrimos la nata (ya mantequilla) en el castillo y la secamos bien con papel de cocina.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Partimos cebollino fresco. Mezclamos con la mantequilla el cebollino fresco picado y la sal.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Ahora preparamos la mantequilla para conservarla, bien en el frigorífico o en el congelador. En este caso, para que quedara bonita, he llenado un par de huequecitos de una cubitera (los huecos tenían forma de flor). Luego he metido la cubitera al congelador. También podéis dar a la mantequilla forma de cubo, envolverla en papel de horno y luego en papel de aluminio y meterla en el frigorífico.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Ya veréis cómo con 200 g de nata sale poquita cantidad de mantequilla (unos 30 o 35 g)… pero ¡está deliciosa!",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/mantequilla-aromatizada-con-cebollino-fresco/",
+    "creado_en": "2026-08-29"
+  },
+  {
+    "id": "f827c065-170b-4c69-8b1e-15d7bede98b7",
+    "slug": "papilla-de-frutas",
+    "titulo": "Papilla de frutas",
+    "descripcion": "Receta de Papilla de frutas adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/09/papilla-de-frutas.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 5,
+    "comensales": 10,
+    "dificultad": "Media",
+    "ingredientes": [
+      "1 yogur natural",
+      "1 plátano",
+      "Media naranja pelada y sin la parte blanca",
+      "Media manzana",
+      "4 galletas María"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Introducir todos los ingredientes en el vaso y triturar 10 segundos, velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Bajar los restos del vaso con la espátula y programar 3 minutos, temperatura 50º, velocidad 3.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 3
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "[b]",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Batir durante [/b]1 minuto, velocidad progresiva 5-10.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Y ya está lista para tomar. Queda a temperatura ambiente, pues con 3 minutos no alcanza los 50º. La temperatura ayuda a mejorar la textura y a que se mezclen los sabores.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 3
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/papilla-de-frutas/",
+    "creado_en": "2026-08-29"
   }
 ]
