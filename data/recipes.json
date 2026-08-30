@@ -24775,5 +24775,583 @@
     ],
     "fuente_url": "https://www.thermorecetas.com/papilla-de-frutas/",
     "creado_en": "2026-08-29"
+  },
+  {
+    "id": "2304b9c4-a77c-4aba-a746-3e3568e7ebd7",
+    "slug": "revuelto-de-setas-bacon-y-queso",
+    "titulo": "Revuelto de setas, bacon y queso",
+    "descripcion": "Receta de Revuelto de setas, bacon y queso adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/09/revuelto_setas_bacon_queso.jpg",
+    "categoria": "carnes",
+    "tiempo_total_min": 10,
+    "comensales": 2,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "150gr de setas o champiñones (podéis usarlos congelados)",
+      "100gr de bacon a taquitos (podéis sustituir por taquitos de pechuga de pavo o pollo)",
+      "40gr de aceite",
+      "30gr de nata líquida (opcional, podéis eliminarlo si estáis a dieta)",
+      "6 huevos pequeños batidos",
+      "50gr de queso rallado (opcional, podéis eliminarlo si estáis a dieta)",
+      "1 pellizco de sal",
+      "unas hojas de perejil fresco picado"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos en el vaso los champiñones o las setas y las troceamos 2 segundos, velocidad 4. Al ser una verdura muy tierna, es mejor poner sólo 2 segundos para no picarla en exceso. Si nos gustan los trozos más pequeños, troceamos 1 o 2 segundos más.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Bajamos los restos de las paredes e incorporamos el bacon y el aceite. Programamos 5 minutos, temperatura varoma, velocidad cuchara giro a la izquierda.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Colocamos la mariposa en las cuchillas, añadimos el resto de ingredientes y programamos 4 minutos, 100º velocidad 1. Con estos minutos deberá estar cuajado, si no, ponedlo 30 segundos o 1 minuto más.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 4
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/revuelto-de-setas-bacon-y-queso/",
+    "creado_en": "2026-08-30"
+  },
+  {
+    "id": "577c6f02-c4e5-4a6f-848e-263fdd277ddb",
+    "slug": "pollo-con-salsa-de-limon-y-guisantes-salteados",
+    "titulo": "Pollo con salsa de limón y guisantes salteados",
+    "descripcion": "Receta de Pollo con salsa de limón y guisantes salteados adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/09/pollo-con-salsa-limón-guisantes-salteados-Thermorecetas.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 31,
+    "comensales": 2,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "700 g de agua mineral",
+      "100 g de arroz basmati",
+      "175 g de guisantes",
+      "4 cucharadas soperas de aceite de oliva",
+      "1 cebolla fresca",
+      "1 ajo",
+      "1 cucharada (de postre) rasa de azúcar blanquilla",
+      "1 pechuga de pollo fileteada",
+      "½ limón",
+      "200 g de nata",
+      "Nuez moscada",
+      "Perejil",
+      "Sal y pimienta"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Poner el agua en el vaso y añadir 3 pellizcos de sal. Programar 6 minutos, 100º, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Cuando el agua ya esté caliente, colocar el cestillo con el arroz dentro del vaso. Cerrar con la tapa y colocar el Varoma con los guisantes en su sitio. Programar 13 minutos, temperatura Varoma y velocidad 4.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 11
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Transcurridos 10 minutos, retirar el Varoma y refrescar los guisantes bajo un chorro de agua fría y reservar.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Después, cuando termine el tiempo, retirar también el arroz, escurrirlo y condimentar con las 2 cucharadas de aceite de oliva y nuez moscada al gusto. Remover bien y reservar.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Vaciar el vaso y enjuagar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Pelar la cebolla y el ajo. Picarlos durante 4 segundos, velocidad 5. Bajar con la espátula los trocitos hacia las cuchillas. Agregar 1 cucharada de aceite de oliva y programar 7 minutos, 100º y velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 7
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Transcurrido el tiempo incorporar los guisantes y el azúcar. Programar 4 minutos, 100º y velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 4
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Mientras calentar la cuchara de aceite restante en una sartén antiadherente, dorar el pollo a fuego vivo. Cuando ya esté listo retirar y reservar.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Añadir el limón y la nata sobre los jugos de la carne. Salpimentar y remover para que se integren los ingredientes. Dejar cocer a fuego lento durante unos minutos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "A la hora de servir colocar la guarnición de arroz, los guisantes espolvoreados con perejil y el pollo. Regar este último con la salsa de limón.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/pollo-con-salsa-de-limon-y-guisantes-salteados/",
+    "creado_en": "2026-08-30"
+  },
+  {
+    "id": "ca46aea7-4b88-4504-9007-9bcaf33377ac",
+    "slug": "amor-polenta-bizcocho-tipico-italiano",
+    "titulo": "Amor polenta: bizcocho típico italiano",
+    "descripcion": "Receta de Amor polenta: bizcocho típico italiano adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/09/amor-polenta-bizcocho-tipico-italiano.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 5,
+    "comensales": 8,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "50 g de almendras sin tostar y sin piel",
+      "150 g de azúcar",
+      "150 g de mantequilla blanda (temperatura ambiente) a trocitos",
+      "2 yemas",
+      "2 huevos enteros frescos",
+      "80 g de harina de maiz (lo ideal es polenta pero si no la encontrais podéis sustituirlo por Maizena)",
+      "80 g de harina de repostería",
+      "1 pizca de sal",
+      "30 g de ron oscuro",
+      "1 bolsa (16 g) de levadura para dulce (tipo Royal)",
+      "Un poquito de mantequilla y de harina para poner en el molde"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Si nuestro horno es de los que tardan en calentar podemos ir encendiéndolo a 180º.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Comenzamos triturando las almendras. Las ponemos en el vaso y trituramos unos segundos en velocidad progresiva 5-10. Atención porque la máquina hará ruido. Sacamos y reservamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Ponemos el azúcar en el vaso y pulverizamos programando 30 segundos, velocidad 8. Sacamos 20 gr de ese azúcar ya convertido en glass (esos 20 gr los utilizaremos al final para decorar).",
+        "accesorio": "Cuchillas",
+        "velocidad": 8,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "A los 130 g de azúcar que tenemos en el vaso le añadimos la mantequilla blandita y montamos programando 45 segundos, velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Pesamos el resto de los ingredientes porque los añadiremos con las cuchillas en movimiento. Las harinas las mezclamos en un plato.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Una vez pesados ponemos velocidad 5 y añadimos las dos yemas de huevo, los dos huevos enteros, las almendras trituradas, las dos harinas mezcladas, la pizca de sal y el ron. Dejamos en velocidad 5 unos segundos más para que todo se integre.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Por último añadimos la levadura y mezclamos 20 segundos, velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Vamos a utilizar un molde de 12 x 30 cms (uno de plum-cake servirá). Lo untamos con mantequilla y enharinamos. Echamos la mezcla en el molde.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Metemos el molde en el horno precalentado a 180º, calor arriba y abajo, durante 30-40 minutos (controladlo porque esto de los hornos es un mundo).",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 40
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Desmoldamos y decoramos con el azúcar glass que habíamos reservado.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 11,
+        "instruccion": "Y ahora solo nos queda… ¡disfrutarlo!",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/amor-polenta-bizcocho-tipico-italiano/",
+    "creado_en": "2026-08-30"
+  },
+  {
+    "id": "03288d9f-4d52-4ea2-8bd3-0988dfea9eff",
+    "slug": "batido-de-horchata-y-kiwi",
+    "titulo": "Batido de horchata y kiwi",
+    "descripcion": "Receta de Batido de horchata y kiwi adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/09/batido-de-horchata.jpg",
+    "categoria": "bebidas",
+    "tiempo_total_min": 2,
+    "comensales": 4,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "1 litro de horchata",
+      "2 kiwis (200 g)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Pelar los kiwis y triturarlos 20 segundos, velocidad progresiva 5-10.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Introducir la horchata en el vaso y batir durante 1 minuto, velocidad 3.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Servir muy frío.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/batido-de-horchata-y-kiwi/",
+    "creado_en": "2026-08-30"
+  },
+  {
+    "id": "e713f39f-fe65-43af-b1f6-577f021f1050",
+    "slug": "calabacines-rellenos-al-cava-y-romero",
+    "titulo": "Calabacines rellenos al cava y romero",
+    "descripcion": "Receta de Calabacines rellenos al cava y romero adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/09/calabacines_rellenos_aroma_cava_romero.jpg",
+    "categoria": "carnes",
+    "tiempo_total_min": 40,
+    "comensales": 4,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "4 calabacines pequeños",
+      "2 huevos cocidos (opcional)",
+      "250 gr de queso tipo Philadelphia",
+      "500 gr de carne picada",
+      "1 cebolla mediana",
+      "4 dientes de ajo",
+      "200 ml de cava",
+      "2 cucharaditas de café de concentrado de carne casero (podéis sustituir por una pastilla tipo Avecrem)",
+      "pimienta",
+      "sal",
+      "1 ramita de romero",
+      "50 gr de aceite de oliva virgen extra"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Lo primero que vamos a hacer es deshojar el romero. Echamos las hojas en el vaso y trituramos 5 segundos, velocidad 6. Retiramos y reservamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 6,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "A continuación introducimos los huevos y trituramos 4 segundos, velocidad 3 1/2. Retiramos y reservamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Sin lavar el vaso, añadimos el aceite, los ajos y la cebolla. Trituramos 5 segundos, velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Bajamos los restos de las paredes y la tapa y programamos 5 minutos, velocidad 1, temperatura varoma.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Añadimos la carne salpimentada y el romero que teníamos reservado y programamos 8 minutos, velocidad 1, giro a la izquierda, temperatura varoma. (Si vemos que está soltando agua la carne, retiramos el cubilete para que evapore).",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 7
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "A continuación, añadimos el cava y las dos cucharadas de concentrado casero y programamos 20 minutos, velocidad 1, giro a la izquierda, temperatura varoma. Cuando haya terminado el tiempo comprobamos que no haya casi líquido. El resultado que queremos es una carne con un pelín de caldo para que esté jugosa, es decir, que haya un poquito de caldo en el fondo del vaso, pero poco. Entonces, si tiene demasiado caldo, volvemos a programar 5 minutos más sin el cubilete para que evapore.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 16
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Por último, añadimos el queso de untar y los huevos troceados que teníamos reservados y programamos 2 minutos, velocidad 1, giro a la izquierda, temperatura 90º.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 2
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Retiramos la carne y reservamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Enjuagamos un poco el vaso y lo llenamos con 1 litro de agua (1.000 gramos). Programamos 8 minutos, velocidad cuchara, temperatura varoma.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 7
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Mientras, lavamos bien los calabacines, los cortamos por la mitad y después los abrimos longitudinalmente (fijaos en la foto de portada para ver cómo están cortados). Añadimos sal y pimienta y los ponemos boca abajo (es decir, con la piel hacia arriba) sobre la bandeja varoma (si no os caben todos, podéis usar también el recipiente varoma).",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 11,
+        "instruccion": "Colocamos todo el recipiente varoma encima del vaso sin el cubilete y programamos 15 minutos, velocidad 2, temperatura varoma.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 15
+      },
+      {
+        "paso_numero": 12,
+        "instruccion": "Sacamos los calabacines y los vaciamos con cuidado de dejar los bordes para que se queden firmes a la hora de rellenarlos. Mezclamos el relleno con la carne que teníamos reservada.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 13,
+        "instruccion": "Vamos rellenando los calabacines con el preparado de carne caliente. Servimos inmediatamente.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/calabacines-rellenos-al-cava-y-romero/",
+    "creado_en": "2026-08-30"
+  },
+  {
+    "id": "65307f2a-7717-4033-8879-7c932fd2c911",
+    "slug": "mayonesa-de-tofu",
+    "titulo": "Mayonesa de tofu",
+    "descripcion": "Receta de Mayonesa de tofu adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/09/mayonesa-de-tofu-Thermorecetas.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 15,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "1 litro de agua del grifo",
+      "125 g de tofu",
+      "20 g de agua mineral",
+      "1 cucharada (de postre) de vinagre blanco",
+      "3 cucharadas soperas de aceite de girasol",
+      "Hierbas aromáticas (opcional)",
+      "Semillas amapola (opcional)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Calentar el agua durante 6 minutos, a 100º y velocidad 1. A continuación poner el cestillo con el tofu y programar 4 minutos, 100º y velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Transcurrido el tiempo retirar el cestillo y el agua. Dejar enfriar un poco el tofu y desmenuzarlo con los dedos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Aclarar un poco el vaso y colocar el tofu desmenuzado en el vaso. Triturarlo durante 15 segundos a velocidad 5. Bajar los trocitos hacia las cuchillas y volver a triturar otros 15 segundos a velocidad 5. Repetir la operación. En total se tiene que batir durante 1 minuto.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Añadir el agua mineral y mezclar durante 10 segundos a velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Añadir el vinagre y mezclar durante 10 segundos a velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Programar velocidad 4 sin tiempo y verter las cucharadas de aceite en la tapa para que caiga en hilo y la salsa se emulsione.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Podéis añadirle la especia o hierba que más os guste. En mi caso he utilizado unas semillas de amapola y poco de perejil.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/mayonesa-de-tofu-2/",
+    "creado_en": "2026-08-30"
   }
 ]
