@@ -25353,5 +25353,585 @@
     ],
     "fuente_url": "https://www.thermorecetas.com/mayonesa-de-tofu-2/",
     "creado_en": "2026-08-30"
+  },
+  {
+    "id": "e135835e-c267-4a95-9d9e-94efa7af2b52",
+    "slug": "pate-de-aceitunas-verdes-al-aroma-de-naranja",
+    "titulo": "Paté de aceitunas verdes al aroma de naranja",
+    "descripcion": "Receta de Paté de aceitunas verdes al aroma de naranja adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/09/pate-de-aceitunas-verdes-al-aroma-de-naranja.jpg",
+    "categoria": "sopas-y-cremas",
+    "tiempo_total_min": 3,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "300 g de aceitunas verdes (escurridas y con hueso)",
+      "100 gr de aceite de oliva virgen extra, aproximadamente",
+      "1 diente de ajo",
+      "La piel de una naranja, mejor si es biológica (sólo la parte naranja, no lo blanco)",
+      "1 cucharadita de semilas de hinojo (opcional)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Deshuesamos las aceitunas. Si lo que tenéis son aceitunas ya sin hueso podéis utilizarlas pero tened en cuenta que necesitaréis menos de 300 gr ya que este peso incluye el hueso.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Ponemos la piel de la naranja en el vaso y trituramos unos segundos, velocidad progresiva 5-10.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Ponemos en el vaso las aceitunas ya sin hueso y el diente de ajo. Trituramos 3 sg, velocidad 7. Bajamos con la espátula lo que ha quedado en las paredes.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Añadimos las semillas de hinojo y 60 gr de aceite de oliva. Mezclamos 1 minuto, velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Echamos la mezcla en un bote de cristal, cubrimos con aceite y conservamos en el frigorífico hasta el momento de servir. Por supuesto, antes de meterlo al bote nos preparamos una tapita y nos la comemos, ¡que nos la hemos ganado!.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/pate-de-aceitunas-verdes-al-aroma-de-naranja/",
+    "creado_en": "2026-08-31"
+  },
+  {
+    "id": "3f9f0368-7933-4f36-b4c0-7b513a9a35f7",
+    "slug": "fusilli-con-verduras-y-frutos-secos",
+    "titulo": "Fusilli con verduras y frutos secos",
+    "descripcion": "Receta de Fusilli con verduras y frutos secos adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/09/fusilli-con-verduras.jpg",
+    "categoria": "verduras",
+    "tiempo_total_min": 34,
+    "comensales": 2,
+    "dificultad": "Media",
+    "ingredientes": [
+      "100 g de puerros (la parte blanca)",
+      "150 g de espárragos verdes frescos",
+      "50 g de nueces peladas",
+      "50 g de dátiles confitados deshuesados",
+      "1/2 cucharadita de sal",
+      "100 ml de aceite de oliva (un cubilete)",
+      "150 g de pasta fusilli (tornillos)",
+      "600 g de agua",
+      "sal al gusto"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Se introducen en el vaso espárragos, puerros, dátiles y nueces y se trituran 6 segundos, velocidad 6.",
+        "accesorio": "Cuchillas",
+        "velocidad": 6,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Se añade aceite y la sal y se programa 10 minutos, temperatura varoma, velocidad 1.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "La salsa está ya lista. Os quedará una mezcla espesa, como un pate ligero. Ya veréis que rico mezclado con los fusilli.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Introducimos el agua con la sal y el aceite en el vaso. Programamos 12 minutos, 100º, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Agregamos la pasta por el bocal del cubilete y programamos el tiempo indicado en el paquete de la misma, 100º, velocidad cuchara.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "La escurrimos utilizando el cestillo o el recipiente varoma y servimos inmediatamente.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/fusilli-con-verduras-y-frutos-secos/",
+    "creado_en": "2026-08-31"
+  },
+  {
+    "id": "c59c0893-f890-4854-9d88-1b528d7a059f",
+    "slug": "calamares-rellenos-con-vinagreta-de-modena",
+    "titulo": "Calamares rellenos con vinagreta de Módena",
+    "descripcion": "Receta de Calamares rellenos con vinagreta de Módena adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/09/calamares_rellenos_vinagreta_módena.jpg",
+    "categoria": "pescados",
+    "tiempo_total_min": 23,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "8 calamares medianos o pequeños",
+      "1/2 cebolleta",
+      "1/2 pimiento rojo",
+      "1/2 pimiento verde",
+      "400 gr de gulas en aceite",
+      "2 latas de atún",
+      "8 palitos de cangrejo",
+      "8 langostinos cocidos",
+      "1 litro de agua",
+      "sal",
+      "pimienta",
+      "150 gr de tomate",
+      "25 gr de azúcar moreno (puede ser blanco también)",
+      "100 gr de aceite de oliva virgen",
+      "20 gr de reducción de vinagre de Módena o 40 gr de aceto balsámico"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "En primer lugar vamos a limpiar los calamares. Debemos quitarle las aletas y los tentáculos. Le retiramos todo lo que tengan en su interior. Si queremos, podemos darle la vuelta al calamar para limpiarlo mejor.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Y ahora vamos a triturar el relleno de nuestros calamares. Echamos en el vaso las aletas y los tentáculos de los calamares, la cebolleta y los pimientos cortados en trozos y trituramos 3 segundos, velocidad 4. Después añadimos los palitos de cangrejo y los langostinos y trituramos 2 segundos, velocidad 4. Añadimos las gulas escurridas y las 2 latas de atún escurridas también. Removemos 5 segundos, velocidad cuchara. Retiramos del vaso y reservamos.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Introducimos este relleno en los calamares y los cerramos con un palillo para que no se salga. Los pincelamos con aceite, espolvoreamos con sal y pimienta y los colocamos en el recipiente varoma.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Ahora vamos a preparar la vinagreta. Sin lavar el vaso, echamos en el vaso el tomate y trituramos 4 segundos a velocidad 4. Acto seguido incorporamos el aceite, el vinagre, el azúcar y la sal y programamos 8 minutos, temperatura 100, velocidad 1. Retiramos a una salsera y reservamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Sin lavar el vaso echamos 1 litro de agua en el vaso y cocinamos durante 15 minutos, temperatura varoma, velocidad 2. Podemos aprovechar para poner unas verduras en la bandeja varoma (poned siempre las verduras encima del pescado, así no le dará ningún sabor).",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 12
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Servimos los calamares y encima les echamos un chorrito de vinagreta.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/calamares-rellenos-con-vinagreta-de-modena/",
+    "creado_en": "2026-08-31"
+  },
+  {
+    "id": "0a1e36d1-85f9-4b33-af92-2f968ebb6516",
+    "slug": "pesto-rojo",
+    "titulo": "Pesto rojo",
+    "descripcion": "Receta de Pesto rojo adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/09/pesto-rojo-thermorecetas.jpg",
+    "categoria": "salsas",
+    "tiempo_total_min": 1,
+    "comensales": 4,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "6 tomates secos",
+      "10 g de piñones",
+      "3 hojas de albahaca de tamaño medio",
+      "1 diente de ajo",
+      "30 g de aceite de oliva",
+      "10 g de queso parmesano rallado",
+      "1 pellizco de azúcar",
+      "Sal y pimienta"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Hidratar los tomates sumergiéndolos en agua caliente durante 15 minutos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 12
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Mientras, lavar las hojas de albahaca y secándolas rápidamente con un papel de cocina. Reservar",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Tostar los piñones en una sartén sin aceite y reservar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Pelar el ajo y reservar",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Pesar el aceite y reservar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Añadir al vaso los tomates escurridos, los piñones, las hojas de albahaca y el diente de ajo pelado. Triturar durante 10 segundos a velocidad 7. Bajar los trocitos hacia las cuchillas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Para emulsionar, programar 30 segundos, velocidad 4. Dejar caer el aceite sobre la tapa y el mismo se filtrará, poco a poco, entre el bocal y el cubilete.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Retirar la pasta a un cuenco y añadir el queso rallado y el azúcar. Salpimentar y mezclar con un tenedor. Si veis que está muy seco podéis agregarle un poco más de aceite.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Servir en un cuenco o salsera.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/pesto-rojo/",
+    "creado_en": "2026-08-31"
+  },
+  {
+    "id": "f5af8817-0113-4630-8b26-a0f90c9229c5",
+    "slug": "tarta-de-requeson-o-ricota-y-peras",
+    "titulo": "Tarta de requesón o ricota y peras",
+    "descripcion": "Receta de Tarta de requesón o ricota y peras adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/09/tarta-de-ricota-y-peras.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 15,
+    "comensales": 8,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "150 g de avellanas",
+      "150 g de azúcar",
+      "150 g de harina de repostería",
+      "150 g de mantequilla",
+      "2 huevos",
+      "1 cucharada de cacao puro en polvo",
+      "1 cucharadita de postre de levadura química (tipo Royal)",
+      "80 g de azúcar",
+      "100 g de agua",
+      "el zumo de medio limón",
+      "3 o 4 peras (también se pueden utilizar peras en almíbar y nos ahorramos el paso de bañarlas en almíbar)",
+      "150 g de azúcar (100 g serán para el relleno y 50 para decorar)",
+      "250 g de nata para montar",
+      "500 g de ricota o requesón"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Metemos en el bocal las avellanas y el azúcar y trituramos unos segundos, velocidad progresiva 5-10.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Añadimos el resto de ingredientes de la masa y mezclamos 30 sg, velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Preparamos un molde redondo de 28 cms, untándolo con mantequilla y enharinándolo. Yo he utilizado un aro así que lo que he hecho ha sido colocarlo sobre la bandeja de horno cubierta con papel de hornear.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Ayudándonos con la espátula echamos en el molde la mitad de la masa que acabamos de hacer. Ojo, sólo la mitad porque se trata de hacer dos bizcochos, uno para la base y otro para la cobertura de la tarta. La otra mitad la reservamos en un bol y así podemos utilizar la Thermomix para seguir haciendo la tarta.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Repartimos bien en el molde esa primera mitad de la masa, ayudándonos con la espátula o con una cuchara.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Horneamos en el horno precalentado a 180º durante 15-20 minutos aproximadamente.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 20
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Una vez horneado, desmoldamos y seguimos el mismo procedimiento con el fin de hornear la segunda plancha de bizcocho.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Preparamos el almíbar. Para ello echamos en el bocal el agua y el azúcar y programamos 6 minutos, 100º, velocidad 2. Dejamos que se enfríe un poco. Ahora vamos pelando, limpiando las peras y partiéndolas en trocitos pequeños. Las ponemos en el almíbar junto con el zumo del medio limón. Lo dejamos al menos media hora. Por cierto, el almíbar sólo lo utilizamos para bañar los trocitos de pera, no para humedecer el bizcocho.",
+        "accesorio": "Cuchillas",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "En el vaso bien limpio y seco ponemos el azúcar y la pulverizamos para convertirla en glass, triturando unos segundos en velocidad 10. Sacamos el azúcar glass y reservamos. Lavamos el vaso.",
+        "accesorio": "Cuchillas",
+        "velocidad": 10,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Colocamos la mariposa en las cuchillas porque vamos a montar la nata. Echamos la nata en el vaso y ponemos velocidad 3 y 1/2, sin programar tiempo. Paramos la máquina cuando veamos que está montada. Ahora añadimos 100 gr de los 150 gr de azúcar que acabamos de convertir en glass (los 50 gr que faltan los utilizaremos luego para adornar la tarta). Añadimos el queso y mezclamos 30 sg, velocidad 3. Escurrimos la pera y la añadimos a la mezcla anterior, ya en trocitos. Mezclamos con la espátula. Metemos en la nevera",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 11,
+        "instruccion": "Cuando las planchas de bizcocho estén frías montamos la tarta. Ponemos el relleno sobre una de las planchas. Lo cubrimos con la otra plancha.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 12,
+        "instruccion": "Metemos al frigorífico y esperamos unas tres horas antes de consumirla. Decoramos la tarta con azúcar glass ayudándonos con un colador.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 13,
+        "instruccion": "También podemos congelarla y tomarla como un semifrío (esta segunda opción también está deliciosa).",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 14,
+        "instruccion": "Ha sido entretenido pero el resultado ha merecido la pena, ¿no creéis?",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/tarta-de-requeson-o-ricota-y-peras/",
+    "creado_en": "2026-08-31"
+  },
+  {
+    "id": "85b63227-30cf-4dc4-9b31-c76a766992ae",
+    "slug": "crema-picante-de-lentejas-indias",
+    "titulo": "Crema picante de lentejas indias",
+    "descripcion": "Receta de Crema picante de lentejas indias adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/09/Crema-india-de-lentejas.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 32,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "75 g de lentejas amarillas indias (Chana Dal)",
+      "150 g de zanahorias",
+      "150 g de cebolla",
+      "75 g de tomate natural",
+      "500 ml de caldo vegetal ( o 500 ml de agua y una pastilla de caldo de verduras)",
+      "250 ml de leche entera",
+      "1 diente de ajo",
+      "25 g de mantequilla",
+      "1 cucharada de zumo de limón",
+      "1 cucharadita de cúrcuma molida",
+      "1 cucharadita de comino molido",
+      "2 guindillas",
+      "1 cucharadita de sal"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Pon las lentejas en un colador y acláralas con un chorro de agua fría. Escúrrelas y ponlas en el vaso.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Añade las zanahorias peladas y troceadas, la cebolla, el tomate, el diente de ajo y el caldo (o el agua y la pastilla). Cuécelo todo durante 30 minutos, temperatura Varoma, velocidad 2, con el cubilete puesto.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 25
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Mientras se enfría un poco, en un cazo calienta la mantequilla a fuego lento y, una vez derretida, añade la cúrcuma y el comino. Remueve durante 20 segundos y retira del fuego (puedes hacerlo también en el microondas durante 30 segundos a máxima velocidad). Añade el zumo de limón y la sal. .",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Añade esta mezcla al vaso junto las guindillas. Asegúrate de que la temperatura haya disminuido para triturar durante 30 segundos, velocidad progresiva 5/10.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Añade la leche y tritura de nuevo 10 segundos velocidad progresiva 5/10.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Si prefieres una textura más clara, puedes añadir más leche hasta lograr tu preferida.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/crema-picante-de-lentejas-indias/",
+    "creado_en": "2026-08-31"
   }
 ]
