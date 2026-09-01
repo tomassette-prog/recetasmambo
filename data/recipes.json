@@ -25933,5 +25933,496 @@
     ],
     "fuente_url": "https://www.thermorecetas.com/crema-picante-de-lentejas-indias/",
     "creado_en": "2026-08-31"
+  },
+  {
+    "id": "d005dbc8-ee68-4903-bd41-c962cc22556b",
+    "slug": "coctel-de-langostinos-y-pera",
+    "titulo": "Cóctel de langostinos y pera",
+    "descripcion": "Receta de Cóctel de langostinos y pera adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/09/Coctel_langostinos_pera.jpg",
+    "categoria": "legumbres",
+    "tiempo_total_min": 5,
+    "comensales": 4,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "200 gr de lechuga variada",
+      "4 pimientos del piquillo (opcional, yo no le puse)",
+      "1 pera (podéis cambiarlo por manzana si preferís)",
+      "1/4 de cebolleta",
+      "150 gr de palitos de cangrejo",
+      "150 gr de langostinos cocidos",
+      "salsa cóctel al gusto",
+      "300 gr. de aceite de oliva",
+      "3 yemas de huevo",
+      "80 gr. de salsa ketchup",
+      "unas gotitas de salsa Perrins",
+      "un chorrito pequeño de brandy o de whisky",
+      "20 gr. de nata líquida para cocinar",
+      "65 gr. de zumo de naranja",
+      "½ cucharadita de sal",
+      "30 gr. de mostaza de Dijon",
+      "1 pellizco de pimienta",
+      "una pizca de azúcar"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Colocamos una jarra o recipiente con capacidad superior a 300 ml sobre la tapa de la Thermomix, pulsamos la función “balanza” y pesamos el aceite. Reservamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Añadimos todos los ingredientes al vaso (excepto el aceite) y programamos 10 segundos, a velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Con el cubilete puesto en la tapa, programamos a velocidad 4, sin tiempo y vertemos poco a poco el aceite sobre la tapa de la Thermomix. Seguimos hasta que hayamos echado todo el aceite.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Conservamos en un bote de cristal en el frigorífico.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Cortamos los pimientos en tiras y reservamos. Los utilizaremos al final para decorar nuestros cócteles.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Cortamos la pera en cuatro cuartos y la echamos al vaso. Añadimos también la cebolleta. Trituramos 4 segundos, velocidad 4. Sacamos del vaso y reservamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Añadimos los langostinos y los palitos cangrejo. Trituramos 4 segundos, velocidad 3. Si os gustan los trocitos más pequeños, programad un par de segundos más.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "En un recipiente ponemos debajo las lechugas, echamos por encima la cebolla y la pera, después los langostinos y los palitos de cangrejo, y por último, decoramos con las tiras de pimiento del piquillo. Servimos la salsa cóctel a parte para que cada uno se eche la cantidad que quiera.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/coctel-de-langostinos-y-manzana/",
+    "creado_en": "2026-09-01"
+  },
+  {
+    "id": "9a6f461d-470b-4cd5-a845-ddc97863deac",
+    "slug": "calzone-de-espinacas",
+    "titulo": "Calzone de espinacas",
+    "descripcion": "Receta de Calzone de espinacas adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/09/calzone-de-espinacas-thermorecetas.jpg",
+    "categoria": "verduras",
+    "tiempo_total_min": 15,
+    "comensales": 1,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "300 g de harina de fuerza",
+      "10 g de levadura fresca",
+      "150 g de cerveza",
+      "5 g de sal",
+      "15 g de aceite de oliva virgen",
+      "Una pizca de azúcar",
+      "75 g de cebolla",
+      "20 g de aceite",
+      "75 g de espinacas descongeladas y bien escurridas",
+      "75 g de requesón, ricotta o queso Burgos",
+      "30 g de queso parmesano",
+      "1 cucharada sopera de pasas",
+      "Sal y pimienta"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Vamos a empezar preparando la masa ya que nos llevará algo más de tiempo porque necesita reposo.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Poner en el vaso el aceite, la cerveza, el azúcar y la sal. Calentar durante 1 minuto a 37º y velocidad 2.",
+        "accesorio": "Cuchillas",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Añadir, a través del bocal, la levadura desmenuzada con los dedos. Mezclar durante 10 segundos a velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Añadir la harina y mezclar durante 5 segundos a velocidad 5. Y a continuación amasar durante 1 minuto, vaso cerrado, velocidad espiga.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Retirar la masa del vaso, hacer una bola y dejarla reposar en un cuenco amplio espolvoreado de harina. Tapar con un paño de cocina limpio.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Mientras la masa fermenta iremos preparando el relleno. Para ello rallaremos el parmesano durante 30 segundos, velocidad progresiva 5-7-9. Retirar del vaso y reservar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Pelar y trocear la cebolla, para picarla programar 4 segundos, velocidad 4. Añadir el aceite y sofreír durante 5 minutos, 100º y velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Incorporar las espinacas y volver a programar 5 minutos, 100º y velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Terminado el tiempo añadir los dos tipos de queso y las pasas. Salpimentar y mezclar todo durante 30 segundos, velocidad 2 y giro a la izquierda. Dejar en el vaso.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Volvemos otra vez con la masa que ya habrá doblado su volumen. Precalentar el horno a 250º y poner la masa en una mesa de trabajo previamente enharinada. Cortar la masa en 4 trozos.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 11,
+        "instruccion": "Tomar una de las porciones y trabajarla, con un rodillo enharinado, para darle forma redondeada o de disco. Rellenar la mitad inferior de la masa con la mezcla de espinacas (como si fuese una empanadilla) dejando un borde sin farsa. Humedecer dichos bordes con un poco de agua y presionar con los dedos o con un tenedor para que queden bien sellados.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 12,
+        "instruccion": "Enharinar el calzone y colocarlo a una bandeja. Introducirla en el horno, bajar la temperatura a 200-225 y dejar cocer entre 20 o 25 minutos.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 25
+      },
+      {
+        "paso_numero": 13,
+        "instruccion": "Retirar del horno y servir enseguida.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/calzone-de-espinacas/",
+    "creado_en": "2026-09-01"
+  },
+  {
+    "id": "c951b22e-7879-4aba-81b6-65877a612185",
+    "slug": "zarangollo-revuelto-de-cebolla-huevos-y-calabacines",
+    "titulo": "Zarangollo – Revuelto de cebolla, huevos y calabacines",
+    "descripcion": "Receta de Zarangollo – Revuelto de cebolla, huevos y calabacines adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/09/zarangollo.jpg",
+    "categoria": "verduras",
+    "tiempo_total_min": 38,
+    "comensales": 0,
+    "dificultad": "Media",
+    "ingredientes": [
+      "400 g de calabacines sin pelar y cortado en trozos (mejor si son de agricultura ecológica)",
+      "400 g de cebolla cortada en cuartos",
+      "70 g de aceite de oliva virgen extra",
+      "Sal y pimienta",
+      "4 o 5 huevos"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos en el vaso los calabacines y programamos 2 segundos, velocidad 4. Retiramos del vaso y reservamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Echamos en el vaso la cebolla y programamos 3 segundos, velocidad 4. Con la espátula bajamos los restos de la cebolla de la tapa y del interior del vaso hacia las cuchillas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Añadimos el aceite y la sal y programamos 15 minutos, varoma, giro a la izquierda, velocidad cuchara.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 15
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Agregamos el calabacín, la sal y la pimienta. Programamos 20 minutos, temperatura varoma, giro a la izquierda, velocidad cuchara.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 20
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Incorporamos los huevos y programamos 2 minutos, temperatura varoma, giro a la izquierda, velocidad cuchara.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 2
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/zarangollo-revuelto-de-cebolla-huevos-y-calabacines/",
+    "creado_en": "2026-09-01"
+  },
+  {
+    "id": "0659787d-5e6d-420b-8132-7a4aef420e15",
+    "slug": "batido-de-proteinas-al-aroma-de-vainilla",
+    "titulo": "Batido de proteínas al aroma de vainilla",
+    "descripcion": "Receta de Batido de proteínas al aroma de vainilla adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/09/Batido_proteinas_vainilla.jpg",
+    "categoria": "bebidas",
+    "tiempo_total_min": 1,
+    "comensales": 20,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "1 huevo",
+      "400 ml de leche (entera o semidesnatada)",
+      "3 cucharadas grandes soperas de azúcar",
+      "2 cucharaditas pequeñas de vainilla en polvo (según cada marca seguid lo que os indique el fabricante)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos todos los ingredientes en el vaso y trituramos 1 minuto, velocidad progresiva 5-7-10.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Debemos tomarlo inmediatamente ya que lleva huevo crudo.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/batido-de-proteinas-al-aroma-de-vainilla/",
+    "creado_en": "2026-09-01"
+  },
+  {
+    "id": "845388ad-61b9-47e5-a903-3629c3fd4c46",
+    "slug": "consome-de-verduras",
+    "titulo": "Consomé de verduras",
+    "descripcion": "Receta de Consomé de verduras adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/09/consome-de-verduras-thermorecetas2.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 35,
+    "comensales": 3,
+    "dificultad": "Media",
+    "ingredientes": [
+      "100 g de zanahoria",
+      "75 g de puerro",
+      "75 g de patata",
+      "75 g de judías verdes",
+      "50 g de cebolla",
+      "1 rama de apio",
+      "½ lata de maíz",
+      "1 cucharada de postre de concentrado casero de verdura (se puede sustituir por pastilla de caldo)",
+      "Agua"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Lavar y trocear todas las verduras. Colocarlas todas en el vaso, incluido el maíz. Programar vaso cerrado y apretar el botón de turbo durante 2 segundos. Bajar los trocitos hacia las cuchillas.",
+        "accesorio": "Cuchillas",
+        "velocidad": "Turbo",
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Cubrirlas con agua, añadir el concentrado y programar 35 minutos, temperatura Varoma, velocidad 1.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 29
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Al terminar el tiempo agregar agua hasta alcanzar el litro y medio y filtrar con un colador.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "A la hora de servir se puede acompañar con picatostes, huevo duro o simplemente un poco de perejil por encima. Al mío no le puse nada ya que no quería desvirtuar los sabores y así poder comprobar que tiene un sabor auténtico a verduras",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Servir siempre caliente.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/consome-de-verduras/",
+    "creado_en": "2026-09-01"
+  },
+  {
+    "id": "72246f16-edb7-46c2-a320-555861e3e78e",
+    "slug": "patatas-para-guarnicion",
+    "titulo": "Patatas para guarnición",
+    "descripcion": "Receta de Patatas para guarnición adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/09/patatas-para-guarnicio.jpg",
+    "categoria": "carnes",
+    "tiempo_total_min": 18,
+    "comensales": 4,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "100 g de aceite de oliva virgen extra",
+      "2 dientes de ajo laminados",
+      "600 g de patatas para freir",
+      "100 g de agua",
+      "Sal",
+      "Perejil picado",
+      "1 cucharadita de vinagre"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Colocamos la mariposa en las cuchillas y ponemos en el vaso el aceite y los ajos. Programamos 4 minutos, temperatura varoma, giro a la izquierda y velocidad cuchara.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 4
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Añadimos las patatas partidas en rodajas de 3 o 4 mm, como para tortilla, el agua, la sal y el perejil picado. Volvemos a programar 14 minutos, temperatura varoma, giro a la izquierda, velocidad cuchara.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 11
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Cuando termine el tiempo añadimos el vinagre y mezclamos con la espátula.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Servimos caliente acompañando la carne o el pescado que prefiramos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/patatas-para-guarnicion/",
+    "creado_en": "2026-09-01"
   }
 ]
