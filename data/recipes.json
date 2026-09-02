@@ -26424,5 +26424,671 @@
     ],
     "fuente_url": "https://www.thermorecetas.com/patatas-para-guarnicion/",
     "creado_en": "2026-09-01"
+  },
+  {
+    "id": "effae2ab-e396-4a84-8907-d293cf6bdc94",
+    "slug": "pisto-de-caballa",
+    "titulo": "Pisto de caballa",
+    "descripcion": "Receta de Pisto de caballa adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/09/pisto-de-caballa1.jpg",
+    "categoria": "salsas",
+    "tiempo_total_min": 40,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "700 g de caballa fresca",
+      "100 ml de aceite (1 cubilete)",
+      "2 cucharadas de harina de trigo",
+      "150 g de cebolla",
+      "50 g de pimiento rojo",
+      "50 g de pimiento verde",
+      "500 g de tomates",
+      "1 cucharada de mayonesa",
+      "1 cucharada de azúcar",
+      "sal"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Introducimos medio cubilete de aceite en el vaso y calentamos durante 5 minutos, temperatura varoma, velocidad cuchara.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Cortamos la caballa en trozos de unos 2 cm. retirando la piel y las espinas. Los rebozamos con las 2 cucharadas de harina mezclada con 1 cucharadita de sal.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Introducimos en el vaso y la freímos durante 3 minutos, velocidad cuchara, giro a la izquierda con cubilete puesto. Sacamos y reservamos.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 3
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Sin limpiar el vaso, introducimos el otro medio cubilete de aceite, la cebolla, el pimiento rojo, el pimiento verde, los tomates, el azúcar y 1/2 cucharadita de sal. Trituramos durante 5 segundos, a velocidad 3.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Programamos 25 minutos, temperatura varoma, velocidad 1.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 25
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Incorporamos la caballa y programamos 5 minutos, 100º, velocidad cuchara, giro a la izquierda.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "minuto antes de acabar incorporamos por el bocal la cucharada de mayonesa.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/pisto-de-caballa/",
+    "creado_en": "2026-09-02"
+  },
+  {
+    "id": "e3d7a1e7-a58e-4c1e-91f5-ebde7deccc98",
+    "slug": "albondigas-morunas",
+    "titulo": "Albóndigas morunas",
+    "descripcion": "Receta de Albóndigas morunas adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/09/Albóndigas_morunas.jpg",
+    "categoria": "panes-masas",
+    "tiempo_total_min": 35,
+    "comensales": 20,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "500 gr de carne picada (mitad ternera, mitad cerdo)",
+      "20 ciruelas pasas",
+      "50 gr de miga de pan del día anterior (podéis usar pan de molde)",
+      "1 huevo",
+      "4 dientes de ajo",
+      "1 cucharada rasa de ras-al-hanut",
+      "1 cucharada grande de perejil fresco picado o seco",
+      "1 cucharada rasa de cominos en polvo",
+      "1/2 cucharadita de canela",
+      "una pizca de nuez moscada",
+      "una pizca de pimienta",
+      "1/2 cucharadita de pimentón dulce",
+      "harina para rebozar las albóndigas",
+      "50 gr de aceite de oliva",
+      "1 cebolla pequeña",
+      "1 zanahoria",
+      "1 tomate natural maduro",
+      "100 gr de vino blanco",
+      "400 gr de agua",
+      "1 cucharadita de  o 1 pastilla de avecrem"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos la miga de pan desmenuzada en un cuenco, agregamos la leche y la dejamos remojar.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "En el vaso ponemos los ajos, el perejil y las ciruelas pasas y trituramos 5 segundos, velocidad 4. Retiramos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "En un bol grande mezclamos la carne de cerdo y de ternera, añadimos pimienta, sal y todas las especias. Ponemos también los ajos, el perejil y las ciruelas que teníamos reservadas. Agregamos también el huevo. Removemos bien. Añadimos la miga de pan bien escurrida. Volvemos a mezclar.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Vamos formando las albóndigas y las pasamos por harina. Cuando estén todas hechas, las doramos en una sartén con un poquito de aceite (como si fuera rehogadas). Si os gusta más, podéis freírlas en abundante aceite, pero si queréis que engorden un poquito menos y ahorrar un poquito de aceite podéis hacerlas así. Vamos escurriéndolas y reservamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "En el vaso ponemos el aceite de haber sofrito las albóndigas (que tendrá todo el jugo y sabor de la carne y las especias) y, si no llega a 50 gr, añadimos aceite nuevo. Añadimos la cebolla en cuartos y la zanahoria a trozos. Programamos 4 segundos, velocidad 4. Añadimos el tomate a cuartos y trituramos 3 segundos, velocidad 4. Bajamos los restos que hayan quedado de las paredes y programamos 8 minutos, velocidad 1, temperatura Varoma.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 7,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Añadimos el vino y el caldo. Ponemos las albóndigas en el cestillo, colocamos el cestillo dentro del vaso y programamos 25 minutos, velocidad 4, temperatura Varoma.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 21
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Podéis presentar las albóngidas con la salsa sin triturar (como yo he hecho en esta ocasión). Si preferís pasar la salsa, sacamos las albóndigas del cestillo y reservamos en una fuente. Trituramos la salsa 1 minuto, velocidad progresiva 5-10.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Probamos y rectificamos de sal. Servimos la salsa encima de las albóndigas y a parte en una salsera por si alguien quiere echarse más.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/albondigas-morunas/",
+    "creado_en": "2026-09-02"
+  },
+  {
+    "id": "e0cbf8eb-99dc-4477-9e05-8d7cd4a43c32",
+    "slug": "cafe-irlandes",
+    "titulo": "Café Irlandés",
+    "descripcion": "Receta de Café Irlandés adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/09/café-irlandés-Thermorecetas.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 1,
+    "comensales": 2,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "2 cafés solos largos",
+      "1 cucharada de postre azúcar moreno",
+      "1 chupito largo de whisky",
+      "90 g de nata para montar",
+      "15 g de azúcar blanquilla"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Lo primero que hay que hacer es montar la nata para que después el montaje sea lo más rápido posible.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Poner la mariposa en las cuchillas añadir la nata y el azúcar blanquilla.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "El tiempo para montar la nata puede variar dependiendo de la calidad y temperatura. Así que lo más recomendable es programar velocidad 3 ½ y parar la máquina cuando tengamos la nata semimontada. Es decir que tenga cuerpo pero que no esté dura ni se pegue a las paredes del vaso. En mi caso me ha llevado 20 segundos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Poner agua en una tacita pequeña y calentar en el microondas durante 40 segundos. No importa si hierve. Lo que queremos es que la taza esté caliente.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Preparar los dos cafés largos. Reservar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Retirar el agua de la taza y poner el whisky. Prenderle fuego con un mechero, siempre teniendo precaución de no quemarse.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Poner en la cucharilla un poquito del azúcar moreno y situarla encima de la llama para que se caramelice. Cuando empiece a burbujear mezclarlo con el whisky y continuar quemando. En este paso podemos dejar que la llama se consuma o podemos apagarla nosotros, poniendo un platito encima.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Repartir el whisky entre los dos cafés que teníamos reservados.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Decorar con la nata semimontada y rematar con unos granillos de azúcar moreno por arriba.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Servir enseguida.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/cafe-irlandes-2/",
+    "creado_en": "2026-09-02"
+  },
+  {
+    "id": "cb1b8ffc-9ded-4c2f-8e8c-8c0bc79e787b",
+    "slug": "roscos-de-vino-y-aceite",
+    "titulo": "Roscos de vino y aceite",
+    "descripcion": "Receta de Roscos de vino y aceite adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/09/roscos-de-vino-y-aceite.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 5,
+    "comensales": 20,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "125 g de vino blanco",
+      "250 g de aceite de girasol",
+      "Raspadura de una naranja o de un limón (a vuestra elección según lo que más os guste o lo que tengáis en casa) – mejor si son ecológicos",
+      "Zumo de 1/2 limón o de 1/2 naranja",
+      "1/2 sobre de levadura química, tipo Royal (8 g)",
+      "500 g de harina de repostería",
+      "Azúcar glass para rebozar los roscos una vez hechos"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Si no tenemos azúcar glass comenzamos haciéndola metiendo azúcar normal en el vaso y triturando unos segundos en velocidad 5-10. Sacamos y reservamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Si no tenemos la piel del cítrico rallada ahora es el momento de hacerlo. Para ello pelamos la fruta -ojo, sin la parte blanca-, la metemos en el vaso y trituramos unos segundos en velocidad progresiva 5-10.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Ahora empezamos con la receta propiamente dicha. Ponemos el vino, el aceite, el zumo y la raspadura en el vaso y programamos 30 segundos, 37º, velocidad 3.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Añadimos la harina y el 1/2 sobre de levadura. Mezclamos 10 segundos, velocidad 3. Luego programamos 1 minuto, vaso cerrado, velocidad espiga.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Y ya tenemos la masa. Ahora la ponemos en una superficie lisa, la estiramos un poquito con el rodillo para conseguir una plancha no muy fina (de entre 0,5 y 1 cm de espesor) y cortamos como prefiramos. Podéis hacer incluso galletitas en vez de roscos, utilizando los típicos cortapastas con forma de corazón, de flor… Otra opción: sin necesidad de estirar la masa cogemos porciones, hacemos bolitas y luego les damos forma de rosquilla.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Vamos colocando los roscos en bandejas de horno cubiertas con papel de hornear. Metemos al horno ya precalentado a 180º durante 20 o 25 minutos.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 25
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Cuando los sacamos los dejamos enfriar un poquito para no quemarnos y los rebozamos con azúcar glass.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "¡A disfrutarlos!",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/roscos-de-vino-y-aceite/",
+    "creado_en": "2026-09-02"
+  },
+  {
+    "id": "1cf2c998-2360-4a88-8dd5-eb75582c5609",
+    "slug": "pastel-de-puerros-setas-y-nueces-con-vinagreta-templada",
+    "titulo": "Pastel de puerros, setas y nueces con vinagreta templada",
+    "descripcion": "Receta de Pastel de puerros, setas y nueces con vinagreta templada adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/10/pastel-de-puerros-y-setas.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 75,
+    "comensales": 4,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "250 g de puerros troceados (la parte blanca)",
+      "150 g de setas (naturales, congeladas o en conserva)",
+      "40 g de jamón serrano en taquitos (podéis comprarlo ya troceado o hacerlo a golpe de turbo)",
+      "1 diente de ajo",
+      "40 g de nueces",
+      "3 huevos",
+      "150 ml de nata líquida",
+      "1 cucharadita de sal",
+      "5 cucharadas de pan rallado",
+      "pimienta al gusto",
+      "100 ml de aceite (1 cubilete)",
+      "Mantequilla para engrasar el molde",
+      "1 tomate maduro",
+      "2 dientes de ajo",
+      "2 cucharadas de aceite de oliva",
+      "1 cucharada de vinagre de jerez",
+      "1/2 cucharadita de cominos molidos",
+      "sal al gusto"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Si usas setas congeladas, hay que descongelarlas primero y escurrir el líquido. Si usas en conserva, escurrélas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Introduce las setas en el vaso y trocea durante 4 segundos, velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Añade 50 ml de aceite y sofrie durante 10 minutos, temperatura Varoma, velocidad 1. Sácalas y resérvalas, dejando el aceite en el vaso.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Sin limpiar el vaso, introduce los puerros y el diente de ajo y tritura durante 6 segundos, velocidad 6.",
+        "accesorio": "Cuchillas",
+        "velocidad": 6,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Rehógalo durante 7 minutos, temperatura varoma, velocidad 2.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 7
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Añade el jamón y las setas reservadas y programa 3 minutos, 100º, velocidad 2.",
+        "accesorio": "Cuchillas",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 3
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Incorpora las nueces y tritura todo 5 segundos, velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Añade los huevos, la nata, la sal, la pimienta y 3 cucharadas de pan rallado. Mézclalo todo durante 20 segundos, velocidad 3.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Engrasa el molde (o los moldes) con mantequilla, vierte la mezcla en el molde elegido y espolvorea con el resto de pan rallado por encima.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Os doy varias opciones:",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 11,
+        "instruccion": "Pondremos la mezcla en un molde con tapa (o varios individuales) que nos quepa en el recipiente varoma, que también taparemos. Ponemos 1 litro de agua en el vaso, lo cerramos, colocamos el varoma y programamos 45 minutos, velocidad 2, temperatura varoma.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 37
+      },
+      {
+        "paso_numero": 12,
+        "instruccion": "En moldes individuales: 5 minutos máxima potencia. En molde único: 8 minutos máxima potencia (ir comprobando si el centro está cuajado introduciendo una varilla o un cuchillo y programar más minutos progresivamente. Cuando la varilla salga limpia, ya está hecho).",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 13,
+        "instruccion": "Precalienta el horno a 180º, con calor arriba y abajo. Pon agua en la bandeja de horno, coloca el molde o los moldes sobre la misma, y necesitará entre 25 y 40 minutos, según la opción de molde elegida. En cualquier caso, comprueba si está ya cuajado con la misma técnica indicada para el microondas porque cada horno es un mundo (por eso, me gusta tanto la thermomix, sus parámetros son iguales para todos, ¿verdad?).",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 33
+      },
+      {
+        "paso_numero": 14,
+        "instruccion": "Introducir todos los ingredientes en el vaso y triturar durante 5 segundos a velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 15,
+        "instruccion": "Calentar durante 3 minutos, 100º, velocidad 2.",
+        "accesorio": "Cuchillas",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 3
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/pastel-de-puerros-setas-y-nueces/",
+    "creado_en": "2026-09-02"
+  },
+  {
+    "id": "d5e30ea4-3eb6-4fe8-b1f4-b1ba30060c23",
+    "slug": "pure-de-judias-pintas",
+    "titulo": "Puré de judías pintas",
+    "descripcion": "Receta de Puré de judías pintas adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/09/puré-de-judias-pintas-Thermorecetas.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 30,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "120 g de judías pintas secas",
+      "1 zanahoria",
+      "1 cebolla pequeña",
+      "1 diente de ajo",
+      "½ pimiento rojo",
+      "1 cucharada de postre de concentrado de verduras (se puede sustituir por 1 pastilla)",
+      "40 g de aceite de oliva",
+      "1 litro de agua mineral",
+      "Picatostes para decorar (opcional)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Comprobar que el interior del vaso y las cuchillas están perfectamente secos. Poner las judías pintas en el vaso y triturarlas durante 45 segundos a velocidad progresiva 5-7-9. Hará mucho ruido así que no os asustéis.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Cuando ya estén trituradas, retirarlas y reservarlas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Sin lavar el vaso poner todas las verduras limpias y troceadas en el interior. Picarlas durante 5 segundos a velocidad 5. Bajar con la espátula los trocitos hacia las cuchillas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Añadir el aceite y sofreír durante 5 minutos, 100º y velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "A continuación poner dentro del vaso las judías pintas trituradas, la cucharada de concentrado de verduras y el litro de agua. Programar 20 minutos, 100º y velocidad 4.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 16
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Transcurrido el tiempo podéis triturarlo durante 30 segundos a velocidad 8 para que quede un puré más suave.",
+        "accesorio": "Cuchillas",
+        "velocidad": 8,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Decorar con los tostones de pan y servir enseguida.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/pure-de-judias-pintas/",
+    "creado_en": "2026-09-02"
   }
 ]
