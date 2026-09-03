@@ -27090,5 +27090,602 @@
     ],
     "fuente_url": "https://www.thermorecetas.com/pure-de-judias-pintas/",
     "creado_en": "2026-09-02"
+  },
+  {
+    "id": "6251a4cc-b79d-4981-b07c-909a2667adb3",
+    "slug": "pan-al-vapor",
+    "titulo": "Pan al vapor",
+    "descripcion": "Receta de Pan al vapor adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/10/pan-al-vapor.jpg",
+    "categoria": "panes-masas",
+    "tiempo_total_min": 50,
+    "comensales": 10,
+    "dificultad": "Media",
+    "ingredientes": [
+      "150 g de agua",
+      "15 g de levadura prensada fresca de panadería",
+      "250 g de harina de fuerza",
+      "1 cucharadita de sal",
+      "Aceite para engrasar",
+      "1500 g de agua del grifo (para cocinar al vapor)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Untamos con aceite un plato sopero (antes de nada probad que el vuestro plato cabe dentro del recipiente varoma).",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Ponemos el agua y la levadura en el vaso y programamos 2 minutos, 37º, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 2
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Añadimos la harina y la sal y amasamos programando 2 minutos y medio, vaso cerrado, velocidad espiga. Nos enharinamos las manos y retiramos la masa del vaso echándole un poquito más de harina para que no se nos pegue al trabajarla.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 2
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Formamos una bola con la masa, y la colocamos dentro del plato sopero que habíamos preparado antes. Ahora ponemos el plato dentro del recipiente varoma, cubriendo ya el recipiente con su tapa. Dejamos reposar en un lugar templado, libre de corrientes de aire, hasta que doble su volumen -aproximadamente 1 hora-.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 60
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Vertemos el litro y medio de agua en el vaso, ponemos la tapa y colocamos en su posición el recipiente varoma (que ya contenía el plato con el pan). Programamos 45 minutos, temperatura varoma, velocidad 1.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 37
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Dejamos que se enfríe y, para consumirlo, lo cortamos en rodajas finitas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/pan-al-vapor/",
+    "creado_en": "2026-09-03"
+  },
+  {
+    "id": "e4109c1b-2c32-4de7-b2a5-c9e8e40a903c",
+    "slug": "rompope-el-ponche-de-las-clarisas",
+    "titulo": "Rompope: el ponche de las clarisas",
+    "descripcion": "Receta de Rompope: el ponche de las clarisas adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/10/rompope.jpg",
+    "categoria": "sopas-y-cremas",
+    "tiempo_total_min": 15,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "130 g de azúcar",
+      "50 g de almendras crudas y peladas",
+      "500 ml de leche",
+      "3 yemas de huevo",
+      "1 palo de canela",
+      "1 vaina de vainilla",
+      "100 ml (1 cubilete) de ron (negro o blanco) o brandy"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Primero haremos un azúcar avainillado. Para ello, introducimos en el vaso el azúcar y la vaina de vainilla y molemos durante 20 segundos a velocidad progresiva 5/10. Sacamos y reservamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Introducimos las almendras y las molemos a golpe de turbo.",
+        "accesorio": "Cuchillas",
+        "velocidad": "Turbo",
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Incorporamos el azúcar avainillado, la leche y la canela. Cocemos durante 10 minutos, 90º, velocidad 2.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Colamos y dejamos enfriar fuera del vaso.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Introducimos en el vaso el ron y las yemas de huevo. Batimos durante 10 segundos velocidad 3.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Añadimos la mezcla de la leche que tenemos reservada (es importante que no esté caliente, pues se cuajarían las yemas) y lo batimos todo de nuevo durante 15 segundos a velocidad 2.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Guardamos en la nevera y servimos bien frío. Hay que removerlo antes de servir.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/rompope-el-ponche-de-las-clarisas/",
+    "creado_en": "2026-09-03"
+  },
+  {
+    "id": "5c5e47af-d6e5-4410-b226-de5cd28c0b9f",
+    "slug": "brochetas-de-salmon-con-pesto-rojo",
+    "titulo": "Brochetas de salmón con pesto rojo",
+    "descripcion": "Receta de Brochetas de salmón con pesto rojo adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/10/Brochetas_salmon_pesto_rojo.jpg",
+    "categoria": "carnes",
+    "tiempo_total_min": 1,
+    "comensales": 4,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "3 rodajas de salmón grandes o 3 piezas del lomo",
+      "6 tomates secos",
+      "10 g de piñones",
+      "3 hojas de albahaca de tamaño medio",
+      "1 diente de ajo",
+      "30 g de aceite de oliva",
+      "10 g de queso parmesano rallado",
+      "1 pellizco de azúcar",
+      "Sal y pimienta"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Hidratar los tomates sumergiéndolos en agua caliente durante 15 minutos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 12
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Mientras, lavar las hojas de albahaca y secándolas rápidamente con un papel de cocina. Reservar",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Tostar los piñones en una sartén sin aceite y reservar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Pelar el ajo y reservar",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Pesar el aceite y reservar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Añadir al vaso los tomates escurridos, los piñones, las hojas de albahaca y el diente de ajo pelado. Triturar durante 10 segundos a velocidad 7. Bajar los trocitos hacia las cuchillas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Para emulsionar, programar 30 segundos, velocidad 4. Dejar caer el aceite sobre la tapa y el mismo se filtrará, poco a poco, entre el bocal y el cubilete.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Retirar la pasta a un cuenco y añadir el queso rallado y el azúcar. Salpimentar y mezclar con un tenedor. Si veis que está muy seco podéis agregarle un poco más de aceite.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Servir en un cuenco o salsera.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Hacemos las brochetas de salmón a la plancha. Calentamos muy bien la plancha, no echamos nada de aceite porque ya el salmón se encargará de soltarlo. Las hacemos 2 minutos por cada lado. Así se nos quedarán tostadas y crujientes por fuera y suaves y jugosas por dentro.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 2
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/brochetas-de-salmon-con-pesto-rojo/",
+    "creado_en": "2026-09-03"
+  },
+  {
+    "id": "49da9a39-e5a2-4d50-9929-235dac2d4bc3",
+    "slug": "albondigas-de-merluza-con-salsa-verde",
+    "titulo": "Albóndigas de merluza con salsa verde",
+    "descripcion": "Receta de Albóndigas de merluza con salsa verde adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/09/albóndigas-de-merluza-con-salsa-verde-Thermorecetas.jpg",
+    "categoria": "panes-masas",
+    "tiempo_total_min": 35,
+    "comensales": 2,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "300 g de merluza",
+      "La piel de ½ limón",
+      "120 g de vino blanco",
+      "250 g de agua",
+      "2 rebanadas de pan",
+      "1 chorrito de leche",
+      "1 diente de ajo",
+      "1 huevo",
+      "Pan rallado",
+      "Sal y pimienta",
+      "1 diente de ajo",
+      "50 g de aceite",
+      "50 g de vino",
+      "El caldo de cocer el pescado",
+      "Perejil"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Poner en el vaso de la Thermomix el vino, el agua y la piel de limón. Calentar durante 5 minutos, 100º y velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 4
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Cuando haya alcanzado la temperatura colocar el cestillo en su sitio con el pescado dentro. Programar 6 minutos, 100º, velocidad 3.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 6
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Mientras ablandar el pan con la leche.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Cuando haya terminado el tiempo, retirar el cestillo, desechar la piel de limón y reservar el caldo. Y, sin lavar el vaso, picar uno de los dientes de ajo pelado durante 5 segundos a velocidad 6. Bajar los trocitos hacia las cuchillas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 6,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Añadir el huevo, el pescado cocido y el pan, ambos bien escurridos. Salpimentar y mezclar durante 15 segundos a velocidad 3.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Formar bolitas con las manos un poco húmedas para facilitar la maniobra.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Rebozarlas en pan rallado y colocarlas sin amontonar en el Varoma. Reservar.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Picar el otro diente de ajo durante 3 segundos a velocidad 6. Bajar los trocitos hacia las cuchillas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 6,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Agregar el aceite y sofreír durante 3 minutos, 100º y velocidad cuchara.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 3
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Añadir el vino y programar 1 minuto, temperatura Varoma, velocidad 1, sin cubilete para que se evapore bien el alcohol.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 11,
+        "instruccion": "Agregar el caldo de pescado que teníamos reservado. Colocar el Varoma en su sitio y programar 12 minutos, temperatura Varoma, velocidad 3.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 12,
+        "instruccion": "Retirar el Varoma con cuidado de no quemarnos. Añadir perejil y remover durante 5 segundos a velocidad 3.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 13,
+        "instruccion": "Poner las albóndigas en una cazuela, regarlas con la salsa y darle un hervor de unos 5 minutos a todo el conjunto para que mezclen los sabores.",
+        "accesorio": "Cuchillas",
+        "velocidad": 0,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 14,
+        "instruccion": "Servir enseguida.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/albondigas-de-merluza-con-salsa-verde/",
+    "creado_en": "2026-09-03"
+  },
+  {
+    "id": "ec626a02-952a-471c-9a75-045048e7c680",
+    "slug": "trenza-de-pan-brioche-rellena",
+    "titulo": "Trenza de pan brioche rellena",
+    "descripcion": "Receta de Trenza de pan brioche rellena adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/10/trenza-rellena-de-jamon-y-queso.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 5,
+    "comensales": 8,
+    "dificultad": "Media",
+    "ingredientes": [
+      "250 de leche",
+      "25 gr de levadura prensada de panadería",
+      "1 cucharadita de azúcar",
+      "1 huevo (si hay alérgicos al huevo no lo pongáis que también queda bien)",
+      "550 g de harina de fuerza",
+      "50 g de aceite de oliva virgen extra",
+      "10 g de sal",
+      "100 g de crudo de parma (parecido a nuestro jamón serrano)",
+      "100 g de queso Asiago",
+      "1 yema de huevo para pintar el pan (si hay alérgicos al huevo lo podéis sustituir por un poco de leche)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Echamos en el vaso la leche y la levadura y programamos 30 segundos, 37º, velocidad 1.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Añadimos el resto de los ingredientes de la masa y programamos 3 minutos, vaso cerrado, velocidad espiga. Lo dejamos levar en el vaso (con la tapa y el cubilete puesto) durante 1 hora.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 63
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Ahora preparamos el relleno. Metemos el jamón en este caso en el vaso y trituramos programando 5 segundos, velocidad 5. Lo sacamos y reservamos. Metemos ahora el queso y trituramos 5 segundos, velocidad 7. Lo unimos al jamón.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Pasado el tiempo de levado solo nos queda darle forma (ver foto). Lo extendemos con un rodillo formando un rectángulo. Lo dividimos en tres partes dejando la parte de arriba sin cortar. Extendemos el relleno sobre cada uno de los tres trozos. Cerramos delicadamente cada trocito dándole forma de cilindro. Hacemos la trenza.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Ahora lo dejamos levar entre 30 y 60 minutos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 60
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Pintamos con la yema de huevo y cocinamos en el horno precalentado a 200º durante 30 minutos aproximadamente.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 30
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "¡Espero que os guste!",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/trenza-rellena-de-jamon-y-queso/",
+    "creado_en": "2026-09-03"
+  },
+  {
+    "id": "4702da03-adf3-4141-a594-a1619d10fd57",
+    "slug": "petit-suisse-de-chocolate",
+    "titulo": "Petit Suisse de chocolate",
+    "descripcion": "Receta de Petit Suisse de chocolate adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/10/Petit-suisse.jpg",
+    "categoria": "sopas-y-cremas",
+    "tiempo_total_min": 7,
+    "comensales": 8,
+    "dificultad": "Media",
+    "ingredientes": [
+      "3 hojas de gelatina",
+      "150 g de chocolate negro",
+      "200 ml de leche entera",
+      "200 ml de nata",
+      "100 g de queso de untar (tipo philadelphia)",
+      "65 g de queso fresco (tipo Burgos)",
+      "75 g de azúcar blanca"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Poner las hojas de gelatina a hidratar en agua fría.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Introducir en el vaso el chocolate y la leche. Calentar durante 6 minutos, 90º, velocidad 2.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 6
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Escurrir la gelatina e incorporarla al vaso y mezclar de nuevo durante 30 segundos a velocidad 3.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Añadir la nata, los quesos y el azúcar y mezclarlo todo durante 30 segundos a velocidad 3.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Repartir en los moldes o vasitos, dejar enfriar e introducir en la nevera durante unas horas antes de probarlos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/petit-suisse-de-chocolate/",
+    "creado_en": "2026-09-03"
   }
 ]
