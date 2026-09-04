@@ -27687,5 +27687,591 @@
     ],
     "fuente_url": "https://www.thermorecetas.com/petit-suisse-de-chocolate/",
     "creado_en": "2026-09-03"
+  },
+  {
+    "id": "6134acfa-c881-47fb-a00d-b8361337f981",
+    "slug": "ossobuco-en-salsa-sobre-cama-de-patatas-paja",
+    "titulo": "Ossobuco en salsa sobre cama de patatas paja",
+    "descripcion": "Receta de Ossobuco en salsa sobre cama de patatas paja adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/10/Ossobuco_salsa_sobre_nido_patatas_paja.jpg",
+    "categoria": "carnes",
+    "tiempo_total_min": 55,
+    "comensales": 4,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "4 rodajas de ossobuco (3 si son muy grandes)",
+      "harina para rebozar",
+      "50 gr de aceite de oliva virgen extra",
+      "1 cebolla",
+      "1 zanahoria",
+      "4 dientes de ajo",
+      "200 ml de vino blanco",
+      "200 ml de caldo de carne",
+      "sal",
+      "pimienta",
+      "una ramita de romero fresca"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Salpimentamos las rodajas de ossobuco y pasamos por harina, quitando el exceso. Debe quedar una ligerísima capa de harina.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "En una sartén ponemos los 50 gr de aceite de oliva (que habremos pesado en nuestra thermomix) y doramos a fuego medio-alto por ambas caras. Se trata sólo de que la pieza se selle, así que no debemos tenerlos más de 3-4 minutos por cada lado. Estará dorado por fuera y crudo por dentro.",
+        "accesorio": "Ninguno",
+        "velocidad": 0,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 4
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Cuando ya esté dorado, sacamos el ossobuco a un plato y echamos el aceite donde lo hemos frito al vaso de la thermomix (así tendrá todo el jugo y el sabor de la carne).",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Añadimos al vaso la cebolla cortada en cuartos, la zanahoria pelada y troceada, y los ajos pelados. Trituramos 5 segundos, velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Bajamos los restos de las paredes y programamos 8 minutos, velocidad cuchara, temperatura varoma.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Colocamos la mariposa en las cuchillas e incorporamos la carne (con el jugo que haya echado en el plato donde la teníamos reservada), el vino, el caldo de carne y la ramita de romero. Programamos 45 minutos, temperatura varoma, velocidad 1.  Debéis ir vigilando que no se quede seco de líquidos, así que si es necesario añadid más vino y más caldo de carne.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 37
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Cuando haya terminado el tiempo, comprobamos la dureza de la carne. Si veis que aún está dura programad 15 minutos más o el tiempo que necesitéis para que esté blandita.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 15
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Cuando ya esté a vuestro gusto, retirad con cuidado las piezas de carne (se habrán deformado un poco) y mantened calientes. Retiramos la ramita de romero y esperamos a que baje la temperatura de la salsa a 80º.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Mientras baja la temperatura de la salsa, freiremos nuestras patatas paja.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Después sólo nos queda triturar la salsa programando 1 minuto, velocidad progresiva 5-7-10.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 11,
+        "instruccion": "Servimos las patatas paja, encima el trozo de ossubuco y por último, regamos con la salsa.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/ossobuco-en-salsa-sobre-cama-de-patatas-paja/",
+    "creado_en": "2026-09-04"
+  },
+  {
+    "id": "47eea3ea-fb3a-4a33-9bbc-bc904850e51a",
+    "slug": "crema-con-moras-y-pinones",
+    "titulo": "Crema con moras y piñones",
+    "descripcion": "Receta de Crema con moras y piñones adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/09/crema-con-moras-y-piñones-Thermorecetas.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 7,
+    "comensales": 6,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "500 g de leche a temperatura ambiente",
+      "4 yemas de huevo a temperatura ambiente",
+      "100 g de azúcar",
+      "20 g de maicena",
+      "La piel de 1 limón sin nada de piel blanca",
+      "1 palito de canela",
+      "Azúcar glas",
+      "Moras",
+      "Piñones"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Poner todos los ingredientes, excepto los de la decoración, en el vaso. Programar 7 minutos, 90º, giro a la izquierda y velocidad 2.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 7
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "No os recomiendo que pongáis más velocidad porque como lleva el palo de canela la Thermomix se pondría a dar saltos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Transcurrido el tiempo retirar la piel de limón y palo de canela. Verter la crema en 6 cazuelas y dejar entibiar.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Distribuir el azúcar glas, las moras y los piñones. Requemar bajo el grill de horno o, como en mi caso, con soplete.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/crema-con-moras-y-pinones/",
+    "creado_en": "2026-09-04"
+  },
+  {
+    "id": "532cefc9-1eb9-450b-8382-84506686c4c4",
+    "slug": "bizcochos-de-soletilla",
+    "titulo": "Bizcochos de soletilla",
+    "descripcion": "Receta de Bizcochos de soletilla adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/09/bizcochos-de-soletilla.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 10,
+    "comensales": 12,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "6 claras de huevo",
+      "1 pellizco de sal",
+      "6 yemas de huevo",
+      "150 g de azúcar",
+      "1 cucharada de azúcar vainillado",
+      "180 g de harina de repostería"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Precalentamos el horno a 180º.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Separamos las claras de las yemas, cada uno a su forma. (En este vídeo que me mandó una amiga hace unos días podéis ver uno de los métodos: http://bbs.wenxuecity.com/cooking/1160651.html-. Que conste que lo he probado y ¡funciona!.)",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Colocamos la mariposa en las cuchillas y vertemos las claras con la sal. Programamos 7 minutos, velocidad 3 1/2. Sacamos a un bol amplio y reservamos.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 7
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Sin lavar el vaso y con la mariposa en las cuchillas ponemos las yemas, el azúcar y el azúcar vainillado. Programamos 2 minutos, 37º, velocidad 1 1/2.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 2
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Añadimos la harina y mezclamos 6 segundos, velocidad 2 1/2.",
+        "accesorio": "Cuchillas",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Vertemos la mezcla sobre las claras montadas y mezclamos con movimientos envolventes",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Con ayuda de una manga pastelera hacemos los bizcochos de unos 8 cms de largo, sobre una bandeja de horno forrada con papel de hornear. Espolvoreamos la superficie de cada bizcocho con azúcar glas. Horneamos durante unos 8 minutos (estarán listos cuando hayan tomado un color dorado. Repetimos el proceso hasta que acabemos la masa.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Vertemos la preparación en un molde de 22 cms de diámetro, engrasado con mantequilla e introducimos al horno durante 25 minutos aproximadamente.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 25
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Vertemos la preparación en una bandeja de horno forrada con papel de hornear o lámina de silicona (de 30×40 cms) y la introducimos en el horno durante unos 10 minutos.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Se conserva muy bien en un recipiente hermético.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/bizcochos-de-soletilla/",
+    "creado_en": "2026-09-04"
+  },
+  {
+    "id": "c8619c26-8726-4b15-8b44-9c768b33e459",
+    "slug": "albondigas-de-berenjena-y-parmesano",
+    "titulo": "Albóndigas de berenjena y parmesano",
+    "descripcion": "Receta de Albóndigas de berenjena y parmesano adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/10/albondigas-de-berenjena.jpg",
+    "categoria": "panes-masas",
+    "tiempo_total_min": 15,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "100 g de queso parmesano",
+      "200 g de berenjena",
+      "2 dientes de ajo",
+      "100 g de pan rallado",
+      "1 huevo",
+      "Aceite de oliva"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Introducir el queso en el vaso y rallar a golpe de turbo. Sacar y reservar.",
+        "accesorio": "Cuchillas",
+        "velocidad": "Turbo",
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Cortar la berenjena sin pelar a trozos grandes (con que quepan por el bocal, es suficiente).",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Introducir la berenjena y los ajos en el vaso y añadir 50 ml (1/2 cubilete) de aceite de oliva. Triturar 5 segundos, velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Sofreír durante 12 minutos, a temperatura Varoma y velocidad 1.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 12
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Añadir el queso, el pan rallado y el huevo y mezclarlo todo durante 1 minuto a velocidad 2.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Sacar la masa del vaso y dejar enfriar en la nevera (basta con que esté fría y consistente, pero ésta es una de estas recetas que está incluso mejor al cabo de unas horas, cuando todos los sabores se han mezclado). Formar bolitas y freir directamente en aceite de oliva.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/albondigas-de-berenjena-y-parmesano/",
+    "creado_en": "2026-09-04"
+  },
+  {
+    "id": "88b11a5d-1c14-4ad3-8d08-89858c680d76",
+    "slug": "mini-hamburguesitas-gourmet",
+    "titulo": "Mini hamburguesitas gourmet",
+    "descripcion": "Receta de Mini hamburguesitas gourmet adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/10/Mini_hamburguesitas_gourmet.jpg",
+    "categoria": "carnes",
+    "tiempo_total_min": 1,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "500 gr de carne picada de ternera, de cerdo o mezcla de ambas.",
+      "50 gr de cebolla",
+      "2 dientes de ajo",
+      "1 cucharada de sal",
+      "1 cucharadita de café rasa de pimienta",
+      "1 huevo",
+      "1 puñado de perejil fresco",
+      "3-4 cucharadas de harina",
+      "un chorrito de aceite de oliva virgen",
+      "guacamole (tenéis la receta )",
+      "queso de cabra en rodajas gruesas (a mí me gusta el de marca President que ya viene sin cáscara y está cortado)",
+      "orégano (para decorar, opcional)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Echamos en el vaso de la thermomix la cebolla en cuartos, los ajos, la sal, la pimienta y las hojas de perejil. Programamos 10 segundos, velocidad progresiva 5-8. Debe estar bien picado, si no, repetimos la operación unos segundos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Ponemos la carne picada en un bol grande.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Echamos la mezcla del vaso en la carne y mezclamos bien. Echamos el huevo y volvemos a mezclar bien. Echamos las 3 o 4 cucharadas de harina y removemos muy bien. Debe quedar una mezcla jugosa pero sólida, que podamos manipular bien con las manos (como si fueran albóndigas). Dependerá del tipo de carne y la marca de harina, así que os digo 3 o 4 cucharadas de harina como una orientación, pero pueden ser más o menos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Tapamos el bol con film transparente y dejamos que repose en la nevera unas horas (esto dependerá del tiempo que tengáis, pero mínimo os diría que 30 minutos y lo ideal sería hacerlo por la noche y prepararlo al día siguiente para comer).",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 30
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Formamos bolitas del tamaño de unas albóndigas y las aplastamos un poco, de tal forma que nos queden mini hamburguesitas redondeadas pero gruesas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Pintamos con un pincel las hamburguesitas y las vamos haciendo en una plancha o sartén. Yo os recomiendo no hacerlas más de 3 minutos por cada lado, pero va en función de gustos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 3
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "La presentación es muy sencilla: cubrimos las hamburguesitas con una cucharadita de guacamole y coronamos con una rodajita de queso de cabra. Yo para decorar el plato, espolvoreé con un poquito de orégano, que le daba un buen punto.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/mini-hamburguesitas-gourmet/",
+    "creado_en": "2026-09-04"
+  },
+  {
+    "id": "c291c427-ef65-4b23-9e93-2683d6abbace",
+    "slug": "penne-rigate-all-arrabbiata",
+    "titulo": "Penne rigate all’arrabbiata",
+    "descripcion": "Receta de Penne rigate all’arrabbiata adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/10/penne-rigate-allarrabbiata-1-Thermorecetas.jpg",
+    "categoria": "legumbres",
+    "tiempo_total_min": 40,
+    "comensales": 1,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "85 g de macarranos estriados (penne rigate)",
+      "1 ½ dientes de ajo",
+      "1 guindilla seca (sin semillas)",
+      "160 g de tomate pelado y sin semillas",
+      "15 g de aceite de oliva",
+      "1 pellizco de azúcar",
+      "Albahaca",
+      "Sal y pimienta"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Calentar 1 litro de agua programando 7 minutos, 100º, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 6
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Cuando el agua haya alcanzado la temperatura marcada, poner la pasta en su interior. Salar y programar el tiempo marcado en el paquete, 100º, velocidad cuchara. En mi caso fueron 11 minutos.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 9
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Cuando la pasta ya esté cocida, escurrir y desechar el agua de cocción.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Poner en el vaso el ajo, pelado y troceado, y la guindilla. Picarlo durante 4 segundos a velocidad 5. Con la espátula, bajar los trocitos hacia las cuchillas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Añadir el aceite de oliva y rehogar durante 2 minutos, 100º y velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 2
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "A continuación incorporar los tomates troceados, el azúcar y salpimentar. Programar 15 minutos, 100º, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 15
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Después programar otros 5 minutos, a temperatura Varoma, velocidad 1, sin cubilete para que se evapore toda el agua.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 4
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "La salsa tiene que quedar espesa, si aún estuviera algo líquida programar otros 3 minutos a la misma temperatura y velocidad.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 3
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Colocar la pasta en un plato, condimentarla con la salsa y terminar espolvoreando un poco de albahaca por encima.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Servir enseguida.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/penne-rigate-allarrabbiata/",
+    "creado_en": "2026-09-04"
   }
 ]
