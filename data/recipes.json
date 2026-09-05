@@ -28273,5 +28273,672 @@
     ],
     "fuente_url": "https://www.thermorecetas.com/penne-rigate-allarrabbiata/",
     "creado_en": "2026-09-04"
+  },
+  {
+    "id": "becc4539-6013-4174-8665-19c36c57acbb",
+    "slug": "bomba-de-chocolate",
+    "titulo": "Bomba de chocolate",
+    "descripcion": "Receta de Bomba de chocolate adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/10/bomba-de-chocolate.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 20,
+    "comensales": 12,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "40 bizcochos de soletilla (podéis hacerlos,  o comprarlos)",
+      "100 g de ron",
+      "200 g de agua",
+      "(si tenéis niños en casa o no queréis utilizar alcohol podéis sustituirlo por un almíbar sin alcohol)",
+      "5 claras de huevo",
+      "1 pellizco de sal",
+      "4 gotas de vinagre",
+      "5 yemas de huevo",
+      "100 g de azúcar",
+      "400 g de chocolate fondant",
+      "250 g de mantequilla a temperatura ambiente",
+      "500 g de nata montada (500 g de nata para montar, 80 g de azúcar glass -o blanquilla, y la convertimos nosotros en glass, y 1 cucharada de queso Philadelphia)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Vertemos el agua y el ron en un bol donde se puedan mojar los bizcochos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Por otro lado, preparamos un bol de 22 cms de diámetro (mirad en vuestros utensilios de cocina porque os puede valer una ensaladera o un bol de los que utilicéis para cocinar). Cubrimos su interior con papel film (podemos utilizar varios trozos pero es importante que lo cubramos todo). Ahora vamos colocando los bizcochos bañados con la mezcla de agua y ron.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Colocamos la mariposa en las cuchillas y ponemos las claras, la sal y las gotas de vinagre. Montamos esas claras a punto de nieve bien firme, programando 5 minutos, velocidad 3 1/2. Sacamos a un bol y reservamos.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Sin lavar el vaso y con la mariposa en las cuchillas, añadimos las yemas y el azúcar y programamos 6 minutos, velocidad 3 1/2. Sacamos a otro bol más grande y reservamos.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 6
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Quitamos la mariposa de las cuchillas, añadimos el chocolate y lo rallamos programando 10 segundos, velocidad 7. Bajamos los restos de las paredes y programamos 3 minutos, 50º, velocidad 2.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 3
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Agregamos la mantequilla y programamos 10 segundos, velcidad 3. Vertemos esta mezcla en el bol donde teníamos las yemas con el azúcar y mezclamos con cuidado.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Después incorporamos en dos tandas las claras montadas que habíamos reservado al principio, moviendo de forma envolvente hasta conseguir una mezcla homogénea.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Volcamos la mousse en el mode donde antes habíamos colocado los bizcochos de soletilla. Una vez que hayamos puesto la mousse tenemos que cubrir ésta con los bizcochos restantes, bañándolos también en la mezcla de agua y ron. Cubrimos con film transparente y reservamos en el frigorífico.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Si no tenemos azúcar glass vamos a comenzar haciéndolo, pulverizando 80 gr de azúcar blanquilla en velocidad progresiva 5-10 durante 30 segundos. Ojo, el vaso tiene que estar seco. Sacamos el azúcar y reservamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Lavamos y enfriamos el vaso (con agua fría o picando unos cubitos de hielo que luego tiraremos) -para que monte bien tanto el vaso como la nata han de estar muy fríos-.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 11,
+        "instruccion": "Ponemos la mariposa en las cuchillas y la nata en el vaso -si añadimos 1 cucharada de queso Philadelphia nuestra nata será aún más consistente-. Ponemos a funcionar la Thermomix en velocidad 3 1/2 sin programar tiempo. Cuando esté lista paramos la máquina y añadimos el azúcar glass. Integramos el azúcar con la nata ayudándonos con la espátula, con movimientos envolventes.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 12,
+        "instruccion": "Vertemos la nata en una manga pastelera con boquilla rizada y la reservamos en el frigorífico.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 13,
+        "instruccion": "Desmoldamos la tarta. Para ello quitamos el plástico con el que hemos cubierto la última tanda de bizcochos, colocamos un plato encima del molde y damos la vuelta a la tarta para desmoldarla. Luego quitamos el papel film que pusimos al principio.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 14,
+        "instruccion": "Decoramos con la nata montada y terminamos de adornarla como prefiramos: con virutas de chocolate, espolvoreando con cacao en polvo… o poniendo los dos ojitos para convertirla en un riquísimo fantasma.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/bomba-de-chocolate/",
+    "creado_en": "2026-09-05"
+  },
+  {
+    "id": "cf9f4d20-8020-4afe-b41b-d5fa9d13496b",
+    "slug": "crema-de-zanahoria-y-apio",
+    "titulo": "Crema de zanahoria y apio",
+    "descripcion": "Receta de Crema de zanahoria y apio adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/10/Crema-zanahoria-y-apio.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 27,
+    "comensales": 6,
+    "dificultad": "Media",
+    "ingredientes": [
+      "100 g de puerros",
+      "25 g de apio",
+      "500 g de zanahorias",
+      "1 patata (100 g)",
+      "1 diente de ajo",
+      "50 ml de aceite de oliva (1/2 cubilete)",
+      "25 g de mantequilla",
+      "500 ml. de agua",
+      "1 pastilla de caldo de verduras",
+      "sal y pimienta al gusto"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Partir en grandes trozos los puerros y el apio. Ponerlos en el vaso junto con el ajo, el aceite y la mantequilla. Triturar durante 4 segundos, velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Pelar las zanahorias y partirlas también en grandes trozos. Cortar la patata por la mitad. Añadirlas al vaso y sofreir durante 5 minutos, temperatura Varoma, velocidad 1.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Incorporar el agua, la pastilla de caldo y la pimienta (no la incorporaremos para niños) y cocer durante 20 minutos, 100º, velocidad 2.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 16
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "No le hemos puesto sal porque lleva la pastilla de caldo, pero en este punto hay que probarlo y corregir de sal si fuera necesario.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 21
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Esperamos unos minutos a que baje la temperatura y trituramos durante 1 minuto, a velocidad progresiva 5/10.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/crema-de-zanahoria-y-apio/",
+    "creado_en": "2026-09-05"
+  },
+  {
+    "id": "7a3a39bc-9551-4d83-a5ab-0db6651b7d2a",
+    "slug": "huevos-rellenos-arana",
+    "titulo": "Huevos rellenos araña",
+    "descripcion": "Receta de Huevos rellenos araña adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/10/Huevos_rellenos_araña.jpg",
+    "categoria": "pescados",
+    "tiempo_total_min": 22,
+    "comensales": 4,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "4 huevos",
+      "1 lata de atún",
+      "1/4 de cebolleta",
+      "mayonesa al gusto",
+      "aceitunas negras sin hueso para hacer las arañas"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "En primer lugar, picamos la cebolleta en la Thermomix programando 10 segundos, velocidad 5. Retiramos y reservamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Ahora vamos a cocer los huevos. Para ello, echamos en el vaso 800 gr de agua y colocamos los huevos dentro del cestillo. Cerramos el vaso y programamos 20 minutos, temperatura varoma, velocidad 2.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 16
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Al terminar de cocerse los huevos, sacamos el cestillo con la ayuda de la espátula y refrescamos los huevos en agua fría. Secamos muy bien el vaso.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Pelamos los huevos y los partimos por la mitad a lo largo. Separamos las yemas, poniéndolas en el vaso de la thermomix y rallamos 2 segundos, velocidad 3.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Añadimos al vaso junto con la yema rallada, el atún, y la mayonesa. Programamos 3 segundos, velocidad 3. Añadimos la cebolleta que teníamos reservada y mezclamos con la espátula.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Rellenamos cada parte de huevo con esta mezcla.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Cubrimos cada huevo con un pelín de mayonesa para que se queden bien cubiertos y no se vea el relleno y para que podamos enganchar bien nuestras arañas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Ahora vamos a hacer las arañas. Escurrimos bien el caldo de unas aceitunas negras y las cortamos por la mitad. Una mitad será el cuerpo de la araña, y con la otra mitad la cortaremos en 4 trozos, que serán las patas. Para cada araña vamos a necesitar 3 mitades de aceituna: 1 mitad para el cuerpo y 2 mitades para las patas (podéis ponerles 3 o 4 patas, lo dejo a vuestro gusto). Ahora sólo queda montar la araña encima de nuestros huevos y presionar suavemente para que se quede bien pegada.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "¡Así de fácil! ¡Ya podéis disfrutar de vuestros huevos araña!",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/huevos-rellenos-arana/",
+    "creado_en": "2026-09-05"
+  },
+  {
+    "id": "b692357f-5cca-4444-b946-0d6a2eacabc8",
+    "slug": "tarta-salada-de-otono",
+    "titulo": "Tarta salada de otoño",
+    "descripcion": "Receta de Tarta salada de otoño adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/10/tarta-salada-otoño-Thermorecetas.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 7,
+    "comensales": 2,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "150 g de harina (y un poco más para enharinar un cuenco)",
+      "70 g de agua mineral",
+      "10 g de aceite (y un poco más para engrasar)",
+      "Sal",
+      "1 seta Boletus edulis",
+      "1 mozzarella de búfala",
+      "1 cucharada de queso Parmesano rallado",
+      "1 diente de ajo",
+      "Romero",
+      "Aceite",
+      "Sal y pimienta"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Enharinar un cuenco amplio y reservar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Poner en el vaso el agua, el aceite y la sal. Calentar durante 1 minuto, 37º y velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Añadir la harina y mezclar 5 segundos, velocidad 5. Después programar 1 minuto, vaso cerrado, velocidad espiga.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Formar una bola, engrasarla con un poco de aceite y colocarla en el cuenco que teníamos reservado. Poner un paño limpio por encima y dejar reposar 1 hora.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 60
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Transcurrido el tiempo, precalentar el horno a 200º. Dividir la masa en dos partes iguales. Extenderlas en una superficie enharinada hasta que queden finitas y colocarlas encima de una placa del horno.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Pelar y picar el ajo durante 5 segundos a velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Limpiar y trocear el Boletus en porciones del mismo tamaño. Agregarlos al vaso junto con un hilo de aceite. Sofreírlos 4 minutos, 100º, velocidad 2.",
+        "accesorio": "Cuchillas",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 4
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Disponer encima de la masa unas lonchas finitas de mozzarella y los trocitos de seta. Espolvorear un poco de queso de Parmesano rallado y romero picado. Proceder del mismo modo con la otra tarta.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Salpimentar y hornear entre 13 y 15 minutos o hasta que los bordes ya estén tostados.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 15
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Transcurrido el tiempo, retirar y servir enseguida.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 11,
+        "instruccion": "¡Buen provecho!",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/tarta-salada-de-otono/",
+    "creado_en": "2026-09-05"
+  },
+  {
+    "id": "d519d85a-99f6-4f29-817d-8813e59342ad",
+    "slug": "galletas-de-mantequilla-y-chocolate-con-forma-de-calabaza-para-halloween",
+    "titulo": "Galletas de mantequilla y chocolate con forma de calabaza para Halloween",
+    "descripcion": "Receta de Galletas de mantequilla y chocolate con forma de calabaza para Halloween adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/10/galletas-mantequilla-chocolate-forma-calabaza.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 5,
+    "comensales": 20,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "120 g de azúcar glas",
+      "400 g de harina de repostería",
+      "240 g de mantequilla a temperatura ambiente (ojo, mantequilla sin sal)",
+      "1 huevo",
+      "25 g de cacao puro en polvo",
+      "Colorante alimentario amarillo y rojo (o naranja) – opcional",
+      "Colorante alimentario amarillo y azul ( o verde) – opcional"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Un par de horas antes de que vayamos a hacer las galletas sacamos del frigorífico la mantequilla para que esté a temperatura ambiente cuando vayamos a preparar nuestras calabazas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Si no tenemos azúcar glas podemos comenzar la receta haciéndolo en la Thermomix. Para ello ponemos en el vaso seco 120 g de azúcar y trituramos unos segundos en velocidad progresiva 7-10.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Ponemos todos los ingredientes de la masa en el vaso y programamos 20 segundos, velocidad 6. Sacamos un poco más de la mitad de la masa del vaso. A la mitad que hemos dejado en el vaso de la Thermomix es a la que vamos a añadir el cacao. Echamos entonces en el vaso 25 g de cacao puro en polvo y volveos a mezclar unos segundos en velocidad 6.",
+        "accesorio": "Cuchillas",
+        "velocidad": 6,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Las dos masas que hemos obtenido las envolvemos por separado en film transparente y las dejamos reposar en el frigorífico unos 15 minutos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 15
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Preparamos un par de bandejas de horno forradas con papel de hornear.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Sacamos la masa. Primero trabajamos con la de chocolate. Hacemos bolitas y las ponemos sobre la bandeja aplastándolas suavemente.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Ahora trabajaremos la otra masa. Separamos y reservamos una parte para lo que serán los rabitos. El resto lo vamos a utilizar para hacer la parte visible de las calabazas. Si tenéis colorante/s y os apetece, podéis teñirla de naranja. Ahora cogemos bolitas (como hicimos antes con la de choco) colocamos cada bolita sobre el círculo de chocolate y aplastamos suavemente. Luego cortamos con el cubilete de la Thermomix, así quedará perfectamente integrado y todas nuestras calabazas tendrán el mismo tamaño.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Con una puntilla vamos dibujando los ojos y la boca, siempre sobre la parte naranja (o blanca). El corte llegará hasta la mitad de la galleta -hasta el chocolate-. Sacamos los triangulitos de los ojos (sólo la parte naranja o blanca para que se van los triángulos de chocolate. Hacemos lo mismo con la forma de la boca. En el caso de la boca yo he recortado el medio círculo y luego he colocado los dientes (me parecía más fácil así).",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Por último vamos a hacer los rabitos. Cogemos la masa que habíamos reservado antes y la teñimos de verde si queremos. Cogemos una porción pequeña, hacemos un churrito y lo retorcemos un poco. Luego lo colocamos en nuestra calabaza como si fuera el rabillo. Y vamos haciendo lo mismo con todas las que nos hayan salido.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Si no le habéis puesto colorante y queréis que vuestras calabazas tengan un toque más naranja, podéis pintarlas con 1 yema de huevo antes de meterlas al horno. Os quedarán también bonitas.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 11,
+        "instruccion": "Y ahora horneamos en el horno precalentado a 180º durante 10 o 12 minutos. Si las habéis hecho con colorante estad pendientes del horneado y, si veis que se doran, demasiado ponedles papel albal encima para evitar que el verde y el naranja se conviertan en marrón.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 12
+      },
+      {
+        "paso_numero": 12,
+        "instruccion": "¡Y a sorprender a todos!",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/galletas-de-mantequilla-y-chocolate-con-forma-de-calabaza-para-halloween/",
+    "creado_en": "2026-09-05"
+  },
+  {
+    "id": "77f5ab4b-d32d-4784-8e99-fcc0d79fb3b2",
+    "slug": "bolitas-de-arroz-halloween",
+    "titulo": "Bolitas de arroz Halloween",
+    "descripcion": "Receta de Bolitas de arroz Halloween adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/10/bolitas-de-arroz.jpg",
+    "categoria": "arroces",
+    "tiempo_total_min": 30,
+    "comensales": 12,
+    "dificultad": "Media",
+    "ingredientes": [
+      "75 g de zanahoria",
+      "400 g de agua",
+      "1 pastilla de caldo de verduras",
+      "100 g de arroz",
+      "1 cucharadita de sal",
+      "Aceitunas negras sin hueso (en torno a 20 aceitunas)",
+      "1 trocito de pimiento verde o de calabacín para decorar"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Poner las zanahorias peladas y cortadas en grandes trozos en el vaso. Triturar durante 10 segundos a velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Añadir 400 g de agua y triturar durante 40 segundos a velocidad progresiva 5/10.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Añadir la pastilla de caldo y la sal. Hervir durante 9 minutos, temperatura Varoma, velocidad 1.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 9,
+        "tiempo_minutos": 7
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Añadir el arroz y cocer durante 20 minutos, 100º, velocidad cuchara, giro a la izquierda.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 20
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Dejar enfriar el arroz.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Formar las bolitas con el arroz ya frío. Con las aceitunas negras haremos los ojos y la boca. El calabacín o el pimiento verde formarán el rabito de la calabaza.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/bolitas-de-arroz-halloween/",
+    "creado_en": "2026-09-05"
   }
 ]
