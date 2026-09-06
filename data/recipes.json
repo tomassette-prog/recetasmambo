@@ -28940,5 +28940,612 @@
     ],
     "fuente_url": "https://www.thermorecetas.com/bolitas-de-arroz-halloween/",
     "creado_en": "2026-09-05"
+  },
+  {
+    "id": "69bd99f4-0906-452e-af70-0192736ede3d",
+    "slug": "canelones-de-atun",
+    "titulo": "Canelones de atún",
+    "descripcion": "Receta de Canelones de atún adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/10/Canelones_atún_portada.jpg",
+    "categoria": "pescados",
+    "tiempo_total_min": 30,
+    "comensales": 12,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "1 paquete pasta para canelones (yo usé de la marca El Pavo)",
+      "200 gr de atún en conserva (aprox 2 latas)",
+      "½ Cebolla",
+      "2 dientes de ajos",
+      "4 Huevos",
+      "50 gr de aceite de oliva (si usais atún en aceite de oliva, usad el aceite de la lata)",
+      "½ kg de salsa de tomate casera (ver receta )",
+      "100 g de queso rallado",
+      "Pimienta (no abusar si van a comer niños)",
+      "Sal",
+      "20 gr de mantequilla o aceite de oliva",
+      "500 ml de leche",
+      "50 gr de harina",
+      "sal",
+      "pimienta",
+      "nuez moscada"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "En primer lugar, vamos a cocer los huevos. Para ello, echamos en el vaso 800 gr de agua y colocamos los huevos dentro del cestillo. Cerramos el vaso y programamos 20 minutos, temperatura varoma, velocidad 2.Al terminar de cocerse los huevos, sacamos el cestillo con la ayuda de la espátula y refrescamos los huevos en agua fría. Secamos muy bien el vaso.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 16
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Ponemos los huevos ya pelados y sin ningún resto de cáscara en el vaso y trituramos 4 segundos, velocidad 4 para que queden picaditos. Sacamos del vaso y reservamos.",
+        "accesorio": "Ninguno",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Sin lavar el vaso, ponemos en el vaso la cebolla, los ajos y el aceite. Trituramos 5 segundos, velocidad 5. Bajamos los restos de las paredes y la tapa hacia las cuchillas y programamos 8 minutos, velocidad 1, temperatura varoma.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Añadimos el atún escurrido y programamos 4 minutos, velocidad 1, temperatura varoma.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 4
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Agregamos el tomate y cocinamos durante 5 minutos, velocidad 1, temperatura varoma. Rectificamos el punto de sal y pimienta a nuestro gusto y trituramos 10 segundos, velocidad 4 para crear una pasta. Sacamos esta pasta a un bol grande y añadimos los huevos duros picados que habíamos reservado. Removemos bien.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Cocemos la pasta de los canelones según nos indique el fabricante (este paso lo podéis ir adelantando mientras cocinamos el atún y el tomate).",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Vamos rellenando los canelones ya cocidos con esta pasta de atún. Reservamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Ahora vamos a preparar la salsa bechamel. Ponemos en el vaso todos los ingredientes de la bechamel y programamos 7 minutos, a 100º, velocidad 4.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 7
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Ponemos una capita de bechamel en la base del recipiente, colocamos los canelones, los cubrimos con la bechamel restante y espolvoreamos con queso rallado.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Horneamos durante 15 minutos a 180º o hasta que el queso se haya fundido/dorado.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 15
+      },
+      {
+        "paso_numero": 11,
+        "instruccion": "Esperamos 5 minutos antes de servir.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/canelones-de-atun/",
+    "creado_en": "2026-09-06"
+  },
+  {
+    "id": "2fa6f80a-66ab-4997-bdaf-866baf6418f8",
+    "slug": "mordiscos-de-dracula",
+    "titulo": "Mordiscos de Drácula",
+    "descripcion": "Receta de Mordiscos de Drácula adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/10/mordiscos-de-Dracula-Halloween-Thermorecetas.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 20,
+    "comensales": 12,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "3 huevos",
+      "175 g de azúcar blanquilla",
+      "175 g de harina con levadura",
+      "175 g de mantequilla a temperatura ambiente",
+      "1 cucharada de extracto de vainilla",
+      "75 g de nubes",
+      "75 g de mantequilla a temperatura ambiente",
+      "40 g de leche",
+      "110 g de azúcar glas",
+      "Mermelada de fresa (o similar)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Precalentar el horno a 160º. Poner las cápsulas de papel en el molde para cupcakes.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Batir todos los ingredientes durante 3 minutos a velocidad 3.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 3
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Rellenar las cápsulas de papel con la mezcla. Introducir en el horno durante 25 minutos o hasta que al pinchar el palito salga limpio.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 25
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Dejar enfriar sobre rejilla.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Poner en el vaso de la Thermomix la leche y las nubes. Derretirlas programando 2 minutos, 60º y velocidad 3. Bajar el vaso de la máquina y dejar enfriar completamente.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 2
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Colocar la mariposa en las cuchillas y el vaso en su sitio. Programar velocidad 3 sin tiempo e ir añadiendo por el bocal la mantequilla y el azúcar glas de forma alterna.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Aproximadamente a los 15 minutos veréis que coge cuerpo y ya tendremos el frosting preparado. Ponerlo en una manga pastelera con boquilla ancha y dejarlo un rato en la nevera para que sea más fácil de trabajar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 15
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Después decorar la superficie con el frosting. No pongáis una capa muy gruesa a no ser que tengáis un buen dentista en la familia.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "El toque final lo daremos con la mermelada que puede ser del sabor que queráis siempre que tenga un fuerte color rojo. En este caso yo he escogido mermelada de moras.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Poner 2 o 3 cucharadas de mermelada en un recipiente pequeño y mojar un palillo redondo. Después pinchar el glaseado procurando que la mermelada se quede en el agujero. Volver a mojar el palito en la mermelada y extenderla desde el agujero al exterior de forma que quede reguero de “sangre”.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/mordiscos-de-dracula-2/",
+    "creado_en": "2026-09-06"
+  },
+  {
+    "id": "92a773bb-48c0-4434-8976-6fcd552eadfc",
+    "slug": "nuggets-de-pavo",
+    "titulo": "Nuggets de pavo",
+    "descripcion": "Receta de Nuggets de pavo adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/10/nuggets-de-pavo1.jpg",
+    "categoria": "panes-masas",
+    "tiempo_total_min": 1,
+    "comensales": 6,
+    "dificultad": "Media",
+    "ingredientes": [
+      "800 g de pechuga de pavo en filetes",
+      "100 g de queso cremoso tipo Philadelphia",
+      "20 g de miga de pan (o de )",
+      "Sal",
+      "Nuez moscada y pimienta -os recomiendo sólo nuez moscada si hay peques-",
+      "Huevo",
+      "Pan rallado",
+      "Un poco de aceite"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Cortamos los filetes de pavo en trocitos. Ahora los trituramos en dos tandas. Metemos la mitad de la carne en el vaso y programamos 8 segundos, velocidad 7. Sacamos, reservamos y ponemos en el vaso la otra mitad. Programamos de nuevo 8 segundos, velocidad 7. Ahora la juntamos toda en el vaso. Añadimos la sal, la nuez moscada y la pimienta -si la queremos añadir-, la miga de pan en trocitos y el queso. Programamos 10 segundos, velocidad 7.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Ahora le damos forma a nuestros nuggets. Podemos formarlos con las manos, cogiendo porciones y aplastándolas ligeramente, o utilizar un cortapastas. Si elegimos esto último, tendremos que extender la masa sobre la superficie de trabajo e ir cortando con el molde que elijamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Enharinamos, pasamos por huevo batido y finalmente por pan rallado.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Freímos en abundante aceite (en freidora o sartén).",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Otra opción es hornearlos: horno 200º hasta que estén dorados (entre 10 y 20 minutos, dependiendo de la forma que les hayamos dado y de nuestro horno). Si los hacéis así, al horno, pincelarlos con un poquito de aceite antes hornearlos.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 20
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "También podéis hacer una parte y congelar otra o congelarlos todos, eso según vuestras necesidades. Para congelarlos, los extendemos ya rebozados sobre uno o varios platos cubiertos con papel de horno y lo metemos todo al congelador. Después de unas horas, cuando los nuggets estén congelados, sacamos el plato y metemos los nuggets, sueltos, en una bolsa de congelación. Así no se pegarán y ocuparán el mínimo espacio.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "¡Espero que gusten a todos!",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/nuggets-de-pavo/",
+    "creado_en": "2026-09-06"
+  },
+  {
+    "id": "84e6c39c-54d1-4ba1-aed3-3a35136cbbc6",
+    "slug": "sombreros-de-bruja-de-chocolate",
+    "titulo": "Sombreros de bruja de chocolate",
+    "descripcion": "Receta de Sombreros de bruja de chocolate adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/10/sombreros-de-bruja.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 18,
+    "comensales": 8,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "Cucuruchos de helado (en la caja que compré había 8, los quería mini, me gustaba más la idea de un minisombrero, pero no los encontré e hice los grandes. Si los encontrais, creo que es mejor un bocadito de dulce que un cucurucho grande, pero contra gustos…)",
+      "8 galletas tipo maría (yo las compro doradas que son más crujientes)",
+      "150 g de chocolate de cobertura.",
+      "25 g de mantequilla.",
+      "40 g de leche.",
+      "100 g de fondant naranja",
+      "5 claras de huevo",
+      "1 pellizco de sal",
+      "4 gotas de vinagre",
+      "5 yemas de huevo",
+      "100 g de azúcar",
+      "400 g de chocolate fondant",
+      "250 g de mantequilla a temperatura ambiente"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Rallamos a golpe de turbo el chocolate, añadimos la mantequilla y la leche. Fundimos durante 3 minutos, a 50º, velocidad 2.",
+        "accesorio": "Cuchillas",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 3
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Pintarmos el exterior de los cucuruchos y las galletas con el chocolate, y los dejamos solidificar por separado, los cucuruchos boca abajo y las galletas aparte.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Estiramos el fondant con el rodillo y hacemos pequeñas tiras para la cinta del sombrero y medias lunas para la decoración, que incorporamos al cucurucho.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Con el vaso limpio, colocamos la mariposa en las cuchillas y ponemos las claras, la sal y las gotas de vinagre. Montamos esas claras a punto de nieve bien firme, programando 5 minutos, velocidad 3 1/2. Sacamos a un bol y reservamos.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Sin lavar el vaso y con la mariposa en las cuchillas, añadimos las yemas y el azúcar y programamos 6 minutos, velocidad 3 1/2. Sacamos a otro bol más grande y reservamos.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 6
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Quitamos la mariposa de las cuchillas, añadimos el chocolate y lo rallamos programando 10 segundos, velocidad 7. Bajamos los restos de las paredes y programamos 3 minutos, 50º, velocidad 2.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 3
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Agregamos la mantequilla y programamos 10 segundos, velocidad 3. Vertemos esta mezcla en el bol donde teníamos las yemas con el azúcar y mezclamos con cuidado.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Después incorporamos en dos tandas las claras montadas que habíamos reservado al principio, moviendo de forma envolvente hasta conseguir una mezcla homogénea.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Introducimos el relleno en los cucuruchos, con cuidado de no tocar la decoración y los colocamos boca abajo sobre una galleta.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/sombreros-de-bruja-de-chocolate/",
+    "creado_en": "2026-09-06"
+  },
+  {
+    "id": "6391bcda-b9cb-45bb-bdba-94465c367314",
+    "slug": "tartar-de-salmon-ahumado",
+    "titulo": "Tartar de salmón ahumado",
+    "descripcion": "Receta de Tartar de salmón ahumado adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/10/Tartar_salmon_ahumado.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 26,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "2 patatas medianas",
+      "3 huevos",
+      "200 gr de salmón ahumado",
+      "150 gr de tomate natural",
+      "25 gr de azúcar",
+      "100 gr de aceite de oliva virgen",
+      "40 gr de vinagre de módena",
+      "sal"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "En primer lugar vamos a pelar las patatas y a cortarlas en rodajas gruesas. Las colocamos sobre la bandeja varoma y las pincelamos con aceite de oliva y les echamos una pizca de sal.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Colocamos los huevos en el cestillo y llenamos el vaso con 800 gr de agua. Colocamos dentro el cestillo y el recipiente varoma con las patatas. Programamos 20 minutos, temperatura varoma, velocidad 2. Pasado este tiempo, comprobamos que las patatas están en su punto. Si no, ponemos unos minutitos más.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 16
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Secamos el vaso y echamos el tomate y trituramos 4 segundos a velocidad 4. Acto seguido incorporamos el aceite, el vinagre, el azúcar y la sal y programamos 6 minutos, temperatura 100, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 6
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Mientras se hace la vinagreta pelamos los huevos y los cortamos en rodajas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Ya tenemos el plato listo, ahora sólo hay que montarlo. Yo me ayudé de un aro de emplatar, pero si no tenéis, con cuidado se hace también. Ponemos las capas de patatas, después el huevo y por último el salmón en trocitos. Regamos con la salsa y ¡a comer!",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/tartar-de-salmon-ahumado/",
+    "creado_en": "2026-09-06"
+  },
+  {
+    "id": "72f09380-3cae-47c3-8ce3-dff441d8bac3",
+    "slug": "sopa-de-ojos-saltones",
+    "titulo": "Sopa de ojos saltones",
+    "descripcion": "Receta de Sopa de ojos saltones adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/10/sopa-de-ojos-saltones-Halloween-Thermoreceta.jpg",
+    "categoria": "verduras",
+    "tiempo_total_min": 20,
+    "comensales": 2,
+    "dificultad": "Media",
+    "ingredientes": [
+      "3 chalotas",
+      "400 g de tomate troceado (natural o de lata)",
+      "260 g de caldo de verdura",
+      "30 g de nata para cocinar",
+      "20 g de aceite de oliva",
+      "Azúcar",
+      "Sal y pimienta",
+      "10 trocitos de queso fresco o “Burguitos”",
+      "Aceitunas negras"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Pelar y trocear las chalotas. Picarlas durante 5 segundos a velocidad 5. Bajar con la espátula los trocitos hacia las cuchillas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Agregar el aceite y pochar durante 6 minutos, 100º velocidad 1. Incorporar el tomate y el caldo. Programar 10 minutos, 100º, velocidad 2.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Cuando haya terminado el tiempo, esperar unos minutos a que baje un poco la temperatura y después triturar durante 30 segundos, velocidad progresiva 5-7-9.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Incorporar la nata y un pellizco de azúcar, calentar durante 3 minutos, 80º, velocidad 1. Rectificar de sal y pimienta.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 3
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Mientras preparar los ojos saltones. Escurrir las aceitunas y cortarlas en rodajas. Colocar las rodajas centrales, las que tienen el agujero mayor, encima de cada trozo de queso fresco.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Verter la sopa en cuencos individuales y repartir unos 5 trocitos de queso con aceituna en cada ración.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Servir enseguida.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/sopa-de-ojos-saltones/",
+    "creado_en": "2026-09-06"
   }
 ]
