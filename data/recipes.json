@@ -29547,5 +29547,593 @@
     ],
     "fuente_url": "https://www.thermorecetas.com/sopa-de-ojos-saltones/",
     "creado_en": "2026-09-06"
+  },
+  {
+    "id": "5c6293da-d750-4b73-8c35-c5604d1155d6",
+    "slug": "tarta-sangrienta-de-frutos-rojos-para-halloween",
+    "titulo": "Tarta sangrienta de frutos rojos para Halloween",
+    "descripcion": "Receta de Tarta sangrienta de frutos rojos para Halloween adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/10/tarta-sangrienta-de-frutos-rojos-para-halloween2.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 10,
+    "comensales": 8,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "350 g de harina de repostería",
+      "1 cucharadita de levadura química",
+      "1 pellizco de sal",
+      "100 g de azúcar",
+      "150 g de mantequilla",
+      "2 yemas de huevo",
+      "1 huevo",
+      "20 g de leche",
+      "1 cucharadita de vainilla (líquida o en polvo) – opcional",
+      "500 g de frutos rojos congelados (mi paquete era de 450 y ha sido suficiente)",
+      "150 g de azúcar",
+      "2 hojas de gelatina",
+      "Las claras que nos sobraron de hacer la masa las podemos utilizar para pintar la superficie",
+      "Azúcar glas o azúcar normal que trituraremos"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Colocamos los frutos rojos congelados en un bol, espolvoreamos con los 150g de azúcar y dejamos macerar hasta que se descongelen. Si no tenemos tiempo podemos utilizar el microondas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Si no tenemos azúcar glas es el momento de hacerlo, aprovechando que el vaso está limpio y seco. Ponemos azúcar en el vaso trituramos en velocidad progresiva 7-10 unos segundos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "En el vaso limpio y seco ponemos la harina, la levadura, la sal, el azúcar y la mantequilla. Programamos 15 segundos, velocidad progresiva 5-10.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Añadimos los ingredientes restantes de la masa y programamos 10 segundos, velocidad 6. Retiramos la masa del vaso, la amasamos ligeramente dándole forma de bola, la envolvemos en film transparente y la reservamos en el frigorífico durante 15 minutos aproximadamente.",
+        "accesorio": "Cuchillas",
+        "velocidad": 6,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 15
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Ponemos las hojas de gelatina a hidratar en un bol con agua fría.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Ponemos el cestillo de la Thermomix sobre otro bol y echamos en él los frutos rojos con el fin de colarlos aprovechando el líquido de hayan soltado.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Ponemos en el vaso 100 g de ese líquido y programamos 1 minuto, 100º, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Escurrimos las hojas de gelatina y las ponemos en el vaso. Programamos 15 segundos, velocidad 2. Añadimos el líquido restante (yo añadí un chorrito más de agua para que la tarta fuera un poco más “sangrienta”) y mezclamos programando 5 segundos, velocidad 2.",
+        "accesorio": "Cuchillas",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Ponemos los frutos rojos escurridos en el bol donde antes teníamos el líquido. Ahora añadimos el líquido que tenemos en el vaso de la Thermomix a los frutos rojos, es decir, echamos el líquido en el bol.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Colocamos un pliego de papel de horno en nuestra mesa de trabajo y sobre él 2/3 partes de nuestra masa. Ponemos sobre la masa una lámina de papel film (o varias, las que sean necesarias para ayudarnos a extenderla) -también podéis poner el papel film abajo y el de horno encima-. Extendemos la masa con un rodillo. Cuando esté lista colocamos la masa sobre un molde de tarta de unos 30 cms de diámetro -con el papel de horno en la base, sin quitarlo. Ahora quitamos el papel film.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 11,
+        "instruccion": "Vertemos el relleno sobre la masa.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 12,
+        "instruccion": "Extendemos con el rodillo la masa restante, esta vez ayudándonos con papel film tanto abajo como arriba. Cuando esté extendida cortamos tiras de unos 2 cms y las colocamos sobre el relleno formando un enrejado -yo he utilizado un molde para hacer el enrejado pero con las tiras os quedará perfecto-. Hacemos un pliegue en los bordes con las manos para que al hornealo quede todo unido (ver foto 5).",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 13,
+        "instruccion": "Pintamos con huevo batido y horneamos durante 25-30 minutos en el horno precalentado a 180º.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 30
+      },
+      {
+        "paso_numero": 14,
+        "instruccion": "Retiramos del horno y, si queremos, espolvoreamos con azúcar glas antes de servir.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/tarta-sangrienta-de-frutos-rojos-para-halloween/",
+    "creado_en": "2026-09-07"
+  },
+  {
+    "id": "dc113e23-d3b3-4d02-8cf3-fc248cff8794",
+    "slug": "murcielagos-de-queso",
+    "titulo": "Murciélagos de queso",
+    "descripcion": "Receta de Murciélagos de queso adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/10/Murcielagos.jpg",
+    "categoria": "sopas-y-cremas",
+    "tiempo_total_min": 1,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "100 g de queso de untar tio Philadelphia.",
+      "70 g de almendras peladas tostadas.",
+      "Aceitunas negras (sobre 10).",
+      "semillas de amapola: son para rebozar las bolitas, podemos emplear también sucedáneo de caviar (para que sean negros), o doritos triturados (murciélagos doraditos), o las mismas almendras trituradas (blancos).",
+      "Doritos o similar (yo empleé Doritos Tex Mex)."
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Trituramos las almendras durante 15 segundos a velocidad 5 (si vais a rebozar con almendra, añadid 25 gr más e ir triturando de 5 en 5 segundos hasta conseguir la textura adecuada y reservar una pequeña cantidad para el rebozado, luego continuar con el resto hasta completar los 15 segundos).",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Añadimos el queso y mezclamos todo durante 5 segundos a velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Formamos las bolitas con la mezcla, cortamos las aceitunas en láminas gruesas (2 por bolita), rebozamos las bolitas con las semillas de amapola (o la opción elegida).",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Les ponemos dos rodajas de aceitunas como ojos y dos puntas de Doritos (enteros quedan muy grandes) como alas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Y ya tenemos nuestros pajarotos/murciélagos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/murcielagos-de-queso/",
+    "creado_en": "2026-09-07"
+  },
+  {
+    "id": "bef06e3f-cacc-425e-85ae-69813ad86ec5",
+    "slug": "sandwiches-tumba",
+    "titulo": "Sándwiches tumba",
+    "descripcion": "Receta de Sándwiches tumba adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/10/Sandwiches_tumba_1.jpg",
+    "categoria": "panes-masas",
+    "tiempo_total_min": 20,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "8 rebanadas de pan de molde sin bordes (o podéis quitárselo vosotros)",
+      "3 latas de atún al natural",
+      "1/4 de pimiento verde",
+      "1/4 de cebolleta",
+      "1/2 lata de maíz dulce en conserva",
+      "4 cucharadas de mayonesa",
+      "limón (sólo unas gotitas)",
+      "pimientos del piquillo para decorar (yo utilicé los que ya vienen en tiras, sólo unos trocitos)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "En primer lugar, vamos a preparar el relleno del sándwich. Dejamos escurriendo el aceite mientras echamos en nuestra thermomix el pimiento y la cebolleta. Programamos 4 segundos, velocidad 4. Retiramos a un bol.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Echamos en el bol donde habíamos reservado el pimiento y la cebolleta, el maíz y el atún que teníamos escurriendo. Removemos bien. Añadimos las 4 cucharadas de mayonesa y unas gotitas de limón. Removemos muy bien.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Ahora vamos a rellenar los sándwiches con este relleno y los cortamos en forma de tumba con mucho cuidado.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Cortamos tiritas finitas de pimiento de piquillo y vamos escribiendo la palabra RIP.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "¡Ya los tenemos!",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/sandwiches-tumba/",
+    "creado_en": "2026-09-07"
+  },
+  {
+    "id": "cd21e9e7-ec4a-46b2-9893-57899cdc343a",
+    "slug": "arroz-meloso-con-calabaza",
+    "titulo": "Arroz meloso con calabaza",
+    "descripcion": "Receta de Arroz meloso con calabaza adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/11/arroz-meloso-con-calabaza-Thermorecetas.jpg",
+    "categoria": "arroces",
+    "tiempo_total_min": 30,
+    "comensales": 2,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "35 g de chalotas",
+      "10 g de mantequilla",
+      "120 g de arroz",
+      "60 g de vino blanco",
+      "150 g de calabaza",
+      "600 g de caldo de verduras o agua con una cucharada pequeña de concentrado de verduras casero",
+      "15 g de queso parmesano rallado (optativo)",
+      "Perejil picado o pimienta negra"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Picar las chalotas durante 3 segundos a velocidad 5. Bajar los trocitos hacia las cuchillas. Incorporar la mantequilla y dorarla durante 6 minutos, 100º, velocidad cuchara.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 6
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Añadir el arroz y sofreír durante 3 minutos a 100º, velocidad 1 y giro a la izquierda.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 3
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "A continuación, verter el vino blanco y programar 2 minutos, temperatura Varoma, velocidad 1, giro a la izquierda y sin cubilete para favorecer la evaporación.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 2
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Agregar la mitad del caldo y programar 8 minutos, 100º, velocidad cuchara y giro a la izquierda.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 7
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Mientras partir la calabaza en cuadraditos pequeños del mismo tamaño.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Cuando haya terminado el tiempo incorporar la calabaza y el resto del caldo, programar de nuevo 10 minutos, 100º, velocidad cuchara y giro a la izquierda.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Si queréis darle un punto de extra de cremosidad, añadirle el queso parmesano rallado y mezclar con el arroz.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Repartir el arroz en dos platos hondos o cuencos. Espolvorear un poco de perejil picado o pimienta recién molida y servir enseguida.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "¡Buen provecho!",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/arroz-meloso-con-calabaza/",
+    "creado_en": "2026-09-07"
+  },
+  {
+    "id": "a8c91fa5-a869-4cce-b962-e67fc7650ad8",
+    "slug": "plum-cake-de-platano-y-frutos-secos",
+    "titulo": "Plum-cake de plátano y frutos secos",
+    "descripcion": "Receta de Plum-cake de plátano y frutos secos adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/10/plum-cake-de-platano-y-frutos-secos.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 10,
+    "comensales": 4,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "1 plátano maduro",
+      "20 g de almendras peladas",
+      "20 g de pasas",
+      "70 g de mantequilla a temperatura ambiente",
+      "120 g de azúcar",
+      "2 huevos medianos",
+      "100 g de requesón (podéis sustituirlo por un yogur natural si no tenéis requesón)",
+      "160 g de harina de repostería",
+      "1 cucharadita de levadura química",
+      "1 pellizco de sal"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Precalentamos el horno a 180º.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Preparamos un molde de plum-cake de 22 x 10 x 8 y lo cubrimos con papel de hornear. También podéis utilizar un molde de ese tamaño pero de silicona (en este caso no hace falta el papel de horno).",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Ponemos las almendras y las pasas en el vaso y programamos  4 segundos, velocidad 5 (dependiendo del fruto seco que elijáis a lo mejor tenéis que variar los segundos de triturado). La idea es que queden trocitos no muy grandes pero que tampoco convirtamos los frutos secos en harina. Retiramos del vaso y reservamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Ahora ponemos el plátano en el vaso y trituramos programando 3 segundos, velocidad 4. Retiramos del vaso y reservamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Ponemos en el vaso la mantequilla y el azúcar y programamos 30 segundos, velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Programamos 1 minuto, velocidad 3 y vamos añadiendo los huevos uno a uno por el bocal. Acabado ese tiempo apagamos la máquina, abrimos la tapa y incorporamos el plátano, el queso (o yogur), la harina, la cucharadita de levadura, la sal, las almendras y las pasas. Programamos 4 segundos, velocidad 4. Terminamos de integrar la mezcla ayudándonos con la espátula.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Vertemos la mezcla en el molde y horneamos durante 40-45 minutos aproximadamente.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 45
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Lo dejamos enfriar en el molde, desmoldamos y ya lo tenemos… ¡listo para comer!",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/plum-cake-de-platano-y-frutos-secos/",
+    "creado_en": "2026-09-07"
+  },
+  {
+    "id": "2c36e7f5-3b2e-4b8a-8a2f-12ae718c17c9",
+    "slug": "albondigas-de-la-huerta-con-un-toque-de-miel",
+    "titulo": "Albóndigas de la huerta con un toque de miel",
+    "descripcion": "Receta de Albóndigas de la huerta con un toque de miel adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/11/albondigas-vegetales.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 15,
+    "comensales": 12,
+    "dificultad": "Media",
+    "ingredientes": [
+      "100 g de berenjena",
+      "75 g de zanahoria",
+      "50 g de brócoli",
+      "1 cucharada de postre de cominos (enteros o molidos)",
+      "3 cucharadas de harina de garbanzos",
+      "2 cucharadas de pan rallado",
+      "aceite de oliva",
+      "1 cucharadita de sal",
+      "1 cucharada de tomate frito (opcional)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Introducir las verduras cortadas a trozos y los cominos en el vaso y triturar 5 segundos, a velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Añadir 50 ml (1/2 cubilete) de aceite de oliva y 1 cucharadita de sal. Programar 7 minutos, 100º, velocidad 2.",
+        "accesorio": "Cuchillas",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 7
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Añadir por el bocal 50 ml de agua y 1 cucharada de tomate frito. Programar de nuevo 7 minutos, 100º, velocidad 2.",
+        "accesorio": "Cuchillas",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 6
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Rectificar de sal si fuera necesario. Incorporar la harina de garbanzos y el pan rallado. Mezclar durante 30 segundos a velocidad 6.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 6,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Dejar reposar la masa en la nevera durante, al menos, 2 horas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 120
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Formar bolitas, aplastarlas un poquito y dorar en sartén con un poco de aceite de oliva caliente.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Servir sobre miel.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/albondigas-de-la-huerta-con-un-toque-de-miel/",
+    "creado_en": "2026-09-07"
   }
 ]
