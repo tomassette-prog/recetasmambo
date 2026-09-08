@@ -30135,5 +30135,498 @@
     ],
     "fuente_url": "https://www.thermorecetas.com/albondigas-de-la-huerta-con-un-toque-de-miel/",
     "creado_en": "2026-09-07"
+  },
+  {
+    "id": "766968fa-49d2-452b-a8c3-3fd5803aba46",
+    "slug": "guisantes-con-jamon-especiales",
+    "titulo": "Guisantes con jamón “especiales”",
+    "descripcion": "Receta de Guisantes con jamón “especiales” adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/11/Guisantes_con_jamon_especiales.jpg",
+    "categoria": "carnes",
+    "tiempo_total_min": 47,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "500 gr de guisantes congelados",
+      "1 cebolla grande pelada y cortada en cuartos",
+      "50 gr de aceite de oliva virgen",
+      "100 gr de jamón serrano en taquitos",
+      "200 gr de agua o caldo de verduras",
+      "200 gr de vino blanco",
+      "2 patatas grandes peladas y cortadas en rodajas finas o en daditos pequeños",
+      "3 huevos grandes",
+      "sal (al gusto) o una pastillita de concentrado de pollo"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos en el vaso la cebolla y programamos 5 segundos velocidad 5. Bajamos los resto de cebolla de la tapa y del vaso hacia las cuchillas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Agregamos el aceite y programe 6 minutos ,100 º, giro a la izquierda, velocidad cuchara.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 6
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Añadimos los guisantes y programamos 5 minutos, temperatura varoma, giro a la izquierda, velocidad 1.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "En el recipiente varoma ponemos los huevos y las patatas (a las que añadimos un poco de sal y aceite de oliva).",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Añadimos el agua y la pastilla de caldo (o el caldo de verduras) y el vino. Colocamos el recipiente varoma con los huevos y las patatas, y programamos 30 minutos, 100º, giro a la izquierda, velocidad cuchara.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 25
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Incorporamos el jamón y programamos 5 minutos, 100º , giro a la izquierda, velocidad cuchara.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Servimos inmediatamente los guisantes con las patatas y los huevos en rodajas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/guisantes-con-jamon-especiales/",
+    "creado_en": "2026-09-08"
+  },
+  {
+    "id": "6c08772d-cff9-49da-844f-59c9c66a2330",
+    "slug": "mejillones-al-azafran",
+    "titulo": "Mejillones al azafrán",
+    "descripcion": "Receta de Mejillones al azafrán adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/11/mejillones-al-azafran-Thermorecetas.jpg",
+    "categoria": "pescados",
+    "tiempo_total_min": 32,
+    "comensales": 2,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "500 g de mejillones",
+      "½ cebolla",
+      "1 cayena seca",
+      "200 g de agua",
+      "100 g de vino blanco",
+      "½ cucharadita de hebras de azafrán",
+      "25 g de mantequilla",
+      "100 g de nata líquida",
+      "1 yema de huevo",
+      "Sal"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Poner el agua, el vino y un pellizco de sal en el vaso. Calentar durante 4 minutos, 100º y velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 3
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Mientras limpiar y lavar bien las conchas de los mejillones, retirando también las barbas. Colocarlos en el Varoma.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Cuando el tiempo haya finalizado colocar el Varoma en su sitio y programar 15 minutos, temperatura Varoma, velocidad 1.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 15
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Retirar el recipiente con cuidado de no quemarse y reservar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Colar el caldo varias veces y reservarlo también.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 21
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Aclarar y secar el vaso. Colocar la cebolla pelada y troceada. Picarla durante 5 segundos a velocidad 5. Bajar los trocitos hacia las cuchillas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Añadir la mantequilla, la cayena sin semillas y una pizca de sal. Programar 6 minutos, 100º, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 6
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Añadir las hebras de azafrán y sofreírlas durante 2 minutos, 100º, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 2
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Agregar 100 g del agua de cocción que teníamos reservada y volver a programar 2 minutos, 100º, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 2
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Mientras en un cuenco batir la yema de huevo y mezclarla con la nata. Agregar la mezcla al vaso de la Thermomix y programar 3 minutos, 90º, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 3
+      },
+      {
+        "paso_numero": 11,
+        "instruccion": "Retirar la concha vacía de los mejillones y colocar el resto en una fuente, regarlos con la salsa y servir enseguida.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 12,
+        "instruccion": "¡Buen provecho!",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/mejillones-al-azafran/",
+    "creado_en": "2026-09-08"
+  },
+  {
+    "id": "d2965c38-df98-40c6-aabd-92c43add02ce",
+    "slug": "carne-o-dulce-de-membrillo-con-azucar-moreno",
+    "titulo": "Carne o dulce de membrillo con azúcar moreno",
+    "descripcion": "Receta de Carne o dulce de membrillo con azúcar moreno adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/11/dulce-o-carne-de-membrillo-con-azucar-moreno.jpg",
+    "categoria": "carnes",
+    "tiempo_total_min": 40,
+    "comensales": 8,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "500 g membrillo",
+      "200 g azúcar moreno",
+      "200 g azúcar blanquilla",
+      "1 chorrito de zumo de limón"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Lavamos bien los membrillos y quitamos la parte central. Ponemos la parte limpia en el vaso (sin pelar), los dos tipos de azúcar y el chorrito de limón. Trituramos 30 segundos, velocidad progresiva 5-7. Bajamos lo que haya quedado en las paredes del vaso y, con el cubilete puesto, programamos 40 minutos, 100 º, velocidad 5. Cuando queden unos 10 minutos para que termine el tiempo quitamos el cubilete para que evapore y espese un poquito más.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 40
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Lo repartimos en tupper o en moldes de silicona si queremos servirlo con una forma determinada.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/carne-o-dulce-de-membrillo-con-azucar-moreno/",
+    "creado_en": "2026-09-08"
+  },
+  {
+    "id": "c008abde-8986-4d16-9047-f99e70c8f9e6",
+    "slug": "mousse-de-atun",
+    "titulo": "Mousse de atún",
+    "descripcion": "Receta de Mousse de atún adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/11/mousse-de-atun.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 7,
+    "comensales": 4,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "3 hojas de gelatina neutra",
+      "125 gr de crema de leche (leche evaporada tipo leche Ideal)",
+      "150 g de crema ácida (crema fresca o creme fraiche) o queso batido",
+      "120 g de atún en aceite",
+      "sal y pimienta al gusto"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos las hojas de gelatina a hidratar en agua fría.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Escurrimos el atún en un colador para eliminar el aceite.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Calentamos la leche evaporada durante 5 minutos, a 60º, velocidad 1.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Escurrimos la gelatina y la añadimos por el bocal. Ponemos el cubilete y mezclamos durante 15 segundos a velocidad 6.",
+        "accesorio": "Cuchillas",
+        "velocidad": 6,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Quitamos el cubilete y añadimos la crema, el atún escurrido, media cucharadita de sal y pimienta al gusto. Trituramos todo durante 1 minuto a velocidad 5/10.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Rectificamos de sal si es necesario.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Forramos el interior de un molde con papel film dejando que sobresalga un poco por los bordes hacia afuera.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Vertemos la mezcla en el molde forrado y lo introducimos en el frigorífico. Estará cuajado a partir de las 2 horas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 120
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Desmoldaremos con cuidado con ayuda del papel film sobre un plato.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/mousse-de-atun/",
+    "creado_en": "2026-09-08"
+  },
+  {
+    "id": "a761012e-1c3c-4f82-a7e8-223c7a52dd4d",
+    "slug": "crema-de-esparragos-blancos",
+    "titulo": "Crema de espárragos blancos",
+    "descripcion": "Receta de Crema de espárragos blancos adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/11/Crema_esparragos_blancos.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 20,
+    "comensales": 4,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "1 lata de espárragos con su caldo (400 gramos aprox)",
+      "400 gr de leche",
+      "20 gramos de maicena",
+      "40 gr de mantequilla",
+      "Sal",
+      "Pimienta",
+      "Nuez moscada"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos todos los ingredientes en el vaso y programamos 20 minutos, 90º y velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 20
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Cuando haya terminado el tiempo, colocamos el cestillo dentro del vaso y echamos la crema en una sopera. Así el cestillo evitará que salgan las hebras de los espárragos.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/crema-de-esparragos-blancos/",
+    "creado_en": "2026-09-08"
+  },
+  {
+    "id": "4bed1e70-254d-410c-ba8f-813c672e7bf7",
+    "slug": "tortillas-de-cebolla",
+    "titulo": "Tortillas de cebolla",
+    "descripcion": "Receta de Tortillas de cebolla adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/11/tortillas-de-cebolla-Thermorecetas.jpg",
+    "categoria": "sopas-y-cremas",
+    "tiempo_total_min": 16,
+    "comensales": 2,
+    "dificultad": "Media",
+    "ingredientes": [
+      "1 diente de ajo",
+      "180 g de cebolla dulce",
+      "3 huevos",
+      "30 g de aceite de oliva y poco más para engrasar la sartén",
+      "Sal y pimienta"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Pelar y trocear el ajo. Picarlo durante 3 segundos a velocidad 5. Bajar los trozos hacia el fondo del vaso.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Pelar la cebolla y cortarla en aros. Para que queden finos lo mejor es hacerlo con la mandolina. Introducir en el vaso junto con el aceite y pochar durante 15 minutos, 100º, velocidad 1 y giro a la izquierda",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 15
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Colocar el cestillo encima de un plato. Transcurrido el tiempo retirar la cebolla y el ajo a su interior para eliminar el posible exceso de aceite.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Sin lavar el vaso, poner en el interior los huevos. Batir durante 10 segundos a velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Verter la cebolla escurrida en el vaso y mezclar durante 5 segundos, velocidad 2, giro a la izquierda.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Engrasar una sartén pequeña con unas gotas de aceite, ponerla al fuego y cuando ya esté caliente añadir un cacillo de la mezcla de huevo y cebolla. Dorarla durante un par de minutos, darle la vuelta y dejarla otros 2 minutos para que se dore.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 2
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Retirar y repetir la operación hasta terminar la masa.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/tortillas-de-cebolla/",
+    "creado_en": "2026-09-08"
   }
 ]
