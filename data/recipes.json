@@ -30628,5 +30628,511 @@
     ],
     "fuente_url": "https://www.thermorecetas.com/tortillas-de-cebolla/",
     "creado_en": "2026-09-08"
+  },
+  {
+    "id": "2755b31e-ae62-46dd-bf71-82f5eff1231e",
+    "slug": "tarta-salada-de-salchichas-y-guisantes",
+    "titulo": "Tarta salada de salchichas y guisantes",
+    "descripcion": "Receta de Tarta salada de salchichas y guisantes adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/11/tarta-salada-de-salchichas-y-guisantes.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 20,
+    "comensales": 8,
+    "dificultad": "Media",
+    "ingredientes": [
+      "210 g de harina de repostería",
+      "120 g de mantequilla cortada en dados no muy grandes",
+      "120 g de leche",
+      "2 cucharadas de vinagre balsámico",
+      "400 g de salchichas de cerdo, cortadas en trocitos",
+      "1 lata grande de guisantes (unos 270 g ya escurridos)",
+      "6 huevos",
+      "1 cucharadita y media de sal"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos la harina y la mantequilla en el vaso y programamos 30 segundos, vaso cerrado, velocidad espiga.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Añadimos la leche y el vinagre y mezclamos 30 segundos, vaso cerrado, velocidad espiga.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Separamos la masa en dos partes iguales que nos servirán para cubrir dos moldes de 24 cms de diámetro cada uno. Con ayuda de un rodillo y de dos láminas de papel de horno (o una de film y otra de papel de horno), extendemos cada porción y cubrimos los moldes, dejando en la parte de abajo el papel para que no se nos pegue luego en el molde y quitando la lámina superior. Podéis fijaros en el paso a paso de esta otra receta para que entendáis a qué me refiero.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Una vez que tenemos las bases extendidas en los moldes es el momento de repartir los trocitos de salchichas y los guisantes escurridos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Ahora, sin necesidad de lavar el vaso, ponemos los huevos y la sal (ojo, poned la sal alrededor de las cuchillas para que se mezcle bien) y mezclamos 8 segundos, velocidad 3. Distribuimos esta mezcla en los dos moldes.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Precalentamos el horno a 220º. Horneamos a esta temperatura durante 30 minutos aproximadamente, hasta que el huevo quede cuajado y las tartas tengan un color doradito.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 30
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "¡Que las disfrutéis!",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/tarta-salada-de-salchichas-y-guisantes/",
+    "creado_en": "2026-09-09"
+  },
+  {
+    "id": "665c3b53-9520-4234-b906-7abe95ae753b",
+    "slug": "sopa-india-de-yogur-y-curcuma",
+    "titulo": "Sopa india de yogur y cúrcuma",
+    "descripcion": "Receta de Sopa india de yogur y cúrcuma adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/11/sopa-yogur.jpg",
+    "categoria": "legumbres",
+    "tiempo_total_min": 11,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "50 g de harina de garbanzos.",
+      "450 g de yogur girego azucarado.",
+      "50 g de mantequilla.",
+      "1 cucharadita de café de cúrcuma molida.",
+      "1 guindilla roja (de las pequeñas y secas).",
+      "500 g de agua (medio litro).",
+      "1 cucharadita de sal.",
+      "1 cucharadita de comino molido.",
+      "1/2 cucharadita de semillas de mostaza."
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Introduce en el vaso la harina de garbanzos, el yogur griego, la cúrcuma, la guindilla, la sal y 25 g de mantequilla. Mezcla durante 20 segundos, a velocidad 4.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Incorpora el agua y cuécelo todo durante 10 minutos, 100º, velocidad 2.",
+        "accesorio": "Cuchillas",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "En un cazo calienta el resto de la mantequilla a fuego lento y, una vez derretida, añade la mostaza y el comino. Remueve durante 20 segundos y retira del fuego (puedes hacerlo tambíen en el microondas durante 30 segundos a máxima velocidad).",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Añade esta mezcla al vaso, deja que se enfríe un poco y tápalo con el cubilete, ajusta de sal y mézclalo todo durante 15 segundos a velocidad 6.",
+        "accesorio": "Cuchillas",
+        "velocidad": 6,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Sírvela tibia.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/sopa-india-de-yogur-y-curcuma/",
+    "creado_en": "2026-09-09"
+  },
+  {
+    "id": "aa4c03e4-cd1e-48db-83a1-6356ba844d90",
+    "slug": "filetes-rusos",
+    "titulo": "Filetes rusos",
+    "descripcion": "Receta de Filetes rusos adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/11/filetes-rusos-Thermorecetas.jpg",
+    "categoria": "panes-masas",
+    "tiempo_total_min": 29,
+    "comensales": 3,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "2 dientes de ajo",
+      "150 g de carne picada de cerdo",
+      "150 g de carne picada de ternera",
+      "1 rebanada de pan",
+      "1 chorro de leche",
+      "1 huevo",
+      "50 g de queso rallado",
+      "2 cucharadas de piñones",
+      "Sal y pimienta",
+      "1 cebolla",
+      "1 diente de ajo",
+      "1 pimiento verde",
+      "40 g de aceite de oliva",
+      "80 g de vino blanco",
+      "200 g de tomate entero natural o de lata",
+      "100 g de caldo de verdura",
+      "1 pellizco de azúcar",
+      "Sal y pimienta"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Remojar la rebanada de pan en leche. Escurrir y reservar.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "En una sartén pequeña dorar los piñones sin aceite.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Mientras pelar y picar los ajos programando 3 segundos, velocidad 5. Bajar con la espátula los trocitos hacia el fondo del vaso.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Incorporar los dos tipos de carne, el pan escurrido, el huevo, la mitad de los piñones y el queso rallado. Salpimentar y mezclar 4 segundos, velocidad 5.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Con la masa obtenida hacer pequeñas bolas de unos 90 g cada una. Aplastarlas bien con las manos y colocarlas en el Varoma. Tapar y reservar.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Para hacer la salsa; pelar y trocear la cebolla, el diente de ajo y el pimiento verde. Picarlos programando 5 segundos, velocidad 5. Bajar los trocitos hacia las cuchillas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Añadimos el aceite y sofreímos durante 8 minutos, 100º, velocidad 2.",
+        "accesorio": "Cuchillas",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Incorporamos el tomate, el caldo, el vino y el azúcar. Salpimentamos y programamos 20 minutos, temperatura Varoma, velocidad 2. Colocar el Varoma en su sitio.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 16
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Finalizado el tiempo, retiramos el Varoma con cuidado de no quemarnos. Esperamos un par de minutos a que baje la temperatura a 90º y trituramos durante 30 segundos a velocidad 7-9.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Servimos los filetes rusos en un plato o fuente. Con un cuidado extendemos la salsa formando una línea paralela a los filetes y terminamos repartiendo por encima los piñones restantes.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/filetes-rusos/",
+    "creado_en": "2026-09-09"
+  },
+  {
+    "id": "0387e4f5-3ffd-42d7-99e4-4a4fa194c510",
+    "slug": "pollo-con-patatas-en-bolsa-de-asar",
+    "titulo": "Pollo con patatas en bolsa de asar",
+    "descripcion": "Receta de Pollo con patatas en bolsa de asar adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/11/Pollo_en_bolsa_asar_1.jpg",
+    "categoria": "carnes",
+    "tiempo_total_min": 70,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "2 muslos y sobremuslos de pollo grandes",
+      "2 patatas grandes peladas y cortadas en trozos grandes",
+      "1,5 l de agua para el vaso",
+      "4 dientes de ajo",
+      "50 gr de aceite de oliva virgen extra",
+      "40 gr de vino blanco",
+      "1 cucharada de caldo casero de carne (ver receta ) (podéis sustituirlo por 1 pastilla de avecrem)",
+      "una rama de perejil (sólo las hojas)",
+      "una rama de romero (sólo las hojas)",
+      "una cucharadita de pimentón",
+      "una pizca de pimienta"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Echamos en el vaso los ajos, el aceite, el vino, la pastilla de caldo, el perejil, el romero, el pimentón y la pimienta. Trituramos 6 segundos, velocidad 5.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 21
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Colocamos el pollo en la bolsa de asar con las patatas. Añadimos la mezcla del vaso, cerramos la bolsa y mezclamos bien moviendo la bolsa.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Ponemos la bolsa con el pollo y las patatas en el recipiente varoma.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Añadimos al vaso (sin lavarlo) el litro y medio de agua. Colocamos el varoma encima y programamos 45 minutos, velocidad 2, temperatura varoma. Debemos darle la vuelta a la bolsa a mitad de cocción.Cuando haya terminado, ponemos todo el contenido de la bolsa en una bandeja apta para horno y lo gratinamos hasta que el pollo esté dorado.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 37
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "¡A comer!",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/pollo-con-patatas-en-bolsa-de-asar/",
+    "creado_en": "2026-09-09"
+  },
+  {
+    "id": "d7529c03-cfbb-4bea-a83e-f222ac2965ba",
+    "slug": "crema-de-calabaza-con-jengibre-y-pasas",
+    "titulo": "Crema de calabaza con jengibre y pasas",
+    "descripcion": "Receta de Crema de calabaza con jengibre y pasas adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/11/crema-de-calabaza-con-jengibre-y-pasas1.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 40,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "120 g de cebolla en trozos",
+      "1 diente de ajo",
+      "75 g de chalotas",
+      "30 g de aceite de oliva virgen extra",
+      "600 g de calabaza",
+      "400 g de agua",
+      "1 cucharadita de sal",
+      "100 g de leche desnatada",
+      "1 pellizco de pimienta blanca (no la pongáis si hay niños)",
+      "1 pellizco de jengibre en polvo"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos en el vaso la cebolla, el ajo, las chalotas y el aceite. Programamos 4 segundos, velocidad 5. Con la espátula bajamos los restos de verduras de la tapa y de las paredes del vaso, hacia las cuchillas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Programamos 7 minutos, temperatura varoma, velocidad 2.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 7
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Pelamos la calabaza y la cortamos en dados grandes. Cuando acabe el tiempo que hemos programado antes la incorporamos al vaso y programamos 7 segundos, velocidad 5. Rehogamos programando 10 minutos, temperatura varoma, velocidad 2.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Añadimos el agua y la sal. Programamos 20 minutos, temperatura varoma, velocidad 2.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 16
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Agregamos la leche, la pimienta y el jengibre. Esperamos unos minutos a que baje un poco la temperatura y programamos 3 minutos, velocidad progresiva 5-10. Comprobamos si ha quedado bien triturado y si no es así programamos unos minutos más a la misma velocidad.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 3
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Y servimos, si nos apetece, acompañada de unas pasas. ¡A disfrutar!",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/crema-de-calabaza-con-jengibre-pasas/",
+    "creado_en": "2026-09-09"
+  },
+  {
+    "id": "51d7e625-f2e4-40a9-93c5-77a0b473e613",
+    "slug": "semifrio-de-parmesano",
+    "titulo": "Semifrío de parmesano",
+    "descripcion": "Receta de Semifrío de parmesano adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/11/semifrio-de-parmesano.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 30,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "120 g de parmesano",
+      "100 g de nata líquida para montar (tiene que estar fría, del frigorífico)",
+      "1 cucharada de queso de untar tipo Philadelphia",
+      "100 ml (1 cubilete) de vinagre de Módena",
+      "50 ml de grapa o aguardiente de orujo",
+      "50 g de azúcar blanco"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Rallar el parmesano a golpe de turbo hasta dejarlo prácticamente en polvo.",
+        "accesorio": "Cuchillas",
+        "velocidad": "Turbo",
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Poner la mariposa en las cuchillas. Es importante que el vaso esté frío, que no hayamos cocinado en él anteriormente. Agitar el envase de la nata e introducir 100 g en el vaso junto al parmesano y el queso de untar. Vamos a montar la nata con el parmesano, queremos una textura cremosa, no sólida. Así que programamos velocidad 3 y medio, sin tiempo. Y pararemos cuando tengamos una crema (aproximadamente a los 3 minutos).",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 3
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Extraemos la crema del vaso. y reservamos. Limpiamos el vaso.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Introducimos el vinagre balsámico, el orujo y el azúcar. Vamos a hacer una reducción de vinagre balsámico. Para ello programamos 25 min, 100º, a velocidad 2, siempre sin el cubilete para que pueda reducir.",
+        "accesorio": "Cuchillas",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 25
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Dejamos que se enfríe y montamos el chupito poniendo en el fondo la reducción de vinagre y encima la crema de parmesano.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/semifrio-de-parmesano/",
+    "creado_en": "2026-09-09"
   }
 ]
