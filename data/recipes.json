@@ -31134,5 +31134,585 @@
     ],
     "fuente_url": "https://www.thermorecetas.com/semifrio-de-parmesano/",
     "creado_en": "2026-09-09"
+  },
+  {
+    "id": "76bf05e0-892f-4960-b71e-b01fcfc48b89",
+    "slug": "mejillones-al-vapor-de-cerveza-en-escabeche-rojo",
+    "titulo": "Mejillones al vapor de cerveza en escabeche rojo",
+    "descripcion": "Receta de Mejillones al vapor de cerveza en escabeche rojo adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/11/Mejillones_vapor_cerveza_escabeche_rojo.jpg",
+    "categoria": "pescados",
+    "tiempo_total_min": 30,
+    "comensales": 6,
+    "dificultad": "Media",
+    "ingredientes": [
+      "1 kg de mejillones frescos",
+      "330 gr de cerveza con alcohol",
+      "200 gr de cebolla cortada en juliana",
+      "200 gr de aceite de oliva virgen extra suave",
+      "1 cucharadita de pimienta negra en grano",
+      "1 cucharadita de pimentón dulce",
+      "4 hojas de laurel secas",
+      "sal",
+      "25 gr de vinagre blanco"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Lavamos los mejillones con agua templada y les limpiamos las barbas. Los colocamos en el recipiente varoma.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Echamos la cerveza en el vaso, colocamos el varoma encima con los mejillones y programamos 15 minutos, temperatura varoma, velocidad 1.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 15
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Cuando termine el tiempo, separamos los mejillones de las valvas y los vamos colocando en un recipiente de cristal (los de plástico se pueden teñir con el escabeche).",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Secamos el vaso y añadimos la cebolla y el aceite. Programamos 9 minutos, temperatura 100º, velocidad cuchara.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 9
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Agregamos la pimienta, el pimentón, el laurel, la sal y el vinagre. Programamos 2 minutos, 100º, velocidad cuchara. Echamos el escabeche sobre los mejillones, removemos bien y dejamos enfriar. Los dejamos en la nevera durante 24 horas antes de consumirlos.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1442
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/mejillones-al-vapor-de-cerveza-en-escabeche-rojo/",
+    "creado_en": "2026-09-10"
+  },
+  {
+    "id": "5e033392-219d-4fc3-9617-6199e415f1c3",
+    "slug": "flanes-de-platano-y-canela",
+    "titulo": "Flanes de plátano y canela",
+    "descripcion": "Receta de Flanes de plátano y canela adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/11/flanes-de-plátano-y-canela-thermorecetas.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 21,
+    "comensales": 4,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "160 g de plátanos de Canarias pelados",
+      "180 g de leche condensada",
+      "100 g de leche",
+      "2 huevos",
+      "1/2 cucharadita de ralladura de limón",
+      "1 cucharadita de canela en polvo",
+      "Caramelo líquido"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Caramelizar las flaneras con el caramelo líquido.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Pelar y trocear los plátanos. Ponerlos dentro del vaso y triturarlos durante 15 segundos a velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Agregar el resto de los ingredientes. Batir durante 20 segundos, velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Repartir la mezcla entre las flaneras que estaban reservadas con el caramelo líquido. Colocarlas en el Varoma.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Sin lavar el vaso llenarlo hasta la marca de 1 litro con agua del grifo. Colocar el Varoma en su posición y programar 20 minutos, temperatura Varoma, velocidad 2.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 16
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Pinchar con un palillo uno de los flanes para comprobar que los flanes están cuajados. Si el palillo sale limpio es que ya están listos. De lo contrario programar otros 5 minutos a la misma temperatura y velocidad.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Dejar enfriar los flanes. Después reservarlos en la nevera.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "A la hora de servir podéis espolvorear un poco de almendra en granillo o sprinkles de colores por encima como en la foto.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "¡Ya me contaréis!",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/flanes-de-platano-y-canela/",
+    "creado_en": "2026-09-10"
+  },
+  {
+    "id": "abb299fc-3af2-4824-be0d-78ff28abd22d",
+    "slug": "ensalada-de-col-coleslaw",
+    "titulo": "Ensalada de col (Coleslaw)",
+    "descripcion": "Receta de Ensalada de col (Coleslaw) adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/11/ensalada-coleslaw.jpg",
+    "categoria": "verduras",
+    "tiempo_total_min": 2,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "250 g repollo",
+      "150 g zanahorias",
+      "150 g de manzana",
+      "1 yogur natural",
+      "10 g vinagre de vino tinto",
+      "70 g salsa mayonesa",
+      "10 g azúcar",
+      "5 g mostaza",
+      "5 g sal",
+      "5 g cebollas",
+      "5 g aceite de oliva virgen extra"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Cortamos los 250 g de repollo en cuatro trozos y programamos 3 segundos, velocidad 5. Reservamos en una ensaladera.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Ponemos en el vaso las zanahorias cortadas en dos trozos y programamos 3 segundos, velocidad 5. Reservamos en la ensaladera, junto al repollo.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Ponemos la manzana pelada, cortada en 4 trozos y sin pepitas. Programamos 4 segundos, velocidad 4. La ponemos en la ensaladera.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Mezclamos bien todos los ingredientes que hemos ido triturando ayudándonos con la espátula.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Ahora hacemos la salsa. Ponemos todos los ingredientes de la salsa en el vaso y programamos 20 segundos, velocidad 5. Si tenéis una báscula más precisa que la de la Thermomix, en este punto conviene que la utilicéis ya que son cantidades muy pequeñas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Vertemos la salsa en el bol, sobre los otros ingredientes y mezclamos bien.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Metemos al frigorífico para que repose al menos 3 horas antes de consumirla. Presentamos y ¡a disfrutarla!",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 180
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/ensalada-coleslaw/",
+    "creado_en": "2026-09-10"
+  },
+  {
+    "id": "322434e0-d201-4404-985c-d24d9f04253d",
+    "slug": "risotto-con-esparragos-trigueros-boletus-confitados-y-crujiente-de-jamon",
+    "titulo": "Risotto con espárragos trigueros, boletus confitados y crujiente de jamón",
+    "descripcion": "Receta de Risotto con espárragos trigueros, boletus confitados y crujiente de jamón adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/11/Rissotto_espárragos_boletus_confitados_crujiente_jamón.jpg",
+    "categoria": "arroces",
+    "tiempo_total_min": 57,
+    "comensales": 6,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "100 gr de jamón serrano",
+      "1 ramita de romero fresco",
+      "1 hoja de laurel",
+      "1 ramita de tomillo fresco",
+      "1 diente de ajo",
+      "1/2 guindilla",
+      "1 cucharadita de sal",
+      "250 gr de boletus (yo usé congelados)",
+      "250 gr de aceite de oliva virgen extra",
+      "100 gr de cebolla",
+      "1 diente de ajo",
+      "50 gr de aceite de confitar los boletus",
+      "350 gr de arroz de grano corto",
+      "5 espárragos trigueros cortados en trozos",
+      "50 gr de vino blanco",
+      "800 gr de caldo de ave o carne hirviendo",
+      "unas hebras de azafrán",
+      "sal",
+      "150 gr de boletus confitados",
+      "2 cucharadas de queso parmesano o manchego"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos las lonchas de jamón en el microondas entre dos hojas de papel absorbente durante 1 minuto y medio. Dejamos enfriar. (También podemos ponerlas en el horno entre papel de hornear y cocinarlo 10 minutos a 200º, pero vigilando que no se quemen).",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Ponemos en el vaso todos los ingredientes para el boletus confitado y programamos 30 minutos, 90º, velocidad cuchara, giro a la izquierda. Lo echamos en un tarro hermético, dejamos que se enfríe y lo guardamos en la nevera para conservarlo.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 30
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Ponemos en el vaso la cebolla y el ajo. Trituramos 2 segundos, velocidad 5. Con la espátula, bajamos las verduras de la tapa y del interior del vaso hacia las cuchillas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Incorporamos el aceite y sofreímos 5 minutos, temperatura varoma, velocidad cuchara.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Añadimos el arroz y los espárragos y rehogamos 3 minutos, temperatura varoma, giro a la izquierda, velocidad cuchara.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 3
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Agregamos el vino y programamos 1 minuto, temperatura varoma, giro a la izquierda, velocidad cuchara sin poner el cubilete, así facilitaremos la evaporación.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Añadimos el caldo, el azafrán y la sal. Programamos 13 minutos, temperatura 100º, giro a la izquierda, velocidad cuchara y a mitad de cocción añadimos los boletus confitados por el bocal (no hace falta para la máquina ni abrir la tapa).",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 11
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Volcamos el contenido en una fuente y espolvoreamos con el queso rallado por encima (opcional). Servimos y decoramos con el crujiente de jamón cortado en tiras.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/arroz-con-esparragos-trigueros-boletus-confitados-y-crujiente-de-jamon/",
+    "creado_en": "2026-09-10"
+  },
+  {
+    "id": "02e79bd4-d62c-4042-8790-fcd52c42b6a7",
+    "slug": "macarrones-con-brocoli-y-queso-azul",
+    "titulo": "Macarrones con brócoli y queso azul",
+    "descripcion": "Receta de Macarrones con brócoli y queso azul adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/11/macarrones-con-brocoli-y-queso-azul-thermorecetas.jpg",
+    "categoria": "sopas-y-cremas",
+    "tiempo_total_min": 25,
+    "comensales": 2,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "160 g de macarrones",
+      "100 g de brócoli",
+      "50 g de queso azul",
+      "1 diente de ajo",
+      "15 g de aceite de oliva",
+      "Sal y pimienta"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Calentar 1 litro de agua programando 7 minutos, 100º, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 6
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Mientras, lavar el brócoli y separarlos en ramilletes pequeños o en flores que son aún más pequeñas. Colocarlas en el Varoma y reservar.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Cuando el agua haya alcanzado la temperatura marcada, poner la pasta en su interior. Salar y programar el tiempo marcado en el paquete, 100º, velocidad cuchara. En mi caso fueron 11 minutos.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 9
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Colocar el Varoma en su sitio.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Terminado el tiempo retirar el Varoma y mantener en sitio caliente. Escurrir la pasta y aclarar el vaso.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Pelar el ajo y cortarlo en láminas finas. Añadir el aceite de oliva y rehogar durante 5 minutos, 100º y velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Una vez que estén dorados incorporar la pasta y la mitad del queso azul. Salpimentar y saltear durante 2 minutos, 100º, velocidad cuchara, giro a la izquierda.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 2
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Colocar la pasta en los platos o en una fuente. Repartir los ramilletes de brócoli por encima y terminar de decorar con el resto del queso azul.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Servir inmediatamente.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "¡Buen provecho!",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/macarrones-con-brocoli-y-queso-azul/",
+    "creado_en": "2026-09-10"
+  },
+  {
+    "id": "41ece09c-1301-439c-993e-93bd58817e1a",
+    "slug": "tortas-de-pascua",
+    "titulo": "Tortas de pascua",
+    "descripcion": "Receta de Tortas de pascua adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/11/tortas-de-pascua.jpg",
+    "categoria": "bebidas",
+    "tiempo_total_min": 40,
+    "comensales": 8,
+    "dificultad": "Media",
+    "ingredientes": [
+      "350 g de almendras sin piel (230g para la masa y el resto para decorar)",
+      "130 g de aceite de oliva virgen extra",
+      "130 g de zumo de naranja natural",
+      "110 g de licor de anís",
+      "450 g de azúcar (300 g para la masa y el resto para decorar)",
+      "50 g de levadura prensada fresca de panadería",
+      "1 huevo",
+      "10 g de anís en grano",
+      "1/2 cucharadita de bicarbonato de sodio",
+      "650 g de harina de fuerza",
+      "75 g de piñones"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Tostamos las almendras ya peladas en el horno (horno a 180º durante 10-12 minutos aproximadamente).",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 12
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Ponemos en el vaso las almendras. Con el selector de velocidad en vaso cerrado vamos a dar dos golpes de turbo. Retiramos a un bol y reservamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": "Turbo",
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Ponemos en el vaso el aceite, el zumo de naranja, el licor de anís, 300 g de azúcar, la levadura, el huevo y el anís en grano. Programamos 3 minutos, 37º, velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 3
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Agregamos el bicarbonato y la mitad de la harina -325 g- y programamos 30 segundos, velocidad 6.",
+        "accesorio": "Cuchillas",
+        "velocidad": 6,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Incorporamos el resto de la harina, 230 g de almendra y los piñones y programamos 3 minutos, vaso cerrado, velocidad espiga. En este tiempo, de vez en cuando, introducimos la espátula por el vocal y movemos los ingredientes para conseguir un amasado uniforme. Dejamos reposar la masa en el vaso durante 30 minutos.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 3
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Con las manos untadas con un poquito de aceite cogemos una porción de masa, hacemos una bolita con las manos y la aplastamos sobre la superficie de trabajo (yo utilizo una lámina de silicona pero si no tenéis no olvidéis poner un poquito de aceite en vuestra encimera). A esa porción le damos forma de círculo de aproximadamente 8-10 cms. Espolvoreamos las tortas con las almendras y el azúcar restante. Dejamos reposar durante 20 minutos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 20
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Horneamos en horno precalentado a 180º durante 20 minutos aproximadamente.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 20
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/tortas-de-pascua/",
+    "creado_en": "2026-09-10"
   }
 ]
