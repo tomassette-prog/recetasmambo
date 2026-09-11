@@ -31714,5 +31714,572 @@
     ],
     "fuente_url": "https://www.thermorecetas.com/tortas-de-pascua/",
     "creado_en": "2026-09-10"
+  },
+  {
+    "id": "112f54bd-3ae6-4ee1-a2e1-8bbed069e86f",
+    "slug": "col-lombarda-con-manzana-y-pasas",
+    "titulo": "Col lombarda con manzana y pasas",
+    "descripcion": "Receta de Col lombarda con manzana y pasas adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/11/col-lombarda.jpg",
+    "categoria": "sopas-y-cremas",
+    "tiempo_total_min": 30,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "500 g de col lombarda, lavada y sin el tronco blanco grueso",
+      "175 g de manzana golden pelada",
+      "50 g de pasas de corinto o pasas sultanas",
+      "15 g de piñones",
+      "2 dientes de ajo",
+      "50 ml (medio cubilete) de aceite de oliva",
+      "50 ml (medio cubilete) de vino blanco",
+      "100 ml (1 cubilete) de agua",
+      "sal y pimienta al gusto"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Poner las pasas a remojo en agua caliente.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Cortar la col lombarda en 4 trozos e introducirla en el vaso. Triturar durante 4 segundos a velocidad 5. Sacar, salpimentar y reservar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Sin limpiar el vaso, introducir el aceite, los ajos y las manzanas en 4 trozos. Triturar durante 3 segundos a velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Añadir las pasas escurridas y programar 5 minutos, temperatura Varoma, velocidad cuchara, giro a la izquierda.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Añadir la col, el vino blanco y el agua. Programar 25 minutos, temperatura Varoma, giro a la izquierda, velocidad cuchara. Con el cubilete puesto.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 21
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "minutos antes de terminar, quitar el cubilete, añadir los piñones y dejar el cubilete quitado.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/col-lombarda-con-pasas/",
+    "creado_en": "2026-09-11"
+  },
+  {
+    "id": "1b43f9d1-5294-41f2-a135-7ac799062d88",
+    "slug": "barquitas-de-aguacate",
+    "titulo": "Barquitas de aguacate",
+    "descripcion": "Receta de Barquitas de aguacate adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/11/Barquitas_aguacate.jpg",
+    "categoria": "pescados",
+    "tiempo_total_min": 1,
+    "comensales": 4,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "4 aguacates medianos",
+      "1/2 cebolleta",
+      "1 tomate pequeño",
+      "200 gr de salmón ahumado",
+      "16 langostinos o gambas cocidas",
+      "15 gr de aceite de oliva virgen extra",
+      "un chorrito de limón",
+      "sal al gusto (con moderación porque el salmón ahumado ya está bastante salado)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos en el vaso de la thermomix la cebolleta y trituramos 4 segundos, velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Añadimos el tomate en cuartos, el salmón en trozos y los langostinos (reservamos 8 para decorar por encima las barquitas). Trituramos 5 segundos, velocidad 4. Si os gusta más triturado, programad unos segundos más.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Vaciamos los aguacates con ayuda de un sacabolas o de una cuchara con mucho cuidado. Echamos el relleno en el vaso, junto con el aceite, la sal y el limón. Trituramos 3 segundos, velocidad 1. El punto de aguacate en este paso irá en función de vuestros gustos. A mí me gusta que queden trocitos de aguacate, pero si os gusta más estilo guacamole sólo tenéis que dejarlo unos segundos más o subirlo a velocidad 2.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Echamos este relleno en las barquitas y coronamos con una gambita o langostino en la parte de arriba.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/barquitas-de-aguacate/",
+    "creado_en": "2026-09-11"
+  },
+  {
+    "id": "bec05a9b-b512-4ca7-8968-7baabd318e70",
+    "slug": "crujientes-de-verduras",
+    "titulo": "Crujientes de verduras",
+    "descripcion": "Receta de Crujientes de verduras adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/11/crujientes-de-verduras-thermorecetas.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 30,
+    "comensales": 14,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "250 g de patatas",
+      "100 g de guisantes congelados",
+      "3 dientes de ajo",
+      "30 g de aceite de oliva",
+      "7 hojas de pasta filo",
+      "½ cucharadita de postre de jengibre rallado",
+      "1 cucharadita de postre de comino molido",
+      "1 cucharadita de postre de cilantro molido",
+      "1 cucharadita de postre de canela molida",
+      "100 g de mantequilla derretida",
+      "Semillas de sésamo",
+      "Sal y pimienta"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Poner en el vaso agua hasta la marca de un litro. Calentar durante 7 minutos, 100º, velocidad 1. Mientras pelar las patatas; lavarlas y cortarlas en dados de tamaño medio. Salarlas y reservarlas en el cestillo. Poner los guisantes en el varoma también con un pellizco de sal y reservar.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 6
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Cuando el agua ya esté caliente, abrir el vaso y poner el cestillo en su interior. Colocar la tapa y el varoma en su posición. Programar 10 minutos, 100º, velocidad 3. Cuando finalice el tiempo retirar el Varoma, colocar el cubilete y seguir con la cocción de las patatas programando 5 minutos, 100º, velocidad 3. Después retirar las patatas, escurrirlas y dejarlas enfriar.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Aplastar las patatas con un tenedor y mezclar con los guisantes que han de quedar enteros.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Lavar y secar el vaso. Picar los ajos durante 5 segundos, velocidad 5. Añadir el aceite y sofreír durante 5 minutos, temperatura Varoma, velocidad 1. Colocar la mariposa en la cuchillas y añadir las verduras que teníamos reservadas. Condimentar al gusto con las especias. Mezclar durante 2 minutos, 80º, velocidad 2, giro a la izquierda.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Precalentar el horno a 180º.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Mientras, derretir la mantequilla en el microondas. Extender una de las láminas en una superficie lisa, pintarla con la mantequilla derretida. Colocar otra de las láminas y cortar 4 tiras del mismo ancho. El resto de las láminas o hojas hay que taparlas con un paño ligermanete humedecido para que no se resequen.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Colocar una porción del relleno en la parte inferior de una de las tiras y doblar en triángulo hasta terminar la pasta. Pintar el extremo con un poco de mantequilla para que se pegue bien. Colocar el triángulo en una bandeja del horno con los bordes hacia abajo. Proceder del mismo modo hasta terminar la pasta filo y el relleno.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Cuando tengamos todas los triángulos dispuestos en las bandejas de horno pintarlos con mantequilla derretida y espolvorear unos granos de sésamo.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Hornear durante 10 – 15 minutos a 180º.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 15
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Se pueden servir fríos o calientes. Se pueden acompañar de un chutney de higos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/crujientes-de-verduras/",
+    "creado_en": "2026-09-11"
+  },
+  {
+    "id": "4c3cbb7d-028f-43f3-a9f9-6c4faefff8a9",
+    "slug": "lubina-con-patatas-en-thermomix",
+    "titulo": "Lubina con patatas en Thermomix",
+    "descripcion": "Receta de Lubina con patatas en Thermomix adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/11/lubina-con-patatas-en-thermomix.jpg",
+    "categoria": "pescados",
+    "tiempo_total_min": 25,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "2 dientes de ajo",
+      "2 o 3 ramilletes de perejil",
+      "2 lubinas de unos 300 g cada una (o una grande que quepa en la bandeja del Varoma). Enteras pero limpias de escamas y tripas.",
+      "Sal y pimienta",
+      "40 g de aceite de oliva virgen extra",
+      "3 o 4 patatas cortadas en dados",
+      "300 g de agua",
+      "3 o 4 tomates cherry"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos en el vaso los ajos y las ramitas de perejil. Trituramos 5 segundos, velocidad 7. Reservamos aparte.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Forramos con papel de horno la bandeja del recipiente Varoma y colocamos encima el pescado. Lo condimentamos poniéndole por encima la mitad del ajo y del perejil que hemos triturado antes, añadimos sal, pimienta y 10 g de aceite de oliva. La otra mitad de ajo y perejil triturada la pondremos luego en el agua.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Cortamos las patatas en cuadraditos y las ponemos en el recipiente Varoma.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "En el vaso de la Thermomix ponemos el agua, 30 g de aceite, la otra mitad de ajo y perejil que habíamos triturado, los tomatitos, sal y pimienta.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Tapamos el vaso. Colocamos el recipiente Varoma, con las patatas, en su posición. Ahora ponemos la bandeja con el pescado y lo cubrimos con la tapa. Programamos 20 minutos, temperatura Varoma, velocidad 1. Ojo, si habéis utilizado una lubina grande en vez de dos pequeñas tendrés que darle unos 5-10 minutos más.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 20
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Acabado el tiempo retiramos el pescado y lo limpiamos de pieles y espinas si preferimos servirlo listo para comer (como en la foto). El jugo que ha/n soltado la/s lubina/s estará en el papel de horno así que, con cuidado, lo añadimos al caldo que tenemos en el vaso.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 21
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Servimos el pescado acompañado de la salsa que tenemos el el vaso y de las patatas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/lubina-con-patatas-en-thermomix/",
+    "creado_en": "2026-09-11"
+  },
+  {
+    "id": "e3482db8-1938-4717-b7e1-02b43a86116b",
+    "slug": "crema-de-setas-con-queso-trufado-y-detalle-de-mermelada",
+    "titulo": "Crema de setas con queso trufado y detalle de mermelada",
+    "descripcion": "Receta de Crema de setas con queso trufado y detalle de mermelada adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/11/crema-de-setas.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 10,
+    "comensales": 4,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "300 g de setas variadas limpias y troceadas (pueden ser congeladas, pero hay que descongelarlas previamente).",
+      "50 g de queso de oveja curado (puede ser otros queso, pero viejo o curado, con sabor).",
+      "75 g de queso mascarpone.",
+      "100 g de cebolla.",
+      "1 diente de ajo.",
+      "50 ml de agua.",
+      "50 ml de vino blanco.",
+      "30 g de leche entera.",
+      "25 ml de aceite (1/4 de cubilete).",
+      "1 cucharadita de sal.",
+      "1 trocito de trufa negra.",
+      "4 cucharaditas de mermelada (de pimiento, tomate, ciruela) o cebolla caramelizada."
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Introducir el queso de oveja en el vaso. Rayar un poco de trufa negra (al gusto) sobre el mismo. Triturar a golpe de turbo. Sacar y reservar.",
+        "accesorio": "Cuchillas",
+        "velocidad": "Turbo",
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Introducir el mascarpone y la leche y batirlo durante 30 segundos a velocidad 2.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Añadir el queso de oveja triturado y mezclarlo nuevamente durante 20 segundos a velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Sacar y reservar. Limpiar el vaso.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Introducir las setas, el ajo, el aceite, la sal y la cebolla a cuartos. Triturar durante 5 segundos, a velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Añadir el agua y el vino blanco. Programar 8 minutos, 100º, velocidad cuchara, giro a la izquierda. Sin cubilete.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 7
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Dejar que se enfríe un poco y triturar durante 1 minuto a velocidad progresiva 5/10.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Disponer la crema de setas en el fondo y colocar sobre ella una cucharada grande de quema de queso. Sobre el queso, una cucharadita de mermelada o cebolla caramelizada.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/crema-de-setas-con-queso-trufado-y-detalle-de-mermelada/",
+    "creado_en": "2026-09-11"
+  },
+  {
+    "id": "d0454728-78ac-44f8-9ca7-4d694b41b711",
+    "slug": "mejillones-en-vinagreta-especial-navidad",
+    "titulo": "Mejillones en vinagreta especial Navidad",
+    "descripcion": "Receta de Mejillones en vinagreta especial Navidad adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/11/Mejillones_en_vinagreta.jpg",
+    "categoria": "pescados",
+    "tiempo_total_min": 20,
+    "comensales": 6,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "1 kg de mejillones (pesados con las conchas)",
+      "1 litro de agua con sal",
+      "1 tomate en cuartos",
+      "1/2 pimiento verde en trozos",
+      "1/2 pimiento rojo en trozos",
+      "1/2 cebolleta en trozos",
+      "150 gr de aceite de oliva virgen extra",
+      "40 gr de vinagre de manzana",
+      "1/2 cucharadita de sal",
+      "unas hojas de perejil fresco",
+      "Reducción de vinagre de Módena para decorar (yo uso la de Mercadona)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Lavamos los mejillones con agua templada y les limpiamos las barbas. Los colocamos en el recipiente varoma.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Echamos el agua en el vaso, colocamos el varoma encima con los mejillones y programamos 15 minutos, temperatura varoma, velocidad 1.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 12
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Cuando termine el tiempo, reservamos los mejillones y esperamos a que se templen.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Quitamos el agua del vaso y secamos (no hace falta fregar el vaso).",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Añadimos la cebolleta y los pimientos y trituramos 4 segundos, velocidad 4. Miramos que esté bien picadito, si no es así, trituramos 1 o 2 segundos más. Reservamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Añadimos el tomate y trituramos 4 segundos, velocidad 4. Reservamos y añadimos a los pimientos y la cebolleta.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Ahora vamos a hacer la vinagreta mediante emulsión. Primero pesamos el aceite en una jarrita o recipiente y reservamos. Añadimos en el vaso el vinagre y la sal. Colocamos la velocidad en la posición 5 (sin programar tiempo) y vamos echando el aceite poco a poco sobre la tapa. Cuando se haya añadido todo el aceite, dejamos emulsionar 3 segundos más a velocidad 5 y retiramos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Añadimos esta vinagreta a las verduras que teníamos reservadas. Las dejamos macerar durante 24 horas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1440
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Quitamos una de las conchas de los mejillones y le dejamos la otra. Reservamos en la nevera bien cerrados en un tupper.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Ahora sólo tendremos que presentar los mejillones, con la vinagreta por encima y decorar con un hilo de reducción de vinagre de módena.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/mejillones-en-vinagreta/",
+    "creado_en": "2026-09-11"
   }
 ]
