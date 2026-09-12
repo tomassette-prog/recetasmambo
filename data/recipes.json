@@ -32281,5 +32281,651 @@
     ],
     "fuente_url": "https://www.thermorecetas.com/mejillones-en-vinagreta/",
     "creado_en": "2026-09-11"
+  },
+  {
+    "id": "77e436fc-7b4e-4b73-89e6-eca09968bee0",
+    "slug": "espuma-de-limon",
+    "titulo": "Espuma de limón",
+    "descripcion": "Receta de Espuma de limón adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/11/espuma-de-limon-thermorecetas.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 10,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "100 g de azúcar blanquilla",
+      "75 g de zumo de limón",
+      "Piel de limón",
+      "2 huevos a temperatura ambiente",
+      "10 g de maicena",
+      "225 g de nata para montar"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Lavar y secar bien el limón, con un pelador de patatas retirar dos trozos de piel sin nada de parte blanca. Ponerlos en vaso junto con el azúcar y pulverizar durante 15 segundos a velocidad progresiva 5-7-9.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Añadir el zumo de limón, los huevos y la maicena. Mezclar programando 20 segundos, velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "A continuación programar 8 minutos, 100º, velocidad 2. Transcurrido el tiempo tendremos un crema densa con un delicioso olor y sabor a limón. Retirarla a un cuenco y dejarla enfriar. Para que no forme costra poner un trozo de film transparente pegado a la supercie de la crema.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Colocar la mariposa en el vaso limpio. Verter la nata y programar velocidad 3 1/2 sin tiempo. Retirar 125 g de la nata montada y mezclarla con la crema fría.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Repartir la espuma en 4 copas o cuencos bonitos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "El resto de nata introducirla en una manga pastelera con una boquilla rizada. Decorar las copas y coronar con unas caramelitos, gominolas o corteza de cítricos caramelizados.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Si no decoráis las copas con nata poner sólo 120 g que se mezclarán con la crema de limón tal y como se indica.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/espuma-de-limon/",
+    "creado_en": "2026-09-12"
+  },
+  {
+    "id": "f75eeb87-e931-48f6-9b1f-60e68f9b7b3c",
+    "slug": "pasta-fresca-a-la-crema-de-leche-con-embutido-de-lomo-al-aroma-de-arandanos",
+    "titulo": "Pasta fresca a la crema de leche con embutido de lomo al aroma de arándanos",
+    "descripcion": "Receta de Pasta fresca a la crema de leche con embutido de lomo al aroma de arándanos adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/11/pasta-fresca-con-lomo-y-arandanos.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 13,
+    "comensales": 4,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "500 g de pasta fresca",
+      "150 g de lomo (embutido) partido en lonchas finitas. Si encontráis el Speck, por supuesto, podéis utilizarlo",
+      "1 cebolla morada, partida en cuartos",
+      "150 g de nata líquida (yo le he puesto nata fresca pero la de cocina normal también os servirá)",
+      "150 g de leche entera",
+      "100 g de arándanos",
+      "40 g de aceite de oliva virgen extra",
+      "50 g de queso parmesano rallado",
+      "Sal"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Si el queso lo tenemos sin rallar comenzamos la receta poniéndolo en el vaso y rallándolo con unos golpes de turbo. Reservamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": "Turbo",
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Lavamos los arándanos y los secamos con papel de cocina.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Separamos algunos para la decoración y trituramos el resto programando 10 segundos, velocidad 8. Sacamos el puré de arándanos del vaso y reservamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 8,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Ponemos la cebolla en el vaso y trituramos 3 segundos, velocidad 6. Bajamos con la espátula lo que haya quedado en las paredes y añadimos el aceite. Sofreímos programando 3 minutos, 100º, velocidad 2.",
+        "accesorio": "Cuchillas",
+        "velocidad": 6,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 3
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Añadimos las lonchas finitas de lomo (o de speck) -podéis partirlas si creéis que son demasiado grandes) y programamos 2 minutos, 100º, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 2
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Acabado el tiempo añadimos la leche, la nata y la sal. Programamos 10 minutos, 100º, velocidad 1.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Mientras vamos cociendo la pasta en una cacerola con abundante agua salada. La cocción de la pasta también la podéis hacer en vuestra Thermomix (os dejo el enlace para que veáis cómo hacerlo). En esta receta yo la he cocido aparte para poder servirlo todo en caliente.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Echamos sobre la pasta la crema de leche, los arándanos triturados y el queso parmesano rallado. Mezclamos bien todo y servimos en los platos individuales. Decoramos cada plato con los arándanos enteros que habíamos reservado al principio.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Servimos inmediatamente y disfrutamos de un plato de pasta diferente.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/pasta-fresca-a-la-crema-de-leche-con-embutido-de-lomo-al-aroma-de-arandanos/",
+    "creado_en": "2026-09-12"
+  },
+  {
+    "id": "b9720463-f743-4805-8a37-582c2213b569",
+    "slug": "crema-de-calabacin-y-wasabi-con-salmon-fresco-y-jengibre",
+    "titulo": "Crema de calabacín y wasabi con salmón fresco y jengibre",
+    "descripcion": "Receta de Crema de calabacín y wasabi con salmón fresco y jengibre adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/12/crema-de-calabacin-wasabi.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 12,
+    "comensales": 8,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "200 g de calabacín",
+      "1 rodaja de salmón fresco (si es aperitivo) o 4 rodajas de salmón fresco (si es ración)",
+      "1 cucharada colmada de queso de untar tipo philadelphia",
+      "1 cucharadita de wasabi",
+      "125 ml de agua",
+      "1/2 cucharadita de sal",
+      "1 raíz de jengibre pequeña o jengibre confitado (gari)",
+      "pimienta al gusto",
+      "50 ml (1/2 cubilete) de aceite de oliva"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Corta el calabacín en 4 trozos e introdúcelo en el vaso. Añade 25 ml de aceite de oliva (1/4 de cubilete), media cucharadita de sal, pimienta al gusto y 125 ml de agua. Tritúralo todo durante 4 segundos a velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Programa 4 minutos, temperatura Varoma, velocidad 1.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 4
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Pon mientras en la bandeja del recipiente Varoma el salmón, pela la raíz de jengibre y salpica el salmón con pequeños trocitos.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Coloca el Varoma sobre el vaso y vuelve programar 6 minutos, temperatura Varoma, velocidad 1.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 6
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Destapa la bandeja (cuidado con el vapor, que quema) y mira si está a tu gusto el salmón. A mí me gusta poco hecho. Si ves que necesita más para tu gusto, programa 2 minutos más. Deja la bandeja destapada cuando esté en su punto para que no se siga haciendo.",
+        "accesorio": "Ninguno",
+        "velocidad": 0,
+        "temperatura_c": 120,
+        "potencia_calorifica": 9,
+        "tiempo_minutos": 2
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Quita el recipiente Varoma, y añade al vaso la cucharadita de wasabi, el queso y otros 25 ml de aceite. Deja enfriar un poco y tritura durante 30 segundos a velocidad progresiva 5/10",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Si lo sirves como aperitivo, pon una base de salsa, un trocito de salmón y un trocito de raíz de jengibre (o de lámina confitada) por encima.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Si lo sirves como segundo plato, coloca la rodaja de salmón junto a su salsa en el plato y adórnalo con un trocito de jengibre.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/crema-de-calabacin-y-wasabi-con-salmon-fresco-y-jengibre/",
+    "creado_en": "2026-09-12"
+  },
+  {
+    "id": "b4fa24d1-6c9f-4589-b2a3-de92b71ff026",
+    "slug": "tartar-de-salmon-fresco",
+    "titulo": "Tartar de salmón fresco",
+    "descripcion": "Receta de Tartar de salmón fresco adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/12/Tartar_de_salmon.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 1,
+    "comensales": 4,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "1 cucharadita de granos de pimienta rosa (opcional, yo no le puse)",
+      "2 ramitas de eneldo fresco (o seco)",
+      "300 gr de salmón fresco en filetes sin piel ni espinas",
+      "el zumo de 1/2 limón",
+      "2 cucharadas de aceite de oliva virgen extra",
+      "1/2 cucharadita de salsa Perrins",
+      "1/2 cucharadita de sal",
+      "1 pizca de pimienta"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos la pimienta rosa y el eneldo en el vaso y programamos 5 segundos, velocidad 6.",
+        "accesorio": "Cuchillas",
+        "velocidad": 6,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Bajamos con la espátula todo hacia las cuchillas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Añadimos el salmón, el zumo de limón, el aceite, la salsa Perrins, la sal y la pimienta. Programamos 4 segundos, velocidad 5, giro a la izquierda.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Servimos en un cuenco para que la gente se unte lo que quiera y espolvoreamos con eneldo seco.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/tartar-de-salmon-fresco/",
+    "creado_en": "2026-09-12"
+  },
+  {
+    "id": "9acf9827-dded-46b0-b480-25facdecba7b",
+    "slug": "popietas-de-lenguado-a-los-citricos",
+    "titulo": "Popietas de lenguado a los cítricos",
+    "descripcion": "Receta de Popietas de lenguado a los cítricos adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/11/popietas-de-lenguado-citricos-thermorecetas.jpg",
+    "categoria": "salsas",
+    "tiempo_total_min": 20,
+    "comensales": 1,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "1 lenguado en filetes",
+      "1 naranja",
+      "1 limón",
+      "3 ajos tiernos (sólo la parte blanca)",
+      "2 langostinos crudos",
+      "1 cucharada de uvas pasas",
+      "30 g de mantequilla",
+      "Sal y pimienta"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Retirar las hojas exteriores los ajos tiernos. Lavar, cortar al bies y reservar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Lavar y secar bien los cítricos. Con un rallador fino rallar ambos hasta conseguir una cucharada pequeña de piel de naranja y otra de piel de limón. Después exprimir ambos cítricos por separado.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Salpimentar los filetes y dejarlos marinar junto al zumo de limón durante 30 minutos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 30
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Poner las uvas pasas a remojo en agua durante 30 minutos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 25
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Retirar la cabeza y pelar los langostinos. Trocar cada langostino en 4 o 5 trocitos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Cuando hayan pasado 20 minutos del tiempo de marinado, poner los ajos tiernos en el vaso junto con 20 gramos de mantequilla. Dorarlos durante 10 minutos, 100º, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 20
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Escurrir los filetes, enrollarlos y sujetarlos con hilo de cocina. Colocarlos en el cestillo junto a los trocitos de langostin. Colocar el cestillo dentro del vaso y programar 2 minutos, 100º, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 2
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Levantar el cestillo, añadir las ralladuras, las uvas pasas escurridas y el zumo de naranja. Colocar otra vez el cestillo dentro y programar 4 minutos, 100º, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 4
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Retirar el cestillo y filtrar el contenido del vaso sobre un cuenco. Mientras hacemos la salsa mantener las popietas de lenguado, los langostinos y los ajos tiernos en calor.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Volver a colocar los jugos (sin ajos tiernos ni uvas pasas) en el vaso. Programar 2 minutos, temperatura Varoma, velocidad 1.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 2
+      },
+      {
+        "paso_numero": 11,
+        "instruccion": "Salpimentar la salsa, añadir el resto de la mantequilla y volver a programar 2 minutos, temperatura Varoma, velocidad 1 pero esta vez sin cubilete.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 2
+      },
+      {
+        "paso_numero": 12,
+        "instruccion": "En un plato colocar una cama de ajos tiernos y uvas. Poner encima las popietas y los langostinos. Regar con la salsa de cítricos o hacer una línea paralela a la cama como en la foto.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/popietas-de-lenguado-a-los-citricos/",
+    "creado_en": "2026-09-12"
+  },
+  {
+    "id": "13780e1c-9379-472d-aafb-a8f1bb5ed3a1",
+    "slug": "ensaimada",
+    "titulo": "Ensaimada",
+    "descripcion": "Receta de Ensaimada adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/07/ensaimada.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 60,
+    "comensales": 8,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "70 g de huevos (cascamos 2 huevos en un bol, los batimos un poco y pesamos los 70 g exactos)",
+      "50 g de azúcar",
+      "50 g de agua",
+      "230 g de harina de fuerza",
+      "10 g de levadura prensada fresca de panadería",
+      "15 g de aceite",
+      "100-150 g de manteca de cerdo a temperatura ambiente",
+      "100-150 g de cabello de ángel",
+      "Azúcar glass"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Preparamos la masa por la noche.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Vamos a empezar pulverizando el azúcar para convertirla en glass y poder decorar la ensalmada una vez horneada. Ponemos azúcar en el vaso y programamos 1 minuto, velocidad progresiva 5-10. Si luego nos sobra podemos guardarla en un bote de cristal o bolsa de plástico y utilizarla en otra receta.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Ponemos en el vaso los huevos, el azúcar y el agua. Programamos 15 segundos, velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Añadimos la harina y programamos 4 segundos, velocidad 6.",
+        "accesorio": "Cuchillas",
+        "velocidad": 6,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Programamos 8 minutos, vaso cerrado, velocidad espiga. Ojo, cuidado con la Thermomix que se puede mover.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Cuando falten dos minutos, añadimos la levadura desmenuzada por el bocal.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Incorporamos el aceite y programamos  2 minutos, vaso cerrado, velocidad espiga. Nos quedará una masa brillante. Dejamos reposar la masa dentro del vaso unos 10 minutos.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 2
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Si queréis hacer una sola ensaimada seguid los pasos que os pongo aquí. Si queréis hacer dos, dividid la masa en dos partes iguales y también las medidas que os pongo a continuación, es decir, en vez de 1 metro x 20 cms tendrá que tener cada mitad 50×10 cms).",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Untamos con aceite la superficie de trabajo. Con las manos, le damos forma rectangular y empezamos a extenderla con ayuda del rodillo. Cuando tenga un largo de 1 metro aproximadamente y un ancho de 20 centímetros la untamos con la manteca de cerdo. Cogemos la masa por los bordes, deslizamos la mano por debajo y estiramos la masa hasta que quede casi transparente.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Cortamos a lo largo de la masa extendida un borde de unos 3-4 cms que colocaremos en el extremo opuesto y que nos servirá para enrollar la masa. Encima del cordón colocamos el cabello de ángel. Ahora vamos enrollando la masa intentando siempre estirarla y con cuidado de que no se nos rompa. Cuando hayamos terminado tendremos un cordón de más de 1 metro de largo por 4 cms de diámetro (si habéis hecho dos será más 50 cms de largo). Le damos forma de ensaimada.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 11,
+        "instruccion": "La colocamos en la bandeja de horno donde tendrá que levar.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 12,
+        "instruccion": "Dejamos reposar la masa durante 8-10 horas en un lugar libre de corrientes de aire. El horno apagado puede ser perfecto.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 600
+      },
+      {
+        "paso_numero": 13,
+        "instruccion": "A la mañana siguiente sacamos la ensalmada del horno (si la habíamos dejado ahí para levar) y precalentamos el horno a 180º.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 14,
+        "instruccion": "Cuando haya cogido esa temperatura, metemos la ensalmada y horneamos durante 15-20 minutos. Retiramos la ensalmada del horno y espolvoreamos con azúcar glass.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 20
+      },
+      {
+        "paso_numero": 15,
+        "instruccion": "Y a disfrutar, del olor, del sabor… y de las felicitaciones, claro.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/ensaimada/",
+    "creado_en": "2026-09-12"
   }
 ]
