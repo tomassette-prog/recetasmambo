@@ -32927,5 +32927,570 @@
     ],
     "fuente_url": "https://www.thermorecetas.com/ensaimada/",
     "creado_en": "2026-09-12"
+  },
+  {
+    "id": "be299a99-625a-4f35-898b-c0f5210091ee",
+    "slug": "cremoso-de-queso-de-cabra-y-berenjena-ahumada-con-dulce-de-pimiento-del-piquillo",
+    "titulo": "Cremoso de queso de cabra y berenjena ahumada con dulce de pimiento del piquillo",
+    "descripcion": "Receta de Cremoso de queso de cabra y berenjena ahumada con dulce de pimiento del piquillo adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/12/cremoso-de-queso-de-cabra.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 9,
+    "comensales": 8,
+    "dificultad": "Media",
+    "ingredientes": [
+      "1 berenjena (300 g aproximadamente)",
+      "250 g de queso mascarpone",
+      "150 g de queso de cabra (del cremoso con forma de cilindro)",
+      "75 g de pimientos del piquillo",
+      "1 diente de ajo",
+      "3 cucharadas de azúcar",
+      "sal",
+      "pimienta negra",
+      "orégano",
+      "aceite de oliva",
+      "50 g de frutos secos triturados a golpe de turbo: almendras, avellanas o nueces (opcional, para decorar)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Lavamos la berenjena y la ponemos entera, sin pelar, sobre la plancha muy caliente. Vamos a quemarla. La dejaremos hasta que se asiente sobre su piel, perdiendo su forma redondeada sobre la parte apoyada en la plancha para convertirse en plana, negra y quebradiza. Luego le daremos la vuelta y haremos lo mismo por el otro lado.",
+        "accesorio": "Ninguno",
+        "velocidad": 0,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Mientras se va haciendo, ponemos los quesos, media cucharadita de sal y pimienta al gusto en el vaso y lo trituramos todo durante 30 segundos a velocidad 7. Sacamos y reservamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Limpiamos el vaso e introducimos los pimientos del piquillo y el azúcar. Programamos 8 minutos, 70º, velocidad 1. Sin cubilete.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Trituramos durante 15 segundos a velocidad 7. Sacamos y reservamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Una vez hecha la berenjena, la pelaremos y extraeremos toda su pulpa rascando la piel con ayuda de una cuchara. La introducimos en el vaso junto con el ajo, 1/2 cucharadita de sal, 2 cucharadas de aceite de oliva y pimienta negra al gusto. Trituramos durante 20 segundos a velocidad 7.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Montamos el vasito con el dulce de piquillo al fondo, la crema de queso encima y finalizamos con la crema de berenjena. Para coronar el vasito, espolvoreamos por encima con los frutos secos.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/cremoso-de-queso-de-cabra-y-berenjena-con-dulce-de-pimiento-del-piquillo/",
+    "creado_en": "2026-09-13"
+  },
+  {
+    "id": "01f95aab-fd53-4589-9aa8-beea43b03a25",
+    "slug": "muffins-de-arandanos",
+    "titulo": "Muffins de arándanos",
+    "descripcion": "Receta de Muffins de arándanos adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/12/muffins_arándanos.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 10,
+    "comensales": 12,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "12 moldes de papel para magdalenas o muffns",
+      "180 g de harina de trigo normal",
+      "10 g de levadura química (tipo Royal)",
+      "2 huevos",
+      "180 g de azúcar moreno (si queréis también podéis usar blanco)",
+      "3 cucharadas de azúcar vainillado o 3 gotas de esencia de vainilla",
+      "150 g de mantequilla ablandada (temperatura ambiente)",
+      "200 g de nata para cocinar",
+      "100 g de arándanos deshidratados (los tenemos en agua caliente mientras preparamos la masa)",
+      "azúcar blanco para espolvorear (opcional)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Echamos los huevos, la vainilla y el azúcar y programamos 3 minutos, temperatura 37º, velocidad 3 1/2. Cuando termine el tiempo, programamos 3 minutos más a la misma velocidad pero sin temperatura.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 3
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Añadimos la mantequilla y la nata y trituramos a velocidad 2 unos segundos hasta que se integre bien.",
+        "accesorio": "Cuchillas",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Incorporamos la harina y la levadura y trituramos 6 segundos, velocidad 3. Si no se ha mezclado bien, programamos unos segundos más.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Echamos la masa en un bol y añadimos los arándanos que teníamos en remojo bien escurridos. Removemos con la espátula.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Vamos rellenando los moldes de las magdalenas hasta 3/4 de su capacidad.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Espolvoreamos azúcar blanco por encima (opcional).",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Encendemos el horno a 200º y cuando haya alcanzado la temperatura metemos los muffins y bajamos la temperatura a 190º. Así le damos tiempo a la masa a reposar mientras se calienta el horno.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Cocinamos durante 25 minutos aproximadamente. Para saber si ya están, las pinchamos con la punta de un cuchillo y si sale limpio, ya tenemos listos nuestros muffins.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 25
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/muffins-de-arandanos/",
+    "creado_en": "2026-09-13"
+  },
+  {
+    "id": "fac8aa5e-eb26-4882-af8b-e6ba66d9346e",
+    "slug": "trufas-de-chocolate-y-nubes",
+    "titulo": "Trufas de chocolate y nubes",
+    "descripcion": "Receta de Trufas de chocolate y nubes adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/11/trufas-de-chocolate-y-nubes-thermorecetas.jpg",
+    "categoria": "sopas-y-cremas",
+    "tiempo_total_min": 5,
+    "comensales": 20,
+    "dificultad": "Media",
+    "ingredientes": [
+      "200 g de chocolate negro",
+      "60 g de nata",
+      "60 g de nubes -marshmallows-",
+      "2 o 3 cucharadas soperas de cacao en polvo"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Poner el chocolate troceado en el vaso. Si se utilizan lágrimas no hace falta trocearlas. Rallar el chocolate durante 10 segundos, velocidad progresiva 5-7-9.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Añadir la nata y programar 4 minutos, 80º, velocidad 2. Mientras cortar con tijeras las nubes en trocitos pequeños.",
+        "accesorio": "Cuchillas",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 4
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Terminado el tiempo, bajar el vaso de la máquina. Dejar que se enfríe un poco el chocolate hasta que alcance los 37º incorporar las nubes. Mezclar durante 30 segundos, velocidad 3, giro a la izquierda.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Poner la mezcla en un bol amplio y dejar enfríar en la nevera unos 45 minutos. Cuando haya adquirido una consistencia manejable hacer bolitas con la mezcla. Rebozarlas en cacao y reservarlas en la nevera hasta el momento en que se vayan a consumir.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 45
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "A la hora de servir, sacar las trufas con unos 10 minutos de antelación y colocar cada trufa en una cápsula de papel. Disponerlas de forma bonita en una bandeja, plato o cajita.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/trufas-de-chocolate-y-nubes/",
+    "creado_en": "2026-09-13"
+  },
+  {
+    "id": "e7cafd53-9bb8-49b8-9767-6737dfa38d12",
+    "slug": "pan-al-vinagre-balsamico",
+    "titulo": "Pan al vinagre balsámico",
+    "descripcion": "Receta de Pan al vinagre balsámico adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/11/pan-al-vinagre-balsamico.jpg",
+    "categoria": "panes-masas",
+    "tiempo_total_min": 40,
+    "comensales": 4,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "200 g de agua a temperatura ambiente",
+      "50 g de vinagre balsámico",
+      "30 g de levadura fresca de panadería",
+      "1 cucharadita de azúcar",
+      "400 g de harina de fuerza",
+      "100 g de harina de repostería",
+      "1 cucharadita de sal",
+      "Aceite de oliva virgen extra (unos 10 gramos)",
+      "80 g de queso Parmesano rallado"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos en el vaso el agua, el vinagre balsámico, la levadura y el azúcar y mezclamos programando 20 segundos, velocidad 2.",
+        "accesorio": "Cuchillas",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Añadimos los dos tipos de harina y la sal. Amasamos programando 5 minutos, vaso cerrado, velocidad espiga.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Sacamos la masa y formamos una bola. Untamos la superficie con aceite. Dejamos reposar en un recipiente con los bordes altos y cubrimos con film transparente y con un paño de cocina durante 60 minutos aproximadamente.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 60
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Ponemos la masa ya levada sobre la encimare y, ayudándonos con el rodillo, la estiramos hasta conseguir un rectángulo de 1 cm de espesor aproximadamente.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Sin lavar el vaso rallamos el queso parmesano con unos golpes de turbo. Echamos el queso sobre la masa estirada y la enrollamos como si fuera un brazo de gitano (partimos de uno de los lados largos del rectángulo).",
+        "accesorio": "Cuchillas",
+        "velocidad": "Turbo",
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Cortamos el rulo en trocitos de unos 8 cms (o más pequeños, como prefiramos).",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Pincelamos cada pan con aceite de oliva y los colocamos sobre la placa de horno cubierta con papel de hornear. Cubrimos con film transparente y dejamos que leve otros 60 minutos.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 60
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Pasado ese tiempo, horneamos en horno precalentado a 180º durante 30 minutos aproximadamente.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 30
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/pan-al-vinagre-balsamico/",
+    "creado_en": "2026-09-13"
+  },
+  {
+    "id": "d4353c33-db1e-4d19-9371-89e9a8127381",
+    "slug": "rollitos-de-salmon-ahumado-al-aroma-de-coco",
+    "titulo": "Rollitos de salmón ahumado al aroma de coco",
+    "descripcion": "Receta de Rollitos de salmón ahumado al aroma de coco adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/12/rollitos-de-salmon.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 1,
+    "comensales": 4,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "200 g de salmón ahumado o marinado",
+      "150 g de queso de untar",
+      "30 g de avellanas",
+      "50 ml (medio cubilete) de batida de coco (bebida de ron con coco)",
+      "4 ramitas de cebollino",
+      "media cucharadita de sal",
+      "crema de vinagre balsámico (opcional)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Trituramos las avellanas a golpe de turbo.",
+        "accesorio": "Cuchillas",
+        "velocidad": "Turbo",
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Añadimos al vaso el queso, la batida de coco, el cebollino y la sal. Trituramos durante 10 segundos a velocidad 5. Reservamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Extendemos un papel film transparente sobre el banco de la cocina y disponemos sobre él un par de lonchas de salmón.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Extendemos sobre las lonchas la crema de queso en el centro de las mismas (ver foto).",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Enrollamos ayudándonos con el papel film.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Ya tenemos un rollito. Nos quedará cerrarlo y compactarlo. Para ello cogemos el papel film por los extremos y le damos vueltas al rollito sobre sí mismo, como si estuviéramos dando a la comba, de forma que queden los extremos enrollados, como un papel de caramelo.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Y seguimos con el siguiente.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Metemos los rollitos en la nevera durante, al menos, 2 horas. Con menos tiempo, se os desharán al cortarlos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 120
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Para servirlos, les quitamos el papel film y los cortamos en rodajas. Para ello, es mejor ir cortando en mitades. El rollito por la mitad, esa mitad por la mitad, y así sucesivamente. Es más sencillo y manejable de esta forma.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Servirmos con un chorrito de crema de vinagre balsámico.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/rollitos-de-salmon-ahumado-al-aroma-de-coco/",
+    "creado_en": "2026-09-13"
+  },
+  {
+    "id": "ec39ccf2-d525-4705-83f5-5d2801748b0b",
+    "slug": "albondigas-de-navidad",
+    "titulo": "Albóndigas de Navidad",
+    "descripcion": "Receta de Albóndigas de Navidad adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/12/Albóndigas_de_Navidad.jpg",
+    "categoria": "panes-masas",
+    "tiempo_total_min": 30,
+    "comensales": 20,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "1 kg de carne picada (mitad ternera, mitad cerdo)",
+      "sal",
+      "pimienta",
+      "20 dátiles",
+      "100 gr de miga de pan del día anterior (podéis usar pan de molde) mojado en leche",
+      "2 huevo",
+      "4 dientes de ajo",
+      "100 gr de cacahuetes pelados (podéis sustituir por nueces, almendras, pistachos…)",
+      "1 cucharada grande de perejil fresco picado o seco",
+      "1 cucharada rasa de cominos en polvo",
+      "2 cucharadas radas de harina",
+      "aceite de oliva virgen",
+      "2 cucharadas de miel",
+      "4 cucharadas de mostaza (podéis utilizar la que más os guste o una mezcla de varias)",
+      "1 cucharada de mayonesa",
+      "1 chorrito de zumo de limón",
+      "1 cucharada de aceite de oliva"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Echamos en el vaso de la thermomix los cacahuetes y trituramos 4 segundos, velocidad 3 1/2 (deben quedar picados, pero no hechos polvo). Sacamos del vaso y reservamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "A continuación echamos los ajos y los dátiles sin hueso y programamos 4 segundos, velocidad 4. Sacamos del vaso y reservamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "En un bol grande ponemos la carne picada, sal y pimienta al gusto, los cacahuetes y los dátiles que teníamos reservados, el perejil, los cominos, el huevo, el pan y la harina. Removemos muy bien hasta que esté bien mezclado todo.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "En la bandeja del horno ponemos papel de horno.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Vamos formando bolitas del tamaño que más nos guste y las vamos colocando separadas unas de otras en la bandeja del horno sobre el papel. Para que no se nos peguen nos echamos un chorrito de aceite de oliva en las manos.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Cuando estén todas las albóndigas listas, las metemos al horno 30 minutos a 180 º.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 30
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Echamos todos los ingredientes de la salsa en el vaso y programamos 20 segundos, velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Servimos las albóndigas y la salsa a parte para que cada uno se eche la salsa a su gusto.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/albondigas-de-navidad/",
+    "creado_en": "2026-09-13"
   }
 ]
