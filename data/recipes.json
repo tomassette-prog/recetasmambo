@@ -33492,5 +33492,686 @@
     ],
     "fuente_url": "https://www.thermorecetas.com/albondigas-de-navidad/",
     "creado_en": "2026-09-13"
+  },
+  {
+    "id": "1ce19f9d-b8af-4d1f-b279-7e30b9e3a1a7",
+    "slug": "volovanes-rellenos-de-revuelto-de-gambas-y-angurinas",
+    "titulo": "Volovanes rellenos de revuelto de gambas y anguriñas",
+    "descripcion": "Receta de Volovanes rellenos de revuelto de gambas y anguriñas adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/12/volovanes-rellenos-de-revuelto-de-gambas-y-anguriñas-thermorecetas.jpg",
+    "categoria": "pescados",
+    "tiempo_total_min": 18,
+    "comensales": 4,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "4 volovanes",
+      "1 diente de ajo",
+      "1 cayena seca",
+      "20 g de aceite de oliva",
+      "12 gambas peladas",
+      "100 g de anguriñas descongeladas",
+      "2 huevos a temperatura ambiente",
+      "30 g de nata",
+      "Perejil picado",
+      "Sal y pimienta"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Precalentar el horno a 170º.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Poner el aceite en el vaso y calentarlo durante 4 minutos, 100º, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 4
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Mientras pelar el ajo y cortarlo en láminas finas. Quitarle las semillas a la guindilla. Cuando haya terminado el tiempo introducir el ajo y la guindilla y programar 5 minutos, temperatura Varoma, velocidad 1.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Introducir los volovanes en el horno durante 8 minutos o el tiempo indicado en el paquete.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Poner la mariposa en las cuchillas, incorporar las gambas y las anguriñas. Sofreír durante 5 minutos, temperatura Varoma, velocidad 1, giro a la izquierda.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Retirar a un plato las gambas y parte de las anguriñas. Poner los huevos ligeramente batidos, la nata y salpimentar. Programar 4 minutos, 100º, velocidad 2.",
+        "accesorio": "Cuchillas",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 4
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Mezclar las anguriñas y las gambas reservadas con el revuelto. Rectificar de sal y pimienta si hiciera falta. Rellenar los volovanes y espolvorear un poco de perejil picado.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Servir mientras estén calientes.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/volovanes-rellenos-de-revuelto-de-gambas-y-angurinas/",
+    "creado_en": "2026-09-14"
+  },
+  {
+    "id": "44fa0768-5b27-45c3-978d-706433784a81",
+    "slug": "panettone",
+    "titulo": "Panettone",
+    "descripcion": "Receta de Panettone adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/12/panettone.jpg",
+    "categoria": "sopas-y-cremas",
+    "tiempo_total_min": 80,
+    "comensales": 1,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "En el apartado[b] “Ingredientes totales”[/b] os pongo lo que vais a necesitar para la receta (para que podáis comprar aquello que no tengáis).",
+      "En el apartado[b] “Ingredientes parciales”[/b] os los he separando según los vayáis necesitando. Os recomiendo que los peséis siguiendo este listado ya que es más cómodo.",
+      "680 g de harina de fuerza",
+      "12 g de levadura fresca de panadería",
+      "180 g de azúcar",
+      "270 g de huevos",
+      "70 g de yemas",
+      "150 g de mantequilla",
+      "95 g de agua",
+      "7 g de sal",
+      "250 de pasas sultanas",
+      "100 g de naranja confitada a cuadraditos",
+      "50 g de cidra confitada a cuadrados (si no la encontráis podéis poner otra fruta confitada, mejor si es cítrico).",
+      "Aroma de vainilla",
+      "La piel rallada de 1 naranja (mejor si es ecológica)",
+      "100 g de almendras",
+      "40 g de azúcar",
+      "20 g de harina de maiz (ojo, no es Maicena, es la harina amarilla sin refinar -polenta-)",
+      "50 g de claras",
+      "80 g de harina",
+      "6 g de levadura fresca de panadería",
+      "45 g de agua",
+      "5 g de azúcar",
+      "10 g de yema de huevo",
+      "100 g de harina",
+      "20 g de yemas de huevo",
+      "5 g de azúcar",
+      "50 g de agua",
+      "6 g de levadura fresca de panadería",
+      "500 g de harina",
+      "170 g de azúcar",
+      "40 g de yemas",
+      "270 g de huevos enteros",
+      "Aroma de vainilla (he utilizado un sobre)",
+      "La ralladura de la piel de 1 una naranja",
+      "7 g de sal",
+      "150 g de mantequilla -tiene que estar muy blanda cuando la utilicemos, podemos calentarla un poco en el microondas, a baja temperatura",
+      "250 g de pasas sultanas",
+      "100 g de naranja confitada",
+      "50 g de cidra confitada",
+      "100 g de almendras (60 para triturar y 40 para adornar)",
+      "40 g de azúcar",
+      "20 g de harina de maiz (ojo, no es Maicena, es la harina amarilla sin refinar -polenta-)",
+      "50 g de claras"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos la levadura y el agua en la Thermomix y mezclamos programando 15 segundos, velocidad 2. Añadimos la harina, las yemas y el azúcar. Mezclamos durante 20 segundos, velocidad 3. acabado este tiempo programamos 3 minutos, velocidad espiga.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 2
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Ponemos la masa en un bol y lo tapamos con papel film. Dejamos que triplique el volumen inicial (yo lo he metido en el horno a 50º durante unos 40 minutos).",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 40
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Ponemos el agua y la levadura en el vaso y programamos 15 segundos, 37º, velocidad 2. Ponemos la masas madre también en el vaso y añadimos el resto de los ingredientes que acabo de enumerar. Programamos 30 segundos, velocidad 3 1/2. Acabado el tiempo programamos 2 minutos, velocidad espiga.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 2
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Retiramos la masa a un bol y cubrimos con papel film. Ahora hay que dejar que leve hasta que triplique el volumen inicial, idealmente a 26º. Yo lo he metido al horno precalentado a 50º (que es la temperatura más baja que tiene el mío) durante 1 hora.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 60
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Cuando la masa anterior ya ha triplicado su volumen, la volvemos a meter en el vaso. Ahora añadimos la harina, el azúcar, las yemas, los huevos, la vainilla, la piel de la naranja, la sal y la mantequilla. Mezclamos programando 40 segundos, velocidad 3 1/2 y luego 5 minutos, vaso cerrado, velocidad espiga.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Echamos la masa en un bol profundo e incorporamos la fruta confitada y las pasas. Mezclamos bien para integrarlo en la masa. Cubrimos con film transparente y lo dejamos levar durante 1 hora a una temperatura de 28º (yo lo he vuelto a meter en el horno precalentado a 50º, durante 1 hora).",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 60
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Si queremos hacer un solo panettone tenemos que utilizar un molde de unos 17 cms de alto y 20 de diámetro. Untamos el molde con mantequilla y luego lo espolvoreamos con un poco de azúcar. Ponemos la masa dentro y la dejamos levar a una temperatura de 28-30º hasta que llegue al borde del molde (en mi caso lo dejé levar durante 1 hora dentro del horno a 50º)",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 60
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Cuando haya levado preparamos la glasa:",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Ponemos en el vaso 60 g de almendras y el azúcar y trituramos 6 segundos, velocidad 7. Añadimos la harina y las claras y trituramos 15 segundos, velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Distribuimos delicadamente la glasa sobre el panettone y decoramos con las almendras que nos quedan enteras (40 g).",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 11,
+        "instruccion": "Lo metemos la horno precalentado a 175º durante 50 minutos aproximadamente (si veis que se dora demasiado la superficie podéis cubrirla con papel de aluminio cuando os guste su color y seguir con el horneado para que se cocine por dentro.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 50
+      },
+      {
+        "paso_numero": 12,
+        "instruccion": "Cuando sacamos el dulce del horno tenemos que dejarlo reposar al menos 3 horas con el fin de que mantenga la forma. Se puede conservar durante 1 mes y medio dentro de una bolsa de plástico… ¡pero no creo que os dure tanto!",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 180
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/panettone-2/",
+    "creado_en": "2026-09-14"
+  },
+  {
+    "id": "66adfd5f-5445-4150-9128-8cd99b0eede4",
+    "slug": "bocaditos-de-ternera-rellenos-de-setas-rucula-y-queso-idiazabal",
+    "titulo": "Bocaditos de ternera rellenos de setas, rúcula y queso Idiazábal",
+    "descripcion": "Receta de Bocaditos de ternera rellenos de setas, rúcula y queso Idiazábal adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/12/bocaditos-de-ternera.jpg",
+    "categoria": "carnes",
+    "tiempo_total_min": 17,
+    "comensales": 4,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "175 g de carpaccio de ternera (podéis comprar las bandejas preparadas o pedir en la carnicería que os corten un solomillo para carpaccio)",
+      "150 g de setas variadas (pueden ser congeladas, pero descongeladlas y escurridlas antes)",
+      "150 g de queso idiázabal (queda fenomenal con éste, pero lo podéis sustituir por un queso de oveja ahumado)",
+      "8 ramitas de rúcula",
+      "100 ml de leche (1 cubilete)",
+      "25 ml de aceite (medio cubilete)",
+      "1/2 cucharadita de sal"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Poner las setas (si usáis congeladas, ya descongeladas y escurridas) en el vaso junto con el aceite y la sal. Saltear durante 10 minutos, temperatura Varoma, velocidad 1. Sin cubilete.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Trocear durante 4 segundos a velocidad 4. Reservar en un bol grande.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Introducir 50 g de queso y rallar a golpe de turbo.",
+        "accesorio": "Cuchillas",
+        "velocidad": "Turbo",
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Añadir la rúcula y triturar durante 5 segundos a velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Poner esta mezcla en el bol de las setas y mezclar con ua cuchara. Reservar. Es el relleno.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Introducir en el vaso el resto del queso y la leche y programar 7 minutos, 70 grados, velocidad 1. Reservar. Es la salsa.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 7
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Sobre cada lámina de ternera colocar un poquito de la mezcla para el relleno y cerrarlo como un paquetito. Hacerlos a la plancha, con la plancha muy caliente y marcando un pòco por cada lado. Al ser tan fino el carpaccio estarán listos en seguida.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Servir con la salsa por encima.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/bocaditos-de-ternera-rellenos-de-setas-rucula-y-queso-idiazabal/",
+    "creado_en": "2026-09-14"
+  },
+  {
+    "id": "fddb29dc-a756-4bca-a935-f96b0bbd4f74",
+    "slug": "croquetas-de-boletus-cheddar-y-jamon",
+    "titulo": "Croquetas de boletus, cheddar y jamón",
+    "descripcion": "Receta de Croquetas de boletus, cheddar y jamón adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/12/Croquetas_boletus_cheddar_jamonserrano1.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 19,
+    "comensales": 8,
+    "dificultad": "Media",
+    "ingredientes": [
+      "50 gr de aceite de olive",
+      "100 g de jamón serrano",
+      "50 g de queso cheddar en cuadraditos",
+      "140 g de boletus edulis (congelados, deshidratados, naturales…)",
+      "600 gr de leche",
+      "100 g de harina",
+      "sal",
+      "pimienta",
+      "nuez moscada",
+      "harina, huevo y pan rallado para rebozar",
+      "aceite para freír"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Echamos los 50 gr de aceite, las setas y el jamón. Programamos 8 minutos, velocidad 1, giro a la izquierda, temperatura varoma. Retiramos las setas y el jamón y reservamos, dejando el aceite dentro del vaso.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Agregamos la harina y cocinamos 2 minutos, velocidad 2, temperatura varoma.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 2
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Añadimos la leche, sal, pimienta y nuez moscada al gusto y programamos 9 minutos, temperatura 90º, velocidad 4.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 9
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Cuando haya terminado y la bechamel tenga la textura que nos gusta, ponemos la bechamel en un recipiente amplio, añadimos el queso cheddar, las setas y el jamón que teníamos reservado.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Removemos bien y dejamos enfriar. Para que no se haga costra en la superficie yo la pincelo con aceite de oliva y después le pongo film transparente tocando la superficie.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Si queréis podéis utilizar una manga pastelera (o una bolsa que utilicéis a modo de manga pastelera) para que luego sea más fácil formar las croquetas. Entonces en vez de dejar que se enfríe en el bol, lo metemos directamente en la manga pastelera y dejamos que enfríe ahí.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Formamos las croquetas, pasándolas por harina, huevo y pan rallado y freímos en abundante aceite. Podemos congelarlas o guardarlas en la nevera.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/croquetas-de-boletus-cheddar-y-jamon/",
+    "creado_en": "2026-09-14"
+  },
+  {
+    "id": "91a28310-27f7-4eeb-ad68-00afc6f4040b",
+    "slug": "souffles-de-chocolate-blanco",
+    "titulo": "Soufflés de chocolate blanco",
+    "descripcion": "Receta de Soufflés de chocolate blanco adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/12/soufflés-de-chocolate-blanco-thermorecetas.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 18,
+    "comensales": 6,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "150 g de azúcar blanquilla",
+      "100 g de chocolate blanco",
+      "6 yemas de huevo",
+      "3 claras de huevo",
+      "300 g de nata para montar",
+      "15 g de vino de Málaga",
+      "cerezas confitadas y perlas plateadas (opcional)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Lo primero que vamos a hacer es preparar los moldes. Para ello podremos utilizar los moldes, cuencos o las tazas que más nos gusten. Les pondremos por fuera un trozo de papel de horno de forma que todo el contorno quede cubierto y que sobresalga 1 o 2 cm del borde. Reservar.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Introducir el chocolate blanco en el vaso y picarlo durante 10 segundos, velocidad 9. Retirar y reservar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 9,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Sin lavar el vaso, colocar la mariposa en las cuchillas. Introducir las yemas y 120 g de azúcar. Batir durante 8 minutos velocidad, 37º y velocidad 3 ½ para blanquear. Cuando termine el tiempo volver a programar 6 minutos a velocidad 3 ½ pero sin temperatura. Una vez terminado tendremos una mezcla espumosa.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Agregar el vino dulce y el chocolate blanco que teníamos reservado. Mezclar durante 30 segundos a velocidad 2. Retirar y reservar en la nevera durante 30 minutos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 30
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Sin lavar el vaso incorporar la nata y los 30 g de azúcar restantes. Montarla a velocidad 3 ½. A mí me llevó unos 45 segundos pero tendréis que estar atentos para que no se corte y se haga mantequilla. Retirar la nata montada y reservar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Lavar y secar muy bien el vaso y la mariposa. Colocar la mariposa de nuevo en las cuchillas. Poner las claras dentro del vaso y montarlas a punto de nieve programando 3 minutos, velocidad 3 ½.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 3
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Incorporar la nata a la mezcla que teníamos en la nevera. Mezclarla con varillas manuales y con movimientos suaves.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "A continuación proceder de la misma manera con las claras. No mezclar en exceso para que la masa tenga mucho aire y forme burbujas diminutas que harán la crema más ligera.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Repartir la mezcla en los recipientes que teníamos reservados. Llenarlos hasta que sobrepasen el borde pero no os preocupéis porque el papel hará que no se desparrame. Congelar durante, al menos, 3 horas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 180
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Retirarlos del congelador 10 minutos antes de servir para que no estén totalmente congelados. Retirar el papel que habíamos puesto y decorar con cerezas confitadas, orejones, perlas colores, virutas de chocolate o lo que más nos guste.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 11,
+        "instruccion": "¡Ya me contaréis!",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/souffles-de-chocolate-blanco/",
+    "creado_en": "2026-09-14"
+  },
+  {
+    "id": "6e944332-7bd8-45c4-9548-08372f839ab3",
+    "slug": "sopa-de-navidad-con-pasta-rellena-de-crema-de-quesos",
+    "titulo": "Sopa de Navidad con pasta rellena de crema de quesos",
+    "descripcion": "Receta de Sopa de Navidad con pasta rellena de crema de quesos adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/12/sopa-de-navidad-con-conchas-rellenas-de-crema-de-queso.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 85,
+    "comensales": 6,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "1500 g de agua",
+      "1 cucharada de sal",
+      "1 cucharada de aceite virgen extra",
+      "150 g de pasta (galets o caracolas -yo he utilizado conchas grandes- para rellenar)",
+      "1 zanahoria pequeña (en 2 ó 3 trozos)",
+      "1 nabo pequeño (en 2 ó 3 trozos)",
+      "1/2 puerro, sólo la parte blanca (en 2 ó 3 trozos)",
+      "1/2 cebolla mediana",
+      "50 g de aceite de oliva virgen extra",
+      "200 g de carne de ternera en trozos (morcillo)",
+      "1300 g de agua",
+      "1 cucharada de caldo de carne casero o 1 cucharada de sal",
+      "200 g de queso cremosos (tipo Philadelphia)",
+      "100 g de queso azul"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Vertemos el agua, la sal y el aceite en el vaso. Programamos 12 minutos, 100º, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Añadimos la pasta por el bocal y programamos el tiempo que indique el paquete, 100º, giro a la izquierda, velocidad cuchara.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Escurrimos la pasta utilizando el cestillo y la lavamos con agua fría. Reservamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Ponemos todos los ingredientes del caldo en el vaso y programamos 45 minutos, 100º, giro a la izquierda, velocidad 1.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 37
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Acabado el tiempo, colamos el caldo con un colador (mejor si es de malla fina) y lo reservamos en una olla o cazo.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 21
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Lavamos y secamos bien el vaso.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Ponemos los quesos en el vaso y programamos 30 segundos, velocidad 5. Si la pasta son conchas como las que veis en la foto la rellenamos con ayuda de una cuchara. Si son galets podemos utilizar una manga pastelera con una boquilla no muy grande.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Ponemos a calentar el caldo reservado. En el momento de servir ponemos la pasta rellena en platos individuales y vertemos sobre ella el caldo caliente.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 21
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/sopa-de-navidad-con-pasta-rellena-de-crema-de-quesos/",
+    "creado_en": "2026-09-14"
   }
 ]
