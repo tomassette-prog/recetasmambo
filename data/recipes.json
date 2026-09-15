@@ -34173,5 +34173,542 @@
     ],
     "fuente_url": "https://www.thermorecetas.com/sopa-de-navidad-con-pasta-rellena-de-crema-de-quesos/",
     "creado_en": "2026-09-14"
+  },
+  {
+    "id": "a26c1204-b640-49d5-bc18-4c4b54afcb8d",
+    "slug": "bombones-de-chocolate-rellenos-de-coco",
+    "titulo": "Bombones de chocolate rellenos de coco",
+    "descripcion": "Receta de Bombones de chocolate rellenos de coco adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/12/bombones-de-chocolate-y-coco.jpg",
+    "categoria": "sopas-y-cremas",
+    "tiempo_total_min": 8,
+    "comensales": 20,
+    "dificultad": "Media",
+    "ingredientes": [
+      "250 g de coco rallado",
+      "350 g de leche condensada (un bote pequeño)",
+      "200 g de chocolate de cobertura",
+      "50 g de mantequilla"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Pon la leche condensada en el vaso. Caliéntala durante 3 minutos, 50º, velocidad 2.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 3
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Añade el coco rallado y mézclalo todo durante 10 segundos a velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Forma bolitas con las manos del tamaño de una trufa y déjalas en el congelador durante media hora.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Pasado ese tiempo, con el vaso limpio, introduce el chocolate y tritúralo a golpe de turbo.",
+        "accesorio": "Cuchillas",
+        "velocidad": "Turbo",
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Añade la mantequilla y fúnde la mezcla durante 4 minutos, a 50º y velocidad 3.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 4
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Sumerge cada bolita en el chocolate (yo las pincho con un palillo o un palito de brochetas) de forma que quede totalmente recubierta. Ponlas en papelitos de trufa o en un plato directamente (como al pincharlas queda un agujero, al ponerlas en el plato o el papel, dejo la parte agujereada en la base).",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Déjalas enfriar en la nevera hasta que el chocolate se haya solidificado.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/bombones-de-chocolate-rellenos-de-coco/",
+    "creado_en": "2026-09-15"
+  },
+  {
+    "id": "cb236665-5ed8-4ddf-900b-a5e21df4056a",
+    "slug": "delicias-de-pollo-relleno",
+    "titulo": "Delicias de pollo relleno",
+    "descripcion": "Receta de Delicias de pollo relleno adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/12/Delicias_pollo_relleno_2.jpg",
+    "categoria": "carnes",
+    "tiempo_total_min": 30,
+    "comensales": 8,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "100 gr de bacon en lonchas finas",
+      "sal y pimienta",
+      "2 filetes de pechuga de pollo o pavo muy finitos",
+      "4 lonchas de jamón york (tipo embutido)",
+      "4 lonchas de queso emmental/chedar/o el que más os guste",
+      "600 gr de agua para el vapor"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Extendemos la mitad del bacon superpuesto sobre film transparente. Salpimentamos la pechuga por ambas caras y la colocamos encima del bacon pero en sentido contrario (sólo cubrimos 1/3 de las lonchas del bacon). Ponemos encima de la pechuga de pollo 2 lochas de jamón york y 2 de queso.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Envolvemos ayudándonos del film transparente formando un rollo muy apretadito y cerramos como si fuera un caramelo.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Hacemos igual el otro rollo y los ponemos en el recipiente varoma . Echamos el agua en el vaso y programamos 30 minutos, velocidad 1, temperatura varoma.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 25
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Cuando termine el tiempo, lo retiramos del vaso y lo dejamos reposar 10 minutos. Dejamos que se enfríe y lo cortamos en rodajas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/delicias-de-pollo-relleno/",
+    "creado_en": "2026-09-15"
+  },
+  {
+    "id": "f61384ae-7bbd-4c07-8243-32a6e90ae4f0",
+    "slug": "sorbete-de-cava-y-pomelo",
+    "titulo": "Sorbete de cava y pomelo",
+    "descripcion": "Receta de Sorbete de cava y pomelo adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/12/sorbete-cava-y-pomelo-2-thermorecetas.jpg",
+    "categoria": "bebidas",
+    "tiempo_total_min": 22,
+    "comensales": 8,
+    "dificultad": "Media",
+    "ingredientes": [
+      "300 g de agua mineral",
+      "225 g de azúcar",
+      "500 g de cava semi",
+      "250 g de zumo de pomelo envasado",
+      "40 g de zumo de limón",
+      "menta o hierbabuena"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Poner en vaso el agua, el azúcar y el zumo de limón, programar 20 minutos, 100º, velocidad 2. Bajar el vaso de la máquina y dejar entibiar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 16
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Mientras lavar y secar bien las hojas de menta o hierbabuena. Reservar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Una vez que haya alcanzado los 37º, mezclar con el almíbar con el cava programando 30 segundos, velocidad 2.",
+        "accesorio": "Cuchillas",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Agregar el zumo de pomelo y volver a mezclar 30 segundos, velocidad 2.",
+        "accesorio": "Cuchillas",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Verter la mezcla en un recipiente que pueda ir al congelador e introducirlo en él. A los 30 minutos sacarlo y picarlo durante 10 segundos a velocidad 5. Repite la operación 4 veces más.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 30
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Minutos antes de servir, retirar el sorbete del congelador. Poner un chorrito de champán en las copas elegidas y rellenarlas con el sorbete. Decorar con hojitas reservadas. Servir enseguida.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/sorbete-de-cava-y-pomelo/",
+    "creado_en": "2026-09-15"
+  },
+  {
+    "id": "e33b880b-77a2-4333-b16c-e22e8a1efaea",
+    "slug": "paquetitos-de-verduras",
+    "titulo": "Paquetitos de verduras",
+    "descripcion": "Receta de Paquetitos de verduras adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/12/paquetitos-de-verduras1.jpg",
+    "categoria": "verduras",
+    "tiempo_total_min": 25,
+    "comensales": 8,
+    "dificultad": "Media",
+    "ingredientes": [
+      "280 g de leche",
+      "150 g de harina",
+      "2 huevos",
+      "Una pizca de sal",
+      "250 g de calabacín cortado en daditos",
+      "230 g de zanahoria, cortada en daditos",
+      "220 g de berenjena, cortada en daditos",
+      "100 g de ricota o requesón",
+      "70 g de cebolleta",
+      "40 g de aceite de oliva virgen extra",
+      "20 g de mantequilla",
+      "10 g de sal",
+      "Hierbas aromáticas (tomillo, albahaca…) -opcional-.",
+      "Un poco de cebollino o de puerro para atar los paquetitos"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Trituramos la cebolla programando 3 segundos, velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Añadimos el aceite y la mantequilla y freímos programando 3 minutos, 100º, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 3
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Añadimos ahora las zanahorias y programamos 5 minutos, temperatura varoma, giro a la izquierda, velocidad cuchara.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Añadimos el calabacín, la berenjena y la sal. Programamos 7 minutos, temperatura varoma, giro a la izquierda, velocidad cuchara. Dos minutos antes de que termine el tiempo programado añadimos las hierbas aromáticas.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 7
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Incorporamos ahora en el vaso el requesón y mezclamos con la espátula.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "En el vaso limpio ponemos todos los ingredientes de los crepes y mezclamos programando 15 segundos, velocidad 6. En una sartén antiadherente, ayudándonos con un cacito, las vamos cocinando, uno a uno.",
+        "accesorio": "Cuchillas",
+        "velocidad": 6,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Cogemos un crepe, le ponemos un par de cucharadas del relleno y cerramos en forma de paquetitos. Para cerrarlo podemos utilizar cebollino fresco o unos hilos de puerro. Hacemos lo mismo con el resto de los crepes.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/paquetitos-de-verduras/",
+    "creado_en": "2026-09-15"
+  },
+  {
+    "id": "d97a9bcb-3318-4a7f-9fde-108c282be95d",
+    "slug": "rollitos-de-pavo-relleno",
+    "titulo": "Rollitos de pavo relleno",
+    "descripcion": "Receta de Rollitos de pavo relleno adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/12/pavo-relleno.jpg",
+    "categoria": "sopas-y-cremas",
+    "tiempo_total_min": 41,
+    "comensales": 8,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "4 filetes de pechuga de pavo.",
+      "50 g de jamón york en lonchas.",
+      "4 lonchas de bacon.",
+      "4 quesitos de porción.",
+      "6 ciruelas pasas sin hueso.",
+      "50 g de nueces.",
+      "50 g de pasas sultanas o pasas de corinto.",
+      "un poquito de romero en polvo.",
+      "sal y pimienta.",
+      "film transparente.",
+      "4 cebollas (500 g aprox.)",
+      "50 g de mantequilla.",
+      "50 ml de aceite (medio cubilete).",
+      "30 g de caramelo líquido.",
+      "sal y pimienta.",
+      "150 g de pimientos del piquillo.",
+      "6 cucharadas de azúcar."
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Colocar una capa de film transparente sobre una superficie lisa.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Sobre ella colocar dos filetes de pechuga juntos, montando un poquito uno sobre otro, salpimentar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Sobre los filetes disponer dos lonchas de bacon, una de jamón york, 2 quesitos a trocitos, 3 ciruelas (colocarlas en la parte de abajo), trocitos de nueces, pasas y espolvorear con romero.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Envolver ayudándoos del film transparente, de forma que envuelva el rollito. Retorcer los bordes como si fuera un caramelo (es fácil si cogiendo los bordes, lo haces girar sobre sí mismo, como si dieras a la comba).",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Ya tenemos un rollito. Haced lo mismo con el siguiente y colocarlos en el recipiente Varoma. Reservar.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Vamos con el dulce de piquillo. Ponemos en el vaso el pimiento y el azúcar. Cocemos durante 8 minutos, a 70º y velocidad 1. Sin cubilete.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Trituramos 15 segundos a velocidad 7. Sacamos y reservamos. Limpiamos el vaso.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Y ahora, la cebolla caramelizada. Mientras se hace, se cocerán los rollitos en el Varoma.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Ponemos las cebollas, la mantequilla y el aceite en el vaso y trituramos durante 5 segundos a velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Bajamos los restos de las paredes con la espátula. Colocamos el Varoma cerrado con los rollitos en el hueco de la tapa del vaso y programamos 30 minutos, temperatura Varoma, velocidad cuchara, giro a la izquierda.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 30
+      },
+      {
+        "paso_numero": 11,
+        "instruccion": "Finalizado el tiempo, quitamos el Varoma y lo destapamos para que no se sigan cociendo los rollitos.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 12,
+        "instruccion": "Añadimos al vaso el caramelo líquido, media cucharadita de sal y un poco de pimienta. Y programamos 3 minutos, 100º, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 3
+      },
+      {
+        "paso_numero": 13,
+        "instruccion": "Para emplatarlo, retiramos el film de los rollitos, los partimos en rodajas, las colocamos sobre una cama de cebolla caramelizada y las salpicamos con dulce de piquillo.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/rollitos-de-pavo-relleno/",
+    "creado_en": "2026-09-15"
+  },
+  {
+    "id": "51cde34c-7c06-41ee-8d9e-4bca6702481f",
+    "slug": "sopa-de-calabaza-con-langostinos-y-caviar",
+    "titulo": "Sopa de calabaza con langostinos y caviar",
+    "descripcion": "Receta de Sopa de calabaza con langostinos y caviar adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/12/Sopacalabaza_langostinos_caviar.jpg",
+    "categoria": "carnes",
+    "tiempo_total_min": 28,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "30 gr de puerro",
+      "30 gr de aceite de oliva",
+      "400 gr de calabaza pelada y troceada",
+      "100 gr de patata pelada y troceada",
+      "500 gr de caldo de pollo, verduras o agua salada",
+      "1 cucharadita de sal",
+      "1 pellizco de pimienta",
+      "12 langostinos cocidos y pelados",
+      "150 gr de nata",
+      "4 cucharaditas de sucedáneo de caviar para decorar"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos el puerro y el aceite de oliva en el vaso. Trituramos 3 segundos, velocidad 5. Bajamos los restos de las paredes y la tapa y programamos 5 minutos, velocidad 1, temperatura varoma.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Añadimos la calabaza y la patata y troceamos 4 segundos, velocidad 4. Bajamos los restos de las paredes y la tapa y programamos 5 minutos, velocidad 2, temperatura varoma.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Agregamos el caldo o el agua, la sal, la pimienta y programamos 15 minutos, velocidad 2, temperatura 100º. Esperamos a que baje la temperatura a 80º y trituramos 1 minuto, velocidad progresiva 5-7-10.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 12
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Añadimos la nata y programamos 3 minutos, 90º, velocidad 2.",
+        "accesorio": "Cuchillas",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 3
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Servimos la sopa en un plato, colocamos los langostinos y coronamos con el caviar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/sopa-de-calabaza-con-langostinos-y-caviar/",
+    "creado_en": "2026-09-15"
   }
 ]
