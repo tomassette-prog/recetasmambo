@@ -35206,5 +35206,464 @@
     ],
     "fuente_url": "https://www.thermorecetas.com/cordiales/",
     "creado_en": "2026-09-16"
+  },
+  {
+    "id": "d0f42d53-d47d-44f4-8aac-85d38b7fbae4",
+    "slug": "semifrio-de-fresas-y-yogur",
+    "titulo": "Semifrío de fresas y yogur",
+    "descripcion": "Receta de Semifrío de fresas y yogur adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/12/semifrio_fresas_y_yogur.jpg",
+    "categoria": "sopas-y-cremas",
+    "tiempo_total_min": 2,
+    "comensales": 6,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "100 gr de azúcar blanco",
+      "300 gr de fresas congeladas (se pesa la fruta congelada)",
+      "200 gr de yogur griego sin azúcar (puede sustituirse por yogur natural normal o por nata)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos el azúcar en el vaso y trituramos 20 segundos, velocidad progresiva 5-10 para hacerlo azúcar glass.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Añadimos la fruta congelada y trituramos programando 30 segundos, velocidad progresiva 5-10. En este paso, debemos ayudarnos de la espátula: quitamos el cubilete, metemos la espátula por el bocal y ponemos la máquina en marcha. Movemos la espátula en el mismo sentido que las cuchillas, así facilitaremos este proceso.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Incorporamos el yogur y programamos 1 minuto, velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/semifrio-de-fresas-y-yogur/",
+    "creado_en": "2026-09-17"
+  },
+  {
+    "id": "43c84ddd-0950-4a92-b4c8-1ef64aabaaa0",
+    "slug": "milhojas-de-iberico-con-salsa-de-membrillo",
+    "titulo": "Milhojas de ibérico con salsa de membrillo",
+    "descripcion": "Receta de Milhojas de ibérico con salsa de membrillo adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/12/milhojas-de-ibérico-con-salsa-membrillo-thermorecetas.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 61,
+    "comensales": 6,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "2 solomillos de cerdo ibérico (abiertos en 1 filete cada uno)",
+      "100 g de jamón ibérico",
+      "140 g de jamón de York",
+      "140 g de queso para fundir",
+      "140 g de panceta",
+      "140 g de ciruelas pasas",
+      "Sal y pimienta",
+      "500 g de agua del grifo para el vapor",
+      "350 g de cebolla",
+      "50 g de mantequilla",
+      "30 g de aceite de oliva",
+      "200 g de nata para cocinar",
+      "200 g de dulce de membrillo",
+      "150 g de champiñones laminados",
+      "Sal y pimienta"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Salpimentar uno de los solomillos y colocarlo encima de un trozo grande de film transparente. Colocar encima las lonchas de jamón ibérico, jamón de York y de queso, en el orden indicado.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Colocar las lonchas de panceta y las ciruelas pasas tal y como se muestra en la foto.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Enrollar como si fuera un brazo de gitano procurando que quede bien apretado y teniendo precaución de que no se salgan las ciruelas. Al final os quedarán las lonchas de panceta que se deberán enrollar también cubriendo todo el rollo.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Envolver el rollo con el film transparente como si fuera un caramelo. Tiene que quedar bien apretado y con los extremos enrollados y atados.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Proceder del mismo modo con el otro solomillo. Colocarlos en el Varoma. Llenar el vaso con el agua, cerrar con la tapa, poner el Varoma en su posición y programar 35 minutos, temperatura Varoma, velocidad 2.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 29
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Transcurrido el tiempo retirar el Varoma y desechar el agua.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Poner en el vaso la cebolla cortada en plumas, la mantequilla y el aceite. Picar programando 3 segundos, velocidad 4. Bajar los trocitos con la espátula hacia las cuchillas. Programar 15 minutos, temperatura Varoma, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 15
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Terminado el tiempo añadir la nata y el membrillo, triturar durante 30 segundos, velocidad 9. Bajar la crema hacia las cuchillas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 9,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Añadir los champiñones laminados, salpimentar y programar 10 minutos, 100º, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Mientras retirar el film transparente de los solomillos y cortarlo en medallones.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 11,
+        "instruccion": "Servir enseguida acompañado de la salsa de membrillo.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/milhojas-de-iberico-con-salsa-de-membrillo-2/",
+    "creado_en": "2026-09-17"
+  },
+  {
+    "id": "2a99260a-fcdd-42e7-a70e-ce0054cb4e8e",
+    "slug": "souffle-de-pasta",
+    "titulo": "Soufflé de pasta",
+    "descripcion": "Receta de Soufflé de pasta adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/12/souffle-de-pasta.jpg",
+    "categoria": "panes-masas",
+    "tiempo_total_min": 45,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "200 g de pasta fresca (la receta original se hace con tagliolini)",
+      "Bechamel (ver receta )",
+      "100 g de parmesano",
+      "200 g de queso tipo Emmenthal",
+      "3 yemas de huevo",
+      "6 claras de huevo",
+      "Pan rallado"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Trituramos el queso Emmenthal programando 5 segundos, velocidad 6. Reservamos. Trituramos también el Parmesano -si no lo hemos comprado ya triturado- y reservamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 6,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Preparamos las bechamel. La dejamos enfriar y la ponemos en un bol grande que pueda contener luego toda la preparación.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Cuando la bechamel se haya enfriado, añadimos el queso Emmenthal, el parmesano y las yemas. Mezclamos delicadamente.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Cocemos la pasta, utilizando la Thermomix o en una cacerola, como prefiráis, siguiendo las instrucciones del fabricante. La escurrimos y la ponemos bajo el grifo de agua fría. Escurrimos bien. Si uitilizamos tagliolini y son muy largos podemos cortarlos por la mitad.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Ahora, en el vaso bien limpio, ponemos la mariposa. Añadimos las claras y las montamos a punto de nieve programando velocidad 4. Cuando estén firmes paramos la máquina.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Incorporamos las claras a punto de nieve a la bechamel y mezclamos con movimientos envolventes. Añadimos ahora la pasta y mezclamos de la misma forma.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Ponemos la mezcla en una fuente de horno y espolvoreamos con el pan rallado. Cocemos en el horno precalentado a 180º durante 45 minutos aproximadamente. Servimos inmediatamente.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 45
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/souffle-de-pasta/",
+    "creado_en": "2026-09-17"
+  },
+  {
+    "id": "ac160222-ca20-4857-8f2e-578f4c6bdfcd",
+    "slug": "lentejas-veganas",
+    "titulo": "Lentejas veganas",
+    "descripcion": "Receta de Lentejas veganas adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/01/lentejas.jpg",
+    "categoria": "legumbres",
+    "tiempo_total_min": 47,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "325 g de lentejas pardinas (sin remojo previo)",
+      "1 cebolla (130 g aprox.)",
+      "2 zanahorias (100 g aprox.)",
+      "1 puerro (70 g aprox.)",
+      "1 tomate maduro (7 g aprox.)",
+      "1 ramita de apio",
+      "4 dientes de ajo",
+      "25 ml de aceite de oliva",
+      "sal",
+      "900 ml de agua"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Introducir en el vaso la cebolla, las zanahorias, el puerro, el tomate, el apio, el aceite, media cucharadita de sal y dos dientes de ajo. Trocear 5 segundos a velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Rehogar durante 12 minutos a temperatura Varoma, velocidad 1.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 12
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Lavar las lentejas con abundante agua.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Añadirlas al vaso junto con 900 ml de agua, otros dos dientes de ajo y una cucharadita de sal. Cocer durante 35 minutos, 100º, velocidad cuchara, giro a la izquierda. Con cubilete.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 29
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Comprobar si las lentejas están ya blanditas y si no están listas, ir añadiendo tiempo de 5 minutos en 5 minutos, programando de nuevo los 100º de temperatura, velocidad cuchara, giro a la izquierda. El tiempo de cocción depende fundamentalmente de la dureza del agua. En mi caso, el agua tiene mucha cal y necesité 45 minutos para que estuvieran listas.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 4
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/lentejas-veganas/",
+    "creado_en": "2026-09-17"
+  },
+  {
+    "id": "ab9e74ad-d087-4e1c-bef2-f42d141c4b56",
+    "slug": "crema-de-champinones-y-arroz",
+    "titulo": "Crema de champiñones y arroz",
+    "descripcion": "Receta de Crema de champiñones y arroz adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/01/Crema_champiñones_y_arroz1.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 29,
+    "comensales": 4,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "60 gr de arroz",
+      "250 gr de champiñones frescos",
+      "1/2 limón",
+      "50 gr de aceite de oliva virgen extra",
+      "400 gr de leche (podéis usar leche evaporada también)",
+      "400 gr de caldo de verduras/pollo/agua (a lo mejor hay que añadirle un chorrito más de agua al final si nos ha quedado muy espeso)",
+      "Pimienta recién molida",
+      "1 pastillita de caldo vegetal (opcional, si habéis utilizado agua)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Limpiamos bien los champiñones, los colocamos en un plato y los rociamos con el zumo del medio limón.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Colocamos los champiñones y el aceite en el vaso. Programamos 4 minutos, temperatura 100º, velocidad 3.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 4
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Añadimos la leche, el caldo de verduras, la pimienta y el arroz. Programamos 25 minutos, temperatura 90º, velocidad 2.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 21
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Al terminar el tiempo, trituramos 1 minuto, velocidad 7. Si nos ha quedado demasiado espeso, añadimos un poco de agua o más caldo de verduras y removemos unos segundos a velocidad 4. Rectificamos el punto de sal y servimos inmediatamente.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/crema-de-champinones-y-arroz/",
+    "creado_en": "2026-09-17"
+  },
+  {
+    "id": "3cfe29c5-2d29-4ade-b58f-61b238e94420",
+    "slug": "bizcocho-corona-de-nutella",
+    "titulo": "Bizcocho corona de Nutella",
+    "descripcion": "Receta de Bizcocho corona de Nutella adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/01/bizcocho-de-nutella1.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 5,
+    "comensales": 12,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "4 huevos",
+      "200 g de azúcar",
+      "1 vaso de leche (125 g)",
+      "250 g de Mascarpone",
+      "4 cucharadas colmadas de Nutella o Nocilla -yo le puse menos y por eso me ha quedado más clarito-",
+      "300 g de harina",
+      "1 sobre de levadura (tipo Royal)",
+      "150 g de fécula (yo he utilizado fécula de patata pero la podéis poner de Maiz -Maicena-)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos los huevos y el azúcar en el vaso y programamos 50 segundos, velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Añadimos la leche, el Mascarpone y la Nutella. Programamos 40 segundos, velocidad 5.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Añadimos la harina, la levadura y la fécula. Programamos 50 segundos, velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Untamos con mantequilla un molde de corona y lo enharinamos. Ahora echamos la mezcla en él. Horneamos en el horno precalentado a 180º durante 45 minutos.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 45
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/bizcocho-corona-de-nutella/",
+    "creado_en": "2026-09-17"
   }
 ]
