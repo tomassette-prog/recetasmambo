@@ -35665,5 +35665,398 @@
     ],
     "fuente_url": "https://www.thermorecetas.com/bizcocho-corona-de-nutella/",
     "creado_en": "2026-09-17"
+  },
+  {
+    "id": "6ba6e504-5a11-4e9b-a7d5-870151e09081",
+    "slug": "agua-de-valencia",
+    "titulo": "Agua de Valencia",
+    "descripcion": "Receta de Agua de Valencia adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/01/agua-de-valencia.jpg",
+    "categoria": "sopas-y-cremas",
+    "tiempo_total_min": 2,
+    "comensales": 1,
+    "dificultad": "Media",
+    "ingredientes": [
+      "700 ml de cava bien frío",
+      "200 g de naranjas",
+      "100 ml de agua",
+      "50 ml de vodka",
+      "50 ml de ginebra",
+      "75 g de azúcar"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Pulverizamos el azúcar a golpe de turbo.",
+        "accesorio": "Cuchillas",
+        "velocidad": "Turbo",
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Incorporamos las naranjas (peladas y con la menor parte blanca posible) al vaso y trituramos durante 1 minuto a velocidad progresiva 5/10.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Añadimos el agua. el vodka y la ginebra. Mezclamos durante 30 segundos a velocidad 7.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Añadimos el cava y mezclamos durante 30 segundos a velocidad 2.",
+        "accesorio": "Cuchillas",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Y ya está listo. Servir inmediatamente.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/agua-de-valencia/",
+    "creado_en": "2026-09-18"
+  },
+  {
+    "id": "ee831547-cc7b-48f1-aca4-c8a7c7c73eac",
+    "slug": "rollitos-de-salmon-ahumado-blanco-y-negro",
+    "titulo": "Rollitos de salmón ahumado blanco y negro",
+    "descripcion": "Receta de Rollitos de salmón ahumado blanco y negro adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/01/Rollitos_salmon_blanco_negro_1.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 2,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "250 g de salmón ahumado",
+      "200 g de queso tipo philadelphia",
+      "50 g de leche",
+      "100 g de gambas congeladas cocidas",
+      "50 g de pimiento rojo",
+      "3 cucharaditas de huevas negras tipo caviar",
+      "Una pizca de eneldo seco"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Echamos las gambas cocidas en el vaso y trituramos 4 segundos, velocidad 3 1/2. Retiramos del vaso y reservamos en un bol.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Picamos el pimiento a mano (a mí me gusta hacerlo a mano porque en la thermomix suelta un poco de líquido) en taquitos pequeñitos añadimos a las gambas que teníamos reservadas en el bol.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Echamos en el vaso el queso philadelphia y la leche y trituramos 6 segundos, velocidad 4. Añadimos esta crema de queso a las gambas y el pimiento.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Añadimos también las huevas y el eneldo. Mezclamos bien y vamos rellenando las lonchas de salmón ahumado.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Podemos ponerle unas hebras de eneldo y unas huevas por encima para decorar, una vez hechos los rollitos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/rollitos-de-salmon-ahumado-blanco-y-negro/",
+    "creado_en": "2026-09-18"
+  },
+  {
+    "id": "bff9f096-74b9-4adc-88db-ba40a5db7829",
+    "slug": "lechuga-al-horno",
+    "titulo": "Lechuga al horno",
+    "descripcion": "Receta de Lechuga al horno adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/12/lechuga-al-horno-thermorecetas.jpg",
+    "categoria": "sopas-y-cremas",
+    "tiempo_total_min": 21,
+    "comensales": 2,
+    "dificultad": "Media",
+    "ingredientes": [
+      "200 g de lechuga iceberg",
+      "30 g de aceite de oliva",
+      "50 g de panceta",
+      "50 g de tomate frito",
+      "20 g de mantequilla",
+      "20 g de harina",
+      "300 g de leche a temperatura ambiente",
+      "15 g de queso manchego rallado",
+      "Nuez moscada",
+      "Sal y pimienta"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Poner la lechuga lavada en el vaso. Picarla durante 3 segundos a velocidad 4. Retirar y reservar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Sin lavar el vaso poner el aceite y la panceta programar 3 minutos, temperatura Varoma, velocidad cuchara.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 3
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Terminado el tiempo incorporar la lechuga y el tomate frito. Programar 2 minutos, 100º y velocidad cuchara. Retirar del vaso a una cazuela que pueda ir al horno y reservar.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 2
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Precalentar el gratinador del horno a 200º.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Sin lavar el vaso poner la mantequilla, derretirla durante 2 minutos, temperatura Varoma y velocidad 2. Agregar la harina y tostarla durante 4 minutos, 100º y velocidad 2. Añadir la leche y nuez moscada al gusto, salpimentar y programar 10 minutos, 100º, velocidad 4.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 2
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Cubrir la lechuga que teníamos reservada con la bechamel. Espolvorear el queso rallado por encima y gratinar hasta que la superficie esté doradita.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/lechuga-al-horno/",
+    "creado_en": "2026-09-18"
+  },
+  {
+    "id": "b650e5d9-ae90-4eb8-bcb3-e56b59a0a87d",
+    "slug": "yogur-de-limon-con-thermomix-y-yogurtera",
+    "titulo": "Yogur de limón con Thermomix y yogurtera",
+    "descripcion": "Receta de Yogur de limón con Thermomix y yogurtera adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/01/yogur-de-limon1.jpg",
+    "categoria": "sopas-y-cremas",
+    "tiempo_total_min": 6,
+    "comensales": 7,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "900 g de leche entera (no fresca)",
+      "100 g de azúcar",
+      "50 g de nata de cocina",
+      "Unas gotas de esencia de limón (echad más o menos según la intensidad de sabor que queráis conseguir)",
+      "1 yogur natural (125 g)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos en el vaso todos los ingredientes excepto el yogurt y programamos 15 segundos, velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Programamos ahora 5 minutos, 50º, velocidad 2 1/2.",
+        "accesorio": "Cuchillas",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Cuando acabe el tiempo, añadimos el yogur y mezclamos durante 10 segundos en velocidad 3.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Repartimos la mezcla en los vasitos de yogur (si os ha quedado espuma no la pongáis) y los metemos en la yogurtera. Ahora seguimos las indicaciones del fabricante -en mi caso, 8 horas en la yogurtera y luego tapamos los botes y los metemos al frigorífico-.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 480
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/yogur-de-limon-con-thermomix-y-yogurtera/",
+    "creado_en": "2026-09-18"
+  },
+  {
+    "id": "7155827f-7ad1-4994-a747-4af5c9c2c3b5",
+    "slug": "champinones-al-romero",
+    "titulo": "Champiñones al romero",
+    "descripcion": "Receta de Champiñones al romero adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/01/Champinones-al-romero.jpg",
+    "categoria": "bebidas",
+    "tiempo_total_min": 12,
+    "comensales": 4,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "500 g de champiñones (enteros si son pequeños o en cuartos si son grandes)",
+      "100 g de jamón serrano en taquitos (o troceado a golpe de turbo)",
+      "50 g de mantequilla",
+      "25 ml de vino blanco",
+      "2 ramitas de romero fresco",
+      "el zumo de medio limón"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Se lavan y se limpian los champiñones. Los troceamos en cuartos si son grandes.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Ponemos en el vaso el jamón y la mantequilla y rehogamos durante 4 minutos, temperatura Varoma, velocidad 1.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 4
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Añadimos los champiñones, el romero y el vino blanco. Programamos 8 minutos, temperatura Varoma, velocidad cuchara, giro a la izquierda.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Cuando falte 1 minuto, se introduce el zumo de limón por el bocal.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/champinones-al-romero/",
+    "creado_en": "2026-09-18"
+  },
+  {
+    "id": "36c53f58-24d6-41a7-9f6c-dd0aee60472e",
+    "slug": "lubina-con-aceite-de-ajada",
+    "titulo": "Lubina con aceite de ajada",
+    "descripcion": "Receta de Lubina con aceite de ajada adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/01/Lubina_con_ajada.jpg",
+    "categoria": "pescados",
+    "tiempo_total_min": 15,
+    "comensales": 4,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "4 lubinas pequeñas (le pedimos al pescadero que las abra por el centro como para preparar “a la espalda”)",
+      "100 ml de aceite de oliva virgen extra",
+      "8 dientes de ajos",
+      "un buen manojo de perejil (sólo las hojas)",
+      "sal"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Echamos en el vaso los ajos, la sal, el aceite y el perejil. Trituramos 5 segundos, velocidad 5. Bajamos los restos de las paredes y repetimos la operación dos veces más a 5 segundos, velocidad 5. Reservamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "En una bandeja de horno, echamos un chorrito de aceite, extendemos las lubinas, espolvoreamos con sal y vertemos el aceite de ajada por encima extendiéndolo bien (yo he utilizado una brocha de cocina).",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Horneamos a 170º durante 15 minutos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 15
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "¡Lista para tomar!",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/lubina-con-aceite-de-ajada/",
+    "creado_en": "2026-09-18"
   }
 ]
