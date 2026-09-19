@@ -36058,5 +36058,435 @@
     ],
     "fuente_url": "https://www.thermorecetas.com/lubina-con-aceite-de-ajada/",
     "creado_en": "2026-09-18"
+  },
+  {
+    "id": "7de77c3e-8646-477e-ae3c-dd558dd5e1c5",
+    "slug": "pastel-de-puerros-y-gambas",
+    "titulo": "Pastel de puerros y gambas",
+    "descripcion": "Receta de Pastel de puerros y gambas adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/12/pastel-puerros-y-gambas-thermorecetas.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 11,
+    "comensales": 2,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "150 g de puerro",
+      "150 g de gambas peladas",
+      "2 huevos",
+      "100 g de leche evaporada",
+      "1 cucharadita pequeña de maicena",
+      "25 g de aceite de oliva",
+      "perejil",
+      "sal y pimienta"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Precalentar el horno a 170º.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Lavar y trocear los puerros. Introducirlos en el vaso con el aceite de oliva y programar 10 minutos, 100º y velocidad 1. Retirar, escurrir bien todo el aceite y reservar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Mientras lavar y secar las gambas. Reservar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Sin lavar el vaso introducir la leche, la maicena y los huevos. Salpimentar y programar 15 segundos, velocidad 5.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Incorporar el puerro y las gambas. Mezclar durante 10 segundos, velocidad 2, giro a la izquierda.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Verter la masa en un molde, preferentemente de silicona, de 500 cc de capacidad.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Hornear durante 25 – 30 minutos aunque para saber si está hecho lo mejor es pincharlo con una brocheta. Si sale seca es que ya podemos retirar el pastel del horno. Si sale mojada tendremos que prolongar la cocción unos minutos.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 30
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Una vez que ya está cocido hay que dejarlo reposar unos minutos antes de desmoldar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "A continuación cortarlo en porciones, espolvorear perejil picado y servir acompañado de mayonesa o salsa tártara.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/pastel-de-puerros-y-gambas/",
+    "creado_en": "2026-09-19"
+  },
+  {
+    "id": "03107692-5262-468e-b325-43316d6cadaa",
+    "slug": "caldo-de-pescado",
+    "titulo": "Caldo de pescado",
+    "descripcion": "Receta de Caldo de pescado adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/01/caldo-de-pescado.jpg",
+    "categoria": "pescados",
+    "tiempo_total_min": 40,
+    "comensales": 4,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "1 cebolla en cuartos",
+      "1 zanahoria en 2 ó 3 trozos",
+      "1 puerro en 2 ó 3 trozos",
+      "500 g de espinas y cabeza de pescado (rape, mero, merluza…)",
+      "50 g de aceite de oliva virgen extra",
+      "1200 g de agua",
+      "1 cucharadita de sal"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos en el vaso la cebolla, la zanahoria y el puerro. Troceamos 5 segundos, velocidad 4. Añadimos las espinas de pescado y el aceite.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Rehogamos programando 10 minutos, 100º, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Añadimos el agua y la sal y programamos 30 minutos, 100º, velocidad 1. Colamos el caldo a través del castillo. Si queremos, podemos congelarlo en cubitos o en porciones de 100 g para utilizarlo en otros guisos.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 25
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/caldo-de-pescado/",
+    "creado_en": "2026-09-19"
+  },
+  {
+    "id": "85550b39-139d-49e7-b59b-8482d9313c44",
+    "slug": "crema-de-lechuga",
+    "titulo": "Crema de lechuga",
+    "descripcion": "Receta de Crema de lechuga adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/01/Crema-de-lechuga.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 32,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "120 g de cebolla",
+      "150 g de puerros",
+      "250 g de lechuga",
+      "100 g de patata",
+      "2 ajos",
+      "6 hojas de hierbabuena",
+      "250 ml de agua",
+      "250 ml de leche (le puse semidesnatada, pero puede ser cualquiera)",
+      "1 cucharadita de sal",
+      "50 ml de aceite (medio cubilete)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Introducimos en el vaso la cebolla, los puerros, los ajos, la patata y el aceite. Trituramos 5 segundos, velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Rehogamos durante 5 minutos, temperatura Varoma, velocidad 1.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Añadimos el agua, la sal y la hierbabuena. Cocemos durante 15 minutos, 100º, velocidad 2. Sin cubilete.",
+        "accesorio": "Cuchillas",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 12
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Añadimos la lechuga en trozos y la leche. Trituramos 5 segundos, velocidad 5.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Cocemos durante 12 minutos, temperatura Varoma, velocidad 1. Sin cubilete.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 12
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Dejamos que se enfríe un poco y trituramos durante 30 segundos, a velocidad progresiva 5/10.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/crema-de-lechuga/",
+    "creado_en": "2026-09-19"
+  },
+  {
+    "id": "7e031a61-5a43-4a5d-9485-84588b49fed5",
+    "slug": "alitas-de-pollo-con-salsa-de-caramelo",
+    "titulo": "Alitas de pollo con salsa de caramelo",
+    "descripcion": "Receta de Alitas de pollo con salsa de caramelo adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/01/Alitas_pollo_salsa_caramelo.jpg",
+    "categoria": "carnes",
+    "tiempo_total_min": 15,
+    "comensales": 4,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "1,5 kg de alitas de pollo sin la punta (yo les he quitado el exceso de piel, pero podéis dejársela si queréis)",
+      "50 gr de aceite de oliva virgen extra",
+      "1 cebolla (yo usé cebolla blanca dulce)",
+      "4 dientes de ajo",
+      "4 cucharadas de azúcar moreno",
+      "una pizca de sal",
+      "4 cucharadas de tomate concentrado (tomate frito o salsa de tomate o si no tenéis también sirve tomate triturado, aunque la salsa no quedará tan espesa)",
+      "2 cucharadas de orégano seco",
+      "una pizca de pimienta",
+      "unas gotas de tabasco o una pizca de pimentón picante (suprimidlo si es para niños)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Cogemos una bolsa (tipo bocadillo o de congelar) y echamos las alitas dentro.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Echamos todos los ingredientes de la marinada (el resto de ingredientes de la receta) en el vaso y trituramos 10 segundos, velocidad 5. Añadimos este contenido dentro de la bolsa, cerramos bien y mezclamos bien para que se impregnen las alitas. Dejamos reposar en la nevera dándoles la vuelta a la mitad del tiempo. El tiempo de reposo depende del tiempo que tengáis, desde 30 minutos mínimo a toda la noche si podéis.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 30
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Pasamos las alitas a una fuente de horno pincelada con aceite y las allanamos para que no quede ninguna alita encima de otra.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Precalentamos el horno a 200º (con el grill encendido) y cocinamos durante 15 minutos, dándoles la vuelta a la mitad. Deben quedar tostaditas por fuera.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 15
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/alitas-de-pollo-con-salsa-de-caramelo/",
+    "creado_en": "2026-09-19"
+  },
+  {
+    "id": "6508c3da-8c43-4708-9979-c3b5e36cd7d8",
+    "slug": "crema-inglesa",
+    "titulo": "Crema inglesa",
+    "descripcion": "Receta de Crema inglesa adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/01/crema-inglesa-thermorecetas.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 7,
+    "comensales": 4,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "5 yemas de huevo",
+      "500 g de leche",
+      "90 g de azúcar",
+      "1 vaina de vainilla"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Hacer un corte longitudinal a la vaina de vainilla. Abrirla y con la punta de un cuchillo raspar el interior para sacar todas las semillas. Mezclarlas con el azúcar. Poner todos los ingredientes en el vaso. Programar 7 minutos, 90º, velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 7
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Terminado el tiempo ya tendremos la crema preparada.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/crema-inglesa/",
+    "creado_en": "2026-09-19"
+  },
+  {
+    "id": "349f3e28-4b27-4273-bcc8-e2851c68cc0d",
+    "slug": "patatas-con-almejas",
+    "titulo": "Patatas con almejas",
+    "descripcion": "Receta de Patatas con almejas adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2012/11/patatas-con-almejas.jpg",
+    "categoria": "pescados",
+    "tiempo_total_min": 35,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "300 g de almejas",
+      "600 g de patatas peladas y cortadas en rodajas de 1 cm aproximadamente",
+      "200 g de cebolla",
+      "2 dientes de ajo",
+      "50 g de aceite de oliva virgen extra",
+      "100 g de vino blanco",
+      "200 g de caldo de pescado",
+      "2-3 gotas de salsa Tabasco o 1 cayena pequeña (opcional)",
+      "1 hoja de laurel",
+      "1 cucharada de perejil picado"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos las almejas en un bol con agua y sal y las dejamos reposar unos minutos para que suelten la arena.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Colocamos las patatas en el recipiente varoma y en la bandeja del varoma (ojo, tenemos que dejar libres algunos orificios de las bases para que suba bien el vapor). Tapamos y reservamos.",
+        "accesorio": "Ninguno",
+        "velocidad": 0,
+        "temperatura_c": 120,
+        "potencia_calorifica": 9,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Ponemos en el vaso la cebolla y el ajo. Programamos 3 segundos, velocidad 5. Bajamos los restos de cebolla y ajo que hayan quedado en la tapa y en las paredes del vaso, ayudándonos con la espátula.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Añadimos el aceite y sofreímos programando 7 minutos, temperatura varoma, velocidad 1.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 7
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Incorporamos el vino y el caldo de pescado. Y para triturar programamos 30 segundos, velocidad progresiva 5-10.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Agregamos la hoja de laurel y, si nos atrevemos, el tabasco o la cayena. Aclaramos y escurrimos las almejas ayudándonos del cestillo. Ponemos el cestillo, con las almejas dentro, en el vaso, tapamos y colocamos el recipiente varoma en su posición. Programamos 25 minutos, temperatura varoma, velocidad 2.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 25
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Acabado el tiempo, ponemos las patatas y las almejas en una fuente, vertemos la salsa por encima y espolvoreamos con el perejil picado. Servimos inmediatamente.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/patatas-con-almejas/",
+    "creado_en": "2026-09-19"
   }
 ]
