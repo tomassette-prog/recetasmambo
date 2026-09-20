@@ -36488,5 +36488,464 @@
     ],
     "fuente_url": "https://www.thermorecetas.com/patatas-con-almejas/",
     "creado_en": "2026-09-19"
+  },
+  {
+    "id": "463b0cd4-c13d-4a7f-875d-cb777480afe7",
+    "slug": "hamburguesas-vegetales-de-setas-y-anacardos",
+    "titulo": "Hamburguesas vegetales de setas y anacardos",
+    "descripcion": "Receta de Hamburguesas vegetales de setas y anacardos adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/01/Hamburguesas-vegetales.jpg",
+    "categoria": "panes-masas",
+    "tiempo_total_min": 7,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "250 g de champiñones o setas variadas",
+      "50 g de anacardos (con sal, de los que venden como aperitivo, pueden ser crudos, fritos o fritos con miel)",
+      "200 g de zanahorias",
+      "100 g de cebolla",
+      "2 dientes de ajo",
+      "75 g de pan rallado",
+      "media cucharadita de sal",
+      "media cucharadita de cominos",
+      "1 cucharadita de levadura en polvo",
+      "25 ml de aceite",
+      "2 cucharadas de harina de garbanzos"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos en el vaso la cebolla, la zanahoria, los anacardos, la sal y los cominos. Trituramos durante 5 segundos a velocidad 6. Sacamos y reservamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 6,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Sin limpiar el vaso, añadimos los champiñones (o las setas), los ajos y el aceite. Trituramos durante 5 segundos a velocidad 5 y después programamos 7 minutos, temperatura Varoma, velocidad 1.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 7
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Sacamos y colamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "En un bol grande ponemos la mezcla de los anacardos y la de los champiñones, añadimos la levadura en polvo y el pan. Lo mezclamos hasta que quede una masa homogénea.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Nos empolvamos las manos con la harina de garbanzos y formamos las hamburguesas haciendo una bola y aplastándola después con las palmas. Le untamos con la mano un poco de harina de garbanzos por cada lado.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Hay que dejarlas reposar mínimo media hora antes de hacerlas a la plancha.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/hamburguesas-vegetales-de-setas-y-anacardos/",
+    "creado_en": "2026-09-20"
+  },
+  {
+    "id": "67631579-50f9-4db9-aad6-9f4e8a9ac2bd",
+    "slug": "thaigostinos",
+    "titulo": "Thaigostinos",
+    "descripcion": "Receta de Thaigostinos adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/01/Thaigostinos.jpg",
+    "categoria": "arroces",
+    "tiempo_total_min": 5,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "20 langostinos crudos pelados (dejamos la cola)",
+      "30 gr de aceite de oliva",
+      "un ramillete de cilantro",
+      "una pizca de sal",
+      "hojas de pasta de arroz (podéis sustituirlo por hojas de pasta philo)",
+      "un poco de aceite para freír o para pincelar los langostinos",
+      "Salsa de soja (opcional, para mojar mientras se toman)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Precalentamos el horno a 200º (calor arriba y abajo) – Esta opción si los vamos a hacer en horno. Si los queremos freír podemos saltarnos este paso.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Ponemos las hojas de cilantro en el vaso y añadimos el aceite y la sal. Trituramos 5 segundos, velocidad 5. Retiramos en un cuenco y reservamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Pincelamos los langostinos con este aceite de cilantro por ambas caras.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Envolvemos los langostinos dejando la cola fuera.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Freímos los langostinos si hemos elegido freírlos o los pincelamos con aceite de oliva y los horneamos a 200º durante 10 minutos hasta que se doren.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Los servimos con salsa de soja si nos gusta.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/thaigostinos/",
+    "creado_en": "2026-09-20"
+  },
+  {
+    "id": "2502ce4e-ddc6-493e-81f6-e0bcb881c4d1",
+    "slug": "batido-de-kiwi-y-manzana",
+    "titulo": "Batido de kiwi y manzana",
+    "descripcion": "Receta de Batido de kiwi y manzana adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/01/batido-kiwi-y-manzana-thermorecetas.jpg",
+    "categoria": "bebidas",
+    "tiempo_total_min": 3,
+    "comensales": 3,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "2 kiwis",
+      "2 manzanas golden",
+      "el zumo de 1/2 limón",
+      "el zumo de 2 naranjas"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Pelar, trocear los kiwis y ponerlos en el vaso. Proceder del mismo modo con la manzana. Rociar con el zumo de limón sobre los trocitos de manzana para que no se oxiden. Programar 1 minuto velocidad 5. Después programar 2 minutos velocidad 10. Retirar a una jarra amplia.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Exprimir las naranjas y verter el zumo obtenido en la jarra. Mezclar con una cuchara para que ambos zumos se integren.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Servir en copa decoradas con rodajas de naranja y limón.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/batido-de-kiwi-y-manzana/",
+    "creado_en": "2026-09-20"
+  },
+  {
+    "id": "d88533ff-d2fc-4b6e-8e3a-cd92f2b22b9d",
+    "slug": "crema-de-avellanas",
+    "titulo": "Crema de avellanas",
+    "descripcion": "Receta de Crema de avellanas adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/01/crema-de-avellanas.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 4,
+    "comensales": 10,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "250 g de azúcar glass (queda mejor con el comprado pero, si no tenemos, podemos hacerlo nosotros)",
+      "80 g de leche en polvo",
+      "45 g de avellanas sin piel para que la crema quede blanquita",
+      "120 g de aceite de girasol",
+      "Una cucharadita de postre de esencia de vainilla liquida"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos en el vaso el azúcar glass, la leche en polvo y las avellanas. Pulverizamos en velocidad progresiva 5-10 hasta que quede un polvo muy fino.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 600
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Añadimos el aceite y la cucharadita de vainilla líquida. Programamos 1 minuto, velocidad 7. Y ya tenemos nuestra crema.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "La conservamos en un tarro de cristal (en el vasito de Nutella con su tapa queda fenomenal).",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/crema-blanca-de-avellanas/",
+    "creado_en": "2026-09-20"
+  },
+  {
+    "id": "dec475be-2247-4286-95e7-5f5071ded4b3",
+    "slug": "crema-de-zanahoria-jengibre-y-coco",
+    "titulo": "Crema de zanahoria, jengibre y coco",
+    "descripcion": "Receta de Crema de zanahoria, jengibre y coco adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/01/crema-de-zanahoria-jengibre.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 15,
+    "comensales": 4,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "200 g de puerros",
+      "400 g de zanahorias",
+      "un trozo de raíz de jengibre (de un cm. de longitud aproximadamente).",
+      "2 dientes de ajo",
+      "400 ml de leche de coco",
+      "250 ml de agua + una pastilla de caldo de verduras (o 250 ml de caldo de verduras)",
+      "1 cucharadita de sal",
+      "50 ml de aceite (medio cubilete)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Introducir en el vaso el aceite, el puerro, la zanahoria, el ajo y la raíz de jengibre (pelada). Triturar 5 segundos, velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Bajar los restos de las paredes del vaso con la espátula y rehogar durante 7 minutos, temperatura Varoma, velocidad 1.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 7
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Añadir el agua y la pastilla de caldo (o el caldo), la leche de coco y la sal. Cocer durante 8 minutos, temperatura Varoma, velocidad 1. Con cubilete.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 7
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Dejar que se enfríe un poco y triturar durante 1 minuto a velocidad progresiva 5/10.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/crema-de-zanahoria-jengibre-y-coco/",
+    "creado_en": "2026-09-20"
+  },
+  {
+    "id": "79c715a5-5aac-4139-a7b2-540b5b701ab9",
+    "slug": "cous-cous-real-de-cordero",
+    "titulo": "Cous cous real de cordero",
+    "descripcion": "Receta de Cous cous real de cordero adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/01/Cous_cous_real_de_cordero.jpg",
+    "categoria": "carnes",
+    "tiempo_total_min": 35,
+    "comensales": 4,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "1 pierna de lechal (de unos 600 gr aprox) troceada",
+      "200 grs de cebolla cortada a gajos",
+      "½ cucharadita de comino en grano",
+      "½ cucharadita de coriandro (semillas de cilandro)",
+      "1 cucharadita de pulpa de pimiento choricero",
+      "1 cayena",
+      "2 dientes de ajo",
+      "60 grs de aceite de oliva",
+      "1 cacito de caldo de pollo Knorr (o 1 pastilla de avecrem)",
+      "70 grs de dátiles cortados en trozos (podéis sustituirlos por ciruelas pasas, si os gusta más)",
+      "200 grs de vino blanco",
+      "1 zanahoria pelada y cortada en rodajas",
+      "1/2 calabacín cortado en daditos con su piel",
+      "2 cucharadas de aceitunas negras sin hueso",
+      "100 gr de garbanzos ya cocidos",
+      "unas hojas de menta fresca picada (opcional, para decorar)",
+      "1 tazón grande de cous cous que no esté precocido (sémola de trigo -a mí personalmente el que más me gusta es uno que hacen en Casablanca y que venden en Alcampo. La marca es Tria-).",
+      "1 tazón grande de agua caliente",
+      "50 gr de aceite de oliva virgen extra",
+      "1 cucharada grande de ras-al-hanout (especias para cous-cous)",
+      "1 cucharada grande de cominos",
+      "1 cucharadita de pimentón dulce",
+      "1 cucharadita rasa de sal",
+      "1 cucharadita de canela",
+      "una pizca de pimienta"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos el cordero y 100 gr de cebolla cortada en láminas en un bol y reservamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Ponemos en el vaso los cominos, el coriandro, la pulpa del pimiento choricero, la cayena, el ajo, 30 gr de aceite y un cacito de caldo de pollo. Programamos 20 segundos, velocidad 7. Añadimos este preparado al cordero reservado, mezclamos bien y dejamos reposar removiendo de vez en cuando.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 21
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Sin lavar el vaso, ponemos los 70 gr de cebolla y los 30 gr de aceite restantes y programamos 4 segundos, velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Añadimos los dátiles y programamos 5 minutos, 100º, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Añadimos el cordero con todos los ingredientes de la marinada, la zanahoria y el calabacín y programamos 15 minutos, 100º, giro a la izquierda, velocidad cuchara.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 15
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Vertimos el vino por el bocal y programamos 10 minutos, Vamora, giro a la izquierda, velocidad cuchara.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Añadimos los garbanzos y las aceitunas. Programamos 5 minutos, Vamora, giro a la izquierda, velocidad cuchara.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "A mí me gusta hacerlo en una cazuela de barro, pero podéis utilizar una sartén amplia o una olla ancha. Lo importante es que tenga una base amplia.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Añadimos el aceite y lo calentamos mucho. Apagamos el fuego y añadimos todas las especias y la sal. Removemos bien para que no se quemen y echamos el cous-cous. Volvemos a remover muy bien para que se impregnen todos los granos de sémola. Echamos el agua caliente y removemos de nuevo. Lo tapamos y lo dejamos reposar 5 minutos (siempre con el fuego apagado). Removemos 2 veces cada 5 minutos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 4
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "A mí me gusta removerlo con un tenedor porque así quedan los granos más sueltos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 11,
+        "instruccion": "Listo para presentarlo junto. Podéis espolvorear con hojas de menta fresca picadas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/cous-cous-real/",
+    "creado_en": "2026-09-20"
   }
 ]
