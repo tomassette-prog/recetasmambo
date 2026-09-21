@@ -36947,5 +36947,488 @@
     ],
     "fuente_url": "https://www.thermorecetas.com/cous-cous-real/",
     "creado_en": "2026-09-20"
+  },
+  {
+    "id": "03757be7-3dc9-4f86-9110-514dc0fb4042",
+    "slug": "almejas-al-cava",
+    "titulo": "Almejas al cava",
+    "descripcion": "Receta de Almejas al cava adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/01/almejas-al-cava-thermorecetas.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 22,
+    "comensales": 2,
+    "dificultad": "Media",
+    "ingredientes": [
+      "10 g de aceite",
+      "1 diente de ajo",
+      "400 g de almejas",
+      "1 cucharada de postre de estragón seco",
+      "250 g de cava",
+      "zumo de limón"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Poner a remojo las almejas en agua fría con un poco de sal.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Calentar el aceite durante 2 minutos, temperatura Varoma, velocidad cuchara. Añadir el ajo pelado y laminado. Sofreírlo durante 5 minutos, temperatura Varoma, velocidad cuchara.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 2
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Transcurrido el tiempo incorporar el cava y el estragón. Calentar durante 10 minutos, temperatura Varoma, velocidad 1.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Mientras escurrir bien las almejas y ponerlas en el cestillo. Transcurrido el tiempo colocar el cestillo dentro del vaso y programar 4 minutos, temperatura Varoma, velocidad 4 y el cubilete puesto. Parar la máquina, rociar las almejas con el zumo de limón.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 4
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Utilizar la muesca de la espátula para sacar el cestillo. Disponer las almejas en platos individuales o en un plato grande. Adornarlo con trocitos de limón y unas hojas de perejil.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Servir enseguida.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/almejas-al-cava/",
+    "creado_en": "2026-09-21"
+  },
+  {
+    "id": "6ab75e2c-f015-4310-b581-0a58128e6451",
+    "slug": "yogur-griego",
+    "titulo": "Yogur griego",
+    "descripcion": "Receta de Yogur griego adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/01/yogur-griego.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 15,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "1 yogurt natural",
+      "1 litro de leche entera"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "En primer lugar, hacemos los yogures naturales. Para ello, ponemos en la Thermomix el litro de leche y el yogur natural. Programamos 3 minutos, 37º, velocidad 2.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 3
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Acabado el tiempo, repartimos la mezcla en los vasitos y los metemos, sin tapar, en la yogurtera. Ponemos la tapa de la yogurtera y seguimos las indicaciones del fabricante (normalmente ha de estar encendida con los yogures dentro durante 8 horas aproximadamente).",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 480
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Acabado este tiempo, sacamos los vasitos, los tapamos y los metemos al frigorífico. Ahí los tendremos al menos 4 horas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 240
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Ahora vamos a convertir estos yogures naturales en yogures griegos. Cogemos el cestillo y lo cubrimos con filtros de café abiertos (yo utilizo 2 y medio: 2 abiertos para cubrir los laterales y la mitad de uno para el centro). Nuestro cestillo, así preparado, hará de colador, como veis en la foto. Por supuesto, si la tenéis, podéis sustituir los filtros por una estameña. Es importante colocar debajo del cestillo un bol o cualquier utensilio que tengáis en vuestra cocina que permita recoger el suero que irá cayendo y que, a la vez, mantenga el cestillo elevado, evitando el contacto de nuestro colador con el líquido. Yo utilizo una flanera. Podéis utilizar el vaso de la Thermomix pero tendréis que estar 4 horas sin utilizarla… Ahora volcamos en el cestillo los yogures que hemos preparado antes.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 240
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Metemos el cestillo con el bol en el frigorífico y lo dejamos reposar unas 4 horas (podemos dejarlo más tiempo y será aún más consistente).",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 240
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Pasado el tiempo, ponemos nuestro yogur griego en un cuenco grande, lo removemos un poco con un tenedor y lo servimos en vasitos individuales. Ya lo tenemos ¡listo para consumir!. Probadlo acompañado de mermelada, de fruta, de miel… es un verdadero placer.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Y con el suero… otro día os doy una idea para aprovecharlo.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/yogur-griego/",
+    "creado_en": "2026-09-21"
+  },
+  {
+    "id": "f3b4bb4d-2787-406b-8c92-a093fd2582b1",
+    "slug": "pescado-blanco-con-salsa-de-apio-y-manzana",
+    "titulo": "Pescado blanco con salsa de apio y manzana",
+    "descripcion": "Receta de Pescado blanco con salsa de apio y manzana adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/01/pescado-con-salsa-de-apio.jpg",
+    "categoria": "pescados",
+    "tiempo_total_min": 15,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "4 raciones de bacalao desalado (ya descongelado y escurrido) o rape, o merluza.",
+      "4 ramas de apio (aprox. 60 g)",
+      "1 cebolla (aprox. 140 g)",
+      "1 manzana golden ( aprox. 75 g)",
+      "100 g de queso fresco desnatado (puede hacerse con el entero, sin desnatar)",
+      "130 ml de agua",
+      "1 cucharadita de sal",
+      "20 ml de aceite de oliva"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Introducir el apio, la cebolla y la manzana en el vaso. Trituramos durante 4 segundos, velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Añadir el agua y la sal. Colocar el recipiente Varoma y el pescado en su bandeja (si es bacalao, con la piel hacia abajo). Tapar.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Programamos 13 minutos, temperatura Varoma, velocidad 1.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 13
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Al finalizar, quitar el Varoma y destaparlo para que no continúe la cocción, Cuidado al destapar, que el vapor quema un montón.",
+        "accesorio": "Ninguno",
+        "velocidad": 0,
+        "temperatura_c": 120,
+        "potencia_calorifica": 9,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Añadir al vaso el queso y triturar durante 1 minuto, a velocidad progresiva 5/10.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Programar velocidad 4, sin tiempo, con el cubilete boca arriba e ir dejando caer el aceite poco a poco, lentamente, sobre la tapa de la Thermomix. El aceite irá cayendo hasta el bocal y se colará entre las ranuras que deja el cubilete. De esta forma, haremos una emulsión con el aceite y la salsa. Cuando acabemos de verter el aceite, dejamos unos 5 segundos más la máquina en funcionamiento y la paramos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Servimos el pescado con la salsa por encima.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/pescado-blanco-con-salsa-de-apio-y-manzana/",
+    "creado_en": "2026-09-21"
+  },
+  {
+    "id": "763197af-7dc9-41cd-be93-6df08c21ab8f",
+    "slug": "chorizos-a-la-sidra",
+    "titulo": "Chorizos a la sidra",
+    "descripcion": "Receta de Chorizos a la sidra adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/01/chorizos-a-la-sidra-thermorecetas.jpg",
+    "categoria": "carnes",
+    "tiempo_total_min": 30,
+    "comensales": 2,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "8 chorizos pequeños",
+      "750 g de sidra natural"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Poner la sidra en el vaso y los chorizos en el cestillo. Programar 30 minutos, temperatura Varoma, velocidad 1.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 30
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Transcurrido el tiempo sacar el cestillo ayudándose con la muesca de la espátula. Cortar los chorizos a la mitad con una tijera y colocar en un cuenco.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Verter un poco del líquido del vaso. No os preocupéis si veis que apenas queda líquido en el vaso ya que se evaporará la mayoría del líquido. Nos quedará una mezcla de sidra y jugo del chorizo que pondremos en el cuenco de servir.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Servir acompañado de unos trozos de pan.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/chorizos-a-la-sidra/",
+    "creado_en": "2026-09-21"
+  },
+  {
+    "id": "c096bfe0-9163-4b93-ab2b-4b38fb0ae8b1",
+    "slug": "pan-de-viena-con-avena-y-pasas",
+    "titulo": "Pan de Viena con avena y pasas",
+    "descripcion": "Receta de Pan de Viena con avena y pasas adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/01/pan-de-viena-con-avena-y-pasas.jpg",
+    "categoria": "panes-masas",
+    "tiempo_total_min": 15,
+    "comensales": 12,
+    "dificultad": "Media",
+    "ingredientes": [
+      "250 g de suero de leche (o de leche)",
+      "50 g de azúcar",
+      "40 g de levadura fresca prensada, de panadería",
+      "1 huevo",
+      "500 g de harina de fuerza",
+      "10 g de sal",
+      "100 g de mantequilla, en trocitos",
+      "50 g de avena",
+      "50 g de pasas"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos en el vaso el suero de leche (o la leche) y el azúcar y programamos 1 minuto, 37º, velocidad 2.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Añadimos la levadura y el huevo y mezclamos 10 segundos, velocidad 3.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Agregamos la harina y la sal. Amasamos primero 1 minuto, velocidad 6 y después 3 minutos, vaso cerrado, velocidad espiga. Mientras amasa, incorporamos la mantequilla en trocitos por el bocal.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Añadimos las pasas y la avena y programamos 10 segundos, velocidad 6.",
+        "accesorio": "Cuchillas",
+        "velocidad": 6,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Dejamos reposar la masa dentro del vaso durante 30 minutos. Sacamos la masa y le damos la forma deseada. Es una masa pegajosa así que podéis utilizar un poco de harina para que podáis manejarla mejor. La colocamos en la bandeja del horno y dejamos que doble su volumen antes de hornear. La mía ha levado dentro del horno calentito, a 30º, 1 hora aproximadamente.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 90
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Cuando haya levado, con cuidado, barnizamos el pan con huevo (también se puede pintar con agua, leche o aceite).",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Precalentamos el horno a 200º. Introducimos el pan y bajamos el termostato a 180º. Horneamos unos 30 minutos (dependerá del tipo de horno, estad pendientes por si tenéis que sacarlo antes o cubrirlo con papel de aluminio). ¡Ah!, y si habéis optado por hacer varios panes pequeñitos, tened en cuenta que tendrán que estar menos tiempo en el horno.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 30
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/pan-de-viena-con-avena-y-pasas/",
+    "creado_en": "2026-09-21"
+  },
+  {
+    "id": "0c018328-eaf9-45c9-a336-bed7ec31b95a",
+    "slug": "quiche-de-tres-quesos-con-rucula-y-nueces",
+    "titulo": "Quiche de tres quesos con rúcula y nueces",
+    "descripcion": "Receta de Quiche de tres quesos con rúcula y nueces adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/01/Quiche.jpg",
+    "categoria": "sopas-y-cremas",
+    "tiempo_total_min": 11,
+    "comensales": 8,
+    "dificultad": "Media",
+    "ingredientes": [
+      "1 lámina de masa Brisa",
+      "200 g de queso tierno",
+      "100 g de queso gorgonzola (o queso azul)",
+      "250 g de queso parmesano rallado",
+      "75 g de puerros",
+      "4 huevos",
+      "200 ml de nata líquida",
+      "50 g de nueces peladas",
+      "100 g de rúcula",
+      "1 cucharadita de sal",
+      "pimienta al gusto",
+      "25 ml de aceite. (2 cucharadas)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Seguir las instrucciones del fabricante para la preparación de la masa brisa.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Introducir en el vaso los puerros troceados y el aceite. Triturar 5 segundos, velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Rehogar durante 10 minutos, temperatura Varoma, velocidad 1.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Añadir el queso tierno, el gorgonzola, la mitad del parmesano, la nata, la sal y la pimienta. Batir durante 10 segundos velocidad 7. Con cubilete.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Añadir los huevos, las nueces y la rúcula. Batir durante 5 segundos, velocidad 4. Con cubilete. Probar y rectificar de sal y pimienta.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Verter sobre la masa y disponer por encima el resto del parmesano.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Hornear según las indicaciones del fabricante de la masa. En mi caso, necesitó 25 minutos con el horno precalentado a 180º.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 25
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/quiche-de-tres-quesos-con-rucula-y-nueces/",
+    "creado_en": "2026-09-21"
   }
 ]
