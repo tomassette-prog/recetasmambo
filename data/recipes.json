@@ -37430,5 +37430,448 @@
     ],
     "fuente_url": "https://www.thermorecetas.com/quiche-de-tres-quesos-con-rucula-y-nueces/",
     "creado_en": "2026-09-21"
+  },
+  {
+    "id": "aeb7b162-9277-4af2-9b61-fe97370d297e",
+    "slug": "ensalada-templada-de-patatas-y-pimienta-rosa",
+    "titulo": "Ensalada templada de patatas y pimienta rosa",
+    "descripcion": "Receta de Ensalada templada de patatas y pimienta rosa adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/01/ensalada-templada-de-patatas-y-pimienta-rosa-thermorecetas.jpg",
+    "categoria": "verduras",
+    "tiempo_total_min": 15,
+    "comensales": 2,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "400 g de patatas",
+      "1 limón (1/2 para el zumo y unos trocitos para decorar)",
+      "2 cucharadas soperas de aceite de oliva virgen",
+      "1 cucharada sopera de vinagre de Jerez",
+      "6 o 7 alcaparras",
+      "Sal y pimienta rosa"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Poner en el vaso 1 litro de agua, calentar durante 5 minutos, a 100º y velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 4
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Mientras lavar bien la piel de las patatas. Colocarlas en el cestillo y reservar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Una vez que tengamos el agua caliente procederemos a colocar el cestillo dentro del vaso. Programamos 15 minutos, 100º y velocidad 3 ½.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 12
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Pasado el tiempo comprobar si las patatas están blanditas, de lo contrario programar otros 2 ó 3 minutos más. Retirar el cestillo y reservar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 3
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Cuando estén templadas, cortarlas en rodajas ni muy gordas ni muy finas. Disponerlas en la fuente de servir. Repartir las alcaparras y unos trocitos de limón.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "En un bote con tapa poner el vinagre y un pellizco de sal. Cerrar y agitar el bote hasta que la sal se haya disuelto. Añadir el aceite, volver a cerrar y agitar hasta conseguir una salsa ligada. Agregar el zumo de medio limón colado y repetir la operación.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Verter la vinagreta sobre las patatas y espolvorear un poco de pimienta rosa recién molida.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Servir templada.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/ensalada-templada-de-patatas-y-pimienta-rosa/",
+    "creado_en": "2026-09-22"
+  },
+  {
+    "id": "d43e46b1-01fd-4ebb-aa2d-7473c5a4bd36",
+    "slug": "pasta-con-mejillones-en-escabeche",
+    "titulo": "Pasta con mejillones en escabeche",
+    "descripcion": "Receta de Pasta con mejillones en escabeche adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/01/pasta-con-mejillones-a1.jpg",
+    "categoria": "pescados",
+    "tiempo_total_min": 25,
+    "comensales": 2,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "750 g de agua",
+      "1 cucharada de aceite de oliva virgen extra",
+      "250 g de pasta (para este plato, mejor si es fusilli ya que se empaparán mejor en la salsa -yo no tenía fusilli y he utilizado la pasta que veis en la foto-)",
+      "sal",
+      "1 cebolla mediana en cuartos",
+      "10 g de aceite de oliva virgen extra",
+      "200 g de nata líquida para cocinar (ligera)",
+      "Sal",
+      "1 lata de mejillones en escabeche",
+      "1 o 2 latas de atún"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Comenzamos cociendo la pasta.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Echamos en el vaso, el agua con la sal y el aceite. Programamos 7 minutos, 100º, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 6
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Acabado el tiempo, agregamos la pasta por el bocal y programamos el tiempo indicado en el paquete de la misma, 100º, velocidad cuchara.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "La escurrimos utilizando el cestillo o el recipiente varoma. Reservamos.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "En el vaso, ya sin pasta y sin agua, ponemos la cebolla y programamos 10 segundos, velocidad 4. Bajamos con la espátula los restos que hayan quedado en las paredes. Añadimos el aceite y programamos 5 minutos, temperatura varoma, velocidad 1.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 4
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Ponemos la mariposa en el vaso (si vemos que no encaja bien, sacamos la cebolla, ponemos la mariposa y de nuevo la cebolla frita). Añadimos el líquido de los mejillones (sólo el líquido, los mejillones los reservamos para luego), la nata, y la sal. Programamos 4 minutos, 100º, velocidad cuchara.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 4
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Cuando acabe el tiempo programado, incorporamos la pasta ya cocida, los mejillones y el atún. Programamos 1 minuto, 30 segundos, 100º, giro a la izquierda, velocidad cuchara.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Servimos inmediatamente.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/pasta-con-mejillones-en-escabeche/",
+    "creado_en": "2026-09-22"
+  },
+  {
+    "id": "93d6a7d9-c9e0-47ea-9da8-b0caec416900",
+    "slug": "fondue-de-fresas-con-chocolate-especiado",
+    "titulo": "Fondue de fresas con chocolate especiado",
+    "descripcion": "Receta de Fondue de fresas con chocolate especiado adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/02/Fondue-de-chocolate.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 5,
+    "comensales": 2,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "150 g de chocolate fondant",
+      "15 g de mantequilla",
+      "50 ml de leche entera",
+      "10 ml de licor o vino dulce",
+      "1 cucharadita de canela",
+      "1 clavo",
+      "media cucharadita de café de pimienta negra",
+      "250 g de fresas"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Lavamos las fresas y les quitamos las hojitas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Ponemos en el vaso el chocolate troceado junto al resto de los ingredientes y programamos 4 minutos, temperatura 50º, velocidad 3.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 4
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Comprobamos si está fundido el chocolate y si le faltara programamos 1 minuto más a igual temperatura y velocidad.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Servimos en la fondue para que el chocolate se mantenga caliente, vamos mojando en él las fresas y…. a disfrutar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/fondue-de-fresas-con-chocolate-especiado/",
+    "creado_en": "2026-09-22"
+  },
+  {
+    "id": "c926978f-b5f1-4d41-89f1-973ca5dd5041",
+    "slug": "sopa-depurativa-verde-intenso",
+    "titulo": "Sopa depurativa verde intenso",
+    "descripcion": "Receta de Sopa depurativa verde intenso adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/02/Sopa_depurativa.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 25,
+    "comensales": 4,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "250 gr de judías verdes (yo usé congeladas)",
+      "250 gr de apio",
+      "600 ml de agua",
+      "1 cucharada casera de caldo de verduras (o 1 pastilla de caldo)",
+      "una pizca de pimienta",
+      "50 gr de aceite de oliva",
+      "un chorrito de leche"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos todos los ingredientes en el vaso de la thermomix, excepto la leche.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Programamos 20 minutos (25 minutos si hemos usado judías congeladas), temperatura varoma, velocidad 1.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 20
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Cuando termine el tiempo, añadimos la leche y dejamos reposar hasta que la temperatura baje a los 80º ( podemos destaparla si queremos). Trituramos 1 minuto a velocidad progresiva 5-7-10. Comprobamos el espesor. Debe quedar una sopa espesa, pero no tanto como una crema. Añadimos más leche hasta dejarla a nuestro gusto.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 1
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/sopa-depurativa-verde-intenso/",
+    "creado_en": "2026-09-22"
+  },
+  {
+    "id": "77ce4c6c-035d-482f-9686-86d1fbc75ff9",
+    "slug": "minipizzas-vegetales",
+    "titulo": "Minipizzas vegetales",
+    "descripcion": "Receta de Minipizzas vegetales adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/01/minipizzas-vegetales-thermorecetas.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 3,
+    "comensales": 6,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "200 g de agua a temperatura ambiente",
+      "50 g de aceite",
+      "1 cucharadita de sal",
+      "20 g de levadura fresca",
+      "300 g de harina de fuerza",
+      "100 g de harina integral",
+      "1 ración de la masa",
+      "1/2 calabacín",
+      "6 lonchas de queso de cabra",
+      "aceite de oliva virgen extra",
+      "Orégano",
+      "Sal y pimienta"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Poner en el vaso el agua, el aceite y la sal. Calentar durante 1 minuto a 37º, velocidad 2.",
+        "accesorio": "Cuchillas",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Añadir, a través del bocal, la levadura desmenuzada con los dedos. Mezclar durante 10 segundos a velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Añadir las harinas, mezclar durante 5 segundos a velocidad 5. Y a continuación amasar durante 1 minuto, vaso cerrado, velocidad espiga.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Retirar la masa a un cuenco untado de aceite y dejar reposar la masa con un paño limpio por encima hasta que doble su volumen. Dependerá mucho de la temperatura de la cocina pero suele llevar unos 30 minutos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 30
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Mientras precalentar el horno a 250º.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Cuando haya doblado su volumen, poner la masa en una mesa de trabajo previamente enharinada. Cortar la masa en 6 trozos de los cuales utilizaremos sólo uno para hacer las minipizzas, el resto se puede congelar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Estirar la porción de masa con un rodillo hasta que esté fina. Con un cortador de galletas cortar 6 corazones. Colocarlos en una bandeja para horno y pinchar bien la superficie con un tenedor para que no se formen bolsas de aire.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Lavar y despuntar el calabacín. Cortar 18 lonchas finitas de calabacín y 6 de queso de cabra. (Si se utiliza mandolina siempre con el protector).",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Colocar tres lonchas del calabacín y una de queso en cada corazón. Untar la superficie con unas gotas de aceite de oliva. Salpimientar a gusto y espolvorear orégano.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Hornear durante 5-10 minutos o hasta que los bordes estén dorados.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 11,
+        "instruccion": "Retirar y servir enseguida.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 12,
+        "instruccion": "¡Buen provecho!",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/minipizzas-vegetales/",
+    "creado_en": "2026-09-22"
   }
 ]
