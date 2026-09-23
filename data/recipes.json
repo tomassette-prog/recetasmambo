@@ -37873,5 +37873,404 @@
     ],
     "fuente_url": "https://www.thermorecetas.com/minipizzas-vegetales/",
     "creado_en": "2026-09-22"
+  },
+  {
+    "id": "d588d7f5-f7da-47e9-830e-21a45217298e",
+    "slug": "albondigas-de-cordero-especiadas",
+    "titulo": "Albóndigas de cordero especiadas",
+    "descripcion": "Receta de Albóndigas de cordero especiadas adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/02/albondigas-de-cordero-12.jpg",
+    "categoria": "panes-masas",
+    "tiempo_total_min": 45,
+    "comensales": 20,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "175 g de carne de cordero, en trozos pequeños",
+      "175 g de carne de ternera, en trozos pequeños",
+      "1 diente de ajo",
+      "1 cucharadita de jengibre",
+      "1/2 cucharadita de canela",
+      "Unas hojas de cilantro (si no encontráis podéis sustituirlo por perejil)",
+      "Unas hojas de menta",
+      "1/2 cucharadita de azúcar",
+      "1/2 cucharadita de sal",
+      "El zumo de 1/2 lima",
+      "1/2 huevo (batimos un huevo en un plato y echámos la mitad)",
+      "1/2 rebanada de pan de molde mojada previamente en leche",
+      "500 g de agua para cocinar las albóndigas al vapor",
+      "25 g de caramelo líquido",
+      "10 g de salsa de soja",
+      "25 g de bebida de cola",
+      "Semillas de sésamo"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos la carne de cordero en el vaso y la picamos programando 20 segundos, velocidad progresiva 5-10. La retiramos del vaso y reservamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Hacemos lo mismo con la carne de ternera. Retiramos del vaso y reservamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Ponemos en el vaso el ajo, el jengibre, la canela, el cilantro, la menta, el azúcar, la sal y el zumo de lima. Programamos 10 segundos, velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Añadimos ahora las carnes reservadas, el huevo y el pan de molde. Mezclamos 15 segundos, velocidad 4.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Retiramos la mezcla del vaso y la dejamos macerar al menos 1 hora en el frigorífico.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 60
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Pasado este tiempo formamos las albóndigas y las vamos colocando en la bandeja del recipiente varoma. Luego las cocemos. Para ello, ponemos 500 g de agua en el vaso, la bandeja varoma en su posición, y programamos 25 minutos, temperatura varoma, velocidad 1. También podemos freirías utilizando una sartén y abundante aceite.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 21
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Mezclamos en un cuenco los ingredientes de la salsa y bañamos en ella las albóndigas, una a una, rebozándolas después con las semillas de sésamo.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Podemos presentarlas también pinchadas en brochetas, colocando antes una hojita de menta.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/albondigas-de-cordero-especiadas/",
+    "creado_en": "2026-09-23"
+  },
+  {
+    "id": "1776ceb6-a6e0-4362-93be-5eb8a66023b7",
+    "slug": "bocado-afrodisiaco-de-salmon-y-aguacate",
+    "titulo": "Bocado afrodisíaco de salmón y aguacate",
+    "descripcion": "Receta de Bocado afrodisíaco de salmón y aguacate adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/02/bocado-afrodisiaco.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 1,
+    "comensales": 2,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "100 g de salmón ahumado en lonchas o láminas de salmón crudo (si es crudo, congeladlo antes y descongeladlo para cocinar, así eliminamos cualquier riesgo de anisakis).",
+      "1 aguacate (100 g aprox)",
+      "1 tomate pequeño (80 g)",
+      "1 chorrito de limón (1 cucharadita de postre)",
+      "1/2 cucharadita de wasabi",
+      "pimienta negra molida al gusto",
+      "sal al gusto",
+      "huevas de lumpo rojas (sucedáneo de caviar rojo) para decorar."
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Introducir en el vaso el aguacate, el tomate, el limón, el wasabi, la sal y la pimienta. Batir durante 20 segundos a velocidad 6.",
+        "accesorio": "Cuchillas",
+        "velocidad": 6,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Cortar el salmón en láminas de unos 4 cm de ancho. Enrolladlas sobre sí mismas dejando un hueco central donde con una cucharilla introduciremos la crema de aguacate.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Coronamos con unas bolitas de caviar rojo.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/bocado-afrodisiaco-de-salmon-y-aguacate/",
+    "creado_en": "2026-09-23"
+  },
+  {
+    "id": "ebe5241d-8239-4d37-ad38-a46c566daaf5",
+    "slug": "salmon-a-la-sal-con-setas-plancha",
+    "titulo": "Salmón a la sal con setas plancha",
+    "descripcion": "Receta de Salmón a la sal con setas plancha adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/01/Salmón_a_la_sal.jpg",
+    "categoria": "carnes",
+    "tiempo_total_min": 20,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "4 lomos de salmón con su piel (150gr aproximadamente cada lomo)",
+      "sal gorda",
+      "pimienta",
+      "1 litro de agua (1.000 gr)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Primero, limpiamos el salmón de espinas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Cortamos 4 trozos de papel de aluminio y salpimientamos en el centro. Colocamos encima, una porción de salmón con la piel hacia arriba. Dobla los bordes hacia dentro de manera que el pescado quede como en una cajita abierta.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Colocamos los paquetitos sobre el recipiente varoma y echamos 2 cucharadas grandes de sal gruesa encima de cada trozo para que estén bien cubiertos.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Añadimos el agua en el vaso y colocamos el recipiente varoma encima. Programamos 20 minutos, velocidad 2, temperatura varoma.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 16
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Para servirlo simplemente retiramos la capa de sal y sacamos los trozos del papel de aluminio.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Servimos junto con las setas a la plancha.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/salmon-a-la-sal/",
+    "creado_en": "2026-09-23"
+  },
+  {
+    "id": "57cf724c-bae0-4bd7-a789-6fb9b32984ee",
+    "slug": "pastelitos-de-pera",
+    "titulo": "Pastelitos de pera",
+    "descripcion": "Receta de Pastelitos de pera adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/02/bizcochitos-de-pera-thermorecetas.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 25,
+    "comensales": 6,
+    "dificultad": "Media",
+    "ingredientes": [
+      "2 claras de huevo",
+      "75 g de azúcar glas",
+      "35 g de harina",
+      "35 g de almendras crudas peladas",
+      "30 g de mantequilla",
+      "15 g de miel",
+      "1 pera",
+      "azúcar moreno (opcional)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Precalentar el horno a 180º, calor arriba y abajo. Sin ventilador.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Derretir la mantequilla en el microondas pero sin que llegue a hervir. Dejar que se enfríe.",
+        "accesorio": "Cuchillas",
+        "velocidad": 0,
+        "temperatura_c": 100,
+        "potencia_calorifica": 9,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Poner las almendras en vaso y programar 10 segundos, velocidad 7. Retirar y reservar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Sin lavar el vaso añadir las claras y azúcar. Mezclar sin batir durante 1 minuto, velocidad 2. A continuación agregar la harina tamizada y el las almendras molidas. Programar 1 minuto, velocidad 2. Incorporar la miel y volver a programar 1 minuto, velocidad 2. Incorporar la mantequilla derretida y mezclar durante 1 minuto a velocidad 1. Terminar de mezclar con la espátula.",
+        "accesorio": "Cuchillas",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Verter la masa en unos moldes con forma de corazón. Yo he utilizado unos de silicona. Llenarlos sólo 3/4 de su capacidad.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Lavar la pera y cortarla en láminas finas. Recortar con un cortador pequeño de galletas 6 corazones. Colocar uno encima de cada molde e introducirlos en el horno durante 18-20 minutos.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 20
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Cuando ya estén doraditos retirarlos y espolvorear unos granitos de azúcar moreno por encima que con el calor se derretirán formando unas simpáticas gotas. Servir acompañado preferentemente de una bebida caliente.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/pastelitos-de-pera/",
+    "creado_en": "2026-09-23"
+  },
+  {
+    "id": "669b64e9-ba56-44b9-942f-b7f7532343c8",
+    "slug": "risotto-con-manzana-y-curry",
+    "titulo": "Risotto con manzana y curry",
+    "descripcion": "Receta de Risotto con manzana y curry adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/02/risotto-con-manzana-y-curry.jpg",
+    "categoria": "arroces",
+    "tiempo_total_min": 21,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "300 g de arroz (preferiblemente Carnaroli)",
+      "100 g de manzana deshidratada",
+      "1 cucharada de curry",
+      "700 g de caldo vegetal",
+      "100 g de vino blanco",
+      "60 g de mantequilla",
+      "1 puerro"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Como en esta receta vamos a tener que añadir el caldo hirviendo, vamos a comenzar poniéndolo al fuego en una cacerola.",
+        "accesorio": "Cuchillas",
+        "velocidad": 0,
+        "temperatura_c": 100,
+        "potencia_calorifica": 9,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Ahora empezamos a trabajar con nuestra Thermomix. Ponemos en el vaso 30 g de mantequilla (ojo, es la mitad de lo que os ponía en los ingredientes porque el resto lo pondremos al final) y el puerro. Trituramos unos segundos en velocidad 4 y programamos 3 minutos, 100º, velocidad 2.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 3
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Abrimos la tapa y ponemos la mariposa. Añadimos la manzana y el arroz y programamos 3 minutos, 100º, velocidad 1.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 3
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Añadimos el vino blanco. Programamos 1 minuto, 100º, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Ahora vamos a poner en el vaso el caldo hirviendo (el que os comentaba antes) y el curry. Programamos unos 10 o 13 minutos, 100º, velocidad 1 (podemos poner 10 minutos en un principio y, si acabado el tiempo, creemos que le falta un poco, darle uno o dos minutos más)",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 9,
+        "tiempo_minutos": 11
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Y ya está. Ahora sólo nos queda volcarlo en la fuente donde lo vayamos a servir, untarlo con el resto de la mantequilla y dejarlo reposar un minuto. Ahora sí, ¡listo para comer!",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/risotto-con-manzana-y-curry/",
+    "creado_en": "2026-09-23"
   }
 ]
