@@ -38272,5 +38272,576 @@
     ],
     "fuente_url": "https://www.thermorecetas.com/risotto-con-manzana-y-curry/",
     "creado_en": "2026-09-23"
+  },
+  {
+    "id": "a8e8cad0-2b76-4b1a-91d0-8795472dbe54",
+    "slug": "gambas-con-panacota-de-jengibre",
+    "titulo": "Gambas con panacota de jengibre",
+    "descripcion": "Receta de Gambas con panacota de jengibre adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/02/gambas-con-jengibre.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 30,
+    "comensales": 2,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "8 gambas o gambones",
+      "1 kilo de sal gorda",
+      "50 ml de leche entera",
+      "100 ml de nata líquida",
+      "15 g de raíz de jengibre",
+      "zumo de medio limón.",
+      "2 hojas de gelatina",
+      "sal",
+      "pimienta blanca",
+      "100 ml de queso batido (o queso tipo quark, o crème fraiche)",
+      "Huevas de lumpo rojas para decorar"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Lo primero, ponemos la gelatina para la panacota a hidratar cubriéndola con agua fría.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Continuamos cociendo las gambas a la sal en el Varoma. Para ello ponemos en el vaso medio litro de agua y programamos 8 minutos, temperatura Varoma, velocidad 1.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 7
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Mientras tanto, destapamos el recipiente Varoma, quitamos la bandeja (que no vamos a utilizar) y lo colocamos sobre su tapa transparente boca arriba (es porque lo vamos a llenar de sal y así, la que caiga no os ensucia la encimera).",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Cubrimos el fondo del Varoma con sal gorda, colocamos las gambas encima, una al lado de la otra, y las cubrimos de nuevo con sal gorda. Tapamos el recipiente.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Cuando finalice la Thermomix el paso anterior, colocamos el Varoma en su sitio y programamos 6 minutos, temperatura Varoma, velocidad 1.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 6
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Mientras tanto, podemos pelar la raíz de jengibre.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Cuando finalice, quitamos el Varoma de su ubicación y dejamos que se enfríe un poco mientras elaboramos la panacota.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Vacíamos el vaso e introducimos la nata, la leche, el jengibre pelado, sal y pimienta blanca al gusto. Trituramos durante 5 segundos, velocidad 5.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "A continuación, programamos 12 minutos, 100º, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 12
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Mientras, abrimos el Varoma por el lado opuesto a donde estamos situados para evitar quemarnos si hay agua condensada en la tapa. Sacamos las gambas, eliminando la sal. Las pelamos y guardamos, reservamos las cabezas.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 11,
+        "instruccion": "Finalizado el tiempo de la thermomix, añadimos la gelatina y el zumo de medio limón y batimos durante 1 minuto, a velocidad progresiva 5/10.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 12,
+        "instruccion": "Vertemos la mezcla en un molde y lo introducimos en el frigorífico, donde la panacota deberá reposar, al menos, una hora, para estar lista.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 13,
+        "instruccion": "Vamos a por la crema de marisco. Sin necesidad de lavar el vaso, introducimos las cabezas de las gambas y el queso batido. Programamos 2 minutos, velocidad 7. Y a continuación, 1 minuto, velocidad progresiva 5/10. Y ya la tenemos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 2
+      },
+      {
+        "paso_numero": 14,
+        "instruccion": "Emplatamos con la crema en el fondo, láminas de panacota a continuación, las gambas encima y decoramos con las huevas de lumpo. Puede servirse frío o calentar un poco la crema para que esté tibia. La panacota, siempre fría, pues caliente, se deshace.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/gambas-con-panacota-de-jengibre/",
+    "creado_en": "2026-09-24"
+  },
+  {
+    "id": "2072cf62-4d58-4591-b870-7c155ce6f602",
+    "slug": "mousse-de-san-valentin",
+    "titulo": "Mousse de San Valentín",
+    "descripcion": "Receta de Mousse de San Valentín adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/02/Mousse_San_Valentin.jpg",
+    "categoria": "bebidas",
+    "tiempo_total_min": 2,
+    "comensales": 2,
+    "dificultad": "Media",
+    "ingredientes": [
+      "200 gr de fresas",
+      "200 gr de leche condensada",
+      "un chorrito de zumo de limón"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Añadimos las fresas en trocitos y programamos 1 minuto, velocidad progresiva 5-7-10.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "A continuación ponemos la leche condensada y el limón y trituramos 30 segundos, velocidad 5.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Dejamos reposar en la nevera al menos 2 horas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 120
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Podréis rectificar la cantidad de leche condensada o limón en función de cómo os guste.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "¡Así de fácil!",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/mousse-de-san-valentin/",
+    "creado_en": "2026-09-24"
+  },
+  {
+    "id": "b3c57a81-447b-4bbc-8200-1fda574b6448",
+    "slug": "langostinos-en-salsa-agridulce",
+    "titulo": "Langostinos en salsa agridulce",
+    "descripcion": "Receta de Langostinos en salsa agridulce adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/02/langostinos-en-salsa-agridulce-thermorecetas.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 13,
+    "comensales": 2,
+    "dificultad": "Media",
+    "ingredientes": [
+      "12 langostinos",
+      "60 g de caldo (pollo, pescado…)",
+      "30 g de ketchup (ver receta )",
+      "40 g de azúcar blanquilla",
+      "20 g de zumo de naranja",
+      "10 g de vinagre de vino blanco",
+      "7 g de salsa de soja",
+      "1/2 guindilla o cayena sin semillas",
+      "1 1/2 cucharadas de postre de maicena",
+      "1 pellizco de sal",
+      "1/2 cebolla",
+      "3 cucharadas de aceite de oliva",
+      "gajos de naranja (opcional)",
+      "arroz salvaje (opcional)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "En un bol poner 1 cucharada sopera de caldo, el ketchup, el azúcar, el zumo, el vinagre y la salsa de soja. Salar, mezclar y dejar reposar. Diluir la maicena en el resto del caldo y reservar.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 21
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Pelar y cortar la cebolla en plumas, picarla durante 5 segundos, velocidad 7. Bajar los trocitos hacia las cuchillas. Añadir la guindilla o cayena y 2 cucharadas de aceite de oliva y sofreir durante 10 minutos, 100º y velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Mientras pelar los langostinos, eliminar con cuidado las venitas negras y saltearlas en una sartén con una cucharada de aceite de oliva. Retirar y reservar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Terminado el tiempo, agregar la mezcla reservada en el bol. Programar 2 minuto, 100º, velocidad 1. Añadir el caldo con maicena y los langostinos reservados. Programar 1 minuto, 100º, velocidad 1, giro a la izquierda.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 2
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Retirar y servir acompañadas de arroz basmati o salvaje. Decorar con los gajos de naranja como en la foto.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "¡Buen provecho!",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/langostinos-en-salsa-agridulce/",
+    "creado_en": "2026-09-24"
+  },
+  {
+    "id": "eea56fc4-af32-4b36-8618-f473d8374042",
+    "slug": "tarta-de-nata-y-fresas",
+    "titulo": "Tarta de nata y fresas",
+    "descripcion": "Receta de Tarta de nata y fresas adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/02/tarta-de-nata-y-fresas.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 90,
+    "comensales": 8,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "Para hacer esta tarta he hecho dos bizcochos en un molde de 23 cms de diámetro. Una vez horneados los he dividido en dos (teniendo como resultado 4 planchas) pero he utilizado 3 planchas. Si preferís que la tarta sea un poquito más pequeña (y más baja) con que hagáis un solo bizcocho que luego cortaréis por la mitad será suficiente.",
+      "115 g de azúcar",
+      "100 g de agua",
+      "Zumo de 1/2 limón",
+      "500 g de fresas",
+      "250 g de azúcar",
+      "1 litro de nata (500 g de nata para el relleno y 500 para la decoración exterior)",
+      "160 g de azúcar glass",
+      "200 g de azúcar",
+      "3 cucharadas de mermelada de fresa",
+      "3 cucharadas de agua",
+      "2 cucharadas de zumo de limón",
+      "Fresas enteras"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Lo que os decía antes, podéis hacer una tarta grande, de tres pisos, como la que veis en la foto u otra de dos pisos que también os va a quedar bien hermosa. En ambos casos la tarta tendrá 23 cms de diámetro pero en una haremos dos bizcochos genoveses y en la otra uno.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Os pongo aquí cómo hacer un bizcocho genovés:",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Colocamos la mariposa en las cuchillas, ponemos en el vaso los 4 huevos con el azúcar (120 gr) y el azúcar vainillado (1 cucharadita) y programamos 6 minutos, 37 º, velocidad 4.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 246
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Cuando acabe el tiempo, volvemos a programar otros 6 minutos, velocidad 4 (sin programar temperatura).",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 6
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Abrimos la tapa y añadimos la harina (120 gr) con la sal, echándola alrededor de la mariposa. Programamos 4 segundos, velocidad 3.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Retiramos la mariposa y terminamos de envolver la mezcla con cuidado ayudándonos con la espátula.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Vertemos la mezcla en un molde redondo de unos 23 cm y horneamos a 180º durante 20 o 25 minutos (metemos el molde cuando el horno esté caliente).",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 25
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Si os decidís por hacer la super tarta, una vez que tengáis un bizcocho horneado preparáis el otro siguiendo los mismos pasos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Vertemos el agua, el azúcar y el limón en el vaso y programamos 12 minutos, 100º, velocidad 2. Dejamos templar y lo metemos en la nevera.",
+        "accesorio": "Cuchillas",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Siempre podéis utilizar mermelada comprada pero si tenéis la oportunidad os animo a que la hagáis en casa. Al comienzo del post os he puesto el link a la mermelada de fresa que tenemos publicada. Podéis hacerla así o como la he preparado yo para esta tarta, utilizando menos cantidad de azúcar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 11,
+        "instruccion": "Solo hay que poner las fresas y el azúcar en el vaso y programar 30 minutos, 100º, velocidad 2.",
+        "accesorio": "Cuchillas",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 30
+      },
+      {
+        "paso_numero": 12,
+        "instruccion": "Vertemos en el vaso todos los ingredientes del glaseado y programamos 4 minutos, 100º, velocidad 6. Dejamos enfriar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 6,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 4
+      },
+      {
+        "paso_numero": 13,
+        "instruccion": "Empezamos pulverizando el azúcar para hacerla glas (velocidad progresiva 5-10 durante 30 segundos). Ahora lavamos el vaso y lo enfriamos el vaso picando unos cubitos de hielo que luego tiraremos (para montar la nata tanto el vaso como nuestra nata tienen que estar muy fríos). Como vamos a montar 1 litro de nata no hace falta que pongamos la mariposa en las cuchillas. Agitamos bien el envase de nata y echamos su contenido en el vaso. Añadimos también una cucharada de queso Philadelphia que dará más consistencia a nuestra nata. Ponemos a funcionar la Thermomix en velocidad 5, sin programar tiempo. Cuando esté lista paramos la máquina y añadimos a la nata montada el azúcar glass. Integramos azúcar y nata ayudándonos con la espátula y con movimientos envolventes. Reservamos en la nevera teniendo en cuenta que la mitad la utilizaremos para el relleno y la otra mitad para la decoración exterior.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 14,
+        "instruccion": "Dividimos el bizcocho genovés en dos para obtener dos planchas de tarta. Si queremos que la tarta sea más alta habremos hecho otro bizcocho que también tenemos que dividir. La plancha que nos sobra la podemos congelar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 15,
+        "instruccion": "Sobre una lámina de papel de horno ponemos la primera plancha de bizcocho. La bañamos con almíbar. Ponemos una capa de mermelada y otra de nata.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 16,
+        "instruccion": "Ponemos la segunda plancha de bizcocho y repetimos la misma operación.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 17,
+        "instruccion": "Ahora ponemos la tercera plancha. La bañamos con almíbar y ponemos sobre ella una capa de mermelada. Colocamos las fresas lavadas, secas y sin el tallito verde.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 18,
+        "instruccion": "Sobre cada fresa vamos a poner una cucharada de glaseado. El glaseado cubrirá todas las fresas y, al caer, creará una capa que les servirá de unión.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 19,
+        "instruccion": "Ahora os aconsejo que coloquéis la tarta donde la queráis presentar. Para eso viene muy bien el papel de horno que pusimos al principio. Una vez la tengáis colocada recortad el papel con ayuda de unas tijeras respetando la forma de la tarta.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 20,
+        "instruccion": "Por último, decoramos con la nata ayudándonos de una manga pastelera.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/tarta-de-nata-y-fresas/",
+    "creado_en": "2026-09-24"
+  },
+  {
+    "id": "ead40bda-ef07-45a0-b3e4-4c7ba97dc1aa",
+    "slug": "smoothie-de-platano-y-moca",
+    "titulo": "Smoothie de plátano y moca",
+    "descripcion": "Receta de Smoothie de plátano y moca adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/02/smoothie-de-plátano-y-moca-thermorecetas.jpg",
+    "categoria": "bebidas",
+    "tiempo_total_min": 1,
+    "comensales": 2,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "1 plátano maduro",
+      "1 cucharada sopera de cacao puro",
+      "2 cucharadas soperas de café",
+      "240 g de leche"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Pelar el plátano y triturarlo durante 15 segundos a velocidad 5. Bajar el puré hacia las cuchillas, incorporar el resto de los ingredientes y programar 30 segundos, velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Servir y tomar enseguida.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Si se tarda un poco en tomarlo se formará en la parte superior una capa un poco más densa pero se disuelve rápidamente si se agita con una cuchara.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Para esta preparación se puede utilizar cualquier tipo de leche; semi, de soja, de avena…",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/smoothie-de-platano-y-moca/",
+    "creado_en": "2026-09-24"
   }
 ]
