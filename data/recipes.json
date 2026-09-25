@@ -38843,5 +38843,407 @@
     ],
     "fuente_url": "https://www.thermorecetas.com/smoothie-de-platano-y-moca/",
     "creado_en": "2026-09-24"
+  },
+  {
+    "id": "50e77e8f-f30e-4ea8-ae37-68c2698e9512",
+    "slug": "pan-de-leche-de-soja",
+    "titulo": "Pan de leche de soja",
+    "descripcion": "Receta de Pan de leche de soja adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/02/pan-de-leche-de-soja.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 20,
+    "comensales": 8,
+    "dificultad": "Media",
+    "ingredientes": [
+      "250 g de leche de soja (y un poco más para pintar luego la superficie)",
+      "50 g de aceite de oliva virgen extra",
+      "50 g de azúcar",
+      "30 g de levadura prensada fresca, de panadería",
+      "450-500 g de harina de fuerza",
+      "1 cucharadita de sal"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos en el vaso la leche de soja (250 g), el aceite y el azúcar. Programamos 2 minutos, 37º, velocidad 2.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 2
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Añadimos la levadura y mezclamos 5 segundos, velocidad 4. Incorporamos la harina y la sal, mezclamos 15 segundos, velocidad 6. Luego programamos 3 minutos, vaso cerrado, velocidad espiga.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 3
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Le damos a la masa la forma deseada. También podemos utilizar un molde tipo plum-cake, por ejemplo. Le hacemos unos cortes y pintamos la superficie con leche de soja. Dejamos que doble su volumen.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Precalentamos el horno a 200º. Introducimos el pan en el horno ya caliente. El tiempo de cocción va a depender del tamaño de los panes, entre 10 y 30 minutos (lo sabréis por el color que van cogiendo).",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 30
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "¡Veréis qué ricos!",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/pan-de-leche-de-soja/",
+    "creado_en": "2026-09-25"
+  },
+  {
+    "id": "f3bde50d-6bf1-49df-b1ee-26e0aa080c4e",
+    "slug": "pate-de-higaditos-de-pollo-foie-de-pollo",
+    "titulo": "Paté de higaditos de pollo (foie de pollo)",
+    "descripcion": "Receta de Paté de higaditos de pollo (foie de pollo) adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/02/Pate-pollo.jpg",
+    "categoria": "carnes",
+    "tiempo_total_min": 9,
+    "comensales": 20,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "250 g de higaditos de pollo (limpios de nervios)",
+      "100 g de pechuga de pollo",
+      "250 g de mantequilla",
+      "150 ml de vino blanco seco",
+      "25 ml de Pedro Ximénez",
+      "4 granos de pimienta negra",
+      "1/2 cucharadita de pimienta blanca",
+      "1/2 cucharadita de sal"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos en el vaso el vino, la pimienta en grano, los higaditos y la pechuga en trozos. Cocer durante 8 minutos a 90º y velocidad 2.",
+        "accesorio": "Cuchillas",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Colamos con el cestillo (el líquido lo tiramos) y volvemos a poner la carne e hígados en el vaso. Añadimos la mantequilla, la sal, la pimienta blanca, y el vino dulce (Pedro Ximénez). Trituramos durante 1 minuto a velocidad progresiva 5/10. Debe quedar una masa homogénea, si observamos que quedan todavía trozos trituramos 30 segundos más a la misma velocidad.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Vertemos en un molde, lo tapamos con papel film y lo introducimos en el frigorífico durante, al menos, 3 horas (es el mínimo, pero este paté, igual que el foie, está incluso mejor al día siguiente, reposando 24 horas).",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 180
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/pate-de-higaditos-de-pollo-foie-de-pollo/",
+    "creado_en": "2026-09-25"
+  },
+  {
+    "id": "52c44696-9a45-4406-b4dd-e6efd9a56eb6",
+    "slug": "tallarines-con-queso-de-espinacas",
+    "titulo": "Tallarines con queso de espinacas",
+    "descripcion": "Receta de Tallarines con queso de espinacas adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/02/Tallarines-con-salsa-verde-de-queso-y-espinacas.jpg",
+    "categoria": "verduras",
+    "tiempo_total_min": 30,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "30 gr de aceite de oliva",
+      "100 gr de cebolla",
+      "2 dientes de ajo",
+      "200 gr de champiñones cortados a vuestro gusto",
+      "sal y pimienta al gusto",
+      "450 gr de tallarines verdes de espinacas cocidos (o cualquier pasta que os guste)",
+      "250 gr de espinacas descongeladas y bien escurridas",
+      "120 gr de queso batido (podéis sustituirlo por queso tipo filadelfia, incluso con sabor de ajo perejil o finas hierbas)",
+      "4 cucharadas de leche (entera, semidesnatada o desnatada)",
+      "unas hojas de albahaca fresca",
+      "pistachos o nueces (opcional para decorar)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Para cocer la pasta, seguid estas indicaciones.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Echamos en el vaso el aceite, la cebolla y el ajo y trituramos 5 segundos, velocidad 5. Bajamos los restos de las paredes y sofreímos 7 minutos, velocidad 1, temperatura varoma.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 7
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Añadimos los champiñones y programamos 5 minutos, velocidad 1, giro a la izquierda, temperatura varoma.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Añadimos las espinacas y sofreímos 5 minutos, velocidad 1, giro a la izquierda, temperatura varoma.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Agregamos el queso batido y programamos 2 minutos, velocidad 1, giro a la izquierda, temperatura 90º.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 2
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Añadimos sal y pimienta al gusto y las 4 cucharadas de leche. Removemos unos segundos, velocidad 1, giro a la izquierda, sin temperatura.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Vertemos la salsa de espinacas y champiñones sobre la pasta y adornamos con la albahaca fresca y los pistachos/nueces.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/tallarines-con-queso-de-espinacas/",
+    "creado_en": "2026-09-25"
+  },
+  {
+    "id": "cb102534-6046-4c96-9912-264d0bddfa41",
+    "slug": "crema-de-verduras-con-espiral-de-tomate",
+    "titulo": "Crema de verduras con espiral de tomate",
+    "descripcion": "Receta de Crema de verduras con espiral de tomate adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/02/crema-de-verduras-con-espiral-de-tomate-thermorecetas.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 24,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "1 puerro (sólo la parte blanca)",
+      "2 zanahorias",
+      "1 tomate",
+      "200 g de calabacín",
+      "1 patata",
+      "1/2 lechuga",
+      "1 diente de ajo",
+      "15 g de aceite de oliva",
+      "2 quesitos o 30 g de queso de untar",
+      "100 g de leche semi",
+      "4 cucharadas de ketchup o tomate frito"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Lavar y escurrir bien la lechuga. Introducir las hojas en el vaso y programar 5 segundos, velocidad 4. Retirar y reservar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Lavar bien el puerro. Cortarlo en varios trozos y colocarlo en el vaso junto a las zanahorias también peladas y troceadas. Programar vaso cerrado y darle dos golpes de turbo.",
+        "accesorio": "Cuchillas",
+        "velocidad": "Turbo",
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Agregar la lechuga, la patata pelada, lavada y en trozos. Incorporar también el tomate lavado y pelado, el calabacín lavado y el diente de ajo pelado. Verter agua hasta cubrir las verduras, incorporar la leche, el aceite y salpimentar. Programar 20 minutos, 100º, velocidad 1.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 16
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Transcurrido el tiempo, esperar a que baje un poco la temperatura y triturar durante 1 minuto, velocidad 5-7-10.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Incorporar los quesitos o el queso de untar y triturar de nuevo durante 30 segundos a velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Verter en platos hondos y dibujar una espiral con el ketchup. También se pueden hacer otros dibujos como un sol, un corazón o círculos concéntricos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Servir antes de que se enfríe.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/crema-de-verduras-con-espiral-de-tomate/",
+    "creado_en": "2026-09-25"
+  },
+  {
+    "id": "35a440ad-069d-4133-b9cc-fe352c37a032",
+    "slug": "croquetas-de-pescado",
+    "titulo": "Croquetas de pescado",
+    "descripcion": "Receta de Croquetas de pescado adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/02/croquetas-de-pescado.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 75,
+    "comensales": 20,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "230 g de sobras de pescado (en mi caso, dorada)",
+      "100 g de atún en aceite de oliva, ya escurrido",
+      "70 g de aceite de oliva virgen extra",
+      "100 g de cebolla",
+      "200 g de harina simple de trigo (mejor ésta que la de repostería)",
+      "620 g de leche entera o semidesnatada",
+      "Nuez moscada",
+      "Sal (1 cucharadita)",
+      "Huevo batido (2 o 3 porque son muchas)",
+      "Pan rallado o polenta",
+      "Aceite de oliva para freir"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos en el vaso el pescado que nos haya sobrado de alguna comida, ya cocinado. Es importante que esté bien limpito, sin pieles ni espinas. También ponemos el atún. Damos 4 golpes de turbo, sacamos y reservamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": "Turbo",
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Ahora ponemos en el vaso el aceite y la cebolla. Programamos 4 segundos, velocidad 5. Bajamos con la espátula lo que haya quedado en las paredes del vaso y programamos 4 minutos, temperatura varoma, velocidad 1.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 4
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Añadimos los 200 g de harina y programamos 2 minutos, 100º, velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 2
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Incorporamos la leche, la sal y rallamos un poquito de nuez moscada. Programamos 6 minutos, 100º, velocidad 4.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 6
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Acabado el tiempo, añadimos el el pescado cocinado y el atún bien escurrido y mezclamos durante unos segundos en velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Extendemos la masa sobre una bandeja, si queréis, cubierta con papel de horno. La dejamos reposar unas horas a temperatura ambiente o en la nevera si en vuestra cocina hace mucho calor.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Una vez fría vamos formando las croquetas, cada uno con su método. Yo en este caso lo he hecho ayudándome de dos cucharas paro también podéis utilizar la manga pastelera. Pasamos cada croqueta por huevo batido y luego por pan rallado o polenta.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Freímos en abundante aceite caliente (poned mucho aceite en la sartén, lo ideal es que casi cubra la croqueta y que apenas haga falta darle la vuelta).",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/croquetas-de-pescado/",
+    "creado_en": "2026-09-25"
   }
 ]
