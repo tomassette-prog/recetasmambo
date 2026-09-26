@@ -39245,5 +39245,400 @@
     ],
     "fuente_url": "https://www.thermorecetas.com/croquetas-de-pescado/",
     "creado_en": "2026-09-25"
+  },
+  {
+    "id": "e76edb64-4ef5-4280-a850-07ddaf200077",
+    "slug": "zumo-de-mango-y-pina",
+    "titulo": "Zumo de mango y piña",
+    "descripcion": "Receta de Zumo de mango y piña adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/02/zumo-mango.jpg",
+    "categoria": "bebidas",
+    "tiempo_total_min": 2,
+    "comensales": 1,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "230 g de mango maduro",
+      "230 g de conserva de piña en su jugo (o piña natural)",
+      "400 ml de agua fría",
+      "azúcar banca al gusto (o el endulzante que prefiráis)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Pelar el mango e introducirlo junto con la piña y 100 ml (un cubilete) del jugo de la piña en el vaso. Si habéis utilizado piña natural y no habéis podido recoger jugo de la misma, podéis sustuirlo por 100 ml de agua. Triturar 1 minuto a velocidad progresiva 5/10. Con cubilete.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Añadir 400 ml de agua fría y mezclar durante 30 segundos a velocidad 7.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Probar el zumo y si necesitara endulzante, añadir azúcar al gusto (si el mango y la piña están maduros no le hará falta) y programar 10 segundos más a velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/zumo-de-mango-y-pina/",
+    "creado_en": "2026-09-26"
+  },
+  {
+    "id": "0b581c40-03ed-41e2-bd54-cd04d79c175e",
+    "slug": "bocaditos-de-queso",
+    "titulo": "Bocaditos de queso",
+    "descripcion": "Receta de Bocaditos de queso adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/02/Bocaditos_de_queso.jpg",
+    "categoria": "sopas-y-cremas",
+    "tiempo_total_min": 50,
+    "comensales": 6,
+    "dificultad": "Media",
+    "ingredientes": [
+      "200 g de requesón o queso de Burgos troceado",
+      "1 cucharada de mantequilla o margarina",
+      "3 huevos",
+      "200 g de azúcar",
+      "250 g de leche",
+      "200 g de harina",
+      "una pizca de sal"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Encendemos el horno a 180º.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Echamos el azúcar y los huevos y colocamos la mariposa. Programamos 4 minutos, temperatura 37º, velocidad 3 1/2.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 4
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Quitamos la mariposa, añadimos el resto de ingredientes en el vaso y trituramos 20 segundos, velocidad 4. Está bien si no se queda muy triturado el queso.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Untamos un molde rectangular (de unos 25x30cm aprox) con un poco de mantequilla o aceite de oliva y espolvoreamos con harina para que no se nos pegue. Echamos la mezcla.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Introducimos en el horno durante 45 minutos a 180º aproximadamente. Para saber si está, pinchamos con un palillo.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 45
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Encendemos el gratinador para dorarla por encima.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/bocaditos-de-queso/",
+    "creado_en": "2026-09-26"
+  },
+  {
+    "id": "31aca591-ca93-4fea-8603-ce1488f57a9d",
+    "slug": "lentejas-con-pollo",
+    "titulo": "Lentejas con pollo",
+    "descripcion": "Receta de Lentejas con pollo adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/02/lentejas-con-pollo-thermorecetas.jpg",
+    "categoria": "carnes",
+    "tiempo_total_min": 33,
+    "comensales": 3,
+    "dificultad": "Media",
+    "ingredientes": [
+      "200 g de lentejas pardinas",
+      "85 g de puerro (sólo la parte blanca)",
+      "65 g de cebolla fresca",
+      "40 g de zanahoria",
+      "90 g de calabacín",
+      "25 g de aceite de oliva",
+      "600 g de caldo de pollo",
+      "100 g de pollo con el que hemos hecho el caldo",
+      "Sal y pimienta"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "La víspera poner las lentejas a remojo, así acortaremos el tiempo de cocción.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Trocear el puerro, la cebolla fresca y la zanahoria. Agregar el aceite y triturar durante 5 segundos, a velocidad 5. Bajar los trocitos hacia las cuchillas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Incorporar el calabacín troceado en cubos pequeños. Pochar las verduras durante 10 minutos, 100º, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Escurrir bien las lentejas y ponerlas en el vaso. Sofreir durante 5 minutos, 100º, velocidad cuchara, giro a la izquierda.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Verter el caldo, salpimentar y cocer durante 18 minutos, 100º, velocidad cuchara, giro a la izquierda.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 15
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Mientras trocear un poco el pollo con el que hemos hecho el caldo que nos servirá como adorno del plato.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 21
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Transcurrido el tiempo comprobar que las lentejas están hechas. Si aun están enteras prolongar la cocción otro par de minutos.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/lentejas-con-pollo/",
+    "creado_en": "2026-09-26"
+  },
+  {
+    "id": "4ad202fa-96b5-4b97-9af7-c35a9543bc50",
+    "slug": "empanadillas-dulces-de-albaricoque",
+    "titulo": "Empanadillas dulces de albaricoque",
+    "descripcion": "Receta de Empanadillas dulces de albaricoque adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/02/empanadillas-dulces-de-albaricoque.jpg",
+    "categoria": "carnes",
+    "tiempo_total_min": 35,
+    "comensales": 20,
+    "dificultad": "Media",
+    "ingredientes": [
+      "100 g de azúcar",
+      "La piel de 1 limón (sólo la parte amarilla)",
+      "450 g de harina de repostería",
+      "1 cucharadita de levadura química",
+      "50 g de vino dulce",
+      "70 g de mantequilla",
+      "70 g de aceite de oliva",
+      "30 g de aceite de girasol",
+      "2 huevos",
+      "1 pizca de sal",
+      "Mermelada, mejor si es casera (yo le he puesto mermelada de albaricoque)",
+      "1 huevo batido para pintar",
+      "Un poco de azúcar para espolvorear"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos en el vaso bien seco el azúcar y la pulverizamos programando 20 segundos, velocidad progresiva 5-10.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Añadimos la piel del limón y programamos 20 segundos, velocidad progresiva 5-10.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Agregamos el resto de los ingredientes de la masa y programamos 20 segundos, velocidad 5. Sacamos la masa y la envolvemos en film transparente. La dejamos reposar en el frigorífico al menos 30 minutos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 30
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Cogemos una porción de masa y formamos con las manos una bola pequeña (como si fuera una albóndiga). La colocamos sobre nuestra superficie de trabajo (puede ser la encimera cubierta con un poco de film transparente) y la aplastamos con la mano o con un rodillo. La cortamos con un cortapastas redondo o con una taza para que nos queden todas las empanadillas del mismo tamaño. Ponemos en el centro 1 cucharadita de mermelada y cerramos la empanadilla. Sellamos los bordes con los dedos o con un tenedor. Hacemos lo mismo hasta que se termine nuestra masa (a mí me han salido 21 unidades).",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Precalentamos el horno a 180º.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Colocamos nuestras empanadillas en una o dos bandejas de horno forradas con papel de hornear. Pintamos la superficie con huevo batido y ponemos un poquito de azúcar por encima.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Cuando el horno haya alcanzado los 180º, introducimos las bandejas y horneamos durante 15 minutos aproximadamente o hasta que estén doradas.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 15
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/empanadillas-dulces-de-albaricoque/",
+    "creado_en": "2026-09-26"
+  },
+  {
+    "id": "149207c3-8c5b-455f-9558-f3f0c3c9fd07",
+    "slug": "ensalada-de-col-y-granada",
+    "titulo": "Ensalada de col y granada",
+    "descripcion": "Receta de Ensalada de col y granada adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/02/ensalada-col.jpg",
+    "categoria": "verduras",
+    "tiempo_total_min": 5,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "500 g de col blanca o repollo",
+      "2 granadas (de aproximadamente 200 g cada una)",
+      "2 manzanas (de aproximadamente 200 g cada una)",
+      "30 g de pasas",
+      "30 ml de brandy o coñac.",
+      "el zumo de medio limón (aproximadamente dos cucharadas)",
+      "sal y aceite de oliva al gusto"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos las pasas a remojo con el brandy.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Cortamos el repollo en cuatro trozos y lo introducimos en el vaso. Picamos durante 5 segundos a velocidad 4. Reservamos en una ensaladera.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Pelamos las manzanas, cortamos en trozos y las introducimos en el vaso con el zumo de limón. Picamos durante 3 segundos a velocidad 4. Las añadimos a la ensaladera.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Desgranamos las granadas y las incorporamos a la ensaladera.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Colamos las pasas y las añadimos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Aliñamos con sal y aceite de oliva al gusto.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Y ya está lista!",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/ensalada-de-col-y-granada/",
+    "creado_en": "2026-09-26"
   }
 ]
