@@ -39640,5 +39640,515 @@
     ],
     "fuente_url": "https://www.thermorecetas.com/ensalada-de-col-y-granada/",
     "creado_en": "2026-09-26"
+  },
+  {
+    "id": "4f462d0f-092b-4135-a854-a968fb617222",
+    "slug": "caballa-en-escabeche",
+    "titulo": "Caballa en escabeche",
+    "descripcion": "Receta de Caballa en escabeche adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/02/Caballa_en_escabeche.jpg",
+    "categoria": "pescados",
+    "tiempo_total_min": 25,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "2 caballas",
+      "unas bolitas de pimienta negra",
+      "100 gr de aceite de oliva virgen extra",
+      "50 gr de vinagre (no excesivamente fuerte)",
+      "sal",
+      "1 litro de agua para el vaso (cocción en Varoma)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "En la pescadería pedimos que nos troceen la caballa. La salpimentamos bien y la colocamos en el recipiente Varoma.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Echamos en el vaso el litro de agua, un poco de sal, colocamos el recipiente Varoma sobre la tapa y programamos 15 minutos, velocidad 2, temperatura Varoma.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 12
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Cuando termine el tiempo retiramos y reservamos la caballa y tiramos el agua del vaso. Sin lavar el vaso añadimos los ingredientes del escabeche: pimienta, el aceite, el vinagre y una pizca de sal. Programamos 6 minutos, temperatura varoma, velocidad 1.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Cuando termine el tiempo esperamos a que baje un poco la temperatura para no “intoxicarnos” con la evaporación del vinagre.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Colocamos la caballa en un recipiente hondo con tapa y echamos el escabeche por encima. Tratamos de que lo cubra bien. Si no lo cubre, nos tendremos que acordar de ir dándole vueltas al pescado cada 12 horas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 720
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Dejamos que se enfríe y conservamos en la nevera mínimo 24 horas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1440
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/caballa-en-escabeche/",
+    "creado_en": "2026-09-27"
+  },
+  {
+    "id": "cce2fe1b-372c-41a1-8a95-6d4d22801f38",
+    "slug": "crema-de-patatas-y-avellanas",
+    "titulo": "Crema de patatas y avellanas",
+    "descripcion": "Receta de Crema de patatas y avellanas adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/03/crema-de-patatas-y-avellanas-thermorecetas.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 32,
+    "comensales": 3,
+    "dificultad": "Media",
+    "ingredientes": [
+      "400 g de patata",
+      "20 g de avellanas tostadas sin sal",
+      "130 g de cebolla",
+      "20 g de mantequilla",
+      "20 g de aceite de oliva",
+      "10 g de caldo concentrado casero o pastilla comprada",
+      "300 g de leche semi",
+      "150 g de agua mineral",
+      "50 g de queso manchego semicurado",
+      "Sal y pimienta"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Poner las avellanas en el vaso y triturarlas programando vaso cerrado y darle un golpe de turbo. Retirar y reservar.",
+        "accesorio": "Cuchillas",
+        "velocidad": "Turbo",
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Poner el vaso la mantequilla y el aceite. Agregar la cebolla pelada y picarla durante 5 segundos a velocidad 4. Programar 10 minutos, 100º, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Mientras pelar y cortar las patatas en trozos similares.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Transcurrido el tiempo agregar los trozos de patata, el caldo concentrado casero y casi todas las avellanas, reservando algunos trozos para la decoración final. Programar 1 minuto, 100º, velocidad 2.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "A continuación verter el agua y la leche, salpimentar y programar 20 minutos, 100º, velocidad 2. Después sólo hay que esperar a que baje un poco la temperatura y tritutar durante 30 segundos, velocidad progresiva 5-7-9.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 16
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Servir en plato hondo acompañado de los trocitos de avellana reservados y de dos triángulos de queso semicurado.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "¡Buen provecho!",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/crema-de-patatas-y-avellanas/",
+    "creado_en": "2026-09-27"
+  },
+  {
+    "id": "ec541494-c33e-4d94-88f5-0ff481e72974",
+    "slug": "panecillos-de-yogur-y-manzana",
+    "titulo": "Panecillos de yogur y manzana",
+    "descripcion": "Receta de Panecillos de yogur y manzana adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/03/panecillos-de-yogur-y-manzana.jpg",
+    "categoria": "panes-masas",
+    "tiempo_total_min": 30,
+    "comensales": 4,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "70 g de yogur natural",
+      "15 g de levadura de panadería",
+      "10 g de azúcar",
+      "100 g de harina de repostería",
+      "50 g de agua natural",
+      "150 g de manzana en láminas",
+      "50 g de zumo de limón",
+      "10 g de azúcar",
+      "150 g de harina de fuerza",
+      "150 g de harina integral",
+      "50 g de yogur natural",
+      "30 g de leche entera",
+      "La masa madre que hemos hecho antes",
+      "10 g de sal",
+      "30 g de aceite de oliva virgen extra"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Pelamos la manzana y la cortamos en trocitos (no os compliquéis mucho que luego quedará triturada con la Thermomix). La ponemos en un bol con el zumo de limón y 10 g de azúcar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Ahora preparamos la masa madre.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Ponemos en el bocal el yogur, la levadura, el azúcar, la harina y el agua. Mezclamos programando 20 segundos, velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Sacamos la masa y lo colocamos en un cuenco, mejor si es de cerámica. Cubrimos el cuenco con una lámina de film transparente y lo dejamos levar durante 30 minutos en un lugar cálido.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 30
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Pasada esa media hora preparamos la masa.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Echamos en el vaso la harina, el yogur, la leche y la masa madre. Mezclamos 2 minutos, vaso cerrado, velocidad espiga. Al abrir la tapa veréis que para nada parece una masa pero veréis lo que pasa al añadir el resto de los ingredientes…",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 2
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Añadimos la manzana que habíamos preparado antes, la sal y el aceite. Programamos 3 minutos, vaso cerrado, velocidad espiga.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 3
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Sacamos la masa y lo ponemos en el mismo cuenco de cerámica (o, si no tenemos, en un bol) cubierto con el film. Lo dejamos levar de nuevo en un lugar cálido (unos 25º sería lo aconsejable) durante 60 minutos o hasta que la masa doble su volumen.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 60
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Pasado el tiempo, sacamos la masa y, ayudándonos con la espátula, vamos cogiendo porciones y formando panecillos que iremos colocando en la bandeja de horno cubierta de papel de hornear.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Dejamos reposar para que leve nuevamente durante 30 o 40 minutos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 40
+      },
+      {
+        "paso_numero": 11,
+        "instruccion": "Precalentamos el horno a 200º. Una vez caliente, horneamos nuestros panecillos de la siguiente forma: 10 minutos a 200º y otros 10 minutos a 180º.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 12,
+        "instruccion": "Preparamos los panecillos con paté, jamón, queso, ensalada… como más nos guste y ¡a disfrutarlos!",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/panecillos-de-yogur-y-manzana/",
+    "creado_en": "2026-09-27"
+  },
+  {
+    "id": "7f3871e9-2afb-4a7e-9ffc-e1c1ae1ae6a5",
+    "slug": "pate-de-higaditos-casero-estilo-ariana",
+    "titulo": "Paté de higaditos casero estilo Ariana",
+    "descripcion": "Receta de Paté de higaditos casero estilo Ariana adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/03/pate.jpg",
+    "categoria": "carnes",
+    "tiempo_total_min": 41,
+    "comensales": 20,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "250 g de higaditos de pollo",
+      "100 g de cebolla",
+      "60 g de bacon en lonchas",
+      "50 g de mantequilla",
+      "150 ml de vino de Oporto o Pedro Ximénez",
+      "1 cucharadita de sal",
+      "1/2 cucharadita de pimienta negra molida",
+      "1 hojita de laurel",
+      "1 bote de cristal con tapa (para conservarlo en él)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Introducimos la cebolla en el vaso con la sal y 25 g de mantequilla. Trituramos 5 segundos, velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "A continuación programamos 8 minutos, temperatura Varoma, velocidad 1.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Mientras limpiamos los higaditos de grasa y nervios.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Introducimos el bacon cortado en grandes trozos y programamos 4 segundos, velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "A continuación, 10 minutos, temperatura Varoma, velocidad 1.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Añadimos los higaditos y la pimienta y programamos 12 minutos, temperatura Varoma, velocidad 1.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 12
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Añadimos el vino y dejamos reducir durante 10 minutos, 100º, velocidad cuchara.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Finalmente, trituramos durante 30 segundos a velocidad progresiva 5/10.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Vertemos el paté en el bote de cristal y ponemos sobr él la hoja de laurel",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Derretimos la mantequilla sobrante en el microcondas o en un cazo. Y la vertemos por encima del paté.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 11,
+        "instruccion": "Tapamos el bote y lo conservamos en el frigorífico.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/pate-de-higaditos-casero-estilo-ariana/",
+    "creado_en": "2026-09-27"
+  },
+  {
+    "id": "ff4f5d2f-f56c-45a0-b3b2-5ddb4fb327ce",
+    "slug": "espirales-de-salmon-a-la-mostaza-sobre-cama-de-puerros",
+    "titulo": "Espirales de salmón a la mostaza sobre cama de puerros",
+    "descripcion": "Receta de Espirales de salmón a la mostaza sobre cama de puerros adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/03/Espirales-salmón-puerro.jpg",
+    "categoria": "pescados",
+    "tiempo_total_min": 5,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "Tiras de salmón fresco sin espinas y sin piel de 1 dedo de grosor aprox.",
+      "4 cucharadas de mostaza (la que más os guste)",
+      "4 puerros",
+      "sal",
+      "pimienta",
+      "aceite de oliva virgen extra",
+      "eneldo seco"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Enrollamos las tiras de salmón sobre sí mismas para formar una espiral bien apretaditas. Las enrollamos con hilo bramante y anudamos para que no se abran durante el proceso de cocinado. Salpimentamos las espirales por ambas caras. Añadimos una cucharada de mostaza y extendemos bien. Espolvoreamos con eneldo. Reservamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Limpiamos los puerros y costamos en trozos grandes. Los introducimos en el vaso de la thermomix y programamos 3 segundos, velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Aquí tenemos dos opciones: cocinar las espirales al vapor utilizando el recipiente varoma o al horno (como he hecho yo).",
+        "accesorio": "Ninguno",
+        "velocidad": 0,
+        "temperatura_c": 120,
+        "potencia_calorifica": 9,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Precalentamos el horno a 180º. En una bandeja de horno un chorrito de aceite de oliva, colocamos el puerro y encima las rodajas de salmón. Echamos un chorrito de aceite de oliva. Cocinamos 15 minutos a 180º.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 15
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Colocamos el puerro en la bandeja varoma, le echamos un chorrito de aceite y encima las rodajas de salmón con otro chorrito de aceite. Echamos en el vaso 1 litro de agua y programamos 20 minutos, temperatura varoma, velocidad 2.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 16
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Para servir, quitamos el hilo bramante de las espirales, las colocamos en un plato y cubrimos con el puerro.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/espirales-de-salmon-a-la-mostaza-sobre-cama-de-puerros/",
+    "creado_en": "2026-09-27"
   }
 ]
