@@ -40150,5 +40150,421 @@
     ],
     "fuente_url": "https://www.thermorecetas.com/espirales-de-salmon-a-la-mostaza-sobre-cama-de-puerros/",
     "creado_en": "2026-09-27"
+  },
+  {
+    "id": "36177627-99f2-43ff-91b2-cb2830868412",
+    "slug": "flan-de-jamon-york",
+    "titulo": "Flan de jamón york",
+    "descripcion": "Receta de Flan de jamón york adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/03/flan-jamón-york-thermorecetas.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 17,
+    "comensales": 3,
+    "dificultad": "Media",
+    "ingredientes": [
+      "100 g de cebolla",
+      "100 g de puerro",
+      "50 g de cerveza",
+      "150 g de jamón york en dados",
+      "2 huevos",
+      "150 g de nata líquida",
+      "10 g de harina",
+      "15 g de aceite de oliva",
+      "Sal y pimienta"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Precalentar el horno a 200º.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Necesitamos un molde con capacidad para 500 cc el cual hay que engrasar y enharinar ligeramente. Si el molde es de silicona no hace falta realizar este paso porque se desmolda perfectamente.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Pelar la cebolla. Lavar bien el puerro y retirar las hojas exteriores. Trocear ambos y ponerlos en el vaso.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Agregar el aceite y programar 5 segundos, velocidad 5. Bajar los trocitos hacia las cuchillas. Programar 10 minutos, 100º, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "A continuación verter la cerveza y programar 5 minutos, 100º, velocidad 2, sin cubilete para facilitar la evaporación. Retirar y reservar hasta que esté templado.",
+        "accesorio": "Cuchillas",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Mientras batir los huevos y la nata durante 30 segundos, velocidad 3. Agregar la harina, los dados de jamón york y el sofrito que teníamos reservados. Salpimentar y programar 20 segundos, velocidad 2, giro a la izquierda.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 135,
+        "potencia_calorifica": 7,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Verter la mezcla obtenida en el molde que teníamos reservado. Hornear durante 25 o 30 minutos a la misma temperatura.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 30
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/flan-jamon-york/",
+    "creado_en": "2026-09-28"
+  },
+  {
+    "id": "54b2c675-8183-47d8-9d35-02cfb738914a",
+    "slug": "tagliatelle-con-pesto-economico-de-calabacin",
+    "titulo": "Tagliatelle con pesto económico de calabacín",
+    "descripcion": "Receta de Tagliatelle con pesto económico de calabacín adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/03/tagliatelle-con-pesto-economico.jpg",
+    "categoria": "verduras",
+    "tiempo_total_min": 15,
+    "comensales": 6,
+    "dificultad": "Media",
+    "ingredientes": [
+      "600 g de pasta (mejor si es pasta fresca). En mi caso eran tagliatelle pero os servirá cualquier otro tipo.",
+      "500 g de calabacín, mejor si es ecológico porque los cocinaremos con piel",
+      "1 puñado de piñones (unos 20 g)",
+      "1 puñado de hojas de albahaca",
+      "2 cucharadas de perejil fresco picado",
+      "1 diente de ajo",
+      "100 g de Parmesano rallado",
+      "150 g de ricotta o requesón",
+      "Aceite de oliva virgen extra",
+      "Sal",
+      "Pimienta"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Si nuestro queso Parmesano no está rallado, podemos comenzar la receta rallándolo. Para ello, lo ponemos en el vaso y damos varios golpes de turbo. Sacamos y reservamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": "Turbo",
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Lavamos los calabacines y les quitamos los extremos. Los partimos en 3-4 trozos (según el tamaño de los calabacines) y los metemos en el vaso. Programamos 4 segundos, velocidad 4. Bajamos con la espátula los restos que hayan quedado en las paredes. Añadimos 4 cucharadas de aceite de oliva virgen extra, el ajo y el perejil. Cocinamos programando 10 minutos, 100º, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Acabado el tiempo esperamos unos minutos para que se enfríe un poco.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Ahora añadimos la albahaca, los piñones, el ajo, el queso Parmesano y un chorrito de aceite de oliva (con una o dos cucharadas será suficiente). Vamos a triturarlo todo durante unos segundos en velocidad progresiva 5-10 (hasta que veamos que queda una salsa homogénea).",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Probamos y añadimos sal y pimienta si lo consideramos necesario.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Cocemos la pasta. Podemos hacerlo en una cacerola -mientras estamos preparando el pesto de calabacín- o bien con la Thermomix, siguiendo los pasos que poníamos en esta entrada.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Cuando la pasta esté al dente y la salsa lista lo mezclamos. Servimos en platos individuales y lo acompañamos con unos montoncitos de Ricotta.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/tagliatelle-con-pesto-economico-de-calabacin/",
+    "creado_en": "2026-09-28"
+  },
+  {
+    "id": "0974613a-d4fa-4274-a676-7bd09a90d01a",
+    "slug": "zumo-quemagrasas",
+    "titulo": "Zumo quemagrasas",
+    "descripcion": "Receta de Zumo quemagrasas adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/03/zumo-quemagrasas.jpg",
+    "categoria": "bebidas",
+    "tiempo_total_min": 1,
+    "comensales": 20,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "100 g de papaya",
+      "100 g de melón",
+      "100 g de piña (puede ser fresca o en conserva en su jugo)",
+      "450 ml de agua fría"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Introducir en el vaso la papaya, el melón y la piña pelados y sin pepitas. Añadir 100 ml (1 cubilete) de agua (o de jugo de la piña si habéis empleado en conserva). Triturar durante 1 minuto a velocidad progresiva 5/10.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Añadir 350 ml de agua fría y mezclar durante 10 segundos a velocidad 7.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/zumo-quemagrasas/",
+    "creado_en": "2026-09-28"
+  },
+  {
+    "id": "2a9b1414-c434-4345-ad6c-7b4fe0a1904e",
+    "slug": "tarta-chocolatissima",
+    "titulo": "Tarta chocolatissima",
+    "descripcion": "Receta de Tarta chocolatissima adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/03/Tarta-Chocolatíssima.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 45,
+    "comensales": 12,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "6 huevos",
+      "1 pellizco de sal",
+      "250 gr de chocolate amargo (50% de cacao mínimo) cortado en trozos",
+      "130 gr de mantequilla sin sal cortada en trozos",
+      "mantequilla para engrasar el molde",
+      "150 gr de azúcar",
+      "50 gr de harina",
+      "100 gr de chocolate amargo (50% de cacao mínimo) cortado en trozos",
+      "60 gr de agua",
+      "60 gr de azúcar",
+      "20 gr de mantequilla"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Precalentamos el horno a 180ºC.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "En el vaso muy muy limpio y seco, colocamos la mariposa en las cuchillas. Separamos las claras de las yemas e incorporamos las claras y la sal al vaso. Montamos las claras durante 5 minutos, velocidad 3 hasta que estén en su punto.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 185
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Retiramos la mariposa y volcamos el contenido en un recipiente y reservamos en la nevera.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Enjuagamos el vaso y lo secamos bien. Ponemos el chocolate en el vaso y rallamos 10 segundos, velocidad 7. Con la espátula bajamos los restos de chocolate de la tapa del interior del vaso y hacia las cuchillas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Añadimos la mantequilla y programamos 4 minutos, 50º, velocidad 2.",
+        "accesorio": "Cuchillas",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 4
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Agregamos el azúcar y las yemas de huevo, y mezclamos 20 segundos, velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Incorporamos la harina, mezclamos 10 segundos, velocidad 4. Agregamos cuidadosamente y con movimientos envolventes la mezcla de chocolate del vaso al recipiente donde tenemos las claras montadas. Vertimos en un molde engrasado (diámetro 22 cm) y horneamos durante 25-30 minutos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 30
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Con el vaso limpio y seco, ponemos el chocolate en el vaso y rallamos 10 segundos, velocidad 7. Con la espátula, bajamos el chocolate de la tapa y del interior del vaso hacia las cuchillas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Añadimos el agua y el azúcar y programamos 15 minutos, 100º, velocidad 3 ,sin cubilete.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 12
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Agregamos la mantequilla y mezclamos 30 segundos, velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 11,
+        "instruccion": "Cubrimos el bizcocho uniformemente con una capa de cobertura y dejamos enfriar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/tarta-de-chocolate/",
+    "creado_en": "2026-09-28"
+  },
+  {
+    "id": "307e6426-d9e5-4fc3-a5a0-e6a52152cde2",
+    "slug": "judias-y-pimientos-verdes-con-jamon-york",
+    "titulo": "Judías y pimientos verdes con jamón york",
+    "descripcion": "Receta de Judías y pimientos verdes con jamón york adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/03/judías-y-pimientos-verdes-con-jamón-york-thermorecetas.jpg",
+    "categoria": "legumbres",
+    "tiempo_total_min": 19,
+    "comensales": 2,
+    "dificultad": "Media",
+    "ingredientes": [
+      "50 g de jamón york en dados",
+      "20 g de aceite de oliva",
+      "100 g de cebolla",
+      "75 g de pimiento verde",
+      "1 diente de ajo",
+      "50 g de vino blanco",
+      "200 g de judías verdes ya cocida en el Varoma",
+      "Sal y pimienta"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Si no tuviéramos las judías verdes ya cocidas tendríamos que poner agua en el vaso y programar 7 minutos, 100º, velocidad cuchara. Mientras lavar las judías, quitarles los extremos e hilos laterales. Trocearlas y colocarlas en el varoma y este en su posición. Programar 35 minutos, 100º, velocidad 2. Retirar el varoma. Desechar el agua, aclararlo y secarlo con papel de cocina.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 6
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Sofreír los dados de jamón york con el aceite programando 4 minutos, temperatura Varoma, velocidad cuchara, giro a la izquierda. Retirar sólo los dados y dejar el aceite.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 4
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Quitar el giro a la izquierda y agregar la cebolla, el pimiento y el ajo cortados en trozos. Picar durante 4 segundos a velocidad 4. Bajar los trocitos hacia las cuchillas y programar 5 minutos, temperatura Varoma, velocidad cuchara.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Transcurrido el tiempo agregar el vino y programar 5 minutos, temperatura varoma, velocidad cuchara. A continuación incorporar el jamón york reservado y las judías verdes ya cocidas. Salpimentar y programar 5 minutos, 100º, velocidad cuchara.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Poner la preparación en un fuente y servir enseguida.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/judias-y-pimientos-verdes-con-jamon-york/",
+    "creado_en": "2026-09-28"
   }
 ]
