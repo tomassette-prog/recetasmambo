@@ -40566,5 +40566,399 @@
     ],
     "fuente_url": "https://www.thermorecetas.com/judias-y-pimientos-verdes-con-jamon-york/",
     "creado_en": "2026-09-28"
+  },
+  {
+    "id": "a1b337fe-eddd-406d-bf13-3bcd2b6eb80d",
+    "slug": "mermelada-de-fresones",
+    "titulo": "Mermelada de fresones",
+    "descripcion": "Receta de Mermelada de fresones adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/03/mermelada-de-fresones-2.jpg",
+    "categoria": "bebidas",
+    "tiempo_total_min": 30,
+    "comensales": 10,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "500 g de fresones o fresas maduros limpios y sin el tallo verde (los 500 g es de los fresones ya sin el tallito por lo que necesitaréis comprar algo más de medio kilo)",
+      "200 g de azúcar blanquilla (podéis sustituir parte por azúcar moreno, también queda muy bien)",
+      "1 cucharada de zumo de limón"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Utilizando el cestillo, lavamos y escurrimos bien los fresones. Les quitamos el tallito verde.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Ponemos todos los ingredientes en el vaso. Tapamos y, sin poner el cubilete, colocamos el cestillo encima de la tapa. Programamos 30 minutos, 100 grados, velocidad 2.",
+        "accesorio": "Cuchillas",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 30
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "¡Y lista! Podéis conservarla en tarros de cristal.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/mermelada-de-fresa-con-menos-azucar/",
+    "creado_en": "2026-09-29"
+  },
+  {
+    "id": "e98e987f-bac8-4c13-8199-b40156b925ac",
+    "slug": "limon-relleno-de-atun-y-pistachos",
+    "titulo": "Limón relleno de atún y pistachos",
+    "descripcion": "Receta de Limón relleno de atún y pistachos adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/03/limon-relleno.jpg",
+    "categoria": "pescados",
+    "tiempo_total_min": 1,
+    "comensales": 6,
+    "dificultad": "Media",
+    "ingredientes": [
+      "200 g de atún en conserva ( al natural o en aceite)",
+      "4 limones",
+      "100 g de queso mascarpone",
+      "60 g de mantequilla",
+      "25 ml de zumo de limón",
+      "30 g de pistachos pelados",
+      "4 ramitas de cebollino",
+      "1/2 cucharadita de sal",
+      "1/2 cucharadita de pimienta blanca"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Sacar la mantequilla del frigorífico. La necesitaremos a temperatura ambiente.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Lavar muy bien los limones, cortarlos por la mitad y extraerles la pulpa.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Poner en el vaso el atún, la mantequilla, el mascarpone, el zumo de limón, la pimienta y la sal. Triturar durante 15 segundos a velocidad 7.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Añadir los pistachos y el cebollino. Programar 5 segundos, velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Rellenar los limones con el paté e introducirlo en el congelador durante, al menos, una hora.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Cortar en rodajas en el momento de servir.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/limon-relleno-de-atun-y-pistachos/",
+    "creado_en": "2026-09-29"
+  },
+  {
+    "id": "d0f338c4-fc72-47dd-94a6-4cc6f790e623",
+    "slug": "langostinos-con-ajo-y-jengibre",
+    "titulo": "Langostinos con ajo y jengibre",
+    "descripcion": "Receta de Langostinos con ajo y jengibre adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/03/Langostinos-gambas-jengibre.jpg",
+    "categoria": "sopas-y-cremas",
+    "tiempo_total_min": 10,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "500 gr de langostinos pelados",
+      "50 gr de aceite de oliva virgen extra",
+      "4 ajos",
+      "una pizca de jengibre en polvo (cuidado de no abusar)",
+      "sal gorda"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Añadimos el aceite y los ajos. Trituramos 5 segundos, velocidad 5. Bajamos los restos de las paredes y programamos 2 minutos, 100º, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 2
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Agregamos los langostinos y el jengibre y programamos 5 minutos, velocidad 1, giro a la izquierda, temperatura varoma.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Retiramos del vaso, colocamos en el plato de presentación y espolvoreamos con sal gorda.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Comer inmediatamente porque se enfrían rápido.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "¡Así de fácil!",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/langostinos-con-ajo-y-jengibre/",
+    "creado_en": "2026-09-29"
+  },
+  {
+    "id": "bff69054-e5fe-451a-a93a-ca93038f693d",
+    "slug": "hamburguesas-de-pavo-y-espinacas",
+    "titulo": "Hamburguesas de pavo y espinacas",
+    "descripcion": "Receta de Hamburguesas de pavo y espinacas adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/03/hamburguesa-de-pavo-y-espinacas-thermorecetas..jpg",
+    "categoria": "panes-masas",
+    "tiempo_total_min": 6,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "300 g de pechuga de pavo",
+      "30 g de espinacas descongeladas y escurridas",
+      "1 diente de ajo",
+      "25 g de cebolla",
+      "10 g de aceite de oliva",
+      "15 g de pan rallado",
+      "Sal y pimienta",
+      "Aceite para freír",
+      "4 panecillos de hamburguesas (opcional)",
+      "4 rodajas de tomate (opcional)",
+      "Ketchup (opcional)",
+      "Mostaza (opcional)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Cortar la pechuga en trozos de similar tamaño. Introducirlos en el congelador durante 30 minutos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 30
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Poner en el vaso la cebolla, el ajo, las espinacas bien escurridas y el aceite. Picar durante 6 segundos a velocidad 5. Bajar los trocitos hacia las cuchillas y programar 5 minutos, 100º, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Añadir el pan rallado y salpimentar. Mezclar durante 5 segundos a velocidad 3. Retirar y reservar.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Sin lavar el vaso poner la carne semicongelada y picarla durante 20 segundos, velocidad progresiva 5-7. Bajar los trocitos hacia las cuchillas. Incorporar la mezcla de espinacas y programar 5 segundos, velocidad 3. No hace falta mezclarlo mucho sólo lo justo.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Con la mezcla obtenida formar 4 bolas de tamaño similar. Darle forma de hamburguesa aplastándolas suavemente con los dedos. Presionar ligeramente el centro ya que esto, a la hora de freírlas, facilitará que se queden bien hechas tanto por el lado exterior como por el interior.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Freírlas en un poco de aceite caliente. Normalmente con 2 o 3 minutos por cada lado ya es suficiente. Mientras abrir los panes y colocar una rodaja de tomate en cada bollo, colocar encima las hamburguesa. Servir enseguida acompañadas de mostaza y/o ketchup al gusto.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 3
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/hamburguesas-de-pavo-y-espinacas/",
+    "creado_en": "2026-09-29"
+  },
+  {
+    "id": "09585c3f-0204-48f0-bec8-681f81559017",
+    "slug": "bagels",
+    "titulo": "Bagels",
+    "descripcion": "Receta de Bagels adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/03/bagels-1.jpg",
+    "categoria": "bebidas",
+    "tiempo_total_min": 30,
+    "comensales": 0,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "130 g de agua",
+      "10 g de levadura prensada fresca de panadería",
+      "20 g de azúcar",
+      "120 g de harina de repostería",
+      "130 g de harina de fuerza",
+      "1/2 cucharadita de leche en polvo (opcional)",
+      "5 g de aceite de girasol",
+      "15 g de mantequilla a temperatura ambiente",
+      "1 huevo batido",
+      "Semillas de sésamo y semillas de amapola"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos en el vaso el agua y la levadura. Programamos 30 segundos, 37º, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Añadimos el azúcar, las harinas, la leche en polvo (opcional), el aceite y la mantequilla. Amasamos programando 2 minutos, velocidad espiga.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 2
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Dejamos reposar la masa dentro del vaso durante 30 minutos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 30
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Después de que la masa haya subido, la volcamos sobre la superficie de trabajo. Cogemos porciones de unos 16 g cada una. Con cada porción hacemos una bolita y, con los dedos, abrimos un agujerito en el centro, estirando la masa con el fin de darles la forma deseada.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Vamos colocando los bagels en una bandeja de horno cubierta con papel de hornear. Los cubrimos con un paño y los dejamos reposar unos 20 minutos.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 20
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Precalentamos el horno a 170º.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Ponemos en el vaso 1 litro de agua y programamos 10 minutos, temperatura Varoma, velocidad 1. Con esto sólo pretendemos calentar el agua que luego meteremos al horno. Si queréis podéis calentarla utilizando el microondas en vez de la Thermomix.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Vertemos el agua caliente en una bandeja de horno y la colocamos en la base del horno.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Una vez que los bagels hayan reposado, los pintamos con huevo batido y los espolvoreamos por encima con las semillas de sésamo y/o de amapola. Colocamos la bandeja con los bagels en la rejilla más baja del horno, encima de la que tenía agua, con el fin de que se cocinen con abundante vapor. Estarán en el horno durante 20 minutos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 0,
+        "temperatura_c": 120,
+        "potencia_calorifica": 9,
+        "tiempo_minutos": 16
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Retiramos la bandeja con los bagels y los cubrimos con un paño hasta que se enfríen.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/bagels/",
+    "creado_en": "2026-09-29"
   }
 ]
