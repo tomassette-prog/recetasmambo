@@ -40960,5 +40960,488 @@
     ],
     "fuente_url": "https://www.thermorecetas.com/bagels/",
     "creado_en": "2026-09-29"
+  },
+  {
+    "id": "40c589a0-8a16-4a0d-bb70-bf3dcc0a1586",
+    "slug": "lentejas-indias-con-curcuma-y-coco",
+    "titulo": "Lentejas indias con cúrcuma y coco",
+    "descripcion": "Receta de Lentejas indias con cúrcuma y coco adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/03/lentejas-con-coco.jpg",
+    "categoria": "verduras",
+    "tiempo_total_min": 45,
+    "comensales": 6,
+    "dificultad": "Media",
+    "ingredientes": [
+      "200 g de lentejas amarillas indias (Chana Dal)",
+      "180 g de tomate natural pelado y troceado",
+      "100 g de cebolla",
+      "400 ml de leche de coco",
+      "600 ml de caldo vegetal (o 600 ml de agua y una pastilla de caldo de verduras)",
+      "30 g de raíz de jengibre pelada",
+      "3 dientes de ajo",
+      "1 guindilla roja seca",
+      "1/2 cucharadita de pimienta negra",
+      "1 cucharadita de cúrcuma en polvo",
+      "1 cucharada rasa de mayonesa"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Poner las lentejas a remojo una hora antes de empezar a preparar la receta.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Introducir en el vaso el jengibre, la guindilla, el tomate, la cebolla y los ajos. Triturar durante 5 segundos a velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Bajar los restos con la espátula y añadir las lentejas, la leche de coco, el caldo, la pimienta y la cúrcuma. Cocer durante 40 minutos, 100º, velocidad cuchara, giro a la izquierda.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 33
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Comprobar que las lentejas están ya tiernas. Si no están aún tiernas, programar unos minutos más a la misma temperatura y velocidad.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Cuando estén a punto, añadir la cucharada de mayonesa y programar 30 segundos más a velocidad cuchara y giro a la izquierda para que se mezcle con el guiso.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 25
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/lentejas-con-curcuma-y-coco/",
+    "creado_en": "2026-09-30"
+  },
+  {
+    "id": "c0e42146-0739-4919-882d-8f81f0e4af9d",
+    "slug": "risotto-de-calabaza-y-roquefort",
+    "titulo": "Risotto de calabaza y roquefort",
+    "descripcion": "Receta de Risotto de calabaza y roquefort adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/03/Risotto-calabaza-y-roquefort.jpg",
+    "categoria": "arroces",
+    "tiempo_total_min": 30,
+    "comensales": 6,
+    "dificultad": "Media",
+    "ingredientes": [
+      "60 gr de cebolla",
+      "30 gr de aceite de oliva virgen extra",
+      "350 gr de arroz redondo (tipo SOS)",
+      "50 gr de vino blanco",
+      "800 gr de caldo de verduras hirviendo (lo caliento en el microondas o en el fuego)",
+      "sal",
+      "200 gr de queso roquefort cortado en dados",
+      "200 gr de calabaza cortada en dados"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos la cebolla en el vaso y el aceite y troceamos 3 segundos, velocidad 7. Bajamos los restos de las paredes y la tapa y programamos 3 minutos, temperatura 100º, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 3
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Añadimos la calabaza y programamos 3 minutos, temperatura 100º, giro a la izquierda, velocidad cuchara.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 3
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Agregamos el arroz y rehogamos 3 minutos, temperatura 100º, giro a la izquierda, velocidad 1.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 3
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Añadimos el vino y programamos 1 minuto, temperatura 100º, giro a la izquierda, velocidad 1 sin poner el cubilete para que evapore el alcohol.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Incorporamos el caldo hirviendo, la sal y cocinamos 13 minutos, temperatura 100º, giro a la izquierda, velocidad 1.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 9,
+        "tiempo_minutos": 11
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Añadimos por el bocal el queso roquefort y programamos 2 minutos, temperatura 100º, giro a la izquierda, velocidad 1.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 2
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Servimos inmediatamente en una fuente (si queréis podéis reservar unos taquitos de roquefort para decorar) y listo para comer. Cuando más tiempo pase más se irá secando, así que es conveniente tomarlo pronto.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/risotto-de-calabaza-y-roquefort/",
+    "creado_en": "2026-09-30"
+  },
+  {
+    "id": "a94c283b-e2ff-4804-a1b7-a243c9fd9b2e",
+    "slug": "crema-de-fresas",
+    "titulo": "Crema de fresas",
+    "descripcion": "Receta de Crema de fresas adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/03/crema-de-fresas-thermorecetas.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 1,
+    "comensales": 2,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "400 g de fresas",
+      "4 cucharadas de leche condensada",
+      "4 cucharadas de nata líquida",
+      "75 g de zumo de naranja recién exprimido"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Reservar 4 fresas para la decoración. Lavar y retirar el pedúnculo del resto. Cortarlas en cuartos o a la mitad si son pequeñas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Ponerlas en el vaso junto con la leche condensada, la nata y el zumo. Triturar durante 20 segundos a velocidad 5-7-9. Repartir la mezcla en unas tazas o cuencos bonitos. Reservar en la nevera durante un par de horas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Minutos antes de servir, retirar del frigorífico y adornar con las fresas reservadas. También podéis poner unas virutas de chocolate, depende de lo golosos que sean los comensales.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/crema-de-fresas/",
+    "creado_en": "2026-09-30"
+  },
+  {
+    "id": "c50ab5e7-fc88-4ebf-8799-fe5c3784f463",
+    "slug": "tarta-familiar-tarta-de-cerditos",
+    "titulo": "Tarta familiar, ¡tarta de cerditos!",
+    "descripcion": "Receta de Tarta familiar, ¡tarta de cerditos! adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/03/tarta-cerditos.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 32,
+    "comensales": 8,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "En este caso lo he hecho siguiendo las pero podéis utilizar para vuestra tarta",
+      "Para un molde de unos 20 cms, forrado con papel de hornear",
+      "4 huevos a temperatura ambiente",
+      "200 g de mantequilla, también a temperatura ambiente",
+      "200 g de azúcar",
+      "300 g de harina",
+      "1/2 sobre de levadura tipo Royal (8 g)",
+      "1 pizca de sal",
+      "130 g de azúcar",
+      "100g de agua",
+      "Zumo de 1/2 limón",
+      "500 g de nata (para montar, mínimo 35% de materia grasa)",
+      "75 g de azúcar",
+      "200 g de chocolate fondant",
+      "Nutella (al menos 1 vaso)",
+      "Barquillos (también podéis utilizar Kit-Kat, bizcochitos…)",
+      "Fondant para hacer los cerditos (ver receta ) (podéis hacerlo siguiendo estas indicaciones -en este caso podéis utilizar nubes rosas- o comprarlo ya listo para modelar)",
+      "Un lazo bonito (opcional)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Pesamos la harina y reservamos en un bol. Ponemos en ese mismo bol la levadura y la sal. Mezclamos con un tenedor y tamizamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "En el vaso de la Thermomix ponemos la mantequilla a temperatura ambiente y el azúcar. Programamos 10 minutos, velocidad 4. Veréis cómo crece.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Acabado el tiempo volvemos a poner velocidad 4, esta vez sin programar tiempo, y vamos incorporando por el bocal los huevos, uno a uno, sin parar la máquina.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Cuando los huevos estén incorporados, todavía sin parar la máquina, vamos a añadir la harina (recordad que ya tenía la levadura y la sal) a cucharadas, tal y como hicimos antes con los huevos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Precalentamos el horno a 160g.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Ponemos la mezcla en el molde. Yo he utilizado un aro de 20 cms de diámetro forrado con papel de horno (el papel sobresalía de la altura del molde para que el bizcocho pudiera crecer sin salirse). Ahora lo metemos al horno donde estará unos 50 minutos aproximadamente (podéis controlar si está hecho pinchándolo con un palo de brocheta)",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 50
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Ponemos el agua, el azúcar y el zumo de 1/2 limón en el vaso. Programamos 7 minutos, 100º, velocidad 2. Lo dejamos enfriar antes de mojar el bizcocho.",
+        "accesorio": "Cuchillas",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 6
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Preparación de la crema de trufa",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Vertemos la nata y el azúcar en el vaso y programamos 6 minutos, 90º, velocidad 2.",
+        "accesorio": "Cuchillas",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 6
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Añadimos el chocolate troceado y mezclamos 30 segundos, velocidad 3, o hasta que el chocolate esté totalmente fundido. Retiramos a un recipiente y dejamos enfriar. Reservamos en el frigorífico donde ha de estar, al menos, 12 horas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 720
+      },
+      {
+        "paso_numero": 11,
+        "instruccion": "Pasado ese tiempo, colocamos la mariposa en las cuchillas, vertemos la crema que teníamos en el frigo, y ponemos velocidad 3, sin programar tiempo, hasta que esté montada. Tened paciencia que lleva su tiempo (al menos 3 minutos).",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 3
+      },
+      {
+        "paso_numero": 12,
+        "instruccion": "Dividimos horizontalmente el bizcocho en dos mitades. Bañamos cada una de ellas con el almíbar ya frío.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 13,
+        "instruccion": "Lo rellenamos con el relleno elegido (dejamos un poco para cubrir el borde)",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 14,
+        "instruccion": "Ponemos la nutella encima, sin extenderla demasiado para que las miguitas del bizcocho no salgan a la superficie.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 15,
+        "instruccion": "Cubrimos la parte externa de la tarta con parte de la crema de trufa para que luego se adhieran bien los barquillos.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 16,
+        "instruccion": "Colocamos los barquillos. Podéis utilizar Kit-kat, galletas… lo que más os guste o lo que encontréis en la tienda.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 17,
+        "instruccion": "Hacemos los cerditos. Para eso, sólo necesitáis un poquito de paciencia y echar un vistazo en imágenes de google para hacer el cerdito que más os guste (si ponéis cerdito plastilina veréis unos cuantos).",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 18,
+        "instruccion": "¡Y ya está lista! Que la disfrutéis.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/tarta-familiar-tarta-de-cerditos/",
+    "creado_en": "2026-09-30"
+  },
+  {
+    "id": "6e0ac626-2fb3-4b69-aaec-2a4b84a29dbd",
+    "slug": "crema-de-papaya-y-chocolate-negro",
+    "titulo": "Crema de papaya y chocolate negro",
+    "descripcion": "Receta de Crema de papaya y chocolate negro adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/03/Crema-Papaya.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 7,
+    "comensales": 6,
+    "dificultad": "Media",
+    "ingredientes": [
+      "125 g de papaya",
+      "200 ml de nata para montar",
+      "125 ml de leche entera",
+      "70 g de azúcar",
+      "6 hojas de gelatina neutra",
+      "25 gr de chocolate negro"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Poner las hojas de gelatina a hidratar en un recipiente totalmente cubiertas con agua fría.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Rayar el chocolate a golpe de turbo. Sacar y reservar.",
+        "accesorio": "Cuchillas",
+        "velocidad": "Turbo",
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Poner la nata, la leche y el azúcar en el vaso. Cocer durante 6 minutos a 80º, velocidad 2.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 6
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Añadir la gelatina escurrida y la papaya y triturar durante 30 segundos a velocidad 7.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Verter en los recipientes en que se vaya a servir, espolvorear el chocolate por la superficie e introducir en el frigorífico durante al menos 1 hora.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 60
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Servir bien frío.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/crema-de-papaya-y-chocolate-negro/",
+    "creado_en": "2026-09-30"
   }
 ]
