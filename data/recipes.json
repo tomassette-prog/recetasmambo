@@ -41443,5 +41443,377 @@
     ],
     "fuente_url": "https://www.thermorecetas.com/crema-de-papaya-y-chocolate-negro/",
     "creado_en": "2026-09-30"
+  },
+  {
+    "id": "0ba6da15-1c38-4e1c-97bc-8ee27c7020d5",
+    "slug": "patatas-asadas-con-sombrero",
+    "titulo": "Patatas asadas con sombrero",
+    "descripcion": "Receta de Patatas asadas con sombrero adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/03/Patatas_con_sombrero.jpg",
+    "categoria": "carnes",
+    "tiempo_total_min": 40,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "4 patatas medianas",
+      "250 gr de carne picada boloñesa (receta )",
+      "4 cucharadas de queso tipo philadelphia (yo usé light)",
+      "100 gr de leche",
+      "2 cebollas",
+      "30 gr de aceite de oliva virgen extra",
+      "3 cucharadas rasas de azúcar blanco",
+      "una pizca de pimentón (para darle color)",
+      "una pizca de eneldo (opcional para decorar)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Lavar bien la piel de las patatas y secar con papel de cocina. Pincharlas por varios sitios con un tenedor y ponerlas en el microondas durante 4 o 5 minutos al 80% de potencia. A continuación darles la vuelta y programar otros 4 o 5 minutos. Cuando finalice el tiempo, comprobar que están blanditas (ponerles más minutos si lo necesitan) y envolverlas en papel de aluminio, sellando muy bien las juntas. ¡Ojo que quema mucho!",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Mientras las patatas están reposando, cortamos la cebolla en juliana y añadimos al vaso junto con el aceite de oliva y el azúcar. Programamos 15 minutos, temperatura 100º, giro a la izquierda, velocidad cuchara. Reservamos.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 15
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Mientras cortamos las patatas tal y como se ve en la foto, de forma horizontal y cortando más arriba de la mitad. Vaciamos las patatas, dejando una capa gruesa alrededor para que se mantengan firmes cuando las rellenemos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Sin lavar el vaso añadimos la carne y programamos 3 minutos, velocidad 100º, giro a la izquierda, velocidad cuchara. Añadimos el queso philadelphia, el pimentón, la leche y lo que hemos vaciado de las patatas y programamos 4 minutos, velocidad 100º, giro a la izquierda, velocidad cuchara. Comprobamos que no haya quedado demasiado espeso, sino, añadimos más leche.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 3
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Rellenamos las patatas con esta mezcla, cubrimos con la cebolla caramelizada, espolvoreamos con eneldo y colocamos el sombrero de la patata (la tapa que le habíamos quitado) ligeramente ladeada.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "¡A comer!",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/patatas-con-sombrero/",
+    "creado_en": "2026-10-01"
+  },
+  {
+    "id": "01b09bfc-0687-4587-a4f2-6462a0e5e4c4",
+    "slug": "potaje-de-garbanzos-y-acelgas",
+    "titulo": "Potaje de garbanzos y acelgas",
+    "descripcion": "Receta de Potaje de garbanzos y acelgas adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/03/potaje-de-garbanzos-y-acelgas-thermorecetas.jpg",
+    "categoria": "verduras",
+    "tiempo_total_min": 20,
+    "comensales": 2,
+    "dificultad": "Media",
+    "ingredientes": [
+      "150 g de acelgas congeladas",
+      "1 diente de ajo",
+      "30 g de aceite de oliva",
+      "3 cucharadas soperas de tomate frito",
+      "300 g de garbanzos cocidos",
+      "300 g de caldo caliente de cocer los garbanzos o de verduras",
+      "2 huevos cocidos"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Poner el aceite en el vaso y programar 5 minutos, temperatura Varoma, velocidad cuchara. Mientras pelar y laminar el diente de ajo. Cuando falten 3 minutos para terminar, echar las láminas dentro del vaso por el bocal.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Terminado el tiempo, incorporar las acelgas bien escurridas. Programar 3 minutos, temperatura Varoma, velocidad cuchara.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 3
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "A continuación verter las tres cucharadas de tomate frito y volver a programar 3 minutos, temperatura Varoma, velocidad cuchara.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 3
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Después agregar los garbanzos ya cocidos al sofrito programar 3 minutos, 100º, velocidad cuchara, giro a la izquierda.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 135,
+        "potencia_calorifica": 7,
+        "tiempo_minutos": 3
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Agregar el caldo caliente y continuar la cocción programando 5 minutos, 100º, velocidad cuchara, giro a la izquierda.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 4
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Mientras pelar y cortar a la mitad los huevos cocidos. Terminado el tiempo repartir el potaje en los platos y decorar con los huevo cocido.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/potaje-de-garbanzos-y-acelgas/",
+    "creado_en": "2026-10-01"
+  },
+  {
+    "id": "327d4efd-0c87-446f-95f0-2d0fc33f2378",
+    "slug": "pan-para-torrijas",
+    "titulo": "Pan para torrijas",
+    "descripcion": "Receta de Pan para torrijas adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/03/pan-para-torrijas.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 7,
+    "comensales": 10,
+    "dificultad": "Media",
+    "ingredientes": [
+      "350 g de leche",
+      "1 cucharadita de azúcar",
+      "40 g de levadura fresca prensada, de panadería",
+      "600 g de harina de fuerza",
+      "5 g de sal"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos la leche y el azúcar en el vaso y programamos 2 minutos, 37º, velocidad 2.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 2
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Añadimos la levadura, la mitad de la harina y la sal. Amasamos 15 segundos, velocidad 6.",
+        "accesorio": "Cuchillas",
+        "velocidad": 6,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Añadimos ahora el resto de la harina y programamos 4 minutos, vaso cerrado, velocidad espiga.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 4
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Si tenemos tiempo, podemos dejarlo levar un ratito dentro del vaso, si no, directamente sacamos la masa del vaso y le damos la forma deseada. Le hacemos unos cortes con ayuda de la espátula o de un cuchillo.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Dejamos reposar hasta que la masa doble su volumen.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Precalentamos el horno a 200º. Cuando el horno haya alcanzado esa temperatura, metemos el pan en el horno donde lo tendremos unos 30 minutos aproximadamente si hacemos un solo pan como el que veis en la imagen.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 30
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Lo ideal es preparar las torrijas al día siguiente. ¡Veréis qué bien os quedan con este pan!",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/pan-para-torrijas/",
+    "creado_en": "2026-10-01"
+  },
+  {
+    "id": "00708a99-d43b-4c06-9f94-4ed9f439c80e",
+    "slug": "crema-de-calabacin-y-manzana",
+    "titulo": "Crema de calabacín y manzana",
+    "descripcion": "Receta de Crema de calabacín y manzana adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/03/crema-calabacin.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 21,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "200 g de puerro",
+      "400 g de calabacín",
+      "200 g de manzana golden pelada y troceada",
+      "300 ml de caldo vegetal ( o 300 ml de agua y una pastilla de caldo)",
+      "2 quesitos de porción (tipo caserío)",
+      "50 ml (medio cubilete) de aceite",
+      "1 cucharadita de sal",
+      "2 fresones (para decorar)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Poner en el vaso el puerro, el calabacín y las manzanas a grandes trozos. Añadir el medio cubilete de aceite y triturar 5 segundos velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Poner el cubilete y programar 10 minutos, 100º, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Añadir el caldo (o el agua y la pastilla) y cocerlo todo durante 10 minutos, temperatura Varoma, velocidad 2. Con cubilete.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Añadir los quesitos y la cucharadita de sal. Dejar que se enfríe un poco y triturar durante 1 minuto a velocidad progresiva 5/10.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Servir caliente con unas láminas de fresa decorando el plato.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/crema-de-calabacin-y-manzana/",
+    "creado_en": "2026-10-01"
+  },
+  {
+    "id": "427073f8-8dbb-470b-9792-142780248dc0",
+    "slug": "ensalada-de-garbanzos-y-espinacas-con-vinagreta-de-huevo-duro",
+    "titulo": "Ensalada de garbanzos y espinacas con vinagreta de huevo duro",
+    "descripcion": "Receta de Ensalada de garbanzos y espinacas con vinagreta de huevo duro adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/03/ensalada-de-garbanzos-con-espinacas2.jpg",
+    "categoria": "verduras",
+    "tiempo_total_min": 5,
+    "comensales": 4,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "400 gr de garbanzos cocidos (yo utilicé garbanzos de bote ya cocidos)",
+      "6 huevos cocidos",
+      "200 gr de hojas de espinacas frescas (las venden en la parte de ensaladas envasadas refrigeradas)",
+      "60 gr aceite de oliva virgen",
+      "sal",
+      "20 gr vinagre"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Escurrimos el líquido de los garbanzos y los enjuagamos bajo el grifo.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Pelamos los huevos y 4 los cortamos a rodajas. De los otros dos vamos a extraer la yema (que reservaremos para hacer la vinagreta) y picamos las claras.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "En una fuente colocamos las hojas de espinacas, encima ponemos los garbanzos y rodeamos con las rodajas de huevo duro y las claras que teníamos picadas.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "En el vaso de la thermomix añadimos una pizca de sal, el aceite, el vinagre y las yemas. Trituramos 30 segundos, velocidad 4. Aliñamos con esta mezcla la ensalada.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/ensalada-de-garbanzos-y-espinacas-con-vinagreta-de-huevo-duro/",
+    "creado_en": "2026-10-01"
   }
 ]
