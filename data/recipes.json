@@ -41815,5 +41815,459 @@
     ],
     "fuente_url": "https://www.thermorecetas.com/ensalada-de-garbanzos-y-espinacas-con-vinagreta-de-huevo-duro/",
     "creado_en": "2026-10-01"
+  },
+  {
+    "id": "ae258850-ffc6-482d-83f5-68ce9fcbe505",
+    "slug": "sopa-con-albondigas-de-pan-y-jamon",
+    "titulo": "Sopa con albóndigas de pan y jamón",
+    "descripcion": "Receta de Sopa con albóndigas de pan y jamón adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/03/sopa-con-albóndigas-de-pan-y-jamón-thermorecetas.jpg",
+    "categoria": "panes-masas",
+    "tiempo_total_min": 30,
+    "comensales": 3,
+    "dificultad": "Media",
+    "ingredientes": [
+      "150 g de pan",
+      "100 g de jamón serrano",
+      "30 g de queso emmental o semicurado",
+      "80 g de cebolla",
+      "10 g de aceite de oliva",
+      "1 huevo",
+      "130 g de leche",
+      "30 g de harina",
+      "1 cucharada de cebollino picado",
+      "1 litro de caldo",
+      "Sal y pimienta"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Cortar el pan en trozos de tamaño similar. Poner en el vaso y programar vaso cerrado, presionar el turbo durante 2 segundos. Retirar y reservar en un cuenco amplio.",
+        "accesorio": "Cuchillas",
+        "velocidad": "Turbo",
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Proceder del mismo modo con el jamón y el queso. Retirar y reservar en un mismo plato.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Mezclar la leche con el huevo durante 15 segundos, velocidad 3. Incorporar el pan y mezclar durante 5 segundos a velocidad 5. Retirar y reservar de nuevo.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Aclarar un poco el vaso y picar la cebolla pelada durante 5 segundos a velocidad 5. Bajar los trocitos hacia las cuchillas e incorporar el aceite. Sofreír durante 10 minutos, 100º, velocidad cuchara. Retirar y escurrir bien el aceite.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Sin lavar el vaso poner la cebolla y pan bien escurridos, la harina y la mitad del cebollino. Mezclar 10 segundos, velocidad 5, giro a la izquierda.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Incorporar el jamón y el queso. Salpimentar y mezclar durante 10 segundos, velocidad 5, giro a la izquierda. Formar albóndigas de tamaño similar con la masa obtenida.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Poner el caldo y las albóndigas en una olla y cocer durante 15 minutos a temperatura moderada. Espolvorear el resto del cebollino y servir caliente.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 12
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/sopa-con-albondigas-de-pan-y-jamon/",
+    "creado_en": "2026-10-02"
+  },
+  {
+    "id": "0dca423f-f143-43b8-a9b9-f7b3c7fe15eb",
+    "slug": "bolitas-o-croquetas-de-cocido",
+    "titulo": "Bolitas o croquetas de cocido",
+    "descripcion": "Receta de Bolitas o croquetas de cocido adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/03/bolitas-o-croquetas-de-cocido.jpg",
+    "categoria": "panes-masas",
+    "tiempo_total_min": 45,
+    "comensales": 8,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "240 g carne de cocido (ya limpita, sin huesos y quitando las zonas más grasas)",
+      "70 g de aceite",
+      "100 g de cebolla",
+      "200 g de harina simple de trigo",
+      "200 g de caldo de cocido",
+      "420 g de leche",
+      "Sal",
+      "Nuez moscada",
+      "Unas cucharadas de garbanzos, si nos han sobrado (opcional)",
+      "2 o 3 huevos",
+      "Pan rallado",
+      "Aceite para freír"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos en el vaso la carne que nos haya sobrado, ya limpita (sin huesos, sin pieles…). Mirad más abajo el apartado de observaciones por si os apetece añadir garbanzos en este punto. Damos 5 golpes de turbo, sacamos y reservamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": "Turbo",
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Ahora ponemos en el vaso el aceite y la cebolla. Programamos 4 segundos, velocidad 5. Bajamos con la espátula lo que haya quedado en las paredes del vaso y programamos 4 minutos, temperatura varoma, velocidad 1.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 4
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Añadimos los 200 g de harina y programamos 2 minutos, 100º, velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 2
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Incorporamos el caldo, la leche, la sal y rallamos un poquito de nuez moscada. Programamos 6 minutos, 100º, velocidad 4.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Acabado el tiempo, añadimos la carne y mezclamos durante unos segundos en velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Extendemos la masa sobre una bandeja, si queréis, cubierta con papel de horno. La dejamos reposar unas horas a temperatura ambiente o en la nevera si en vuestra cocina hace mucho calor.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Una vez fría vamos formando las bolitas o las croquetas, cada uno con su método. Pasamos cada una por huevo batido y luego por pan rallado.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Freímos en abundante aceite caliente (poned mucho aceite en la sartén, lo ideal es que casi cubra la bolita o la croqueta y que apenas haga falta darle la vuelta).",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/bolitas-o-croquetas-de-cocido/",
+    "creado_en": "2026-10-02"
+  },
+  {
+    "id": "955e0fd7-592a-45b4-a10d-d62d1c35b25e",
+    "slug": "bacalao-espiritual",
+    "titulo": "Bacalao espiritual",
+    "descripcion": "Receta de Bacalao espiritual adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/03/Bacalao_espiritual-1.jpg",
+    "categoria": "pescados",
+    "tiempo_total_min": 50,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "600 gr de patatas para cocer peladas y cortadas en trozos pequeños",
+      "1 cucharadita de sal",
+      "250 gr de leche",
+      "30 gr de mantequilla",
+      "cebolla caramelizada (receta )",
+      "400 gr de migas de bacalao desaladas",
+      "500 gr de leche",
+      "un chorrito de aceite de oliva"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Primero cocinaremos el bacalao. Echamos 500 gr de leche en el vaso y calentamos 5 minutos, velocidad 1, temperatura 90º. Añadimos las migas de bacalao, una pizca de sal y programamos 15 minutos, velocidad cuchara, temperatura 90º, giro a la izquierda. Cuando haya terminado el tiempo, escurrimos las migas de bacalao y desechamos la leche de haberlas cocido.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Sin lavar el vaso, ponemos la mariposa en las cuchillas. Añadimos las patatas, los 250 gr de leche y la sal. Programamos 25 minutos, temperatura 100º, velocidad 1. (Si vemos que la leche hierve demasiado fuerte y se puede salir por el bocal, reducimos la temperatura a 90º). Comprobamos el punto de las patatas que deben estar tiernas.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 25
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Añadimos la mantequilla y mezclamos 30 segundos, velocidad 3.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Yo me he ayudado de un aro de emplatar, pero podéis utilizar cualquier otro molde o servirlo directamente en cuencos o platos hondos o todo en una fuente para servir en la mesa. Ponemos una capa puré en la base, después las migas de bacalao, a continuación otra capa de puré de patatas. Coronamos con cebolla caramelizada y pimientos del piquillo al gusto.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Añadimos un chorrito de aceite de oliva para decorar y para que esté más jugoso. ¡Así de sencillo!",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/bacalao-espiritual/",
+    "creado_en": "2026-10-02"
+  },
+  {
+    "id": "a6139bb4-7c63-40e9-b929-cbff0d0c0538",
+    "slug": "torrijas-de-horchata-con-compota-de-manzana",
+    "titulo": "Torrijas de horchata con compota de manzana",
+    "descripcion": "Receta de Torrijas de horchata con compota de manzana adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/03/Torrijas-de-horchata.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 30,
+    "comensales": 4,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "4 rebanadas de pan de rebanada grande (mejor del día anterior)",
+      "500 ml de horchata",
+      "2 huevos",
+      "20 g de mantequilla",
+      "500 ml de agua",
+      "azúcar, canela o miel para rebozar",
+      "Film transparente",
+      "2 manzanas golden peladas y troceadas (200 g aprox.)",
+      "30 g de mantequilla",
+      "20 ml de zumo de limón (2 cucharadas)",
+      "3 cucharadas de azúcar moreno",
+      "1 clavo",
+      "1 cucharadita de canela molida"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Poner el agua en el vaso y calentar durante 5 minutos, temperatura Varoma, velocidad 1.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 4
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Mientras, derretir la mantequilla (en el microondas o en un cazo). Cortar cuatro cuadrados de film transparente lo suficientemente grandes para envolver cada rebanada. Engrasarlos con la mantequilla derretida.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Batir los huevos y reservar en un plato hondo. Disponer la horchata en otro plato hondo. Remojar cada rebanada en la horchata y rebozarla luego con el huevo batido, colocarla en el centro del papel film y envolverla con el mismo.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Introducir las rebanadas envueltas en la bandeja del recipiente Varoma, tapar y colocar en su sitio.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Programar 25 minutos, temperatura Varoma, velocidad 1.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 25
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Destapar la bandeja (ojo siempre al destapar el recipiente Varoma, hacedlo en sentido opuesto a donde estéis vosotr@s, para no quemaros con el vapor), desenvolver con cuidado las torrijas y rebozarlas a vuestro gusto: azúcar y canela, miel y canela sólo azúcar, sólo miel…",
+        "accesorio": "Ninguno",
+        "velocidad": 0,
+        "temperatura_c": 120,
+        "potencia_calorifica": 9,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Dejar enfriar antes de servir.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "En el vaso vacío introducir las manzanas troceadas y programar 3 segundos, velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Añadir el zumo de limón, la mantequilla, el azúcar, el clavo y la canela y cocer durante 5 minutos, temperatura Varoma, velocidad cuchara, giro a la izquierda.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Destapar y comprobar la textura. Si os gusta más triturada, podéis triturarla durante 15 segundos a velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/torrijas-de-horchata-con-compota-de-manzana/",
+    "creado_en": "2026-10-02"
+  },
+  {
+    "id": "0e2530f4-1711-412e-80c5-e94d8a3fa110",
+    "slug": "papillote-de-merluza-y-zanahorias",
+    "titulo": "Papillote de merluza y zanahorias",
+    "descripcion": "Receta de Papillote de merluza y zanahorias adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/03/papillote-de-merluza-y-zanahorias-thermorecetas.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 40,
+    "comensales": 2,
+    "dificultad": "Media",
+    "ingredientes": [
+      "2 rodajas de merluza",
+      "100 g de cebolla",
+      "1 zanahoria",
+      "15 g de aceite de oliva",
+      "3 cucharadas de zumo de limón",
+      "100 g de agua mineral",
+      "1 cucharada de postre de miel",
+      "un pellizco de canela en polvo",
+      "Cebollino",
+      "Sal y pimienta"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Marinar el pescado limpio con el limón, un pellizco de sal y otro de pimienta. Dejar en la nevera mientras preparamos las verduras.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Picar la cebolla pelada durante 5 segundos a velocidad 5. Bajar los trocitos hacia las cuchillas. Añadir la zanahoria raspada, lavada y cortada en tiras finas. Pochar durante 10 minutos, 100º, velocidad 5, giro a la izquierda.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Agregar el agua, la miel, la pizca de canela y salpimentar. Cocinar durante 10 minutos, 100º, velocidad 1, giro a la izquierda. Cuando termine el tiempo programar 2 minutos, temperatura Varoma, velocidad 1, giro a la izquierda, sin cubilete para que se evapore bien el agua. Retirar y reservar.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Poner en el vaso 500 g de agua del grifo calentar durante 7 minutos, 100º, velocidad 1. Mientras cortar dos cuadrados de papel de hornear o papel de aluminio. Hacer una cama con la cebolla y la zanahoria. Poner encima una rodaja de merluza. Cerrar bien evitando que queden aberturas. Repetir la operación con la otra rodaja de merluza. Colocar los paquetes en el Varoma y este en su posición. Programar 10 minutos, temperatura Varoma, velocidad 2.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 6
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Retirar el Varoma y abrirlo hacia fuera para evitar que nos queme el vapor. Retirar los paquetes, colocarlos en un plata y servir enseguida.",
+        "accesorio": "Ninguno",
+        "velocidad": 0,
+        "temperatura_c": 120,
+        "potencia_calorifica": 9,
+        "tiempo_minutos": 8
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/papillote-de-merluza-y-zanahorias/",
+    "creado_en": "2026-10-02"
   }
 ]
