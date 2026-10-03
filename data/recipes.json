@@ -42269,5 +42269,571 @@
     ],
     "fuente_url": "https://www.thermorecetas.com/papillote-de-merluza-y-zanahorias/",
     "creado_en": "2026-10-02"
+  },
+  {
+    "id": "fe722020-008d-44b9-8d89-a3327e9c5eef",
+    "slug": "tarta-conejo-de-pascua",
+    "titulo": "Tarta conejo de Pascua",
+    "descripcion": "Receta de Tarta conejo de Pascua adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/03/tarta-conejo-de-pascua.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 120,
+    "comensales": 8,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "Los ingredientes necesarios para hacer vuestro bizcocho favorito*.",
+      "Un poco de mantequilla para untar el molde y harina para espolvorearlo",
+      "Mermelada para poner en el interior del bizcocho",
+      "Queso crema tipo philadelphia y azúcar glas (podemos sustituir el queso y el azúcar glas por Nocilla blanca)",
+      "Nata montada (ver receta )",
+      "Coco rallado",
+      "Chucherías para decorar",
+      "Cartulina blanca para las orejas de nuestro conejo"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Hacemos la masa de nuestro bizcocho. Una vez lista la ponemos en un bol con forma de media esfera donde la vamos a hornear. La que nos sobre la ponemos en papelitos de hacer muffins o magdalenas (al menos cuatro).",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "El tiempo de horneado va a depender de la masa que hayamos hecho y también del molde elegido. Estad atentos para sacarlo cuando esté hecha (podéis ayudaros de una brocheta). Seguro que las magdalenas se nos harán antes…",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Desmoldamos el bizcocho garnde. Con las magdalenas preparamos las patitas, la cola y parte del cogote donde luego pincharemos las orejas (nos ayudamos con un cuchillo para darle la forma deseada). Esperamos para que se enfríe.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Podemos dar a nuestro bizcocho grande un corte horizontal y rellenarlo con mermelada de fresa y nata (o con lo que prefiráis). Incluso bañar cada una de las partes con almíbar y prácticamente lo convertiremos en una tarta.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Ahora vamos a ponerlo blanquito. Si habéis optado por el queso crema y el azúcar ponemos en un bol tres cucharadas colmadas de queso crema y dos cucharaditas de azúcar y mezclamos con un tenedor (la cantidad es aproximada, depende del tamaño del culete de vuestro conejo). El objetivo es extender esta crema por toda la superficie del bizcocho para que todas las miguitas se peguen en ella y luego no se vean en la nata. La Nocilla blanca hará la misma función. Haremos lo mismo con las patitas, la cabeza y la cola.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Ahora vamos a poner la nata sobre cada una de las partes (cuerpo, cabezas, patas y cola).",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Con unos palillos colocamos la colita (medio palillo pinchado en lo que será el culete y el otro medio en la cola) y las patas. Ponemos el cogote del conejo delante, pegado al cuerpo, como si estuviera buscando zanahorias con el resto de la cabeza metida bajo tierra. Sobre ese cogote vamos a poner las dos orejas que habremos hecho en cartulina.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Espolvoreamos con coco rallado todo el cuerpo del conejo y ponemos la parte rosa que veis en la foto en las patitas (yo lo he hecho con chuches pero lo podéis hacer con fondant).",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/bizcocho-colita-de-conejo/",
+    "creado_en": "2026-10-03"
+  },
+  {
+    "id": "cecad789-7fb0-43da-ac0f-b8f83416698c",
+    "slug": "pastas-para-sandwich",
+    "titulo": "Pastas para sandwich",
+    "descripcion": "Receta de Pastas para sandwich adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/03/pasta-sandwich.jpg",
+    "categoria": "pescados",
+    "tiempo_total_min": 1,
+    "comensales": 2,
+    "dificultad": "Media",
+    "ingredientes": [
+      "150 g de fiambre de pavo",
+      "75 g de manzana golden cortada y pelada",
+      "1 cucharadita de zumo de limón",
+      "2 cucharadas de mayonesa o salsa rosa",
+      "20 g de rúcula",
+      "20 g de pasas de corinto o pasas sultanas",
+      "20 g de nueces peladas",
+      "50 g de queso de untar tipo philadelphia",
+      "25 g de queso roquefort",
+      "1 cucharada de leche entera o nata líquida",
+      "80 g de atún en conserva",
+      "50 g de queso de untar tipo philadelphia",
+      "40 g de nueces",
+      "25 ml de vino de Oporto"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Poner en el vaso todos los ingredientes y triturar durante 3 segundos a velocidad 5. Verter en un plato hondo y mezclar con la mayonesa o la salsa rosa.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Poner en el vaso la rúcula y las nueces. Triturar durante 3 segundos a velocidad 5. Sacar y reservar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Introducir en el vaso los dos quesos, las pasas y la cucharada de leche o nata. Triturar durante 30 segundos a velocidad 3.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Incorporar la rúcula y las nueces y mezclar durante 10 segundos a velocidad 2.",
+        "accesorio": "Cuchillas",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Poner en el vaso las nueces. Triturar durante 3 segundos a velocidad 5. Sacar y reservar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Introducir en el vaso el atún, el queso y el vino. Mezclar durante 20 segundos a velocidad 3.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Añadir las nueces y mezclar durante 10 segundos a velocidad 2.",
+        "accesorio": "Cuchillas",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/pastas-para-sandwich/",
+    "creado_en": "2026-10-03"
+  },
+  {
+    "id": "5f4584ca-da05-4993-99d1-0c23ea5f35f0",
+    "slug": "sushi-i-nigiris-de-salmon",
+    "titulo": "Sushi I: nigiris de salmón",
+    "descripcion": "Receta de Sushi I: nigiris de salmón adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/03/Nigiris-de-salmón.jpg",
+    "categoria": "arroces",
+    "tiempo_total_min": 20,
+    "comensales": 4,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "240 gr de vinagre de arroz",
+      "80 gr de azúcar",
+      "40 gr de sal",
+      "1000 gr de agua",
+      "350 gr de arroz para sushi (puede sustituirse por arroz redondo normal, tipo SOS)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "El aliño debemos prepararlo con antelación para que no esté caliente. Nos sobrará algo de cantidad que podremos guardar hasta 30 días en la nevera cerrado en un bote bien cerrado.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Ponemos todos los ingredientes del aliño en el vaso y programamos 4 minutos, temperatura 80º, velocidad 2. Sacamos del vaso y dejamos enfriar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 4
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Echamos el agua en el vaso y programamos 8 minutos, temperatura varoma, velocidad 1.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 7
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Mientras se está calentando el agua, es IMPORTANTÍSIMO que lavemos el arroz. Este paso es fundamental para preparar un sushi auténtico. Colocamos el arroz en el cestillo y lo lavamos bajo el grifo de agua varias veces. Dejamos que el agua corra a través del cestillo lavando el arroz, que iremos moviendo con cuidado con la mano. Veréis como el agua va saliendo cada vez más clara.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Colocamos el cestillo en el vaso con el arroz y programamos 15 minutos, temperatura varoma, velocidad 2. Debemos remover con la espátula el arroz varias veces durante los 15 minutos.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 15
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Volcamos el arroz en un recipiente no metálico amplio y con la ayuda de una espátula de madera movemos el arroz para ir aireándolo (si tenéis un abanico o un cartón podéis abanicarlo para que se enfríe más rápido y será más auténtico). Mientras lo movemos vamos añadiendo 7 cucharadas del aliño de vinagre al arroz y mezclando bien. Ojo, no nos debe quedar caldoso, solamente brillante y pegajoso.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Yo he utilizado láminas finas de salmón cortadas de un centro de salmón. Para evitar anisakis, debemos congelarlo a -20º al menos 48 horas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 2880
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "En este caso vamos a hacer nigiris. Para ello nos mojamos la mano de agua y cogemos una bolita de arroz (recordad que cada pieza debería caber entera de un solo bocado) y hacemos una forma de croqueta. Cogemos una lámina de salmón, untamos una pizca de wasabi (opcional) y colocamos el salmón sobre la “croqueta” de arroz.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 0,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Recordad mojaros las manos con agua entre nigiri y nigiri.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Os dejo un vídeo para que veáis cómo se forman los nigiris. Está en inglés, pero no importa porque sólo hace falta ver cómo lo hacen los grandes profesionales.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 11,
+        "instruccion": "Podéis acompañarlo de soja. Ya tenéis vuestros auténticos nigiris de salmón. Por supuesto, podéis hacerlo también de atún si os gusta más.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/sushi-i-nigiris-de-salmon/",
+    "creado_en": "2026-10-03"
+  },
+  {
+    "id": "17864799-5e33-4625-af6d-2f45f5724155",
+    "slug": "crema-de-coliflor-al-aroma-de-pollo",
+    "titulo": "Crema de coliflor al aroma de pollo",
+    "descripcion": "Receta de Crema de coliflor al aroma de pollo adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/04/crema-de-coliflor-al-aroma-de-pollo-thermorecetas.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 36,
+    "comensales": 3,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "30 g de aceite de oliva",
+      "100 g de cebolla",
+      "150 g de pechuga de pollo",
+      "300 g de coliflor",
+      "600 g de caldo de pollo o de verduras",
+      "150 g de leche",
+      "Cebollino o perejil picado",
+      "Sal y pimienta"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Poner el aceite en el vaso y calentarlo durante 4 minutos, 100º, velocidad 1. Mientras trocear la pechuga de pollo en cuadrados de 1 cm aproximadamente.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 4
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Colocar la mariposa en las cuchillas y dorar el pollo durante 7 minutos, temperatura Varoma, velocidad 1, giro a la izquierda.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 7
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Mientras se hace el pollo, pelar la cebolla. Separar y lavar los ramilletes de la coliflor.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Transcurrido el tiempo, retira el pollo dejando el aceite en el vaso. Salpimentarlo y reservar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Poner la cebolla en el vaso con el aceite y triturar durante 5 segundos a velocidad 5. Bajar los trocitos hacia las cuchillas y pochar durante 5 minutos, 100º, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "A continuación incorporar la coliflor, el caldo y la leche. Salpimentar y cocer durante 15 minutos, 100º, velocidad 1.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 12
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Terminado el tiempo comprobar que la coliflor está blanda. De lo contrario programar un par de minutos más a la misma temperatura y velocidad. Si está blandita triturar durante 30 segundos, velocidad progresiva 5-7-9.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Incorporar el pollo reservado. Darle un hervor durante 4 minutos, 90º, velocidad 1, giro a la izquierda. Así todos los sabores se complementarán.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 4
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Repartir la crema en cuencos, espolvorear el perejil y o el cebollino por encima y servir enseguida.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "¡Buen provecho!",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/crema-de-coliflor-al-aroma-de-pollo/",
+    "creado_en": "2026-10-03"
+  },
+  {
+    "id": "aea65eb8-77ff-4d6f-a80c-02e2b26f1304",
+    "slug": "tarta-de-limon",
+    "titulo": "Tarta de limón",
+    "descripcion": "Receta de Tarta de limón adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/04/tarta-de-limon-1.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 30,
+    "comensales": 8,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "300 g de harina de repostería",
+      "150 g de azúcar",
+      "150 g de mantequilla a temperatura ambiente",
+      "2 yemas de huevo",
+      "1 huevo entero",
+      "1 pizca de sal",
+      "1 limón",
+      "2 yemas de huevo",
+      "50g de azúcar",
+      "30g de harina",
+      "300 g de leche",
+      "1 limón",
+      "Azúcar glas",
+      "Almendras"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos en el vaso la piel de los dos limones sin la parte blanca. Rallamos unos segundos en velocidad progresiva 5-10. Sacamos la mitad ya que la utilizaremos para la crema. Añadimos la harina, el azúcar, la mantequilla, los huevos (2 yemas y 1 entero), la sal y algunas gotas de limón. Mezclamos 6 segundos, velocidad 4. Programamos 30 segundos, vaso cerrado, velocidad espiga.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Lo envolvemos en film transparente y metemos en el frigorífico. Ahí lo tendremos unas 2 horas.Pasado ese tiempo hacemos la crema.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 120
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Ponemos la mariposa en las cuchilllas. Ponemos las yemas con el azúcar, unimos la harina y la leche y programamos 15 segundos velocidad 3. Añadimos la piel del limón que habíamos rallado y reservado al principio y también su zumo. Programamos 11 minutos, 90º, velocidad 2.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 11
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Sacamos la masa del frigorífico y la dividimos en dos: una parte será un poco más grande que la otra.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Precalentamos el horno a 170º.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Preparamos un molde de unos 26 cms. Lo untamos con mantequilla y espolvoreamos con un poco de harina. Hacemos un disco con cada porción de masa, el mayor irá en la base del molde y subirá al menos dos centímetros por los lados.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Encima ponemos la crema de limón templada.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Ahora cubrimos con el otro disco de masa y unimos ambos discos, quitando la masa que nos sobre.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Sobre nuestra “torta” ponemos almendras, enteras o troceadas, como queramos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Metemos nuestro molde con la torta en el horno ya caliente donde estará aproximadamente 45 minutos.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 45
+      },
+      {
+        "paso_numero": 11,
+        "instruccion": "Una vez hecha, desmoldamos cuando esté templada. Una vez fría decoramos con azúcar glas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 12,
+        "instruccion": "¡Y a sorprender a todos!",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/tarta-de-limon/",
+    "creado_en": "2026-10-03"
   }
 ]
