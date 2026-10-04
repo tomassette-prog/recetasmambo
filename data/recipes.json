@@ -42835,5 +42835,340 @@
     ],
     "fuente_url": "https://www.thermorecetas.com/tarta-de-limon/",
     "creado_en": "2026-10-03"
+  },
+  {
+    "id": "2cab2e5a-3c14-410c-a89a-96012bee4191",
+    "slug": "zumo-multivitaminico",
+    "titulo": "Zumo multivitamínico",
+    "descripcion": "Receta de Zumo multivitamínico adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/04/zumo-multivitaminas.jpg",
+    "categoria": "bebidas",
+    "tiempo_total_min": 2,
+    "comensales": 4,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "150 g de zanahorias",
+      "1 naranja pelada",
+      "1 manzana pelada y troceada",
+      "zumo de medio limón",
+      "azúcar al gusto",
+      "una cucharada de cacao en polvo para decorar (opcional)",
+      "750 ml de agua fría"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Pelar las zanahorias, partir en grandes trozos e introducir en el vaso. Triturar durante 7 segundos a velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Añadir la naranja, la manzana, el zumo de limón y el agua y licuar durante 2 minutos a velocidad progresiva 5/10.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 2
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Probar, añadir azúcar si fuera necesario y mezclar durante 10 segundos a velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Servir en los vasos y espolvorear la superficie con cacao.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/zumo-multivitaminico/",
+    "creado_en": "2026-10-04"
+  },
+  {
+    "id": "1fde043e-2d91-4a79-8dcf-3366745fb43f",
+    "slug": "redonditos-de-pescado-para-ninos",
+    "titulo": "Redonditos de pescado para niños",
+    "descripcion": "Receta de Redonditos de pescado para niños adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/03/Redonditos_de_pescado1.jpg",
+    "categoria": "panes-masas",
+    "tiempo_total_min": 1,
+    "comensales": 4,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "250 gr de pescado blanco sin espinas (merluza, panga, halibut…)",
+      "100 gr de queso emmental rallado o a taquitos pequeñitos",
+      "sal y pimienta",
+      "1 huevo",
+      "harina",
+      "2 huevos batidos",
+      "pan rallado"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos en el vaso el pescado troceado, el queso, la sal, la pimienta y el huevo. Programamos 15 segundos, velocidad progresiva 5-7.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Retiramos la pasta del vaso y hacemos bolitas pequeñas. Después las aplastamos con las manos, las pasamos por harina, huevo y pan rallado.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Precalentamos el horno a 200º. Colocamos en la bandeja del horno papel de horno y vamos colocando los redonditos de pescado encima. Echamos un chorrito de aceite por encima y horneamos 13 minutos.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 13
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/redondito-de-pescado/",
+    "creado_en": "2026-10-04"
+  },
+  {
+    "id": "a671fba0-0daf-42bb-aa36-c94b20fe8259",
+    "slug": "rollitos-de-puerro",
+    "titulo": "Rollitos de puerro",
+    "descripcion": "Receta de Rollitos de puerro adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/04/rollitos-de-puerro-1-thermorecetas.jpg",
+    "categoria": "sopas-y-cremas",
+    "tiempo_total_min": 46,
+    "comensales": 2,
+    "dificultad": "Media",
+    "ingredientes": [
+      "8 trozos de puerro de 5-6 cm",
+      "4 lonchas rectangulares de jamón york",
+      "25 g de queso rallado",
+      "20 g de mantequilla",
+      "20 g de harina",
+      "300 g de leche",
+      "Nuez moscada",
+      "Sal y pimienta"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Poner en el vaso 750 g de agua del grifo. Calentarla durante 5 minutos, 100º, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 4
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Mientras, lavar y cortar los puerros en trozos de la medidas indicadas. Utilizando sólo la parte blanca. Si los puerros fueran muy gordos se pueden quitar varias capas y guardarlas para otras preparaciones. Poner los trozos en Varoma.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Cuando el agua esté caliente poner el Varoma en su posición y programar 25 minutos, temperatura Varoma, velocidad 2.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 21
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Transcurrido el tiempo, retirar con cuidado el Varoma y reservar. Desechar el agua y sin lavar el vaso poner la mantequilla, derretirla durante 2 minutos, temperatura Varoma y velocidad 2. Agregar la harina y tostarla durante 4 minutos, 100º y velocidad 2. Añadir la leche y nuez moscada al gusto, salpimentar y programar 10 minutos, 100º, velocidad 4.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 2
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Mientras se hace la bechamel, cortar las lonchas de jamón york a lo largo, formando tiras largas con las que enrollaremos los trocitos de puerro.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Cuando termine la máquina, poner un poco de bechamel en un plato o fuente. Colocar los rollitos de puerro y jamón york y salsear con un hilo de bechamel por encima. Espolvorear el queso rallado y gratinar.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Como los rollitos y la bechamel están calientes yo no los he gratinado en el horno. He tostado un poco el queso con el soplete de cocina.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/rollitos-de-puerro/",
+    "creado_en": "2026-10-04"
+  },
+  {
+    "id": "c9a56d06-90b8-42e6-9739-376e2831fd59",
+    "slug": "carne-picada-para-arroz-pasta",
+    "titulo": "Carne picada para arroz, pasta…",
+    "descripcion": "Receta de Carne picada para arroz, pasta… adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/04/carne-picada-para-arroz-pasta.jpg",
+    "categoria": "arroces",
+    "tiempo_total_min": 30,
+    "comensales": 4,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "400 g cebolletas (también vale cebolla)",
+      "100 g pimiento verde",
+      "2 dientes de ajo",
+      "30 g aceite de girasol",
+      "80 g manteca de cerdo",
+      "1 cucharada de azúcar",
+      "500 g de carne picada (de ternera)",
+      "50 g de pasas sin semillas (opcional)",
+      "10 g de sal",
+      "1 cucharadita de orégano",
+      "1 cucharadita de clavo en polvo",
+      "1 cucharadita de comino en polvo",
+      "1 cucharadita de pimienta"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos en el vaso las cebollas peladas y cortadas en cuartos, el pimiento y los dientes de ajo. Programamos 3 segundos, velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Bajamos con la espátula lo que haya quedado en las paredes del vaso y en la tapa. Añadimos el aceite, la manteca de cerdo y el azúcar. Programamos 20 minutos, temperatura varoma, velocidad 1.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 20
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Acabado el tiempo, añadimos la carne picada, las pasas, la sal y las especies. Programamos 10 minutos, temperatura varoma, velocidad 1.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Y listo para servir con lo que prefiramos (pasta, arroz, patatas…). Si lo queremos para rellenar empanadillas tendremos que meterlo en la nevera hasta que se enfríe.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/carne-picada-para-arroz-pasta/",
+    "creado_en": "2026-10-04"
+  },
+  {
+    "id": "ed522de2-cb63-47d4-aa15-121f34fb7a66",
+    "slug": "tarta-de-queso-y-remolacha",
+    "titulo": "Tarta de queso y remolacha",
+    "descripcion": "Receta de Tarta de queso y remolacha adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/04/tarta-queso-remolacha.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 1,
+    "comensales": 8,
+    "dificultad": "Media",
+    "ingredientes": [
+      "250 g de queso mascarpone",
+      "180 g de queso de untar, tipo Philadelphia",
+      "400 g de remolacha cocida (yo usé una que venden envasada al vacío)",
+      "6 huevos",
+      "200 g de azúcar",
+      "60 g de harina",
+      "10 g de mantequilla",
+      "mermelada de arándanos para decorar (opcional)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Untar un molde apto para horno o microondas (lo que vayáis a utilizar) con la mantequilla. Espolvorear con azúcar toda la base, dar la vuelta desechando la que caiga. Reservar.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Introducir en el vaso los quesos, la remolacha, los huevos, el azúcar y la harina. Triturar durante 1 minuto a velocidad progresiva 5/10.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Verter la mezcla en el molde, tapar con film transparente e introducir en el microondas durante 15 minutos a máxima potencia. Al finalizar el tiempo, comprueba que esté cuajada introduciendo un palito en el centro de la tarta. Si sale limpio, está lista. Si sale con trocitos adheridos al mismo, añade 5 minutos más hasta que esté lista.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 15
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Si prefieres cocerla en el horno, lo haremos al baño maría. Necesitas la bandeja del horno de mayor profundidad, que llenas con agua suficiente para cubrir más de la mitad del molde cuando lo deposites en ella. La introduces con agua en el horno y programas 180º. Mientras el horno (con la bandeja dentro) se va calentando, tapas el molde con papel de aluminio sellándolo bien. Una vez el horno haya alcanzado la temperatura programada, depositas el molde en la bandeja. Estará listo en 45 minutos aproximadamente, pero compruébalo con el truco del palito por si fuera necesario añadir un poco más de tiempo de cocción.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 37
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Sirve la tarta fría, con mermelada por encima o acompañada de nata, yogur, helado…",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/tarta-de-queso-y-remolacha/",
+    "creado_en": "2026-10-04"
   }
 ]
