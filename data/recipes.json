@@ -43170,5 +43170,417 @@
     ],
     "fuente_url": "https://www.thermorecetas.com/tarta-de-queso-y-remolacha/",
     "creado_en": "2026-10-04"
+  },
+  {
+    "id": "40332a9f-b6d2-4d01-8363-f397382d89cf",
+    "slug": "ensalada-alemana",
+    "titulo": "Ensalada alemana",
+    "descripcion": "Receta de Ensalada alemana adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/04/ensalada-alemana-thermorecetas..jpg",
+    "categoria": "carnes",
+    "tiempo_total_min": 30,
+    "comensales": 2,
+    "dificultad": "Media",
+    "ingredientes": [
+      "300 g de patatas pequeñas",
+      "2 salchichas tipo Frankfurt",
+      "1 cebolleta",
+      "7 pepinillos agridulces",
+      "1/2 manzana verde",
+      "Zumo de limón",
+      "1 cucharada de mayonesa",
+      "1 cucharada rasa de yogur",
+      "1/2 cucharada de granos de mostaza",
+      "1/2 cucharita de vinagre",
+      "Aceite de oliva",
+      "Cebollino",
+      "Sal y pimienta"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Lavar bien las patatas bajo el chorro de agua fría. Llenar el vaso con agua hasta la tercera marca (1 litro y medio). Agregar un pellizco de sal y poner en el cestillo con las patatitas en el interior. Programar 30 minutos, 100º, velocidad 3.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 25
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Mientras, cortar las salchichas en rodajas finas y saltearlas en una sartén con unas gotas de aceite. Retirar y reservar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Cortar la cebolleta en rodajas también finas. Escurrir los pepinillos y cortarlos en rodajitas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Lavar y secar la manzana. Retirar el corazón y cortar el resto en daditos. Rociar con el zumo de limón exprimido para que no se oxide.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "A parte, mezclar en un cuenco la mayonesa y el yogur. Remover hasta que los ingredientes estén integrados. Agregar el vinagre y los granos de mostaza. Remover bien y reservar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Transcurrido el tiempo de cocción, retirar el cestillo ayudándonos con la muesca de la espátula. Escurrir las patatas, pelar sin quemarse y trocear.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Mezclar todos los ingredientes en una ensaladera. Espolvorear el cebollino picado y un poco de pimienta recién molida. Servir acompañada de la salsa de mostaza.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/ensalada-alemana/",
+    "creado_en": "2026-10-05"
+  },
+  {
+    "id": "bb10fce9-fc6c-4b65-bf49-8d2e0ac2ee56",
+    "slug": "magdalenas-de-limon",
+    "titulo": "Magdalenas de limón",
+    "descripcion": "Receta de Magdalenas de limón adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/04/magdalenas-de-limon.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 20,
+    "comensales": 12,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "La piel de 1 limón, sólo la parte amarilla",
+      "El zumo de medio limón",
+      "4 huevos (200g)",
+      "100 g de azúcar",
+      "200 g de aceite de girasol",
+      "220 g de harina de repostería",
+      "1 pizca de sal",
+      "1 sobre de levadura química",
+      "Azúcar (que luego humedeceremos con unas gotitas de zumo de limón) para poner sobre las magdalenas",
+      "2 yemas de huevo",
+      "50g de azúcar",
+      "30g de harina",
+      "300 g de leche",
+      "1 limón"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Vamos a empezar haciendo la crema de limón.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Ponemos la mariposa en las cuchillas. Ponemos las yemas con el azúcar, unimos la harina y la leche y programamos 15 segundos velocidad 3. Añadimos la piel del limón que habíamos rallado y reservado al principio y también su zumo. Programamos 11 minutos, 90º, velocidad 2.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 11
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Reservamos la crema para luego. Lavamos y secamos bien el vaso.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Ahora hacemos la masa de las magdalenas. Para ello, en el vaso limpio y seco ponemos la piel del limón (sólo la parte amarilla) y damos unos golpes de turbo para rallarla -bajamos los restos con la espátula y, si es necesario, repetimos-. Ponemos ahora el zumo de medio limón, los huevos y el azúcar. Programamos 3 minutos, 37º, velocidad 3.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 3
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Cuando acabe el tiempo volvemos a programar 3 minutos, velocidad 3 (esta vez sin temperatura).",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 3
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Vertemos el aceite en el vaso y mezclamos 15 segundos, velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Agregamos la harina, la levadura y la sal. Programamos 8 segundos, velocidad 6.",
+        "accesorio": "Cuchillas",
+        "velocidad": 6,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Ayudándonos con un par de cucharas o con una manga pastelera, echamos un poquito de la masa en cada oblea. Luego ponemos una cucharada de crema y después echamos más masa. Tenemos que rellenar los moldes de magdalenas hasta las ¾ partes de su capacidad. Metemos al frigorífico. Aquí lo tendremos, al menos, 30 minutos.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 30
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Precalentamos el horno a 250º.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Tras esa media hora, sacamos las magdalenas del frigorífico y las espolvoreamos con azúcar un poco humedecido con dos o tres gotitas de zumo de limón. Bajamos la temperatura del horno a 220º y horneamos durante 15 minutos aproximadamente.",
+        "accesorio": "Ninguno",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 15
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/magdalenas-de-limon/",
+    "creado_en": "2026-10-05"
+  },
+  {
+    "id": "5c3e7a3a-9079-4bed-baea-e16eb7d932c4",
+    "slug": "delicias-de-pollo-y-mango",
+    "titulo": "Delicias de pollo y mango",
+    "descripcion": "Receta de Delicias de pollo y mango adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/04/delicias-pollo.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 1,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "500 g de pechuga de pollo deshuesada",
+      "100 g de mango pelado",
+      "1 yema de huevo",
+      "15 g de maicena",
+      "1 cucharadita de postre de miel",
+      "2 cucharadas soperas de salsa de soja",
+      "1 cucharadita de postre de curry",
+      "1 cucharadita de café de pimentón",
+      "1 cucharadita de café colmada de sal",
+      "la piel rallada de media lima",
+      "el zumo de media lima",
+      "1/2 guindilla",
+      "1 diente de ajo",
+      "2 cucharadas de salsa de soja",
+      "2 cucharaditas de postre de miel",
+      "50 ml de aceite",
+      "1 cucharadita de café de crema de cacahuete (opcional)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Poner a calentar el horno a 200º con la función ventilador",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Introducir en el vaso todos los ingredientes de la salsa y programar 20 segundos, velocidad 7. Verter en un recipiente, tapar y reservar en la nevera.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Si limpiar el vaso, introducir la pechuga cortada a grandes trozos y una cucharadita de café de sal y triturar durante 4 segundos, velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Añadir el resto de ingredientes y programar 10 segundos, velocidad 2.",
+        "accesorio": "Cuchillas",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Quedará una masa blanda, formar bolas (son más bien montoncitos) y depositarlas sobre una bandeja de horno forrada con papel de horno. Para formar las bolas, hay que ir mojándose las manos con agua porque si no, se pega la masa a las manos.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Introducir en el horno precalentado a 200º, con función ventilador, durante 12 minutos.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 12
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Servir acompañadas de la salsa.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/delicias-de-pollo-y-mango/",
+    "creado_en": "2026-10-05"
+  },
+  {
+    "id": "53c8150a-3f43-4cae-b50b-d797a490347f",
+    "slug": "smoothie-de-fresas-y-hierbabuena",
+    "titulo": "Smoothie de fresas y hierbabuena",
+    "descripcion": "Receta de Smoothie de fresas y hierbabuena adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/04/Smoothie_fresas_hierbabuena.jpg",
+    "categoria": "bebidas",
+    "tiempo_total_min": 5,
+    "comensales": 4,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "2 plátanos medianos troceados",
+      "500 gr de fresas sin rabito y troceadas",
+      "un puñado de hojas de menta o hierbabuena fresca",
+      "4 cucharadas de leche condensada",
+      "un chorrito de limón (opcional)",
+      "2 yogures naturales sin azúcar"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Echamos todos los ingredientes en el vaso de la thermomix y programamos 30 segundos, velocidad 5 y, seguidamente, subimos 30 segundos a velocidad 8.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Servir inmediatamente y adornar con unas hojitas de hierbabuena.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/smoothie-de-fresas-y-hierbabuena/",
+    "creado_en": "2026-10-05"
+  },
+  {
+    "id": "037ea779-5cd6-48b6-b223-cce0075890a5",
+    "slug": "relleno-de-fruta-para-empanadillas",
+    "titulo": "Relleno de fruta para empanadillas",
+    "descripcion": "Receta de Relleno de fruta para empanadillas adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/04/relleno-de-fruta-para-empanadillas-thermorecetas.jpg",
+    "categoria": "sopas-y-cremas",
+    "tiempo_total_min": 20,
+    "comensales": 8,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "2 peras",
+      "2 manzanas",
+      "20 g de cointreau",
+      "100 g de agua",
+      "120 g de azúcar blanquilla",
+      "8 fresas",
+      "1 cucharada de piel de naranja confitada"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Lavar y pelar las peras y las manzanas. Cortarlas en trozos de pequeños. Ponerlas en el vaso junto con el Cointreau, el agua y 100 g de azúcar. Programar 20 minutos, temperatura Varoma, velocidad cuchara, giro a la izquierda.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 16
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Mientras lavar las fresas, retirar el pedúnculo y trocearlas también en pequeño. Incorporar los 20 g de azúcar restantes y remover. Dejar reposar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Escurrir las frutas y agregar las fresas y la cucharada de piel de naranja confitada. Remover bien para que todos los ingredientes se queden mezclados.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Rellenar con esta preparación las empanadillas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/relleno-fruta-para-empanadillas/",
+    "creado_en": "2026-10-05"
   }
 ]
