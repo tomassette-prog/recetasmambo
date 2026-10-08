@@ -44505,5 +44505,429 @@
     ],
     "fuente_url": "https://www.thermorecetas.com/duo-de-cremas-de-pepino-y-maiz/",
     "creado_en": "2026-10-07"
+  },
+  {
+    "id": "9d8e8f26-52ca-47b0-8834-be0c5641f1f8",
+    "slug": "quesadillas-mexicanas-con-guacamole-y-pico-de-gallo",
+    "titulo": "Quesadillas mexicanas con guacamole y pico de gallo",
+    "descripcion": "Receta de Quesadillas mexicanas con guacamole y pico de gallo adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/04/Quesadillas_guacamole_picogallo.jpg",
+    "categoria": "pescados",
+    "tiempo_total_min": 20,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "4 tortillas mejicanas de trigo",
+      "4 lonchas de queso cheddar",
+      "4 lonchas de queso emmental",
+      "2 tomates no muy maduros",
+      "1 cebolleta pequeña",
+      "perejil (o cilantro)",
+      "jalapeño (opcional, yo no le puse)",
+      "limón",
+      "sal",
+      ""
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Trituramos la cebolleta que hemos cortado por la mitad 6 segundos, velocidad 5. Reservamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Seguimos las indicaciones para preparar el guacamole. Reservamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Picamos el tomate con un cuchillo y una tabla finamente. En thermomix nos quedaría excesivamente líquido y triturado por la cantidad de agua que tiene el tomate.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "En una sartén amplia colocamos una tortilla y calentamos a fuego medio 10 segundos por cada lado. Cuando estemos por el segundo lado echamos las 2 lonchas de queso en una mitad de la oble y cerramos la oble. Cocinamos en la sartén 1 minuto a fuego bajo-medio por cada lado hasta que esté dorada y se haya fundido el queso.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Servimos rápidamente para tomarlo recién hecho. Acompañamos cada bocado con guacamole y pico de gallo… exquisito.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/quesadillas-mexicanas-con-guacamole-y-pico-de-gallo/",
+    "creado_en": "2026-10-08"
+  },
+  {
+    "id": "a811c785-ef36-4f0a-8735-738f5aadcbe0",
+    "slug": "calabacines-rellenos",
+    "titulo": "Calabacines rellenos",
+    "descripcion": "Receta de Calabacines rellenos adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/04/calabacines-rellenos-thermorecetas.jpg",
+    "categoria": "arroces",
+    "tiempo_total_min": 35,
+    "comensales": 4,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "75 g de arroz",
+      "3 o 4 calabacines (depende del tamaño)",
+      "70 g cebolla",
+      "30 g de jamón york en dados o troceado",
+      "15 g de piñones",
+      "250 g de caldo de verduras",
+      "30 g de vino blanco",
+      "40 g de queso rallado",
+      "10 g de aceite de oliva",
+      "Sal y pimienta"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Lavar y despuntar los calabacines, reservando la tapas. Cortar 12 trozos de 3 dedos de largo. Con una cucharilla retirar parte de la pulpa con cuidado de no romper la corteza exterior. Recordar que hay que dejar un poco del pulpa para será la base de los troncos. Reservar la pulpa extraída para el sofrito. Reservar el resto de los calabacines para otra preparación.",
+        "accesorio": "Cuchillas",
+        "velocidad": 2,
+        "temperatura_c": 135,
+        "potencia_calorifica": 7,
+        "tiempo_minutos": 6
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Pelar la cebolla y trocarla. Incorporarla al vaso junto con el aceite. Triturar durante 4 segundos, velocidad 5. Bajar los trocitos hacia las cuchillas y pochar durante 5 minutos, 100º, velocidad cuchara. Añadir 40 g de la pulpa de calabacín reservada, salpimentar y programar otros 5 minutos, 100º, velocidad cuchara.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Incorporar el arroz, sofreir durante 3 minutos, 100º, velocidad 1. A continuación añadir el vino y dejar que se evapore programando 2 minutos, temperatura Varoma, velocidad 1.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 3
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Añadir el caldo y programar 17 minutos, 100º, velocidad cuchara, giro a la izquierda.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 14
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Precalentar el horno a 200º.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Mientras, escaldar los trozos y las tapas durante 3 o 4 minutos en agua hirviendo con sal. Escurrirlos y secarlos con papel de cocina.",
+        "accesorio": "Cuchillas",
+        "velocidad": 0,
+        "temperatura_c": 100,
+        "potencia_calorifica": 9,
+        "tiempo_minutos": 3
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Dorar los piñones en una sartén sin aceite. Cuando empiecen a tomar color retirar y reservar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Terminado el tiempo de cocción del arroz, agregar el jamón york, los piñones y la mitad del queso rallado. Proseguir la cocción durante 2 minutos, 100º, velocidad cuchara, giro a la izquierda.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 2
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Rellenar con esta mezcla los calabacines y espolvorear con el queso restante. Ponerlos junto con las tapas en una fuente engrasada con aceite y cocer durante 10 minutos en el horno a 200º. Retirar y servir 3 trozos por persona. Terminar decorando con las tapas, perejil, menta o salvia como en la foto.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/calabacines-rellenos/",
+    "creado_en": "2026-10-08"
+  },
+  {
+    "id": "e6866203-c619-42bd-99b0-e47ea5daccb4",
+    "slug": "pan-de-avena",
+    "titulo": "Pan de avena",
+    "descripcion": "Receta de Pan de avena adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/04/pan-de-avena.jpg",
+    "categoria": "panes-masas",
+    "tiempo_total_min": 10,
+    "comensales": 20,
+    "dificultad": "Media",
+    "ingredientes": [
+      "200 g de leche a temperatura ambiente",
+      "100 g de agua a temperatura ambiente",
+      "25 g de levadura fresca de panadería",
+      "1 cucharadita de azúcar",
+      "250 g de harina integral",
+      "150 g de harina blanca de fuerza",
+      "150 g de copos de avena (100 g para la masa y 50 g para decorar)",
+      "1 cucharadita de sal",
+      "Aceite de oliva virgen extra (unos 20 g serán suficientes, es para pintar el pan)",
+      "Un poco más de leche para pintar luego el pan (unos 30 g)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos en el vaso 200 g de leche, el agua, la levadura y el azúcar. Mezclamos programando 20 segundos, velocidad 2.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Añadimos las harinas, 100 g de copos de avena (los otros 50 los utilizaremos para la parte exterior) y la sal. Amasamos programando 5 minutos, vaso cerrado, velocidad espiga.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Sacamos la masa del vaso, formamos una bola y la pintamos con aceite. La colocamos en un recipiente de paredes altas para que pueda levar sin problema. Cubrimos el recipiente con film trasparente y dejamos levar la masa en un lugar cálido durante 1 hora aproximadamente.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 60
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Pasado el tiempo ponemos la masa sobre la superficie de trabajo enharinada y le damos al pan la forma deseada.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Lo pintamos con la leche que nos ha sobrado antes y lo cubrimos con los 50 g de copos de avena.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Cubrimos la bandeja de horno con papel de hornear y ponemos en ella nuestro pan. Lo tapamos con un poco de film transparente. Ahora toca esperar otros 40 minutos para que haga el segundo levado.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 40
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Pasado ese tiempo es el momento de hornear a 200º (como casi siempre, metemos el pan cuando el horno esté ya caliente). Nuestro pan de avena estará listo cuando hayan transcurrido unos 30 o 35 minutos.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 35
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/pan-de-avena/",
+    "creado_en": "2026-10-08"
+  },
+  {
+    "id": "f6d3ee15-b9eb-4e2c-8846-5eaaa63d94bf",
+    "slug": "ajoblanco-de-mango",
+    "titulo": "Ajoblanco de mango",
+    "descripcion": "Receta de Ajoblanco de mango adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/04/ajoblanco-mango.jpg",
+    "categoria": "panes-masas",
+    "tiempo_total_min": 4,
+    "comensales": 2,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "180 g de mango pelado y troceado (equivale a un mango grande)",
+      "125 g de almendras peladas (en el ajoblanco son crudas, pero no tenía y las puse fritas, quedó muy rico)",
+      "1 diente de ajo",
+      "25 g de pan del día anterior (preferiblemente, pan rústico)",
+      "200 ml de agua (2 cubiletes)",
+      "50 ml de aceite de oliva",
+      "1 cucharada sopera de vinagre",
+      "1 cucharadita de café de sal",
+      "Pimienta al gusto"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Introducir en el vaso el mango, las almendras, el ajo y el pan. Triturar 1 minuto a velocidad 7.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Añadir el agua, el vinagre, la sal y la pimienta. Triturar durante 1 minuto a velocidad progresiva 5/10.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Bajar con la espátula los restos de las paredes y programar velocidad 4 sin tiempo y con cubilete. Ir vertiendo el aceite poco a poco sobre la tapa para que emulsione con la mezcla. Tardarás aproximadamente un minuto y medio.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Y ya lo tenemos. Probadlo y si preferís una textura más líquida, podéis añadir agua y volver a triturar 20 segundos a velocidad progresiva 5/10.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/ajoblanco-de-mango/",
+    "creado_en": "2026-10-08"
+  },
+  {
+    "id": "4f4171b0-a03e-4f52-9f12-478ff4af67ef",
+    "slug": "fettuccini-all-amatriciana",
+    "titulo": "Fettuccini all’Amatriciana",
+    "descripcion": "Receta de Fettuccini all’Amatriciana adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/04/Fettuccini_allAmatriciana.jpg",
+    "categoria": "verduras",
+    "tiempo_total_min": 50,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "450 gr de fettuccini (podéis usar la que más os guste)",
+      "1 litro de agua",
+      "sal",
+      "800 gr de tomate natural o triturado de bote (si usáis tomate natural, quitadle la piel y cortarlo en trocitos)",
+      "50 gr de aceite de oliva virgen + 20 gr más para la salsa de tomate",
+      "1 berenjena mediana",
+      "120 gr de panceta cortada en tiras o taquitos (sirve bacon)",
+      "1 cebolla",
+      "1 tallo de apio",
+      "2 dientes de ajo",
+      "1 cayena",
+      "Sal y pimienta al gusto"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "En primer lugar vamos a cocer la pasta siguiendo la técnica de cocción de pasta de thermomix: técnica de cocción de pasta con thermomix. Escurrimos la pasta y reservamos. (No hace falta que lavemos el vaso, será suficiente con pasarle un poco de papel de cocina para secarlo).",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Echamos el aceite en el vaso y la panceta y programamos 4 minutos, temperatura varoma, giro a la izquierda, velocidad 1. Sacamos la panceta y reservamos, dejando el aceite dentro del vaso.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 4
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Echamos la berenjena partida en 4 y la cortamos en la thermomix 4 segundos, velocidad 4. (Dependiendo del tamaño de vuestra berenjena necesitaréis algún segundo más. Los trozos de berenjena deben ser pequeños, pero tampoco tenemos que triturarla. Para que os sirva de indicación, diríamos que cada trozo de berenjena os debería de quedar del tamaño de una aceituna pequeña aproximadamente). Bajamos los restos de las paredes y la tapa, añadimos una pizca de sal y programamos 6 minutos, temperatura varoma, giro a la izquierda, velocidad 1, sin cubilete. Retiramos la berenjena y dejamos el aceite dentro.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 6
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Ponemos los 20 g más de aceite en el vaso y añadimos la cebolla en cuartos, los ajos, la cayena y el apio en trozos. Trituramos 10 segundos, velocidad 5. Bajamos los restos de las paredes y la tapa hacia las cuchillas y programamos 8 minutos, velocidad 1, temperatura varoma.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Agregamos el tomate, sal y pimienta al gusto y programamos 15 minutos, velocidad 1, temperatura varoma. En este paso no colocaremos el cubilete, sino que pondremos el cestillo para así facilitar que se evapore el agua de los tomates y que nos quede una salsa espesita. Comprobamos el punto de sal y pimienta y rectificamos si es necesario.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 12
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Añadimos a la salsa el bacon y la berenjena (dejando algunos trozos fuera para decorar el plato) y programamos 2 minutos, velocidad 1, temperatura varoma, giro a la izquierda.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 2
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Ya está listo para servir: colocamos la pasta en el plato (que habremos mantenido caliente o que habremos calentado previamente en el microondas) y añadimos la salsa por encima. Decoramos con los trozos de bacon y berenjena que teníamos reservados. ¡Listo para comer!",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/fettuccini-allamatriciana/",
+    "creado_en": "2026-10-08"
   }
 ]
