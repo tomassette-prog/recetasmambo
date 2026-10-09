@@ -44929,5 +44929,421 @@
     ],
     "fuente_url": "https://www.thermorecetas.com/fettuccini-allamatriciana/",
     "creado_en": "2026-10-08"
+  },
+  {
+    "id": "8acd1d22-9a68-442c-a917-9cdfc2935640",
+    "slug": "quiche-de-esparragos",
+    "titulo": "Quiche de espárragos",
+    "descripcion": "Receta de Quiche de espárragos adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/04/quiche-de-esparragos-thermorecetas.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 21,
+    "comensales": 4,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "250 g de masa quebrada",
+      "125 g de espárragos trigueros",
+      "60 g de cebolla",
+      "10 g de aceite de oliva",
+      "50 g de queso emmental",
+      "2 huevos",
+      "150 g de nata",
+      "Sal y pimienta"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Poner unos 500 g de agua del grifo, calentarla durante 7 minutos a 100º velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 6
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Pelar los espárragos y colocarlos en el Varoma. Cuando el agua ya esté lista colocar el Varoma en su sitio y programar 7 minutos, temperatura Varoma, velocidad 2.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 6
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Transcurrido el tiempo, retirar el Varoma y también el agua de la cocción.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Precalentar el horno a 180º.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Colocar el vaso la cebolla troceada y picarla durante 5 segundos, velocidad 4. Pocharla durante 6 minutos, temperatura Varoma, velocidad 1.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 6
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Finalizado el proceso, retirar y reservar la cebolla.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Añadir el queso, rallarlo durante 10 segundos a velocidad 7. Añadir los huevos y la nata. Salpimentar y batirlo todo durante 30 segundos a velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Colocar la cebolla en la base de la tarta de la masa quebrada. Añadir la mezcla de huevos y nata. Colocar los espárragos en la superficie. Hornear durante 25 minutos a 180º.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 25
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/quiche-de-esparragos/",
+    "creado_en": "2026-10-09"
+  },
+  {
+    "id": "72747b01-820a-459f-b332-b9fe2e89a609",
+    "slug": "sol-de-pan-de-brioche-relleno",
+    "titulo": "Sol de pan de brioche relleno",
+    "descripcion": "Receta de Sol de pan de brioche relleno adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/04/sol-de-brioche.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 15,
+    "comensales": 8,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "90 g de leche",
+      "40 g de levadura prensada fresca de panadería",
+      "4 huevos medianos",
+      "500 g de harina de fuerza",
+      "1 cucharadita de azúcar",
+      "10 g de sal",
+      "100 g de mantequilla a temperatura ambiente en trozos pequeños",
+      "1 huevo para pintar",
+      "Semillas de amapola para decorar (también podéis utilizar las de sésamo)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos la leche en el vaso. Programamos 30 segundos, 37º, velocidad 1.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Ahora añadimos la levadura y programamos -sin temperatura- 10 segundos, velocidad 3. Ponemos los huevos, la harina, el azúcar y la sal. Mezclamos programando 30 segundos, velocidad 6.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Ahora vamos a amasar nuestra masa y para eso programamos 3 minutos, velocidad espiga. Acabado ese tiempo volvemos a programar 2 minutos y de nuevo a velocidad espiga para ir incorporando poco a poco la mantequilla por el bocal.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 3
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Dejamos reposar la masa dentro del vaso hasta que doble su volumen (1 hora aproximadamente -no os preocupéis si sale por el bocal-).",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 60
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Cuando haya levado bajamos la masa con la espátula y la volvemos a amasar programando 1 minuto, velocidad espiga.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Espolvoreamos harina en la superficie de trabajo y ponemos harina también en nuestras manos. Amasamos la masa ligeramente y formamos una bola grande y, si queremos darle la forma que veis en la foto, otra pequeñita que será el centro de nuestro pan (lo que lleva las semillas en la foto).",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Estemdemos la porción grande de masa para que quede en forma de círculo y la colocamos en la bandeja de horno previamente cubierta con papel de hornear. Hacemos unos cortes como podéis ver en la siguiente imagen.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Ahora rellenamos cada pétalo con el relleno que prefiráis. Yo le he puesto una capa de tomate frito, jamón cocido y queso. Cerramos con cuidado cada porción y giramos el pétalo sin romperlo para que la unión quede en la parte inferior del bollo.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Cuando acabemos de rellenar los pétalos hacemos el centro. La bolita pequeña que habíamos reservado al principio la rellenamos de los mismos ingredientes y la colocamos en el centro de nuestro pan para que la parte central de éste tenga más altura.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Ahora dejamos que leve. Tardará otra hora aproximadamente. Transcurrido ese tiempo pintamos la superficie con huevo batido y decoramos el centro del pan con las semillas que hayamos escogido.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 11,
+        "instruccion": "Precalentamos el horno a 200º. Horneamos durante 30 o 40 minutos (estad atentos porque dependerá de vuestro horno). ¡Y listo!",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 40
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/sol-de-pan-de-brioche-relleno/",
+    "creado_en": "2026-10-09"
+  },
+  {
+    "id": "c7ee438e-a0b6-4f2d-ad8b-06defd09f113",
+    "slug": "crema-de-brocoli-y-queso",
+    "titulo": "Crema de brócoli y queso",
+    "descripcion": "Receta de Crema de brócoli y queso adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/05/crema-de-brocoli.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 16,
+    "comensales": 2,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "250 g de brócoli",
+      "300 g de leche desnatada",
+      "75 g de queso fresco desnatado tipo Burgos",
+      "25 g de queso de untar tipo philadelphia",
+      "media cucharadita de sal"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Para cocer el brócoli al vapor, lo cortamos y lo ponemos en la bandeja del recipiente Varoma, lo tapamos. Ponemos medio litro de agua en el vaso, colocamos el Varoma en su sitio y programamos 15 minutos, temperatura Varoma, velocidad 1.",
+        "accesorio": "Ninguno",
+        "velocidad": 0,
+        "temperatura_c": 120,
+        "potencia_calorifica": 9,
+        "tiempo_minutos": 12
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Retiramos el Varoma, vaciamos el vaso e introducimos en él el brócoli junto al resto de ingredientes. Trituramos durante 1 minuto, velocidad progresiva 5/10.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "¡Y listo!",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/crema-de-brocoli-y-queso/",
+    "creado_en": "2026-10-09"
+  },
+  {
+    "id": "8fcd4f40-069b-4190-9d98-174a6553784a",
+    "slug": "brazo-de-gitano-de-tiramisu",
+    "titulo": "Brazo de gitano de tiramisú",
+    "descripcion": "Receta de Brazo de gitano de tiramisú adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/05/Brazo_gitano_tiramisú1.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 40,
+    "comensales": 6,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "3 huevos",
+      "150 g azúcar",
+      "60 g. harina",
+      "2 cdtas. levadura",
+      "50 ml café espresso o muy fuerte, frío. (también sirven dos cucharadas de café soluble en 1/2 cubilete de agua)",
+      "1 tarrina de queso mascarpone de 250 g",
+      "50 g de queso tipo philadelphia",
+      "1 cda. vainilla azucarada",
+      "70 g de azúcar glass",
+      "Cacao en polvo"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Precalentar el horno a 220º y preparar una bandeja del horno con un papel vegetal.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Ponemos los huevos y el azúcar en el vaso, colocamos la mariposa y programamos 4 minutos, temperatura 37, velocidad 3 1/2. Volver a programar 3 minutos más, a la misma velocidad, sin temperatura para esponjarlos.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 4
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Añadimos la harina, la levadura y en café en el vaso y mezclamos 10 segundos, velocidad 2 1/2. Quitar la mariposa y terminar de envolver con la espátula.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Poner la masa en la bandeja, extender bien para que ocupe toda la bandeja y hornear unos 8 minutos aproximadamente.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Mientras preparar otro papel vegetal encima de una mesa. Espolvorear azúcar encima.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Volcar la plancha de bizcocho encima del papel vegetal con azúcar que teníamos preparado en la mesa. Quitar el primer papel con cuidado. Si se resiste se puede pincelar con agua fría para que se suelte. Lo dejamos enrollado mientras se enfría.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Para el relleno mezclamos con la mariposa el azúcar glass, el mascarpone, el philadelphia y el azúcar vainillado hasta conseguir una mezcla homogenea con la mariposa, 5 segundos a velocidad 3.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Desenrollar el bizcocho, untar el relleno y enrollarlo para conseguir la forma de brazo gitano. Nos vamos ayudando del papel vegetal. No es necesario apretar mucho. Dejad un centímetro de borde final sin untar de relleno para que cuando terminemos de enrollarlo no se nos salga. Colocar el borde en la parte de abajo para evitar que se desenrolle.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Colocamos el brazo donde lo vayamos a servir y espolvoreamos con cacao. ¡Así de fácil!",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/brazo-de-gitano-de-tiramisu/",
+    "creado_en": "2026-10-09"
+  },
+  {
+    "id": "536f15e9-abf4-4f0d-a1b9-8f14c254c878",
+    "slug": "reduccion-de-balsamico-de-modena",
+    "titulo": "Reducción de balsámico de Módena",
+    "descripcion": "Receta de Reducción de balsámico de Módena adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/05/reducción-de-balsámico-de-módena-thermocetas.jpg",
+    "categoria": "sopas-y-cremas",
+    "tiempo_total_min": 15,
+    "comensales": 4,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "125 g de vinagre balsámico de Módena",
+      "20 g de azúcar"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Poner ambos ingredientes en el vaso y programar 15 minutos, temperatura Varoma, velocidad 1, sin cubilete. Transcurrido el tiempo retirar y guardar en un biberón o recipiente similar.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 15
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Utilizar cuando esté frío.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/reduccion-de-balsamico-de-modena/",
+    "creado_en": "2026-10-09"
   }
 ]
