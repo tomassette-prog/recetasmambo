@@ -45345,5 +45345,419 @@
     ],
     "fuente_url": "https://www.thermorecetas.com/reduccion-de-balsamico-de-modena/",
     "creado_en": "2026-10-09"
+  },
+  {
+    "id": "39c764d5-6179-4ad4-831e-fbcd0ff76c7f",
+    "slug": "bizcocho-de-fresas",
+    "titulo": "Bizcocho de fresas",
+    "descripcion": "Receta de Bizcocho de fresas adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/05/bizcocho-de-fresas.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 75,
+    "comensales": 8,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "3 huevos",
+      "1 pizca de sal",
+      "150 ó 200 g de azúcar",
+      "200 g de harina",
+      "150 g de yogur natural (también se puede utilizar yogur de fresa)",
+      "100 g de fécula de patata (si no tenéis podéis sustituirla por Maicena)",
+      "1 sobre de levadura tipo Royal",
+      "100 g de aceite de girasol",
+      "300 g de fresas limpias, en cuartos si son grandes o en mitades si son pequeñas)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos la mariposa en las cuchillas. Separamos las claras de las yemas, ponemos en el vaso las claras con una pizca de sal y las montamos a punto de nieve programando 4 minutos, velocidad 3 1/2. Las ponemos en un bol y reservamos.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 4
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Quitamos la mariposa de las cuchillas. Ponemos las yemas y el azúcar y programamos 2 minutos, velocidad 2. Añadimos ahora la harina, la fécula de patata, la levadura y el yogur. Programamos 30 segundos, velocidad 2.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 2
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Podemos encender ahora el horno para que se vaya calentando. Lo necesitamos a 180º.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Seguimos con nuestra receta y pesamos el aceite.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Ahora, sin programar tiempo y con el cubilete puesto en la tapa, programamos velocidad 2 y vamos echando el aceite para que caiga en el interior del vaso poco a poco. Paramos la máquina cuando veamos que todo está integrado.",
+        "accesorio": "Cuchillas",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Echamos la mezcla en el bol donde habíamos reservado las claras y lo mezclamos todo delicadamente, con movimientos envolventes. Añadimos las fresas y seguimos mezclando, también suavemente.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Vertemos la mezcla en nuestro molde (el mío era de 23 cms) previamente engrasado.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Horneamos al 180º durante 1 hora y 15 minutos aproximadamente. Ojo porque el tiempo va a depender del vuestro horno y también del tamaño del molde. Utilizad un palito de brocheta para saber cuándo está listo (lo pincháis con ella y estará hecho cuando salga limpia).",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 75
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/bizcocho-de-fresas/",
+    "creado_en": "2026-10-10"
+  },
+  {
+    "id": "a18b1290-8b3d-41f1-99dd-3637b6066f4f",
+    "slug": "pate-a-la-naranja",
+    "titulo": "Paté a la naranja",
+    "descripcion": "Receta de Paté a la naranja adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/05/Pate-a-la-naranja.jpg",
+    "categoria": "carnes",
+    "tiempo_total_min": 20,
+    "comensales": 4,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "200 ml de zumo de naranja natural colado",
+      "5 hojas de gelatina neutra",
+      "400 g de higaditos de pollo limpios",
+      "1 diente de ajo",
+      "2 cebollas tiernas (aprox. 100 g)",
+      "200 g de mantequilla",
+      "1 hoja de laurel",
+      "1 cucharadita de café de tomillo",
+      "1 cucharadita de café de sal",
+      "pimienta al gusto",
+      "150 ml de vino blanco seco",
+      "25 ml de vino dulce (Pedro Ximénez, Málaga Virgen, Oporto o Jerez)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Poner la gelatina a remojo en agua fría",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Introducir el zumo en el vaso y calentarlo durante 3 minutos a 100º y velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 3
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Añadir la gelatina escurrida y mezclar durante 1 minuto a velocidad 3.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Verter en el molde e introducir en el frigorífico para que vaya solidificando.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Enjuagar el vaso e introducir las cebollas peladas y cortadas por la mitad y el diente de ajo pelado. Triturar durante 5 segundos a velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Abrir el vaso, bajar los restos con la espátula y añadir 50 g de mantequilla, el laurel y el tomillo. Sofreír durante 5 minutos, a 100º, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Añadir los higaditos, la sal, la pimienta y el vino blanco. Cocer durante 8 minutos, 100º, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Colar con el cestillo, desechando el caldo de cocción. Retirar el laurel y volver a introducir los higaditos en el vaso junto con el resto de mezcla que quede en el cestillo una vez colado. Añadir el resto de mantequilla y el vino dulce. Triturar 1 minuto a velocidad progresiva 5/10.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Esperar que se enfríe un poco y verter sobre la gelatina ya sólida o semisólida, lo suficiente al menos para que el paté quede encima de ella y no se mezclen. Introducir en el frigorífico y dejar enfriar durante 8 horas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 480
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Desmoldar y servir.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/pate-a-la-naranja/",
+    "creado_en": "2026-10-10"
+  },
+  {
+    "id": "e80de920-9098-45a2-9d81-aefa2d9eaa11",
+    "slug": "salmon-a-baja-temperatura-con-mayonesa-de-wasabi",
+    "titulo": "Salmón a baja temperatura con mayonesa de wasabi",
+    "descripcion": "Receta de Salmón a baja temperatura con mayonesa de wasabi adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/05/Salmon_mayonesa_wasabi.jpg",
+    "categoria": "carnes",
+    "tiempo_total_min": 22,
+    "comensales": 4,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "400 gr de lomo de salmón (no rodajas) sin piel ni espinas, que habremos tenido congelado 48 horas a -20º.",
+      "4 cucharadas de salsa de soja",
+      "4 cucharadas de aceite de oliva",
+      "1500 gr de agua",
+      "4 cucharadas soperas de",
+      "1/2 cucharadita de café de pasta de wasabi"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Cortamos el lomo de salmón en 4 tiras. Necesitamos 2 bolsas de congelación tipo ziploc. Ponemos 2 tiras en cada bolsa y añadimos 2 cucharadas de aceite y 2 de soja. Reservamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Preparamos la mayonesa. Podemos hacerla casera (receta aquí) o utilizar una comprada. Añadimos la mayonesa en el vaso y la pasta de wasabi. Trituramos a velocidad 3 1/2 durante 10 segundos. Retiramos y reservamos templada.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Sin lavar el vaso, ponemos en el vaso los 1.500 gr de agua y el cestillo. Programamos 5 minutos, 50º, velocidad cuchara. Colocamos con mimo las bolsas dentro del cestillo, les vamos quitando el aire de dentro y cerramos. Programamos 20 minutos, 50º, velocidad 2.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 4
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Sacamos las bolsas, con cuidado para que no se nos rompa sacamos el salmón y colocamos en un plato. Añadimos por encima la salsa de mayonesa con wasabi y listo para servir. Es importante tomarlo inmediatamente para que no se enfríe.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/salmon-a-baja-temperatura-con-mayonesa-de-wasabi/",
+    "creado_en": "2026-10-10"
+  },
+  {
+    "id": "1a44bcd6-b1f6-4168-9898-844cef34a3f4",
+    "slug": "huevos-rellenos-con-salsa-de-alcaparras",
+    "titulo": "Huevos rellenos con salsa de alcaparras",
+    "descripcion": "Receta de Huevos rellenos con salsa de alcaparras adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/05/huevos-rellenos-con-salsa-alcaparras-thermorecetas.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 21,
+    "comensales": 2,
+    "dificultad": "Media",
+    "ingredientes": [
+      "4 huevos",
+      "100 g de nata (para el relleno)",
+      "70 g de nata (para la salsa)",
+      "25 g de mantequilla",
+      "1 cucharada sopera de vino blanco",
+      "5 g de mostaza antigua",
+      "1 cucharada sopera de alcaparras",
+      "Perejil picado",
+      "Sal y pimienta"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Llenar el vaso hasta la marca de medio litro con agua del grifo. Colocar el cestillo dentro del vaso con 4 huevos. Programar 15 minutos, temperatura Varoma, velocidad 1.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 209
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Transcurrido el tiempo retirar el cestillo y refrescar los huevos con agua fría. Pelarlos y cortarlos longitudinalmente. Reservar las claras y dos mitades de las yemas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Desechar el agua de cocción y aclarar un poco el vaso. Agregar los 100 g de nata y las yemas de 3 huevos (6 mitades). Batir durante 15 segundos a velocidad 3 para que los ingredientes queden bien mezclados. Bajar los trocitos hacia las cuchillas y calentar durante 4 minutos, 100º, velocidad 1. Retirar, salpimentar y reservar en la nevera.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 151
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Mientras poner la nata para la salsa y calentarla durante 1 minuto, 100º, velocidad 1. A continuación agregar la mantequilla, la yema reservada, la cucharada de vino, la mostaza, el perejil. Mezclar durante 5 segundos a velocidad 5. Retirar y reservar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Sin lavar el vaso, colocar la mariposa y cuando el relleno esté bien frío batirlo durante 10 segundos a velocidad 3 1/2. El resultado será una especie de nata de color amarillo. Rellenar los huevos con esta mezcla bien utilizando manga pastelera como en la foto o con una cucharilla.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "A la hora de servir, colocar con cuidado las mitades en los platos, repartir la salsa alrededor de ellos y terminar decorando con las alcaparras enteras y escurridas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/huevos-rellenos-con-salsa-de-alcaparras/",
+    "creado_en": "2026-10-10"
+  },
+  {
+    "id": "edc8d823-0acc-45f3-8894-077aaab488ec",
+    "slug": "arroz-con-leche-a-la-naranja",
+    "titulo": "Arroz con leche a la naranja",
+    "descripcion": "Receta de Arroz con leche a la naranja adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/05/arroz-con-leche.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 40,
+    "comensales": 4,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "750 g de leche entera",
+      "100 g de arroz redondo",
+      "La piel de 1 naranja, sólo la parte naranja y mejor si es la piel de una naranja biológica (si podéis, cortad la piel en una tira larga, así luego os será más fácil retirarla del vaso)",
+      "1 ramita de canela",
+      "80 g de azúcar"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Colocamos en el vaso la mariposa. Ahora ponemos la leche, el arroz, la piel de la naranja y la ramita de canela. Programamos 30 minutos, 90º, velocidad 1.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 30
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Cuando acabe el tiempo, con ayuda de un tenedor, quitamos la piel de la naranja y la ramita de canela.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Añadimos ahora el azúcar y programamos 10 minutos, 90º, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Servimos en vasitos individuales o en una fuente grande. Cubrimos cada recipiente con film transparente o con papel de aluminio para que no se reseque la superficie y dejamos enfriar. Decoramos con canela y, si queremos, con piel de naranja.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/arroz-con-leche-a-la-naranja/",
+    "creado_en": "2026-10-10"
   }
 ]
