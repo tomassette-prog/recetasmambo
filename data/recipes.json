@@ -45759,5 +45759,465 @@
     ],
     "fuente_url": "https://www.thermorecetas.com/arroz-con-leche-a-la-naranja/",
     "creado_en": "2026-10-10"
+  },
+  {
+    "id": "adc0c6f9-dc2f-4900-967a-193af93d1a89",
+    "slug": "hummus-de-lentejas",
+    "titulo": "Hummus de lentejas",
+    "descripcion": "Receta de Hummus de lentejas adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/05/hummus-lentejas.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 1,
+    "comensales": 4,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "Un bote pequeño de lentejas cocidas (250 g. de peso escurrido)",
+      "1 cucharadita de café de tahina (es una pasta de sésamo, la encontraréis en la sección internacional de los hipermercados, podéis omitirla si no la conseguís, o sustituirla por 1 cucharada de postre de semillas de sésamo)",
+      "10 almendras crudas y peladas",
+      "el zumo de medio limón (25 ml. aprox)",
+      "1 diente de ajo",
+      "1 cucharadita de café de comino en polvo",
+      "1/2 cucharadita de café de sal",
+      "50 ml de aceite de oliva (medio cubilete)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Escurrid las lentejas con un colador.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Introducidlas en el vaso junto a todos los demás ingredientes y triturar durante 30 segundos a velocidad progresiva 5/10.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Bajad los restos de las paredes del vaso con la espátula y volved a programar 30 segundos a velocidad progresiva 5/10.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/hummus-de-lentejas/",
+    "creado_en": "2026-10-11"
+  },
+  {
+    "id": "73b0b84b-02cf-4d36-b152-4e6045c0c93d",
+    "slug": "arroz-negro-meloso-con-sepia-y-langostinos",
+    "titulo": "Arroz negro meloso con sepia y langostinos",
+    "descripcion": "Receta de Arroz negro meloso con sepia y langostinos adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/05/Arroz_negro_sepia-gambas.jpg",
+    "categoria": "arroces",
+    "tiempo_total_min": 45,
+    "comensales": 6,
+    "dificultad": "Media",
+    "ingredientes": [
+      "500 gr de langostinos crudos",
+      "400 gr de agua",
+      "3 dientes de ajo",
+      "unas hebras de azafrán (opcional)",
+      "1 cubilete de hojas de perejil (opcional)",
+      "10 gr de sal marina",
+      "el líquido del fumet",
+      "20 gr de zumo de limón",
+      "300 gr de agua",
+      "4 bolsitas de tinta de calamar",
+      "100 gr de aceite de oliva virgen",
+      "500 gr de sepia",
+      "100 gr de pimiento verde",
+      "100 gr de pimiento rojo",
+      "200 gr de tomate triturado natural",
+      "2 dientes de ajo",
+      "350 gr de arroz"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Pelamos los langostinos y reservamos los cuerpos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Ponemos en el vaso las cabezas y las cáscaras de los langostinos y los 400 gr de agua. Programamos 7 minutos, temperatura varoma, velocidad 4. Cuando termine, colamos el líquido del vaso por un colador fino y reservamos. Lavamos bien el vaso y la tapa y secamos bien.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 6
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Ponemos en el vaso los 3 dientes de ajo, el azafrán, el perejil y la sal, y troceamos 15 segundos, velocidad 6. Añadimos los líquidos, las tintas y trituramos 30 segundos, velocidad 7. Retiramos y reservamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 6,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Sin lavar el vaso, incorporamos el aceite y programamos 5 minutos, temperatura varoma, velocidad 1. Añadimos la sepia cortada en trozos y rehogamos durante 5 minutos, temperatura varoma, giro a la izquierda, velocidad cuchara. Retiramos la sepia dejando el aceite en el vaso.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Añadimos los pimientos, el tomate, los ajos y programamos 5 minutos, temperatura varoma, velocidad 3 1/2.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Colocamos la mariposa en las cuchillas, añadimos la sepia y programamos 3 minutos, 100º, velocidad 1, giro a la izquierda. Incorporamos el arroz y programamos 2 minutos, temperatura 100º, velocidad 1, giro a la izquierda.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 3
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Añadimos el líquido reservado y programamos 15 minutos, temperatura 100º, velocidad 1, giro a la izquierda. Cuando falten 4 minutos añadimos los cuerpos de los langostinos que teníamos reservados y cuando termine el tiempo, dejamos que repose 1-2 minutos. Servir inmediatamente.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 15
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/arroz-negro-meloso-con-sepia-y-langostinos/",
+    "creado_en": "2026-10-11"
+  },
+  {
+    "id": "cb4f43dc-7386-4351-bfa0-88fe0b50ffcf",
+    "slug": "petit-suisse-de-fresa-version-1",
+    "titulo": "Petit-suisse de fresa -versión 1-",
+    "descripcion": "Receta de Petit-suisse de fresa -versión 1- adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/05/petit-suisse-de-fresa-versión-1-thermorecetas.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 5,
+    "comensales": 16,
+    "dificultad": "Media",
+    "ingredientes": [
+      "500 g de fresas limpias",
+      "130 g de azúcar blanquilla",
+      "200 g de nata",
+      "6 láminas de gelatina",
+      "200 g de queso en crema (Philadelphia)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Pulverizar el azúcar durante 30 segundos a velocidad 10. Retirar y reservar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 10,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Sin lavar el vaso poner las fresas limpias y sin pedúnculo. Triturar durante 1 minuto a velocidad 10. Retirar y pasar por un chino para eliminar todas las semillas minúsculas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 10,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Volver a poner las fresas y el azúcar en el vaso y mezclar durante 30 segundos a velocidad 5. Retirar y reservar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Hidratar las hojas de gelatina en un cuenco con abundante agua fría. Mientras poner en el vaso la nata, calentarla durante 3 minutos, 90º, velocidad 3.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 2
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Terminado el tiempo agregar a la nata la gelatina muy bien escurrida. Batir durante 30 segundos a velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Incorporar el queso y la mezcla de fresas y azúcar reservada. Batir durante 30 segundos a velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Repartir la preparación entre los botes elegidos. Dejar cuajar en la nevera durante unas horas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/petit-suisse-de-fresa-version-1/",
+    "creado_en": "2026-10-11"
+  },
+  {
+    "id": "4cfa0f20-2cc8-4858-8979-91ac736eec82",
+    "slug": "crema-de-garbanzos-con-almejas",
+    "titulo": "Crema de garbanzos con almejas",
+    "descripcion": "Receta de Crema de garbanzos con almejas adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/05/crema-de-garbanzos-con-almejas.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 30,
+    "comensales": 4,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "1 diente de ajo",
+      "1 ramillete de romero (o un poco de romero seco, si no tenéis fresco)",
+      "35 g de aceite de oliva virgen extra",
+      "500 g de garbanzos ya cocidos y escurridos (podéis cocerlos vosotros o utilizar los de bote)",
+      "800 g de caldo vegetal",
+      "500 g de almejas que vamos a limpiar antes con agua y sal",
+      "Sal",
+      "Pimienta (opcional)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Si vamos a cocer nosotros los garbanzos tendremos que ponerlos en remojo la noche anterior y el día que queramos hacer la receta cocerlos en la olla rápida o donde solamos hacerlo.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Comenzamos poniendo en agua con sal las almejas y las dejamos ahí hasta que las vayamos a necesitar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Ponemos en el vaso el ajo y lo trituramos programando 5 segundos, velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Añadimos el romero (las hojitas bien limpias) y el aceite. Programamos 3 minutos, 100 g, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 3
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Unimos ahora los garbanzos escurridos y programamos [b]5 minutos, 90º, velocidad cuchara.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "[/b]",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Añadimos el caldo.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 21
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Ponemos las almejas en la bandeja del varoma (nos va a servir de colador) y las aclaramos un poco. colocamos la bandeja en el recipiente varoma y éste en su posición, encima del vaso ya tapado y sin cubilete. Ahora programamos 20 minutos, temperatura varoma, velocidad cuchara.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 20
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Quitamos el recipiente varoma y reservamos las almejas.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Ponemos sal a nuestra preparación y la trituramos durante 10 o 15 segundos en velocidad 6 1/2 pero ojo, sujetando el cubilete. Cuidado con no poner una velocidad demasiado alta porque el vaso está muy lleno y podríamos quemarnos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 6,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 11,
+        "instruccion": "Ponemos la crema en una sopera o en recipientes individuales, con algunas almejas en la superficie, un chorrito de aceite, un poquito de romero… como más os guste.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/crema-de-garbanzos-con-almejas/",
+    "creado_en": "2026-10-11"
+  },
+  {
+    "id": "a2f5e8c2-5b00-4155-90bc-4ec3d43eea75",
+    "slug": "rollitos-de-ternera-rellenos-de-jamon-y-queso-en-salsa-al-pimenton",
+    "titulo": "Rollitos de ternera rellenos de jamón y queso en salsa al pimentón",
+    "descripcion": "Receta de Rollitos de ternera rellenos de jamón y queso en salsa al pimentón adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/05/rollitos-de-ternera.jpg",
+    "categoria": "panes-masas",
+    "tiempo_total_min": 29,
+    "comensales": 4,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "8 filetes de ternera cortados finitos (decid en la carnicería que son para rollitos y que os los corten lo más finos que puedan. Si aún así, quedaran muy gruesos, hay un truco casero: film transparente sobre la encimera, filete encima y tapamos con otro film transparente. Con el rodillo, los aplanamos)",
+      "8 lonchas de jamón serrano cortadas finas",
+      "8 lonchas de queso tierno",
+      "3 dientes de ajo",
+      "3 ramitas de perejil (sólo usaremos las hojas, que el tallo suele amargar)",
+      "75 g. de puerros",
+      "75 gr de cebolla",
+      "150 g de pimiento rojo",
+      "25 ml de coñac (también puede usarse vino blanco seco): Si lo van a comer niños, lo eliminamos",
+      "75 ml de aceite de oliva",
+      "1 cucharadita de café de pimentón",
+      "100 ml de agua",
+      "sal y pimienta al gusto"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Pon en el vaso el ajo y el perejil y tritura durante 3 segundos a velocidad 7. Saca y reserva.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Sin enjuagar el vaso, introduce, en grandes trozos, los puerros, la cebolla, el pimiento y el aceite. Trocéalos 4 segundos a velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Y a continuación, rehógalos durante 8 minutos, temperatura Varoma, velocidad 1.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Mientras, extiende los filetes, ponles sal a tu gusto y esparce sobre ellos la mezcla del ajo y el perejil que habíamos reservado. Y sobre ella, una loncha de jamón y una de queso en cada filete.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Enrolla los filetes con su mezcla dentro y ciérralos con palillo. Colócalos en la bandeja del recipiente Varoma, ciérralo con su tapa y reserva.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Cuando finalice el tiempo programado, abre el vaso e incorpora el resto de los ingredientes. Programa 20 minutos, temperatura Varoma, velocidad 2.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 20
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Destapa el recipiente (destápalo siempre en dirección opuesta a la que tú te encuentres, para evitar que el vapor vaya directo a ti) y coloca los rollitos en una fuente, retirándoles el palilllo.",
+        "accesorio": "Ninguno",
+        "velocidad": 0,
+        "temperatura_c": 120,
+        "potencia_calorifica": 9,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Tritura la salsa programando 30 segundos, velocidad progresiva 5/10, viértela sobre los rollitos. Y saca pan a la mesa, que todos querrán mojarlo.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/rollitos-de-ternera-rellenos-de-jamon-y-queso-en-salsa-al-pimenton/",
+    "creado_en": "2026-10-11"
   }
 ]
