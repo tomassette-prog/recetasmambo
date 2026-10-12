@@ -46219,5 +46219,377 @@
     ],
     "fuente_url": "https://www.thermorecetas.com/rollitos-de-ternera-rellenos-de-jamon-y-queso-en-salsa-al-pimenton/",
     "creado_en": "2026-10-11"
+  },
+  {
+    "id": "bd11e6ac-944f-4110-84c3-519ad67680d7",
+    "slug": "montaditos-de-cebolla-caramelizada-y-queso-de-cabra",
+    "titulo": "Montaditos de cebolla caramelizada y queso de cabra",
+    "descripcion": "Receta de Montaditos de cebolla caramelizada y queso de cabra adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/05/Montaditos_atún_pimientos.jpg",
+    "categoria": "panes-masas",
+    "tiempo_total_min": 10,
+    "comensales": 4,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "12 rebanadas de pan tostado",
+      "6 medallones de queso de cabra (yo he utilizado el de la marca President) cortadas por la mitad en forma longitudinal, a temperatura ambiente",
+      "cebolla caramelizada"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Colocamos el queso sobre el pan. Calentamos la cebolla caramelizado y la colocamos sobre el queso coronando los montaditos.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Colocamos el atún sobre el pan. Calentamos los pimientos y los colocamos sobre el atún coronando los montaditos.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/montaditos-de-picoteo-express/",
+    "creado_en": "2026-10-12"
+  },
+  {
+    "id": "15728972-98ac-4ba4-9cba-36e264d5c6f7",
+    "slug": "arroz-3-delicias",
+    "titulo": "Arroz 3 delicias",
+    "descripcion": "Receta de Arroz 3 delicias adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/05/arroz-3-delicias-thermorecetas.jpg",
+    "categoria": "arroces",
+    "tiempo_total_min": 25,
+    "comensales": 2,
+    "dificultad": "Media",
+    "ingredientes": [
+      "50 g de jamón york en dados",
+      "1 zanahoria",
+      "2 huevos",
+      "1 diente de ajo",
+      "50 g de guisantes",
+      "50 g de gambas peladas",
+      "100 g de arroz de grano largo (Basmati)",
+      "Sal y pimienta",
+      "15 g de aceite",
+      "800 g de agua"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Poner en el vaso el diente de ajo, un chorro de aceite y llenar con 800 g de agua. Colocar dentro el cestillo con el arroz. Programar 15 minutos, temperatura Varoma, velocidad 4. Remover de vez en cuando con la espátula para que el arroz no se quede apelmazado.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 12
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Mientras, hacer en una sartén una tortilla francesa con los dos huevos salpimentados y unas gotas de aceite para que no se pegue. Una vez fría cortarla como más nos guste, en tiras o cuadraditos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Raspar y lavar las zanahoria. Cortarla en trocitos de 0’5 cm. Reservar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Cuando el arroz esté ya hecho, retirar el cestillo ayudándonos de la muesca de la espátula. Refrescar bajo el chorro de agua fría, escurrir bien y volcar en una fuente grande.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Volver a colocar el cestillo dentro del vaso con el agua de cocción del arroz. Poner los trocitos de zanahoria, las gambas y los guisantes, que pueden ser frescos o congelados. Programar 10 minutos, temperatura Varoma, velocidad 2.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Terminado el tiempo, retirar el cestillo y escurrir bien su contenido. Juntarlo con el arroz y con el jamón york cortado en dados. Remover para integrar los ingredientes y, por último, agregar los trocitos de tortilla francesa.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/arroz-3-delicias/",
+    "creado_en": "2026-10-12"
+  },
+  {
+    "id": "e52749f1-20ec-4b0a-9517-5c99842fae46",
+    "slug": "hojaldre-de-lomo-y-verduras",
+    "titulo": "Hojaldre de lomo y verduras",
+    "descripcion": "Receta de Hojaldre de lomo y verduras adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/05/hojaldre-de-lomo-y-verduras.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 60,
+    "comensales": 6,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "350 g de lomo de cerdo cortada en cubitos",
+      "1 cebolla cortada en cuartos",
+      "30 g de aceite de oliva virgen extra",
+      "50 g de agua",
+      "Sal",
+      "50 g de vino blanco",
+      "100 g de judías verdes ya cocidas (las podéis cocer antes de empezar la receta o utilizar las de bote)",
+      "2 huevos",
+      "60 g de nueces (ya peladas)",
+      "1 huevo para pintar el hojaldre",
+      "1 lámina de masa de hojaldre rectangular (si os animáis podéis prepararla con vuestra Thermomix)",
+      "50 g de tomates secos en aceite (peso una vez escurridos)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos el lomo, cortado a cubitos, en el vaso y programamos 10 segundos, velocidad 7. Sacamos y reservamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Trituramos la cebolla y programamos 10 segundos, velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Añadimos el aceite y programamos: 3 minutos, 100º, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 3
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Echamos ahora la carne ya triturada que habíamos reservado y el agua. Sazonamos y programamos 1 minuto, 100º, velocidad cuchara.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Podemos ir encendiendo el horno a 200º para que esté con esa temperatura cuando lo necesitamos.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Ahora ponemos el vino, 3 minutos, 100º, velocidad cuchara.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 3
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Añadimos las judías verdes, los huevos y las nueces. Programamos 2 minutos, 100º, giro a la izquierda, velocidad cuchara.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 2
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Cogemos el hojaldre, le ponemos la carne en el centro quitando antes el líquido, y ponemos encima los tomates en aceite.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Cerramos el hojaldre, haciendo el rulo e intentando que quede bien apretadito. Cerramos por los extremos dejando siempre las uniones en la parte de abajo. Lo pincelamos con huevo batido.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Cuando el horno haya cogido la temperatura que queríamos (200º) metemos nuestro rulo de hojaldre con carne. Lo tendremos en el horno unos 30 minutos o hasta que el hojaldre esté listo y doradito.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 30
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/lomo/",
+    "creado_en": "2026-10-12"
+  },
+  {
+    "id": "f69e3a85-7ea8-44c7-9fea-e08026d28c18",
+    "slug": "flan-de-chocolate",
+    "titulo": "Flan de chocolate",
+    "descripcion": "Receta de Flan de chocolate adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/05/flan-chocolate.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 30,
+    "comensales": 6,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "75 g de chocolate negro",
+      "300 ml de leche",
+      "75 gr de azúclar glass",
+      "3 huevos",
+      "1 litro de agua"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Introduce el chocolate troceado en el vaso y rállalo a golpe de turbo. Baja los restos de las paredes con la espátula.",
+        "accesorio": "Cuchillas",
+        "velocidad": "Turbo",
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Añades la leche y lo cueces durante 4 minutos, 100 º, velocidad 2.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 4
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Incorpora el azúcar y lo mezclas durante 5 segundos a velocidad 3.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Introduce los huevos uno a uno por el bocal y mezcla durante 30 segundos a velocidad 3.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Vierte la mezcla en flaneras o en un molde que quepa en el recipiente Varoma. Tapa las flaneras con papel de aluminio, bien sellado, y colócalas en el Varoma. Pon unas capas de papel de cocina por encima de las flaneras tapadas (absorberán el vapor que se genere al cocerlo) y tapa el recipiente con su tapadera.",
+        "accesorio": "Ninguno",
+        "velocidad": 0,
+        "temperatura_c": 120,
+        "potencia_calorifica": 9,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Enjuaga el vaso, introduce el agua, pon el Varoma en su lugar y programa 25 minutos, temperatura Varoma, velocidad 1.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 21
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Destápalo todo cuando haya finalizado el tiempo y deja enfriar los flanes en sus flaneras antes de servirlos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Puedes decorarlos con nata, con chocolate fundido o con trocitos de chocolate rallado por encima.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/flan-de-chocolate/",
+    "creado_en": "2026-10-12"
+  },
+  {
+    "id": "6c252d1a-76c1-4cda-af16-e4d34abd37fc",
+    "slug": "salsa-de-yogur-y-hierbabuena",
+    "titulo": "Salsa de yogur y hierbabuena",
+    "descripcion": "Receta de Salsa de yogur y hierbabuena adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/05/salsa_yogur_hierbabuena.jpg",
+    "categoria": "salsas",
+    "tiempo_total_min": 1,
+    "comensales": 4,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "1 yogur griego",
+      "1/2 diente de ajo",
+      "una pizca de sal",
+      "una pizca de azúcar",
+      "1/2 cubilete de hojas de menta o hierbabuena"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Echamos en el vaso el ajo, la sal, el azúcar y la hierbabuena. Trituramos 6 segundos, velocidad 6. Bajamos los restos de las paredes hacia las cuchillas y repetimos la operación: 6 segundos, velocidad 6.",
+        "accesorio": "Cuchillas",
+        "velocidad": 6,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Añadimos el yogur y mezclamos 6 segundos, velocidad 2. Probamos y rectificamos de sal o azúcar. ¡Listo para tomar!",
+        "accesorio": "Cuchillas",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/salsa-de-yogur-y-hierbabuena/",
+    "creado_en": "2026-10-12"
   }
 ]
