@@ -46591,5 +46591,485 @@
     ],
     "fuente_url": "https://www.thermorecetas.com/salsa-de-yogur-y-hierbabuena/",
     "creado_en": "2026-10-12"
+  },
+  {
+    "id": "ef88a766-78b3-489a-b4c1-4d6259437252",
+    "slug": "galets-rellenos-de-espinacas",
+    "titulo": "Galets rellenos de espinacas",
+    "descripcion": "Receta de Galets rellenos de espinacas adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/05/galets-rellenos-de-espinacas-thermorecetas.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 13,
+    "comensales": 2,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "100 g de galets gigantes (7 unidades por persona)",
+      "150 g de espinacas frescas",
+      "50 g de cebolla",
+      "50 g de queso cheddar rallado",
+      "15 g de queso parmesano",
+      "½ vaso de leche",
+      "10 g de maicena",
+      "2 nueces",
+      "30 g de aceite de oliva virgen extra (para el aceite de nuez)",
+      "10 g de aceite de oliva (para el sofrito)",
+      "Sal y pimienta",
+      "Nuez moscada"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "En una olla cocer los galets con agua y sal el tiempo que indique el fabricante. En mi caso fueron 14 minutos. Hay que remover de vez en cuando para que no se peguen ya que al despegarlos podrían romperse y ya no servirían para rellenar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 11
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Picar las nueces programando 5 segundos, velocidad 10. Retirar y mezclar con 30 g de aceite de oliva virgen extra.",
+        "accesorio": "Cuchillas",
+        "velocidad": 10,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Lavar las espinacas y escurrirlas bien. Ponerlas en el vaso y trocearlas durante 3 segundos a velocidad 5. Retirar y reservar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Poner la cebolla, picarla durante 4 segundos a velocidad 5. Bajar los trocitos hacia las cuchillas. Agregar los 10 g de aceite y sofreír durante 5 minutos, 100º, velocidad 1. Agregar las espinacas y proseguir la cocción durante 5 minutos, temperatura Varoma, velocidad 1. Retirar y reservar.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Sin lavar el vaso, verter casi toda la leche, dejando un poco para desleír o disolver la maicena. Salpimentar y aromatizar con la nuez moscada. Agregar el queso cheddar y programar 2 minutos, 90º, velocidad 2.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 2
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "A continuación añadir el parmesano y la mezcla de maicena y leche que nos quedaba. Cocer durante 30 segundos, 90º, velocidad 2.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Agregar las espinacas reservadas y mezclar durante 5 segundos, velocidad 3, giro a la izquierda. Retirar y reservar.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Rellenar los galets con el relleno frío. Para ello podemos utilizar la manga pastelera con boquilla ancha o bien una cucharilla pequeña.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "A la hora de servir, calentarlos al baño María y aliñarlos con el aceite de nuez.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/galets-rellenos-de-espinacas/",
+    "creado_en": "2026-10-13"
+  },
+  {
+    "id": "47d98df5-63f3-41aa-afff-6e5f24059373",
+    "slug": "galletas-de-chocolate-rellenas-de-coco",
+    "titulo": "Galletas de chocolate rellenas de coco",
+    "descripcion": "Receta de Galletas de chocolate rellenas de coco adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/05/galletas-de-chocolate-y-coco.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 20,
+    "comensales": 20,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "160 g de azúcar",
+      "150 g de mantequilla a temperatura ambiente",
+      "60 g de fécula de patata o de harina de maíz (tipo Maicena)",
+      "50 g de cacao en polvo (amargo)",
+      "2 yemas de huevo y 1 clara y media (más abajo, en Observaciones, explico el porqué)",
+      "230 g de harina de repostería",
+      "75 g de coco rallado",
+      "Un poco de clara de huevo (1/2 clara)",
+      "35 g de azúcar",
+      "35 g de leche"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos el azúcar y la mantequilla en el vaso y programamos 35 segundos, velocidad 3. Añadimos el resto de los ingredientes de la masa de galletas y amasamos durante 1 minuto, (vaso cerrado, velocidad espiga) o hasta que estén bien integrados los ingredientes -en ese minuto parad de vez en cuando la máquina y bajar lo que esté en las paredes del vaso-. Reservamos.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Encendemos el horno a 180º",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Limpiamos el vaso. Ahora vamos a poner en él el coco rallado con la 1/2 clara de huevo, el azúcar y la leche. Mezclamos unos segundos en velocidad 3. Sacamos y metemos al frigorífico hasta que lo vayamos a utilizar.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Ahora es el momento de formar nuestras galletas. Podéis hacerlo de varias formas:",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Haciendo pequeñas pelotitas de masa de galletas, un agujerito en el centro, metemos el relleno y un poquito más de amasa para cerrar el agujero. Algo parecido a lo que hacíamos con los cordiales pero en vez de cerrarlo con la oblea lo cerramos con más masa de galleta.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Haciendo una especie de sándwich (tipo galleta Príncipe) y aplastando luego los bordes con las manos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Según vayamos haciendo las galletas las ponemos sobre nuestra bandeja de horno cubierta con papel de hornear y dejando un poquito de separación entre ellas.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Las metemos al horno donde estarán unos 15 minutos. Este tiempo es aproximado pero veréis que es fácil saber cuándo están cocidas. Eso sí, no las dejéis demasiado tiempo porque si no se secará el relleno.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 15
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Ahora sólo nos queda disfrutar de nuestras galletas caseras.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/galletas-de-chocolate-rellenas-de-coco/",
+    "creado_en": "2026-10-13"
+  },
+  {
+    "id": "8d37fdc0-d3cb-43b7-86b0-206c2cb663d2",
+    "slug": "merluza-con-salsa-de-puerros",
+    "titulo": "Merluza con salsa de puerros",
+    "descripcion": "Receta de Merluza con salsa de puerros adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/05/merluza-con-salsa-de-puerros.jpg",
+    "categoria": "carnes",
+    "tiempo_total_min": 23,
+    "comensales": 4,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "4/6 lomos de merluza sin piel ni espinas",
+      "2 cebollas tiernas (200 g aprox.)",
+      "2 puerros (150 g aprox.)",
+      "50 g de pimiento verde",
+      "50 ml de vino blanco seco",
+      "50 ml de aceite",
+      "250 ml de caldo de pescado (o 250 ml de agua y una pastilla de caldo de pescado)",
+      "2 cucharadas de mayonesa",
+      "1 cucharadita de sal"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Introducir en el vaso el aceite, la cebolla, el puerro y el pimiento troceados. Triturar durante 5 segundos, velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Sofreír durante 10 minutos, temperatura Varoma, velocidad 1. Con cubilete.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Mientras, engrasar con un poco de aceite la bandeja del Varoma y colocar sobre ella los lomos. Tapar y reservar.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Añadir el vino y cocer durante 2 minutos, temperatura varoma, velocidad 1. Sin cubilete.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 2
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Incorporar el caldo (o el agua y la pastilla) y la sal. Poner el recipiente Varoma en su lugar y programar 10 minutos, temperatura Varoma, velocidad 2.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Retirar el Varoma y destaparlo (siempre en dirección opuesta a nosotros para no quemarnos con el vapor).",
+        "accesorio": "Ninguno",
+        "velocidad": 0,
+        "temperatura_c": 120,
+        "potencia_calorifica": 9,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Introducir en el vaso la mayonesa y triturarlo todo durante 30 segundos a velocidad progresiva 5/10.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Servir los lomos con la salsa por encima.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/merluza-con-salsa-de-puerros/",
+    "creado_en": "2026-10-13"
+  },
+  {
+    "id": "bc12670f-fd72-4396-b1c2-33ba1ae86463",
+    "slug": "ensalada-blanca-de-patatas-y-jamon",
+    "titulo": "Ensalada blanca de patatas y jamón",
+    "descripcion": "Receta de Ensalada blanca de patatas y jamón adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/05/Ensalada_patatas_jamon.jpg",
+    "categoria": "verduras",
+    "tiempo_total_min": 20,
+    "comensales": 6,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "500 gr de patatas con piel bien limpias y cortadas en trozos (del tamaño de una nuez)",
+      "1 litro de agua",
+      "1/2 cucharadita de sal",
+      "6 lonchas de jamón serrano",
+      "1 cubilete de hojas de perejil",
+      "2 cebolletas",
+      "150 gr de nata light",
+      "1 cucharadita de mostaza de Dijon",
+      "1 cucharadita de vinagre",
+      "1 diente de ajo",
+      "sal",
+      "pimienta",
+      "15 gr de aceite de oliva"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Echamos el cubilete de hojas de perejil y trituramos 6 segundos, velocidad 5. Retiramos y reservamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Sin lavar el vaso añadimos el litro de agua, la sal, colocamos el cestillo y dentro las patatas troceadas. Programamos 15 minutos, temperatura varoma, velocidad 2, . Cuando haya terminado el tiempo, pinchamos para ver si están tiernas. Si no, las dejamos unos minutos más.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 12
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Escurrimos con el cestillo y reservamos. Secamos bien el vaso y añadimos las cebolletas y el ajo programamos 5 segundos, velocidad 5. Bajamos los restos que hayan quedado en tapa y paredes y añadimos la nata, la mostaza, el vinagre, sal, pimienta y el aceite de oliva. Programamos 10 segundos, velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Ponemos las patatas en una fuente, agregamos el jamón troceado y añadimos la salsa. Espolvoreamos con perejil y ¡listo para servir!",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/ensalada-blanca-de-patatas-y-jamon/",
+    "creado_en": "2026-10-13"
+  },
+  {
+    "id": "2b20e1bf-eb14-4838-bc86-f66fe007985d",
+    "slug": "salmon-con-costra",
+    "titulo": "Salmón con costra",
+    "descripcion": "Receta de Salmón con costra adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/05/salmón-con-costra-thermorecetas.jpg",
+    "categoria": "pescados",
+    "tiempo_total_min": 17,
+    "comensales": 2,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "40 g de avellanas tostadas y peladas",
+      "1 diente de ajo (no muy grande)",
+      "12 granos de pimienta",
+      "1 pellizco de tomillo",
+      "100 g de judías verdes",
+      "1 cucharada de miel",
+      "2 supremas de salmón",
+      "Sal",
+      "Aceite de oliva"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Precalentar el horno a 180º. Lavar el salmón, secarlo con papel de cocina y retirar las posibles espinas.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Triturar las avellanas, el ajo, la pimienta, el tomillo y la sal. Programar vaso cerrado, velocidad turbo durante 2 segundos. Retirar y reservar.",
+        "accesorio": "Cuchillas",
+        "velocidad": "Turbo",
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Untar la piel del salmón con un poco de aceite. Pincelar con la miel la superficie y repartir el triturado de avellanas por arriba. Reservar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Sin lavar el vaso poner agua hasta la marca de 1 litro. Calentar durante 7 minutos, 100º, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 6
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Mientras lavar las judías verdes, despuntarlas y retirar los hilos o hebras de los laterales. Cortarlas por la mitad a lo largo.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Cuando termine el tiempo, introducir el cestillo con las judías verdes. Programar 10 minutos, 100º, velocidad 4. Retirar el cestillo utilizando la muesca de la espátula. Refrescar, escurrir y reservar.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Al mismo tiempo que se hacen las judías, asar el pescado reservado entre 10 o 12 minutos en el horno precalentado. Encender el grill sólo durante 1 minuto para que se dore la parte superior.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 12
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Retirar y repartir las supremas. Acompañar el pescado con las judías cocidas aliñadas con un poco de aceite de oliva.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/salmon-con-costra/",
+    "creado_en": "2026-10-13"
   }
 ]
