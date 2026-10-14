@@ -47071,5 +47071,408 @@
     ],
     "fuente_url": "https://www.thermorecetas.com/salmon-con-costra/",
     "creado_en": "2026-10-13"
+  },
+  {
+    "id": "f30ee2ae-dbc3-46aa-92f1-983a1580cfb4",
+    "slug": "ragu-de-carne-tipo-bolonesa",
+    "titulo": "Ragú de carne tipo boloñesa",
+    "descripcion": "Receta de Ragú de carne tipo boloñesa adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/05/ragu-de-carne.jpg",
+    "categoria": "carnes",
+    "tiempo_total_min": 60,
+    "comensales": 4,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "80 g de apio en trozos",
+      "1 zanahoria partida en tres trozos",
+      "1 cebolla en cuartos",
+      "Algunas hojas de albahaca",
+      "50 g de aceite de oliva virgen extra",
+      "200 g de carne picada de ternera",
+      "200 g de carne picada de cerdo",
+      "70 g de vino blanco",
+      "70 g de agua caliente",
+      "350 g de tomate triturado",
+      "1 hoja de laurel",
+      "Sal",
+      "Nuez moscada"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos en el vaso el apio, la zanahoria, la cebolla y la albahaca. Trituramos durante 5 segundos en velocidad 7.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Añadimos el aceite y la carne. Programamos 10 minutos, temperatura varoma, giro a la izquierda, velocidad cuchara. Cuando quede un minuto, y sin abrir la máquina, añadimos el vino por el bocal.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Ahora vamos a añadir el tomate, el agua, la hoja de laurel, la nuez moscada y la sal. Programamos 45 minutos, 100º, giro a la izquierda y velocidad cuchara.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 37
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Y ya tenemos nuestro ragú, listo para condimentar nuestra pasta favorita.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/ragu-de-carne-tipo-bolonesa/",
+    "creado_en": "2026-10-14"
+  },
+  {
+    "id": "e56b6e4c-0ce4-4685-8934-dc51d5c72525",
+    "slug": "leche-merengada",
+    "titulo": "Leche merengada",
+    "descripcion": "Receta de Leche merengada adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/05/leche-merengada2.jpg",
+    "categoria": "sopas-y-cremas",
+    "tiempo_total_min": 18,
+    "comensales": 1,
+    "dificultad": "Media",
+    "ingredientes": [
+      "200 ml de leche (entera, semidesnatada o desnatada, como querais)",
+      "200 g de azúcar moreno",
+      "100 g de leche en polvo (entera, semidesnatada o desnatada, como querais)",
+      "la piel de medio limón",
+      "2 palos de canela en rama",
+      "800 g de hielo"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Pulverizamos el azúcar durante 30 segundos a velocidad progresiva 7/10. Sacamos y reservamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Introducimos en el vaso la leche (la líquida, no la leche el polvo) con la canela y el limón. Calentamos durante 15 minutos a 100º, velocidad 2. La sacamos, la dejamos enfriar y la colamos.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 15
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Cuando ya esté fría, la volvemos a introducir en el vaso junto con la leche en polvo y el azúcar. Mezclamos durante 15 segundos a velocidad 4.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Añadimos los cubitos de hielo y trituramos durante 1 minuto y medio a velocidad progresiva 5/10.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Servir directamente.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/leche-merengada/",
+    "creado_en": "2026-10-14"
+  },
+  {
+    "id": "58a008c5-214e-4738-8cbd-47f9124ed891",
+    "slug": "bizcocho-de-mandarina-para-ninos",
+    "titulo": "Bizcocho de mandarina para niños",
+    "descripcion": "Receta de Bizcocho de mandarina para niños adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/05/Bizcocho_mandarina.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 5,
+    "comensales": 6,
+    "dificultad": "Media",
+    "ingredientes": [
+      "250 gr de azúcar",
+      "3 huevos",
+      "2 mandarinas hermosas, sin pelar pero muy bien lavada y le quitamos la rodaja de arriba y la de abajo",
+      "1 yogur natural o 125 ml de leche o nata)",
+      "100 gr de aceite de girasol",
+      "1 pellizco de sal",
+      "250 gr de harina de trigo",
+      "1 sobre de levadura tipo Royal (16 gr.)",
+      "6 cucharadas grandes de azúcar para hacer azúcar glass (opcional para decorar)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Primero vamos a preparar el azúcar glass porque para que nos salga bien, tenemos que tener el vaso muy seco. Echamos las 6 cucharadas de azúcar y trituramos 30 segundos, velocidad progresiva 5-7-10. Reservamos. Si nos sobra después de haber decorado el bizcocho, podemos guardarlo en un tupper o en un bote bien cerrado a temperatura ambiente.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Sin lavar el vaso, ponemos los 250 gr de azúcar, los huevos y las mandarinas troceadas y programamos 3 minutos, temperatura 37º, velocidad 4 para que el bizcocho nos quede mas esponjoso.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 3
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Añadimos el yogur y el aceite de girasol y mezclamos a 5 segundos a velocidad 3 o hasta que este bien mezclado.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Incorporamos la sal, la harina y la levadura y mezclamos bien 10 segundos, velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Precalentamos el horno a 180º calor arriba y abajo, o función ventilador (yo lo enciendo justo cuando empiezo a hacer la receta, porque tarda más o menos eso en alcanzar los 180º).",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Ponemos el bizcocho en un molde untado con margarina para que no se pegue. Introducimos en el horno 30-45 minutos dependiendo del molde y de la altura que tenga nuestro bizcocho. (El mío con este molde tan alto tardó unos 45 min).",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 45
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Cuando lo saquemos, esperamos 5 minutos, y espolvoreamos con mucho azúcar glass por encima.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/bizcocho-de-mandarina/",
+    "creado_en": "2026-10-14"
+  },
+  {
+    "id": "e8fd315f-73e6-45d4-bdf6-66360faa0a4b",
+    "slug": "conejo-al-ajillo",
+    "titulo": "Conejo al ajillo",
+    "descripcion": "Receta de Conejo al ajillo adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/05/conejo-al-ajillo-thermorecetas.jpg",
+    "categoria": "carnes",
+    "tiempo_total_min": 34,
+    "comensales": 2,
+    "dificultad": "Media",
+    "ingredientes": [
+      "500 g de lomos de conejo",
+      "100 g de cebolla",
+      "1 clavo de olor",
+      "1 cubilete de vino",
+      "1/2 cubilete de brandy",
+      "3 dientes de ajo picados",
+      "6 dientes de ajo enteros",
+      "tomillo",
+      "romero",
+      "sal y pimienta"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Adobar los lomos con los ajos picados, sal, tomillo y romero al gusto. Dorarlos en una olla o sartén con 3 cucharadas de aceite. Retirar y reservar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Pelar y picar la cebolla programando 10 segundos, velocidad 4. Bajar los trocitos hacia las cuchillas e incorporar el clavo de olor, los ajos enteros y el aceite de dorar el conejo. Programar 10 minutos, 100º, velocidad 1, giro a la izquierda.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Transcurrido el tiempo verter el brandy y programar 1 minuto, temperatura Varoma, velocidad 1, giro a la izquierda, sin cubilete.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "A continuación añadir el conejo y los ajos picados que teníamos reservados, el vino y programar 20 minutos, 100º, velocidad 1, giro a la izquierda.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 20
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Justo al final rectificar de sal y espolvorear pimienta negra recién molida.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/conejo-al-ajillo/",
+    "creado_en": "2026-10-14"
+  },
+  {
+    "id": "4498a992-457a-4453-b690-81e7476b6ddb",
+    "slug": "risotto-a-la-naranja",
+    "titulo": "Risotto a la naranja",
+    "descripcion": "Receta de Risotto a la naranja adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/05/risotto-a-la-naranja.jpg",
+    "categoria": "arroces",
+    "tiempo_total_min": 40,
+    "comensales": 4,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "150 g de zumo de naranja y la piel de dos naranjas biológicas o no tratadas",
+      "70 g de aceite de oliva virgen extra",
+      "1 cebolla",
+      "Un poco de apio",
+      "2 ramilletes de tomillo",
+      "800 g de caldo de verduras",
+      "400 g de arroz",
+      "50 de almendras laminadas (opcional)",
+      "Sal",
+      "Pimienta"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Quitamos la piel de dos naranjas (sólo la parte naranja). La ponemos en el vaso y añadimos 300 g de agua. Vamos a cocerla programando 10 minutos, temperatura varoma, velocidad cuchara.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Mientras tanto, vamos exprimiendo las naranjas hasta conseguir 150 g de zumo (a lo mejor con las dos que acabamos de pelar y una naranja más conseguís ese peso)",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Cuando finalice el tiempo programado colamos las pieles tirando el agua que hemos utilizado para su cocción.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Ponemos las pieles en el vaso y las trituramos durante unos segundos en velocidad 7. Si es necesario bajamos lo que nos haya quedado en las paredes y repetimos. Añadimos la piel ya picada en el zumo y reservamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Ahora, sin lavar el vaso, ponemos la cebolla y el apio. Programamos 5 segundos, velocidad 6. Añadimos el aceite y programamos 3 minutos, temperatura varoma, velocidad 2.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 3
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Sacamos un momento ese sofrito para colocar la mariposa en las cuchillas. Una vez colocada lo volvemos a poner en el vaso. Añadimos 800 g de caldo de verduras, el zumo de las naranjas con la piel que antes habíamos cocido y rallado y también la ramita de tomillo. Programamos 10 minutos, temperatura varoma, velocidad cuchara.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 7,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Cuando finalice el tiempo corregimos de sal (si consideramos que nuestro caldo ni tiene suficiente), ponemos un poco de pimienta (opcional) y añadimos el arroz. Programamos 15 minutos, 100º, giro a la izquierda, velocidad cuchara.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 12
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Comprobamos que esté bien cocido por si tenemos que dejarlo algún minuto más.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Servimos inmediatamente (ya sabéis que este punto es imprescindible en los risottos). Si nos apetece, podemos decorarlo con unas almendras laminadas, serán un contraste en la textura y darán a nuestro plato un toque diferente.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/risotto-a-la-naranja/",
+    "creado_en": "2026-10-14"
   }
 ]
