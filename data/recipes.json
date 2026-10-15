@@ -47474,5 +47474,392 @@
     ],
     "fuente_url": "https://www.thermorecetas.com/risotto-a-la-naranja/",
     "creado_en": "2026-10-14"
+  },
+  {
+    "id": "8d0ba749-f81d-45b9-a9d9-877371dec243",
+    "slug": "verduras-con-crema-de-queso",
+    "titulo": "Verduras con crema de queso",
+    "descripcion": "Receta de Verduras con crema de queso adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/05/verduras-con-crema-de-queso.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 22,
+    "comensales": 5,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "100 g de espárragos verdes",
+      "200 g de zanahorias",
+      "300 g de brócoli",
+      "1, 5 l. de agua",
+      "20 g de amendras fritas peladas (opcional, ellas solas aportan 30 de las 145 calorías de este plato)",
+      "40 g de queso tronchón",
+      "50 g de queso fresco (tipo de Burgos)",
+      "70 g de queso de untar (tipo Philadelphia)",
+      "20 g de pan, preferentemente del día anterior",
+      "25 ml de aceite de oliva",
+      "1/2 cucharadita de sal",
+      "crema de vinagre balsámico"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Lavar, pelar y trocear las verduras e introducirlas en el recipiente Varoma, distribuidas entre la bandeja y la parte inferior. Tapar el Varoma.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Introducir el agua en el vaso, colocar el Varoma en su posición y programar 20 minutos, temperatura Varoma, velocidad 2.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 16
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Retirar el Varoma, destaparlo (siempre en dirección opuesta a donde nos encontremos para no quemarnos con el vapor) y reservar.",
+        "accesorio": "Ninguno",
+        "velocidad": 0,
+        "temperatura_c": 120,
+        "potencia_calorifica": 9,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Retiramos y reservamos 125 ml del agua de cocción de las verduras y desechamos el resto (yo este agua la uso para caldos o incluso para regar las plantas, que no está la cosa para ir tirando).",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Introducimos en el vaso vacío las almendras, los quesos y la sal. Trituramos durante 30 segundos a velocidad 7.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Bajamos los restos de las paredes con la espátula y añadimos los 125 ml de agua y el pan del día anterior. Trituramos 1 minuto a velocidad 5/10.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Seguidamente, programamos velocidad 4 1/2, sin tiempo y dejamos caer lentamente los 25 ml de aceite sobre la tapa, para que vayan cayendo despacio por el bocal y emulsionar la crema.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Cuando hayamos finalizado de verter el aceite, ya está lista la crema de queso.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Servimos las verduras con la crema de queso por encima y un chorrito de reducción de vinagre balsámico.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/verduras-con-crema-de-queso/",
+    "creado_en": "2026-10-15"
+  },
+  {
+    "id": "469b7450-9f7d-4f5f-8255-61840f7bcbde",
+    "slug": "tartaletas-de-jamon-y-queso-con-huevo-hilado-express",
+    "titulo": "Tartaletas de jamón y queso con huevo hilado (express)",
+    "descripcion": "Receta de Tartaletas de jamón y queso con huevo hilado (express) adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/05/Tartaletas_queso_jamon.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 5,
+    "comensales": 4,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "12 mini tartaletas (a mí las que más me gustan son las de Mercadona)",
+      "200 gr de queso philadelphia (1 tarrina)",
+      "50 gr de tacos de jamón york (o pechuga de pavo)",
+      "huevo hilado"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Echamos en el vaso los tacos de jamón y programamos 4 segundos, velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Colocamos la mariposa en las cuchillas y añadimos el queso philadelphia. Programamos 6 segundos, velocidad 3, giro a la izquierda.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Ya tenemos lista nuestra crema, así que la sacamos del vaso, la colocamos en un bol que nos sea cómodo y vamos rellenando las tartaletas.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Después es sólo colocar un poco de huevo hilado a nuestro gusto y ¡¡listas para comer!!",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/tartaletas-de-jamon-y-queso-con-huevo-hilado-express/",
+    "creado_en": "2026-10-15"
+  },
+  {
+    "id": "96d72924-3b9f-494c-bca1-84c42c2be375",
+    "slug": "pavo-guisado-con-salsa-de-almendras",
+    "titulo": "Pavo guisado con salsa de almendras",
+    "descripcion": "Receta de Pavo guisado con salsa de almendras adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/05/pavo-con-salsa-de-almendras-thermorecetas.jpg",
+    "categoria": "arroces",
+    "tiempo_total_min": 35,
+    "comensales": 2,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "300 g de carne de pavo para guisar",
+      "50 g de cebolla",
+      "2 dientes de ajo",
+      "2 cucharadas de aceite de oliva",
+      "1 tomate",
+      "300 g de caldo de carne o de verduras",
+      "50 g de vino blanco",
+      "50 g de almendras peladas",
+      "Azafrán",
+      "Sal y pimienta"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Poner en el vaso las almendras, programar vaso cerrado y darle un 2 golpes de turbo. Retirarlas a un mortero y reservar.",
+        "accesorio": "Cuchillas",
+        "velocidad": "Turbo",
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "En una olla calentar el aceite de oliva y dorar el pavo salpimentado con los dientes de ajo laminados. Cuando, ambos ingredientes, hayan tomado color retirar y reservar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Poner en el vaso la cebolla y el aceite de dorar el pavo. Trocear durante 5 segundos a velocidad 5. Bajar los trocitos hacia las cuchillas y programar 5 minutos, 100º, velocidad cuchara.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Mientras lavar y pelar el tomate. Añadirlo al vaso y volver a programar 5 minutos, 100º, velocidad cuchara.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Incorporar el vino y programar 2 minutos, temperatura Varoma, velocidad 1, sin cubilete. Terminado el tiempo incorporar el pavo y cubrir con el caldo. Programar 20 minutos, 100º, velocidad 2, giro a la izquierda.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 2
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Mientras, machacar las almendras con los ajos fritos reservados y unas hebras de azafrán hasta conseguir que los ingredientes estén integrados. Salpimentar y reservar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Transcurrido el tiempo verter parte del caldo en el mortero y diluir un poco el majado. Verter todo en el vaso de la Thermomix y continuar con la cocción durante 10 minutos, 100º y velocidad 1, giro a la izquierda.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Servir acompañado de arroz blanco o de patatas.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/pavo-guisado-con-salsa-de-almendras/",
+    "creado_en": "2026-10-15"
+  },
+  {
+    "id": "12fff2fb-99c7-442b-ac00-05eee1f281a2",
+    "slug": "pimientos-asados-en-thermomix",
+    "titulo": "Pimientos “asados” en Thermomix",
+    "descripcion": "Receta de Pimientos “asados” en Thermomix adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/06/pimientos-asados-en-thermomix.jpg",
+    "categoria": "sopas-y-cremas",
+    "tiempo_total_min": 45,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "3 pimientos rojos no demasiado grandes",
+      "Aceite de oliva virgen extra (para untarlos al principio y para aliñarlos después)",
+      "Agua del grifo (1,5 litros) para la cocción al Varoma",
+      "Sal",
+      "1/2 cebolla pequeña cortada en rodajitas muy finas",
+      "3 dientes de ajo pelados",
+      "Papel film para envolver"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Lavamos los pimientos. Los untamos con aceite de oliva y envolvemos cada uno en un trozo de papel film. Los ponemos en el recipiene varoma (no en la bandeja) y tapamos el recipiente.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Ponemos el agua en el vaso, tapamos y ponemos el recipiente varoma en su posición. Programamos 45 minutos, temperatura varoma, velocidad 2.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 37
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Cuando acabe el tiempo apagamos la máquina y esperamos unos minutos para no quemarnos al limpiarlos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Cogemos un pimiento, con cuidado de no quemarnos, le quitamos el film, le quitamos tanto el tallo como las pepitas, lo partimos en tiras y vamos pelando esas tiras. Es importante en este punto que todo el líquido que suelte lo recojamos en un bol o en el recipiente donde los vayamos a colocar luego. Y cuidado, que el líquido está caliente. Hacemos lo mismo con los otros dos pimientos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Cuando estén todos limpios los colocamos en nuestro recipiente, junto con su propio jugo.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Ahora les pondremos sal, la cebolla que cortaremos en rodajitas muy finas, unos dientes de ajo pelados y aceite de oliva virgen extra (que junto con el propio jugo de los pimientos hará que éstos queden cubiertos de líquido). ¡Y listos!",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/pimientos-asados-en-thermomix/",
+    "creado_en": "2026-10-15"
+  },
+  {
+    "id": "b7b851a9-e270-4de7-ac8d-f308fe44ca4c",
+    "slug": "sopa-fria-de-melon-con-queso-pepino-y-menta",
+    "titulo": "Sopa fría de melón con queso, pepino y menta",
+    "descripcion": "Receta de Sopa fría de melón con queso, pepino y menta adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/05/sopa-de-melon.jpg",
+    "categoria": "bebidas",
+    "tiempo_total_min": 1,
+    "comensales": 4,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "300 g de melón sin piel ni semillas",
+      "100 g de pepino",
+      "150 g de queso de untar (tipo philadelphia)",
+      "1/2 diente de ajo",
+      "10 hojas de menta fresca",
+      "25 ml de aceite",
+      "1 cucharada de vinagre",
+      "1 cucharadita (de café) de sal"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos todos los ingredientes en el vaso y programamos 1 minuto velocidad progresiva 7/10",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Introducimos en el frigorífico hasta el momento de servir. A temperatura ambiente os la podéis tomar y está muy rica, pero saca todo su potencial refrescante si la tomamos fría.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/sopa-fria-de-melon-con-queso-pepino-y-menta/",
+    "creado_en": "2026-10-15"
   }
 ]
