@@ -47861,5 +47861,421 @@
     ],
     "fuente_url": "https://www.thermorecetas.com/sopa-fria-de-melon-con-queso-pepino-y-menta/",
     "creado_en": "2026-10-15"
+  },
+  {
+    "id": "24ce4192-86f2-479c-985e-9fdb0102c870",
+    "slug": "arroz-asiatico-con-langostinos",
+    "titulo": "Arroz asiático con langostinos",
+    "descripcion": "Receta de Arroz asiático con langostinos adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/05/arroz_asiatico_langostinos.jpg",
+    "categoria": "arroces",
+    "tiempo_total_min": 20,
+    "comensales": 4,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "1 zanahoria a taquitos",
+      "8 espárragos en trozos",
+      "1 cebolla",
+      "200 gr de langostinos pelados",
+      "200 g de arroz (que habremos lavado previamente para quitarle el almidón)",
+      "Salsa de soja (al gusto, yo le puse 6 cucharadas grandes)",
+      "Zumo de 1/2 limón",
+      "Aceite de girasol",
+      "800 g de agua"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos la cebolla a cuartos en el vaso y trituramos 5 segundos, velocidad 4. Retiramos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Sin lavar el vaso, poner en el vaso un chorro de aceite y llenar con 800 gr de agua. Colocar dentro el cestillo con el arroz. Programar 15 minutos, temperatura Varoma, velocidad 2. Remover de vez en cuando con la espátula para que el arroz no se quede apelmazado.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 12
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Mientras se hace el arroz vamos a cocinar en una sartén o wok con un chorrito de aceite de girasol la cebolla, la zanahoria a taquitos y los espárragos. Retiramos y cocinamos los langostinos unos minutos por cada cara. Retiramos y reservamos.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Escurrimos el arroz y echamos otro poquito de aceite en la sartén o wok. Volcamos el arroz y añadimos las verduras y los langostinos que teníamos reservados. Cocinamos unos minutos y añadimos la salsa de soja y el zumo de limón. Mezclamos y cocinamos durante un par de minutos y ¡listo!",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/arroz-asiatico-con-langostinos/",
+    "creado_en": "2026-10-16"
+  },
+  {
+    "id": "043d0c9e-c009-4ece-b34d-6ef92457c89e",
+    "slug": "salsa-agridulce",
+    "titulo": "Salsa agridulce",
+    "descripcion": "Receta de Salsa agridulce adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/06/salsa-agridulce-thermorecetas.jpg",
+    "categoria": "arroces",
+    "tiempo_total_min": 5,
+    "comensales": 4,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "60 g de azúcar",
+      "40 g de vinagre de arroz",
+      "35 g de salsa de soja",
+      "35 g de salsa ketchup casero (ver receta )",
+      "200 g de agua mineral",
+      "1 cucharadita de maicena"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Poner todos los ingredientes en vaso y programar 5 minutos, temperatura Varoma, velocidad 2.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Dejar enfriar, filtrarla con un colador de malla fina y servir con el plato elegido.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/salsa-agridulce/",
+    "creado_en": "2026-10-16"
+  },
+  {
+    "id": "3b0194ad-d38e-425c-a4c8-a78003247295",
+    "slug": "strudel-de-manzana",
+    "titulo": "Strudel de manzana",
+    "descripcion": "Receta de Strudel de manzana adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/06/strudel-de-manzana.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 15,
+    "comensales": 8,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "1 huevo",
+      "50 g de mantequilla",
+      "30 g de azúcar",
+      "1 pellizco de sal",
+      "100 g de agua",
+      "300 g de harina de repostería",
+      "150 g de azúcar moreno",
+      "150 g de pasas de corinto",
+      "100 g de nueces",
+      "1 cucharadita de canela en polvo",
+      "150 g de mantequilla derretida",
+      "500 g de manzanas reineta, peladas y descorazonadas",
+      "1 cucharadita de zumo de limón"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos en el vaso todos los ingredientes de la masa excepto la harina y mezclamos durante 10 segundos en velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Añadimos ahora la harina y amasamos programando 3 minutos, velocidad espiga. Sacamos la masa del vaso y la envolvemos en papel film. La dejamos reposar unos 15 minutos.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 3
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Sin lavar el vaso, ponemos el azúcar, las pasas, las nueces y la canela. Programamos 5 segundos, velocidad 4. Sacamos y reservamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Extendemos uno o dos pliegos de papel de horno (también nos sirve una tela blanca grande o un plástico como el que he utilizado yo y que podéis ver en la foto) y extendemos sobre él la masa ayudándonos con un rodillo y con las manos. Tenemos que conseguir una forma rectangular y dejar la masa fina, con cuidado de no romperla.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Precalentamos el horno a 180º.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Pintamos la masa con la mantequilla derretida.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Ponemos en el vaso las manzanas con el zumo de limón y programamos 4 segundos, velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Extendemos sobre la masa el azúcar, las pasas y las nueces reservadas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Encima ponemos las manzanas y la mantequilla derretida que nos haya sobrado reservando un poco para luego pintar el strudel una vez formado.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Empezamos a enrollar ayudándonos con el papel, apretando al mismo tiempo con las manos. Antes de terminar de enrollarlo pintamos el extremo con un poco de agua para que quede bien pegado. Dejamos la unión hacia abajo para que al hornearlo no se abra.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 11,
+        "instruccion": "Colocamos el strudel un una bandeja de horno que habremos cubierto antes con el papel de hornear que hemos utilizado para extender la masa.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 12,
+        "instruccion": "Pintamos el strudel con la mantequilla derretida y lo horneamos durante 40 o 45 minutos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 45
+      },
+      {
+        "paso_numero": 13,
+        "instruccion": "Lo servimos, caliente o frío. Podemos decorarlo espolvoreando azúcar glas y/o canela en la superficie Se puede acompañar con crema inglesa o con helado de vainilla.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/strudel-de-manzana/",
+    "creado_en": "2026-10-16"
+  },
+  {
+    "id": "c4a0d268-9339-4a6b-9831-a523ce52ddfb",
+    "slug": "zanahorias-agridulces",
+    "titulo": "Zanahorias agridulces",
+    "descripcion": "Receta de Zanahorias agridulces adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/06/zanahorias-agridulces.jpg",
+    "categoria": "bebidas",
+    "tiempo_total_min": 40,
+    "comensales": 20,
+    "dificultad": "Media",
+    "ingredientes": [
+      "500 g de zanahorias baby congeladas (me gusta cómo queda con las baby, pero podéis usar también rodajas de zanahoria natural no muy guresas, de unos 5 mm. de espesor)",
+      "2 dientes de ajo",
+      "125 ml de vio blanco seco",
+      "4 cucharadas de azúcar moreno (os sirve también el blanco)",
+      "4 cucharadas de vinagre",
+      "1 cucharadita de café de sal",
+      "pimienta negra al gusto",
+      "600 ml de agua"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Introducid el agua en el vaso. Colocad el cestillo en su posición con las zanahorias y media cucharadita de sal en su interior. Programad 20 minutos, temperatura Varoma, velocidad 1.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 16
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Extraed el cestillo y reservad las zanahorias, vaciad el vaso y secadlo. Introducid los ajos y trocear durante 5 segundos a velocidad 7.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Bajad con la espátula los restos de las paredes, añadid el vino, el vinagre, el azúcar, la pimienta y media cucharadita de sal. Cocer durante 10 minutos, 100º, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Incorporad las zanahorias y programad 10 minutos, 100º, velocidad cuchara, giro a la izquierda.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Y ya las tenemos! Podéis conservarlas durante 10 días aproximadamente en la nevera en un bote de cristal.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/zanahorias-agridulces/",
+    "creado_en": "2026-10-16"
+  },
+  {
+    "id": "d363bd91-7472-4403-bee1-3031b6ae5cb7",
+    "slug": "pimientos-del-piquillo-naturales-rellenos-de-tortilla-de-patatas",
+    "titulo": "Pimientos del piquillo naturales rellenos de tortilla de patatas",
+    "descripcion": "Receta de Pimientos del piquillo naturales rellenos de tortilla de patatas adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/05/Pimientos_piquillo_tortilla.jpg",
+    "categoria": "sopas-y-cremas",
+    "tiempo_total_min": 10,
+    "comensales": 4,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "12 pimientos",
+      "200 gr de cebolla cortada en cuartos",
+      "200 gr de aceite de oliva virgen extra",
+      "500 gr de patatas cortadas en rodajas finas",
+      "1 cucharadita de sal",
+      "una pizca de sal gorda (opcional). Se puede sustituir por sal fina.",
+      "6 huevos"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos en el vaso la cebolla y programamos 4 segundos, velocidad 4. Añadimos el aceite y programamos 7 minutos, temperatura varoma, velocidad cuchara.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 7
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Colocamos la mariposa en las cuchillas y añadimos las patatas y un poco de sal. Programamos 13 minutos, temperatura varoma, giro a la izquierda, velocidad 1.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 13
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Retiramos la mariposa y volcamos las patatas en el cestillo colocado sobre un bol, para que escurra el aceite sobrante. Sin lavar el vaso, echamos los huevos y la sal y programamos 10 segundos, velocidad 3.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Retiramos los huevos y los mezclamos con las patatas en un bol y dejamos reposar para que se queden jugosas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Lavamos bien los pimientos y les quitamos el rabito con cuidado (¡¡no lo tiréis porque luego se lo pondremos de tapadera!!). Los vaciamos de pepitas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Preparamos una fuente de horno con un chorrito de aceite de oliva.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Con una cucharilla vamos rellenando los pimientos con las patatas y el huevo y tapamos. Vamos colocando los pimientos en la fuente de horno. Echamos otros chorrito de aceite sobre los pimientos y sal gorda al gusto.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Introducimos los pimientos en el horno precalentado a 180º. En unos 20-30 minutos estarán listos, dependiendo del tamaño y grosor de los pimientos. Sabréis que están listos porque se les arruga la piel y se ponen doraditos.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 30
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/pimientos-del-piquillo-naturales-rellenos-de-tortilla-de-patatas/",
+    "creado_en": "2026-10-16"
   }
 ]
