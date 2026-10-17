@@ -48277,5 +48277,492 @@
     ],
     "fuente_url": "https://www.thermorecetas.com/pimientos-del-piquillo-naturales-rellenos-de-tortilla-de-patatas/",
     "creado_en": "2026-10-16"
+  },
+  {
+    "id": "bc74a5ef-d39e-4025-a6f3-a81fa1e82d74",
+    "slug": "petit-suisse-de-fresa-version-2",
+    "titulo": "Petit-suisse de fresa -versión 2-",
+    "descripcion": "Receta de Petit-suisse de fresa -versión 2- adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/06/petit-suisse-de-fresa-2-thermorecetas.jpg",
+    "categoria": "sopas-y-cremas",
+    "tiempo_total_min": 4,
+    "comensales": 4,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "120 g de agua mineral",
+      "40 g de preparado de gelatina de fresa o frambuesa",
+      "200 g de queso de untar (tipo Philadelphia)",
+      "100 g de nata líquida (m.g. 35%)",
+      "20 g de azúcar"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Calentar el agua durante 2 minutos, 100º, velocidad 1. Agregar el preparado de gelatina teniendo cuidado de que caiga alrededor de las cuchillas. Mezclar durante 1 minuto a velocidad 3.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 2
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Agregar el resto de los ingredientes en el orden establecido. Programar 30 segundos, velocidad progresiva 5-7-9.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Verter la mezcla en los vasos elegidos y reservar 2 horas, como mínimo, en la nevera.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 120
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/petit-suisse-de-fresa-version-2/",
+    "creado_en": "2026-10-17"
+  },
+  {
+    "id": "4b56eb27-9d37-4681-9e38-96e413f8b705",
+    "slug": "empanada-de-pulpo",
+    "titulo": "Empanada de pulpo",
+    "descripcion": "Receta de Empanada de pulpo adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/06/empanada-de-pulpo.jpg",
+    "categoria": "pescados",
+    "tiempo_total_min": 17,
+    "comensales": 8,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "1 pulpo no muy grande que habremos cocido previamente con agua, 1 botellín de cerveza (también podemos usar vino blanco), sal y 1 hoja de laurel",
+      "2 dientes de ajo",
+      "500 g de cebolla",
+      "1 pimiento rojo",
+      "70 g de aceite de oliva virgen extra",
+      "Algunas hebras de azafrán (10-12)",
+      "1 pizca de sal",
+      "400 g de harina de repostería",
+      "180 g de mantequilla a temperatura ambiente",
+      "70 g de agua",
+      "1 huevo",
+      "1 cucharadita de sal",
+      "1 cucharadita de levadura química",
+      "1 huevo batido"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Comenzamos la receta cociendo nuestro pulpo. Utilizad el método que más os guste, os dejo los pasos que yo he seguido. Como era un pulpo congelado lo he dejado descongelar la noche anterior. Ponemos en la olla a presión agua, la cerveza, la sal y la hoja de laurel. Cuando esté hirviendo “asustamos” al pulpo tres veces (sujetándolo con la mano lo metemos en el agua una vez y lo sacamos rápidamente, como si le hiciéramos una aguadilla). Cuando lo hemos hecho tres veces lo dejamos ya en el agua y cerramos la olla. Lo coceremos a presión durante 10 minutos aproximadamente. Lo sacamos del agua y lo troceamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 0,
+        "temperatura_c": 100,
+        "potencia_calorifica": 9,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Ahora nos metemos ya de lleno a hacer la empanada.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Para hacer el relleno, ponemos los ajos en el vaso y programamos 5 segundos, velocidad 7. Incorporamos ahora la cebolla y el pimiento. Programamos 4 segundos, velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Añadimos el aceite, el azafrán y la sal. Programamos 15 minutos, temperatura varoma, giro a la izquierda, velocidad cuchara. Lo vertemos en un bol y lo dejamos enfriar.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 15
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Ahora prepararemos la masa. Para ello, ponemos en el vaso todos los ingredientes de la masa siguiendo el orden de la lista (harina, mantequilla, agua, huevo, sal y levadura). Programamos 15 segundos, velocidad 6. Sacamos la masa y la dividimos en dos partes.",
+        "accesorio": "Cuchillas",
+        "velocidad": 6,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Encendemos el horno 180º y mientras se caliente vamos a montar nuestra empanada.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Con la ayuda de un rodillo, extendemos una parte de la masa sobre una lámina de papel de horno y ayudándonos con un poco de harina para que no se nos pegue.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Una vez estirada, colocamos esa masa -con el papel de horno- sobre la bandeja o fuente en la que la vayamos a hornear. Podéis coger directamente el papel de horno y así no se os rompe.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Volcamos el relleno y colocamos encima el pulpo ya cocido y troceado.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Extendemos la otra mitad de la masa y cubrimos con ella lo que habíamos hecho antes. Pincelamos con huevo toda la superficie y pinchamos esa plancha superior en varios sitios, con ayuda de un tenedor.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 11,
+        "instruccion": "Horneamos nuestra empanada durante 30 minutos aproximadamente.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 30
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/empanada-de-pulpo/",
+    "creado_en": "2026-10-17"
+  },
+  {
+    "id": "ebd80de7-87f1-44af-bff7-3c5f4d05c5d7",
+    "slug": "estofado-de-ternera-con-salsa-de-chocolate-y-naranja",
+    "titulo": "Estofado de ternera con salsa de chocolate y naranja",
+    "descripcion": "Receta de Estofado de ternera con salsa de chocolate y naranja adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/06/ternera-salsa-chocolate.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 68,
+    "comensales": 2,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "800 g de ternera para guisar cortada en tacos (os recomiendo la parte de la garreta, jarrete, brazuelo o morcillo)",
+      "250 g de cebolla",
+      "200 g de zanahorias troceadas",
+      "200 g de tomate triturado",
+      "la piel de un limón (sólo utilizaremos la parte amarilla)",
+      "la piel de una naranja (sólo utilizaremos la parte naranja)",
+      "50 g de chocolate fondant",
+      "2 dientes de ajo",
+      "250 ml de vino blanco seco",
+      "70 g de aceite de oliva",
+      "2 pastillas de caldo de carne",
+      "100 ml de agua"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Rallar la piel del limón de la naranja durante 30 segundos, a velocidad progresiva 5/10. Retirar y reservar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Sin lavar el vaso incorporar los ajos, la zanahoria a trozos y la cebolla a cuartos. Triturar durante 5 segundos a velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Bajar con la espátula los restos de las paredes y añadir el aceite. Sofreír 10 minutos, temperatura Varoma, velocidad 2. Con cubilete.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Añadir el tomate y continuar el sofrito durante 10 minutos, 100º, velocidad 2. Con cubilete.",
+        "accesorio": "Cuchillas",
+        "velocidad": 2,
+        "temperatura_c": 135,
+        "potencia_calorifica": 7,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Incorporar las pieles de los cítricos reservadas, el chocolate y la carne. Programar 5 minutos, 100º, giro a la izquierda, velocidad cuchara. Con cubilete.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Añadir el vino, las pastillas de caldo y el agua. Programar 30 minutos, 100ª, velocidad cuchara, giro a la izquierda. Con cubilete.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 25
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Retirar el cubilete y poner el cestillo sobre la tapa de la thermomix, apoyado en sus patitas, para evitar salpicaduras y conseguir que evapore el líquido con el fin de obtener una salsa más densa. Programar 12 minutos, temperatura Varoma, velocidad cuchara, giro a la izquierda.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 12
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Comprobar si la carne está lo suficientemente tierna. Si no lo está, se puede volver a programar unos minutos más a la misma temperatura y velocidad que en el último paso (Varoma, cuchara, izquierda). Si la salsa ya está en su punto, poner el cubilete. Si ha quedado muy densa, añadir un poco más de agua (1 cubilete).",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/estofado-de-ternera-con-salsa-de-chocolate-y-naranja/",
+    "creado_en": "2026-10-17"
+  },
+  {
+    "id": "4245f5a7-70b3-4779-955d-354d9bf2a609",
+    "slug": "hummus-de-judias-blancas",
+    "titulo": "Hummus de judías blancas",
+    "descripcion": "Receta de Hummus de judías blancas adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/06/Hummus_judias.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 1,
+    "comensales": 4,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "Un bote pequeño de judías blancas cocidas (250 gr. aprox)",
+      "1 cucharadita de café de tahina (es una pasta de sésamo, la encontraréis en la sección internacional de los hipermercados, podéis omitirla si no la conseguís, o sustituirla por 1 cucharada de postre de semillas de sésamo)",
+      "el zumo de medio limón (25 ml. aprox)",
+      "1/2 diente de ajo",
+      "1 cucharadita de comino en polvo",
+      "1/2 cucharadita de café de sal",
+      "50 ml de aceite de oliva (medio cubilete)",
+      "pimentón dulce para espolvorear"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Escurrimos las judías en un colador y las enjuagamos con agua fría.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Introducimos todos los ingredientes en el vaso y trituramos durante 45 segundos a velocidad progresiva 5-7-10.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Debe quedar una textura granulosa y un poco espesa, pero si os gusta más pasadito (sobre todo para los niños) podéis trituralo unos segundos más (20 seg).",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Lo servimos con un chorrito de aceite de oliva virgen y un espolvoreo de pimentón dulce.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/hummus-de-judias-blancas/",
+    "creado_en": "2026-10-17"
+  },
+  {
+    "id": "0d179a19-6663-4de7-994f-60e1eff36614",
+    "slug": "pastel-de-queso-y-tomatitos",
+    "titulo": "Pastel de queso y tomatitos",
+    "descripcion": "Receta de Pastel de queso y tomatitos adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/06/pastel-de-queso-y-tomatitos-thermorecetas.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 5,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "250 g de tomates cereza o cherry",
+      "200 g de queso de untar (tipo Philadelphia)",
+      "2 huevos",
+      "2 yemas",
+      "80 g de harina de trigo",
+      "20 g de maicena",
+      "15 g de azúcar moreno",
+      "150 g de leche",
+      "40 g de mantequilla",
+      "Sal y pimienta",
+      "Aceite, mantequilla o spray para engrasar el molde"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Precalentar el horno a 200º.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Poner la mariposa en las cuchillas y batir los huevos y las yemas durante 3 minutos, velocidad 3 1/2. Mientras lavar y secar los tomatitos cherry con papel de cocina. Engrasar el molde y colocar los tomates en el fondo. Reservar.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 3
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Transcurrido el tiempo, retirar la mariposa, agregar el azúcar y los dos tipos de harinas tamizadas. Poner otra vez la mariposa y mezclar durante 10 segundos a velocidad 3. Bajar la masa hacia las cuchillas.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Incorporar la leche, el queso de untar y la mantequilla derretida. Salpimentar y mezclar durante 1 minuto a velocidad 3. Verter la mezcla en el molde que teníamos reservado con los tomatitos.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Hornear durante 35 minutos a la misma temperatura. Antes de retirar el molde de horno comprobar con una palillo y el pastel está cuajado. De lo contrario prolongar la cocción un par de minutos.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 35
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Retirar del horno, dejar templar y desmoldar. A la hora de servir, cortarlo en rodajas y servir acompañado de una ensalada sencilla. A esta preparación le va muy bien un poco de salsa rosa.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/pastel-de-queso-y-tomatitos/",
+    "creado_en": "2026-10-17"
+  },
+  {
+    "id": "59b886c5-ca44-4d74-a4bb-720a51d83a99",
+    "slug": "tarta-de-queso-y-pistacho",
+    "titulo": "Tarta de queso y pistacho",
+    "descripcion": "Receta de Tarta de queso y pistacho adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.misthermorecetas.com/wp-content/uploads/2026/10/tarta_queso_pistacho.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 433,
+    "comensales": 12,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "350 g de galletas Digestive",
+      "100 g de mantequilla a temperatura ambiente",
+      "120 g de chocolate blanco para postres",
+      "400 g de queso cremoso (tipo Philadelphia)",
+      "250 g de queso mascarpone",
+      "150 g de nata para montar (con 35% m.g.)",
+      "130-150 g de azúcar",
+      "5 huevos L",
+      "200 g de crema de pistachos (100% pistachos)",
+      "50 g de chocolate blanco para postres",
+      "1 puñadito de pistachos (sin sal), partidos en trocitos"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Precalentamos el horno a 180º e introducimos una bandeja de horno con agua, para hacer la tarta al baño maría.\nForramos la base y la paredes de un molde desmoldable, de 23 cm de diámetro, con papel de aluminio por la parte exterior (para que no entre el agua de la bandeja). Reservamos.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "En el vaso de la Thermomix ponemos las galletas en trozos y programamos 8 segundos, a velocidad 10. Con las espátula, bajamos los restos que hayan quedado en las paredes del vaso hacia las cuchillas.\nAñadimos la mantequilla en trozos y programamos 3 minutos, temperatura 50º y velocidad 3.\nVertemos en el molde reservado y cubrimos bien la base y un poco de los laterales, prensando bien con ayuda de una cuchara. Reservamos en el frigorífico.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 10,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 3
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Colocamos un bol sobre la tapa del vaso, pulsamos la función balanza y ponemos el chocolate blanco en trozos pequeños. Lo calentamos en el microondas de 30 en 30 segundos, hasta que esté completamente fundido. Reservamos.\nSin lavar el vaso, ponemos el queso cremoso, el queso mascarpone, la nata, el azúcar y los huevos. Programamos 30 segundos, a velocidad 4.\nAñadimos el chocolate blanco fundido y la crema de pistachos. Programamos 40 segundos, a velocidad 4 y terminamos de mezclar bien con la espátula.\nVertemos en el molde reservado en el frigorífico, con mucho cuidado para que no se rompa la base de galletas. Alisamos la superficie con una espátula.\nHorneamos durante 60 minutos, a 180º. Si os gusta que quede más líquida, reducir el tiempo 10 minutos.\nRetiramos del horno y dejamos que enfríe. Reservamos en el frigorífico durante un mínimo de 6 horas.",
+        "accesorio": "Ninguno",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 420
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Podemos decorar la tarta con una tiras de chocolate blanco fundido (guardaremos durante unos minutos en el frigorífico para que el chocolate se endurezca).\nAntes de servir, espolvoreamos pistachos en trocitos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.misthermorecetas.com/tarta-de-queso-y-pistacho/",
+    "creado_en": "2026-10-17"
   }
 ]
