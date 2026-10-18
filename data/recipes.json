@@ -48764,5 +48764,371 @@
     ],
     "fuente_url": "https://www.misthermorecetas.com/tarta-de-queso-y-pistacho/",
     "creado_en": "2026-10-17"
+  },
+  {
+    "id": "88786daa-1d5d-4533-8093-a395f9449e52",
+    "slug": "pan-de-aceitunas",
+    "titulo": "Pan de aceitunas",
+    "descripcion": "Receta de Pan de aceitunas adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/06/pan-de-aceitunas.jpg",
+    "categoria": "panes-masas",
+    "tiempo_total_min": 10,
+    "comensales": 10,
+    "dificultad": "Media",
+    "ingredientes": [
+      "200 g de agua",
+      "100 g de leche templada",
+      "10 g de azúcar",
+      "25 g de levadura de panadería",
+      "500 g de harina de fuerza",
+      "20 g de aceite de oliva",
+      "10 g de sal",
+      "150 g de aceitunas negras"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos en el vaso el agua, la leche, el azúcar, la levadura, la harina, el aceite y la sal. Mezclamos programando 4 minutos, vaso cerrado, velocidad espiga. Dejamos levar la masa dentro del vaso aproximadamente 1 hora.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 52
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Pasado ese tiempo encendemos el horno a 180º.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Le damos a la masa una forma rectangular, ayudándonos de un rodillo. Ponemos las aceitunas deshuesadas (más o menos cantidad, según gustos) enrollamos la masa y cortamos (podéis ver algo parecido en la receta de pan al vinagre balsámico).",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Ahora lo dejamos levar 30 minutos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 30
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Cuando haya pasado este tiempo, horneamos los panes a 180º durante 30 minutos aproximadamente, hasta que la superficie esté dorada.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 30
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/pan-de-aceitunas/",
+    "creado_en": "2026-10-18"
+  },
+  {
+    "id": "e9df2377-4796-4553-a635-70477c9cd4fa",
+    "slug": "caipiroska",
+    "titulo": "Caipiroska",
+    "descripcion": "Receta de Caipiroska adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/06/caipirosca.jpg",
+    "categoria": "bebidas",
+    "tiempo_total_min": 2,
+    "comensales": 4,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "300 g de fresas",
+      "500 g de cubitos de hielo",
+      "100 ml de vodka",
+      "el zumo de 1 lima",
+      "4 ramitas de menta fresca",
+      "50 g de azúcar moreno (puede ser también blanco)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Introducir en el vaso las fresas y el azúcar y triturar durante 30 segundos a velocidad progresiva 5/10.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Añadir los cubitos de hielo y triturar durante 30 segundos a velocidad 7.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Añadir la lima, la menta y el vodka y mezclar durante 30 segundos a velocidad 3.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Servir inmediatamente.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/caipiroska/",
+    "creado_en": "2026-10-18"
+  },
+  {
+    "id": "45738eba-2431-4693-80a2-5971a5b6dafc",
+    "slug": "sorpresas-de-queso",
+    "titulo": "Sorpresas de queso",
+    "descripcion": "Receta de Sorpresas de queso adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/06/Sorpresas_queso1.jpg",
+    "categoria": "panes-masas",
+    "tiempo_total_min": 40,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "1/2 Kg. de carne picada, mitad ternera y mitad cerdo",
+      "2 rebanadas de pan de molde",
+      "25 gr. de leche",
+      "1 huevo",
+      "Perejil picado",
+      "200 gr de queso emmental cortado en taquitos (quizás os sobren, podéis utilizarlos para una ensalada)",
+      "sal",
+      "pimienta (opcional, si hay niños)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Precalentamos el horno a 200º.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "En el vaso echamos el pan de molde, la leche, el huevo y batimos 10 segundos, velocidad progresiva 5-7.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Añadimos la carne picada, la sal, el perejil picado y programamos otros 15 segundos, a velocidad 3  o hasta que todo esté integrado. Sacamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Hacemos una bolita con las manos, le metemos el dedo sin llega al fondo, colocamos el taquito de queso y cerramos otra vez dándole vueltas hasta tener una albódiga bien cerrada.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Hacemos lo mismo con el resto de carne hasta tener todas las bolitas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Cocinamos en el horno a 200º durante 20 minutos. Dejamos reposar 3 minutos antes de servir.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 20
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/sorpresas-de-queso/",
+    "creado_en": "2026-10-18"
+  },
+  {
+    "id": "40bab374-ae46-4d02-b982-4ef4c51feb29",
+    "slug": "judias-verdes-con-alino-de-mostaza",
+    "titulo": "Judías verdes con aliño de mostaza",
+    "descripcion": "Receta de Judías verdes con aliño de mostaza adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/06/judías-verdes-con-aliño-de-mostaza-thermorecetas.jpg",
+    "categoria": "legumbres",
+    "tiempo_total_min": 17,
+    "comensales": 2,
+    "dificultad": "Media",
+    "ingredientes": [
+      "300 g de judías verdes",
+      "15 g de almendras fileteadas",
+      "10 g de mostaza",
+      "5 g de vinagre de manzana",
+      "20 g de aceite de oliva"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Llenar el vaso con agua del grifo hasta la marca de 1 litro. Calentarla durante 7 minutos, 100º, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 6
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Mientras lavar las judías verdes, despuntarlas y retirar los hilos o hebras de los laterales. Cortarlas por la mitad a lo largo y trocearlas.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Cuando termine el tiempo, introducir el cestillo con las judías verdes. Programar 10 minutos, 100º, velocidad 4. Retirar el cestillo utilizando la muesca de la espátula. Refrescar, escurrir y reservar.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Retirar el agua del vaso y sin lavarlo poner la mostaza y el vinagre de manzana. Programar 5 segundos velocidad 3. Bajar la mezcla hacia las cuchillas y cerrar de nuevo el vaso. Programar velocidad 3 sin tiempo y verter el aceite en la tapa para que se vaya deslizando poco a poco hasta que la vinagreta se emulsione.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Repartir las judías en dos platos, aliñar con la vinagreta y repartir las almendras fileteadas por encima.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/judias-verdes-con-alino-de-mostaza/",
+    "creado_en": "2026-10-18"
+  },
+  {
+    "id": "15a72527-350c-4b1b-b6fc-460c2295181c",
+    "slug": "baked-beans-en-thermomix",
+    "titulo": "Baked beans en Thermomix",
+    "descripcion": "Receta de Baked beans en Thermomix adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/06/baked-beans.jpg",
+    "categoria": "legumbres",
+    "tiempo_total_min": 25,
+    "comensales": 6,
+    "dificultad": "Media",
+    "ingredientes": [
+      "40 g de aceite de oliva virgen extra",
+      "1 cebolla mediana",
+      "1 diente de ajo",
+      "1 cucharadita de pimentón (mejor si es ahumado)",
+      "2 cucharaditas de azúcar moreno",
+      "2 cucharaditas de concentrado de tomate",
+      "40 g de Golden Syrup (si no lo encontráis, sustituidlo por melaza en incluso por miel)",
+      "1 cucharada de Worcestshire sauce (o Salsa Perrins)",
+      "900 g de judías blancas pequeñas ya cocidas (yo las he cocido en la olla exprés, poniéndolas antes en remojo).",
+      "400 g de tomate triturado (si es passata -más espesa que el tomate natural triturado- ponemos 310 g de passata y 90 g de agua)",
+      "Agua (a lo mejor tenéis que añadir un poco hasta que consideréis que queden como los originales)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos en el vaso la cebolla y el ajo. Programamos 3 segundos, velocidad 6. Bajamos lo que haya quedado en las paredes.",
+        "accesorio": "Cuchillas",
+        "velocidad": 6,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Añadimos el aceite y programamos 3 minutos, temperatura varoma, velocidad 1. En los últimos segundos añadimos el pimentón.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 3
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Ahora es el momento de incorporar el resto de los ingredientes, excepto las judías y el agua. Cocinamos programando 6 minutos, 100º, velocidad 1.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Acabado ese tiempo, trituramos unos segundos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Ponemos la mariposa en las cuchillas. Añadimos las judías. Programamos 10 minutos, 100º, giro a la izquierda, velocidad cuchara.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Ahora miramos si han quedado con la textura de los originales. Los mías suelen necesitar un poco de agua, unos 150 g.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Los servimos acompañando una tostada con queso, una patata asada… tendremos una cena diferente y estupenda.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/baked-beans/",
+    "creado_en": "2026-10-18"
   }
 ]
