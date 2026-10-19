@@ -49130,5 +49130,93 @@
     ],
     "fuente_url": "https://www.thermorecetas.com/baked-beans/",
     "creado_en": "2026-10-18"
+  },
+  {
+    "id": "1c6cac22-b895-485e-b4aa-9d1be73a60bf",
+    "slug": "canutillos-de-hojaldre-con-crema",
+    "titulo": "Canutillos de hojaldre con crema",
+    "descripcion": "Receta de Canutillos de hojaldre con crema adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.misthermorecetas.com/wp-content/uploads/2011/11/canutillos_hojaldre_crema0.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 24,
+    "comensales": 4,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "2 láminas de hojaldre (si es rectangular, mejor)",
+      "1 huevo batido",
+      "500 ml. de leche entera",
+      "110 gr. de azúcar",
+      "1 sobre o 10 gr. de azúcar avainillado",
+      "4 yemas de huevo",
+      "40 gr. de harina fina de maiz (Maizena)",
+      "25 gr. de mantequilla",
+      "para decorar: azúcar glas"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Precalentamos el horno a 180º y colocamos un lámina de papel de hornear sobre una bandeja de horno.\nCortamos las láminas de hojaldre en tiras de 1,5 cm. de ancho y las enrollamos en los canutillos de metal. Las colocamos en la bandeja de horno y pincelamos con huevo batido. Horneamos durante 15 minutos o hasta que veamos que el hojaldre está dorado. Y así vamos haciendo varias tandas de canutillos hasta terminar con el hojaldre.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 15
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "En el vaso de la Thermomix, colocamos la mariposa en las cuchillas y echamos la leche, las yemas de huevo, el azúcar, el azúcar avainillado y la maizena. Mezclamos durante 20 segundos, a velocidad 3.\nSeguidamente, programamos 9 minutos, temperatura 90º y velocidad 2½.\nAñadimos la mantequilla y programamos 8 segundos, a velocidad 2½.\nVertemos la crema pastelera en una manga pastelera con boquilla rizada y dejamos que temple.\nRellenamos canutillos ya fríos, los colocamos en una bandeja o fuente y espolvoreamos azúcar glas por encima.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 9
+      }
+    ],
+    "fuente_url": "https://www.misthermorecetas.com/canutillos-de-hojaldre-con-crema/",
+    "creado_en": "2026-10-19"
+  },
+  {
+    "id": "18285dc7-418d-4e44-b98a-da8239af8e1d",
+    "slug": "bizcocho-a-las-tres-leches",
+    "titulo": "Bizcocho a las tres leches",
+    "descripcion": "Receta de Bizcocho a las tres leches adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.misthermorecetas.com/wp-content/uploads/2013/03/bizcocho_tres_leches3.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 249,
+    "comensales": 4,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "1 bizcocho genovés (de 4 huevos)",
+      "200 g. de leche condensada",
+      "200 g. de leche evaporada",
+      "200 g. de nata líquida para montar, con 35% m.g.",
+      "150 g. de chocolate fondant",
+      "50 g. de mantequilla",
+      "50 g. de agua",
+      "nata montada",
+      "guindas o cerezas en almíbar"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Precalentamos el horno a 180º. Cubrimos con papel para hornear la base de un molde desmoldable de 22 o 23 cm. de diámetro y engrasamos las paredes con un poco de mantequilla.\nPreparamos el bizcocho genovés de 4 huevos (pinchando sobre el nombre os llevará a la receta).\nMientras lo horneamos, lavamos y secamos el vaso y la tapa del vaso.\nEchamos la leche condensada, la leche evaporada y la nata en el vaso de la Thermomix. Mezclamos durante 15 segundos, a velocidad 3. Reservamos.\nSacamos el bizcocho del horno, dejamos que temple durante 4 o 5 minutos nada más y lo desmoldamos. Seguidamente (sin enfriar), lo metemos dentro de un molde un poco más grande (por ejemplo, en un molde de silicona o desmoldable de 24 cm. de diámetro), pero al revés (la base hacia arriba).\nPinchamos toda la superficie con una brocheta y vertemos la mezcla de las tres leches sobre el bizcocho, poco a poco. Dejamos reposar hasta que el bizcocho absorba todo el líquido (os recomiendo dejarlo reposar un mínimo de 2 horas).\nLavamos y secamos el vaso y la tapa.\nPasadas las 2 horas, damos la vuelta al bizcocho sobre la bandeja donde lo vayamos a servir y hacemos la cobertura de chocolate.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 245
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Echamos en el vaso de la Thermomix el chocolate en trozos grandes. Trituramos durante 20 segundos, a velocidad progresiva 5-7-10. Con la espátula, bajamos los restos que hayan quedado en las paredes del vaso hacia las cuchillas.\nAñadimos el agua y programamos 4 minutos, temperatura 37º y velocidad 2.\nIncorporamos la mantequilla y programamos otros 4 minutos, a temperatura 37º y velocidad 2.\nComprobamos que la mezcla esté homogénea, si no es así programamos otro minuto más, a misma temperatura y velocidad.\nColocamos, alrededor del bizcocho, unas tiras de papel de aluminio para no manchar la bandeja y vertemos, con mucho cuidado, la cobertura caliente por encima. Con una espátula la extendemos por toda la superficie y por los laterales, intentando que quede lo más lisa posible. Dejamos enfriar en el frigorífico y cuando esté totalmente seca, quitamos con mucho cuidado las tiras de papel de aluminio.\nDecoramos con un poco de nata montada y unas guindas o cerezas en almíbar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 3
+      }
+    ],
+    "fuente_url": "https://www.misthermorecetas.com/bizcocho-a-las-tres-leches/",
+    "creado_en": "2026-10-19"
   }
 ]
