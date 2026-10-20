@@ -49218,5 +49218,410 @@
     ],
     "fuente_url": "https://www.misthermorecetas.com/bizcocho-a-las-tres-leches/",
     "creado_en": "2026-10-19"
+  },
+  {
+    "id": "a86e8ee6-0b56-4971-b8d8-bed22cfe4bdf",
+    "slug": "tarta-de-queso-al-horno",
+    "titulo": "Tarta de queso al horno",
+    "descripcion": "Receta de Tarta de queso al horno adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/06/Tarta-de-queso.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 5,
+    "comensales": 12,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "120 g de mantequilla",
+      "150 g de galletas tipo Digestive",
+      "10 g de gelatina neutra en polvo",
+      "3 huevos",
+      "500 g de queso philadelphia (si no es esta marca, que tenga una textura similar, consistente)",
+      "100 ml de nata líquida (mejor con nata para montar, pero si no tenéis, podéis usar nata para cocinar)",
+      "100 g de azúcar moreno (puede ser también blanca)",
+      "el zumo de medio limón",
+      "Mermelada de arándanos (opcional)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Encender el horno a 180º para que se vaya calentando.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Introducir la mantequilla en el vaso y derretir durante 3 minutos a 60º, velocidad 3",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 3
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Añadir las galletas y triturar durante 5 segundos a velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Disponer en un molde de entre 20 y 24 cm. de diámetro, extender por toda la base presionando para que quede compacta.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Mezclar la gelatina con 200 ml de agua caliente.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Lavar el vaso.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Introducir en el vaso el azúcar, 2 huevos y una yema (la clara sobrante no la utilizaremos). Batir durante 30 segundos a velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 120
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Añadir el queso y el zumo de limón. Batir durante 30 segundos a velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Incorporar la nata y el agua con la gelatina. Mezclar durante 10 segundos a velocidad 7.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Verter la mezcla en el molde y hornear durante una hora a 180º (con el horno precalentado)",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 11,
+        "instruccion": "Nada más sacarla del horno, verter la mermelada por encima. Dejar enfriar un poco e introducir en la nevera durante, al menos, 3 horas.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 180
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/tarta-de-queso-al-horno/",
+    "creado_en": "2026-10-20"
+  },
+  {
+    "id": "903ae4db-7ba4-4567-a9e8-6fbf60389679",
+    "slug": "zumo-natural-de-tomate-express",
+    "titulo": "Zumo natural de tomate express",
+    "descripcion": "Receta de Zumo natural de tomate express adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/06/zumo_tomate_2.jpg",
+    "categoria": "salsas",
+    "tiempo_total_min": 1,
+    "comensales": 4,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "400 gr de tomate triturado (1 lata pequeña)",
+      "100 gr de agua",
+      "una pizca de sal",
+      "una pizca de azúcar",
+      "una pizca de pimienta",
+      "un chorrito de limón",
+      "una cucharada de salsa inglesa (tipo Perrins)",
+      "unas gotas de tabasco (opcional)",
+      "hielo (si no lo podemos dejar preparado con antelación)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Echamos todos los ingredientes en el vaso y trituramos 30 segundos, velocidad 5. ¡¡A disfrutarlo!!",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/zumo-natural-de-tomate/",
+    "creado_en": "2026-10-20"
+  },
+  {
+    "id": "7eab6833-32d7-4a7d-b2f9-6f5797ceb8b0",
+    "slug": "trigo-con-calabacin-al-vino-blanco",
+    "titulo": "Trigo con calabacín al vino blanco",
+    "descripcion": "Receta de Trigo con calabacín al vino blanco adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/06/trigo-con-calabacín-al-vino-blanco-thermorecetas.jpg",
+    "categoria": "verduras",
+    "tiempo_total_min": 21,
+    "comensales": 2,
+    "dificultad": "Media",
+    "ingredientes": [
+      "120 g de trigo tierno",
+      "80 g de cebolla",
+      "1 diente de ajo",
+      "30 g de aceite de oliva",
+      "100 g de calabacín",
+      "200 g de caldo de verduras",
+      "50 g de vino blanco"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Poner la cebolla y el ajo pelados con el aceite. Picar durante 5 segundos a velocidad 5. Bajar los trocitos hacia las cuchillas y programar 6 minutos, 100º, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 6
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "A continuación poner la mariposa en las cuchillas. Agregar el trigo ya cocido y sofreír durante 4 minutos, 100º, velocidad cuchara, giro a la izquierda.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 4
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Verter el vino, programar 4 minutos, temperatura Varoma, velocidad 1, giro a la izquierda. Sin cubilete para facilitar la evaporación.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 4
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Mientras, lavar y cortar el calabacín en cuadrados de 1 cm.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Agregar los trocitos de calabacín y el caldo de verduras previamente calentado. Cocinar todo junto durante 7 minutos, 100º, velocidad cuchara, giro a la izquierda.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 6
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Repartir el trigo en dos platos y servir.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/trigo-con-calabacin-al-vino-blanco/",
+    "creado_en": "2026-10-20"
+  },
+  {
+    "id": "37a6c357-eeb5-4817-8d9f-72e43f5c40ae",
+    "slug": "truchas-con-guarnicion",
+    "titulo": "Truchas con guarnición",
+    "descripcion": "Receta de Truchas con guarnición adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/06/truchas-con-guarnicion.jpg",
+    "categoria": "verduras",
+    "tiempo_total_min": 40,
+    "comensales": 8,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "1 cebolla mediana cortada en rodajas finas",
+      "100 g de aceite de oliva virgen extra",
+      "400 g de patatas peladas y cortadas en rodajas de medio centímetro aproximadamente",
+      "150 g de pimiento verde cortado en tiras no muy gruesas",
+      "75 g de agua",
+      "Sal",
+      "2 ó 3 tomates medianos cortados en rodajas finas",
+      "3 truchas pequeñas sin tripas y bien lavadas",
+      "3 lonchas de jamón serrano, una para cada trucha",
+      "Unas hebras de azafrán",
+      "50 g de vino blanco",
+      "Si las hacemos en el varoma, 400 g de agua del grifo"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Colocamos la mariposa en las cuchillas. Ponemos en el vaso el aceite y la cebolla. Programamos 7 minutos, temperatura varoma, velocidad cuchara.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 7
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "En ese tiempo vamos preparando las truchas: las limpiamos y colocamos en el interior de cada una de ellas una loncha de jamón.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Cuando acaben los 7 minutos, añadimos las patatas, el pimiento y el agua. Programamos 13 minutos, temperatura varoma, giro a la izquierda, velocidad 1.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 6
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Vertemos el contenido en la bandeja de horno o en un molde de aluminio redondo que quepa en el recipiente varoma (según cómo vayamos a seguir la preparación). Ponemos encima los tomates y las truchas.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Sin lavar el vaso, vertemos el vino y el azafrán. Mezclamos durante 10 segundos, velocidad 4. Lo vertemos sobre las truchas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Si optamos por hacerlo en el varoma toda nuestra preparación la habremos puesto en un recipiente de aluminio redondo, de esos de usar y tirar, que quepa dentro del recipiente varoma.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Vertemos los 400 g de agua en el vaso. Situamos el recipiente varoma en su posición y programamos 20 minutos, temperatura varoma, velocidad 1.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 16
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Servimos inmediatamente.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Si la receta la terminamos en le horno, toda la preparación anterior (patatas, truchas y salsa) la habremos puesto en una bandeja apta para horno (si la cubrimos con papel de hornear luego nos será más fácil lavarla).",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Precalentamos el horno a 180º. Cuando haya alcanzado esa temperatura, metemos nuestra bandeja. Estará en el horno unos 20 minutos aproximadamente. El tiempo es orientativo, así que tendremos que estar pendientes.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 20
+      },
+      {
+        "paso_numero": 11,
+        "instruccion": "Servimos inmediatamente.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/truchas-con-guarnicion/",
+    "creado_en": "2026-10-20"
+  },
+  {
+    "id": "1ecb0fc2-4080-4533-88ce-6e3390749a17",
+    "slug": "batido-de-horchata-y-cacao",
+    "titulo": "Batido de horchata y cacao",
+    "descripcion": "Receta de Batido de horchata y cacao adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/06/batido-horchata-cacao.jpg",
+    "categoria": "bebidas",
+    "tiempo_total_min": 1,
+    "comensales": 4,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "1 litro de horchata bien fría",
+      "2 claras de huevo",
+      "100 g de cacao en polvo",
+      "1 cucharadita de canela molida"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Introducir todos los ingredientes en el vaso y batir durante 30 segundos a velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Servir inmediatamente.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/batido-de-horchata-y-cacao/",
+    "creado_en": "2026-10-20"
   }
 ]
