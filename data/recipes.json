@@ -49623,5 +49623,472 @@
     ],
     "fuente_url": "https://www.thermorecetas.com/batido-de-horchata-y-cacao/",
     "creado_en": "2026-10-20"
+  },
+  {
+    "id": "727006f1-c018-4cc0-a22e-4285f18f8975",
+    "slug": "kofta-de-menta",
+    "titulo": "Kofta de menta",
+    "descripcion": "Receta de Kofta de menta adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/06/Kofta_menta2.jpg",
+    "categoria": "carnes",
+    "tiempo_total_min": 1,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "400 gr de carne picada",
+      "1 cebolla dulce pequeña cortada en cuartos",
+      "1 puñado de pasas (podemos sustituir por ciruelas secas)",
+      "2 cubiletes de hojas de menta",
+      "4 dientes de ajo",
+      "1 cucharadita de café rasa de sal",
+      "una pizca pimienta",
+      "1 cucharadita rasa de canela"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Echamos en el vaso de la thermomix todos los ingredientes excepto la carne picada. Mezclamos 10 segundos, velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "En un bol grande ponemos la carne picada y añadimos lo que teníamos en el vaso. Mezclamos muy bien.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Dejamos reposar mínimo 30 minutos en la nevera bien tapado.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 30
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Precalentamos el horno a 180º.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Ponemos en la bandeja de horno una lámina de papel para horno. Vamos formando tiras alargadas y gruesas (como una croqueta) y le metemos el rabo de una cucharilla por dentro, lo giramos y sacamos. De esta forma nos debe quedar un agujero redondeado a lo largo de la kofta (en vertical) y esto facilitará que se haga por dentro más rápido.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Las vamos colocando en la bandeja de horno y echamos un chorrito de aceite de oliva por encima (opcional).",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Horneamos 15 minutos a 180º. Dejamos reposar con el horno apagado 3 minutos.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 15
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/kofta-de-menta/",
+    "creado_en": "2026-10-21"
+  },
+  {
+    "id": "be0c2b6b-1e0c-462d-9d05-f733e2868ba5",
+    "slug": "verduras-en-papillote",
+    "titulo": "Verduras en papillote",
+    "descripcion": "Receta de Verduras en papillote adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/06/verduras-en-papillote-thermorecetas.jpg",
+    "categoria": "verduras",
+    "tiempo_total_min": 30,
+    "comensales": 2,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "1 cebolla dulce o fresca",
+      "1 puerro (sólo la parte blanca)",
+      "1 zanahoria",
+      "50 g de judías redondas o Bobby",
+      "45 g de pimiento verde",
+      "2 ajos tiernos",
+      "2 huevos",
+      "150 g de nata para cocinar",
+      "1 yema de huevo",
+      "Aceite de oliva virgen",
+      "Nuez moscada",
+      "Sal y pimienta"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Poner en el vaso de la Thermomix agua del grifo hasta la marca de 1 litro. Calentar durante 7 minutos, 100º, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 6
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Mientras lavar y despuntar las judías. Reservar dentro del cestillo que introduciremos dentro del vaso cuando el agua ya esté caliente. Programar 4 minutos, 100º, velocidad 4.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 3
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Entretanto, raspar la zanahoria y cortarla en rodajas no muy gruesas. Retirar las raíces y la primera capa de la cebolla y de los ajos tiernos, lavar las verduras y cortarlas en tiras. Proceder del mismo modo con el puerro.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Retirar los nervios y semillas interiores del pimiento. Lavarlo y cortarlo también en tiras.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Finalizado el tiempo de cocción de las judías, retirar el cestillo y refrescarlas. No desechar el agua de cocción.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Preparar dos rectángulos de papel sulfurizado o de aluminio. Disponer las verduras sobre ellos, salpimentar y regar con un hilo de aceite de oliva virgen. Cerrar bien los paquetes para que no puede entrar aire y ponerlos en el recipiente Varoma. Programar 20 minutos, temperatura Varoma, velocidad 2.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 20
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Mientras preparar los huevos poché. Para ello coger dos cuadrados grandes y dos tiras de film transparente. Cubrir el cubilete con el film e introducir la mano en el hueco para darle forma.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Untar el interior del hueco con un poco de aceite para que el huevo se despegue bien. Verter dentro el huevo con cuidado de que no se rompa la yema.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Coger las puntas del cuadrado y cerrarlo. Para que no quede aire, le daremos vueltas sobre sí mismo y terminaremos atándolo con las tiras de film transparente a modo de cordón. Tiene que quedar como una pelotita para que tenga forma bonita.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Cuando queden 4 minutos para que termine la cocción, abrir el Varoma con cuidado y poner los dos huevos en la bandeja. Cerrar y continuar con la cocción.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 4
+      },
+      {
+        "paso_numero": 11,
+        "instruccion": "Al mismo tiempo que se hacen las verduras y los huevos prepararemos la salsa. En una olla pequeña o un cazo calentar la nata, cuando casi llegue al punto de ebullición retirarla del calor, aromatizarla con nuez moscada y dejarla templar durante un par de minutos. Añadir la yema y remover bien para que los dos ingredientes se queden integrados. Volver a calentar sin parar de remover hasta que espese. Reservar fuera del fuego.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 12,
+        "instruccion": "Transcurrido el tiempo retirar el Varoma y abrirlo con cuidado, ya que el vapor quema mucho. Abrir los papillotes y repartir las verduras en platos. Disponer a un lado la salsa y encima los huevos poché. Servir rápidamente.",
+        "accesorio": "Ninguno",
+        "velocidad": 0,
+        "temperatura_c": 120,
+        "potencia_calorifica": 9,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 13,
+        "instruccion": "Buen provecho!",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/verduras-en-papillote/",
+    "creado_en": "2026-10-21"
+  },
+  {
+    "id": "de5874dd-5733-432f-a953-162f051d3307",
+    "slug": "granizado-de-limon",
+    "titulo": "Granizado de limón",
+    "descripcion": "Receta de Granizado de limón adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/06/granizado-de-limon.jpg",
+    "categoria": "sopas-y-cremas",
+    "tiempo_total_min": 10,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "La piel de un limón, sólo la parte amarilla",
+      "4 limones pelados (incluyendo el anterior), sin nada de parte blanca y sin pepitas",
+      "150 ó 200 g de azúcar -podéis sustituirlo por su equivalente en edulcorante-",
+      "500 g de agua",
+      "Entre 500 y 800 g de cubitos de hielo (según gustos)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "En lo que más vamos a tardar va a ser en preparar los limones. Utilizaremos 4. A uno de ellos le quitamos la parte amarilla de la piel (con un pelador se hace muy bien) y la reservamos. Ahora pelamos bien los limones (el que acabamos de utilizar y los otros tres), quitando incluso la parte blanca. Los cortamos y les quitamos todas las pepitas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Vertemos el azúcar en el vaso y programamos 20 segundos, velocidad progresiva 5-10.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Añadimos la piel del limón y programamos 20 segundos más, también en velocidad progresiva 5-10.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Incorporamos ahora los limones -sin la parte blanca y sin pepitas- y el agua. Trituramos 2 minutos más en las mismas velocidades (5-10)",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 2
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Si no queremos consumir ahora el granizado, metemos esta mezcla en la nevera hasta que queramos tomarlo.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Cuando lo queramos consumir, añadimos los cubitos de hielo y programamos velocidad 5. Cuando dejemos de oír ruidos de hielo sobre las paredes del vaso nuestro granizado estará listo.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Servimos, colocamos una o dos pajitas en cada vaso y ¡a disfrutar del verano!",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/granizado-de-limon/",
+    "creado_en": "2026-10-21"
+  },
+  {
+    "id": "f721444f-ad22-4807-8ac9-1373f346a1ba",
+    "slug": "flan-de-salmorejo",
+    "titulo": "Flan de Salmorejo",
+    "descripcion": "Receta de Flan de Salmorejo adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/06/Flan-de-salmorejo.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 5,
+    "comensales": 8,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "500 g de tomates maduros",
+      "150 g de pan (preferentemente del día anterior)",
+      "1 diente de ajo",
+      "3 huevos duros",
+      "2 lonchas de jamón serrano (opcional, para decorar)",
+      "5 hojas de gelatina neutra",
+      "75 g de aceite de oliva",
+      "15 ml de vinagre",
+      "media cucharadita de sal"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Poner las hojas de gelatina a remojo, cubiertas con agua fría. Sobre un plato, disponer 2 hojas de papel de cocina, extender las lonchas de jamón sobre el papel y cubrir con 2 hojas más. Introducir en el microondas durante 1 minuto a máxima potencia. Dejar enfriar. Ya tenemos el crujiente de jamón.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 99
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Ahora lo trituramos para hacer virutas con las que decoraremos el flan: Introducir el jamón en el vaso y triturar durante 4 segundos a velocidad 7. Retirar y reservar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Sin lavar el vaso, incorporar los tomates, el ajo y la sal. Triturar durante 30 segundos a velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Añadir el pan, el vinagre y 2 huevos duros (reservamos uno para decorar). Triturar de nuevo durante 40 segundos a velocidad 5. Bajamos los restos con la espátula y batimos toda la mezcla durante 2 minutos a velocidad 10.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 122
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Programamos velocidad 4 y medio, sin tiempo y vamos vertiendo poco a poco el aceite de oliva por el bocal para emulsionar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Después, introducimos la gelatina escurrida y la mezclamos durante 15 segundos a velocidad 7.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Vertemos la mezcla en las flaneras y las guardamos en el frigorífico durante, al menos 3 horas antes de servir.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 180
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Cuando desmoldemos, decoramos el flan con las virutas de jamón reservadas, el huevo duro rallado y un chorrito de aceite de oliva.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "¡Y a disfrutar! Ya me contaréis qué os parece.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/flan-de-salmorejo/",
+    "creado_en": "2026-10-21"
+  },
+  {
+    "id": "1c07e24e-a37e-4c7a-89ce-bb29bd1489bb",
+    "slug": "pate-de-gambas",
+    "titulo": "Paté de gambas",
+    "descripcion": "Receta de Paté de gambas adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/06/paté-de-gambas-thermorecetas.jpg",
+    "categoria": "pescados",
+    "tiempo_total_min": 1,
+    "comensales": 20,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "80 g de atún en aceite (1 lata pequeña)",
+      "50 g de gambas cocidas",
+      "125 g de mayonesa",
+      "2 huevos cocidos",
+      "4 palitos de cangrejo",
+      "Sal y pimienta"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Se colocan en el vaso de la batidora los huevos duros troceados, el atún escurrido, las gambas cocidas y peladas, los palitos de cangrejo troceados y 50 g de mayonesa. Se tritura durante 20 segundos a velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Bajar la mezcla hacia las cuchillas. Añadir el resto de la mayonesa y batir durante 30 segundos a velocidad 5. Retirar y reservar en un recipiente cerrado como mínimo 1 hora en la nevera para que tome mayor consistencia.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 60
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/pate-de-gambas/",
+    "creado_en": "2026-10-21"
   }
 ]
