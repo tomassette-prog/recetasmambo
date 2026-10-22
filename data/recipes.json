@@ -50090,5 +50090,464 @@
     ],
     "fuente_url": "https://www.thermorecetas.com/pate-de-gambas/",
     "creado_en": "2026-10-21"
+  },
+  {
+    "id": "31175d44-819a-4708-878b-772119ac61f2",
+    "slug": "pizza-fefe",
+    "titulo": "Pizza Fefè",
+    "descripcion": "Receta de Pizza Fefè adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/06/pizza-fefe.jpg",
+    "categoria": "panes-masas",
+    "tiempo_total_min": 15,
+    "comensales": 8,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "200 g de agua",
+      "50 g de aceite de oliva virgen extra",
+      "20 g de levadura fresca de panadería (o 1 sobre de levadura de panadería)",
+      "400 g de harina de fuerza",
+      "1 cucharadita de sal",
+      "Puré de patata aromatizado con las hiervas que prefiráis (orégano, perejil, cebollino…) -pensad que tiene que cubrir toda la superficie de la pizza-",
+      "Mozarella (mejor si es de búfala) -2 o 3 bolitas-",
+      "Panceta o bacon, en lonchas muy finas o en taquitos -unos 200 g-",
+      "Champiñones cortados en láminas finas",
+      "Queso Parmesano en lascas finitas",
+      "Reducción de vinagre balsámico"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Empezamos haciendo la masa de pizza. Para ello ponemos los líquidos en el vaso (el aceite y el agua) y programamos 1 minuto, 37º, velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Añadimos la levadura y mezclamos 5 segundos, velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Ahora incorporamos la harina y la sal. Programamos 1 minuto, vaso cerrado, velocidad espiga.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Retiramos la masa del vaso con las manos aceitadas y la extendemos sobre la encimera. Nos podemos ayudar con un rodillo hasta que quede muy fina. Ahora la colocamos sobre una bandeja de horno cubierta con papel de hornear.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Precalentamos el horno a 250º.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Una vez tengamos la masa extendida la metemos al horno donde estará a 250º aproximadamente unos 6 minutos. Pasado ese tiempo la sacamos para colocar algunos de nuestros ingredientes.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 6
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Primero extendemos el puré de patata haciendo pequeñas montañitas de puré en la pizza . Ahora ponemos la mozarella y encima el bacon o la panceta. Después colocamos los champiñones en láminas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "La metemos de nuevo al horno donde estará otros 6 minutos o hasta que veamos que la masa está cocinada.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 6
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "La sacamos del horno y colocamos los últimos ingredientes. Primero pondremos el Parmesano en láminas y, a continuación, la reducción de vinagre, siendo generosos y dibujando una especie de rejilla.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "En general, sed generosos con todos los ingredientes, incluso con la reducción de vinagre ya que le da a esta pizza un sabor estupendo.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/pizza-feffe/",
+    "creado_en": "2026-10-22"
+  },
+  {
+    "id": "163a35b4-c682-483f-a6ce-d282b6fcb414",
+    "slug": "granizado-de-cafe",
+    "titulo": "Granizado de café",
+    "descripcion": "Receta de Granizado de café adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/06/granizado-de-cafe.jpg",
+    "categoria": "bebidas",
+    "tiempo_total_min": 2,
+    "comensales": 4,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "500 g de cubitos de hielo",
+      "150 g de azúcar moreno (puede ser blanca)",
+      "250 ml de agua",
+      "1 cubilete de café soluble (podéis sustituir el agua y el café soluble por 250 ml de café hecho en casa, pero tiene que ser un café cargadito y estar frío para no derretir el hielo)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Mezclar el café soluble con el agua y el azúcar (o si optáis por el café casero, mezclar el café y el azúcar)",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Introducir el hielo en el vaso y triturar durante 30 segundos, a velocidad progresiva 5/10.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Añadir el café y mezclar durante 1 minuto a velocidad 2.",
+        "accesorio": "Cuchillas",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "¡Y listo!",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/granizado-de-cafe/",
+    "creado_en": "2026-10-22"
+  },
+  {
+    "id": "cd5925e8-0efb-452c-8bc0-c15e2610944f",
+    "slug": "helado-de-yogur-griego",
+    "titulo": "Helado de yogur griego",
+    "descripcion": "Receta de Helado de yogur griego adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/07/Helado_yogur_griego.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 1,
+    "comensales": 4,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "3 yogures griegos, naturales azucarados",
+      "50 gr. de queso Philadelphia",
+      "60 gr. de azúcar invertido (ver receta )"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Colocamos la mariposa en las cuchillas y echamos en el vaso los yogures, el queso y el azúcar invertido. Programamos 30 segundos, a velocidad 3.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Lo volcamos en un tupper o recipiente hermético apto para congelar y guardamos en el congelador durante 4 horas. Durante estas 4 horas vamos removiendo cada 30 minutos con un tenedor para que no se hagan cristalitos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 270
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Ponemos el helado en el vaso de la Thermomix y programamos 40 segundos, a velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Lo echamos de nuevo en el recipiente o tupper y reservamos en el congelador un mínimo 4 horas. Y también durante estas 4 horas vamos removiendo cada 30 minutos hasta que esté congelado del todo.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 270
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/helado-de-yogur-griego/",
+    "creado_en": "2026-10-22"
+  },
+  {
+    "id": "e2c2ea0e-7fa3-4617-a7a9-495759ba1a8a",
+    "slug": "ensalada-de-arroz-y-langostinos",
+    "titulo": "Ensalada de arroz y langostinos",
+    "descripcion": "Receta de Ensalada de arroz y langostinos adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/07/ensalada-de-arroz-y-langostinos-thermorecetas.jpg",
+    "categoria": "arroces",
+    "tiempo_total_min": 15,
+    "comensales": 2,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "75 g de arroz basmati o de grano largo",
+      "50 g de ensalada variada",
+      "75 g de langostinos",
+      "1 zanahoria",
+      "40 g de maíz dulce",
+      "Sal",
+      "10 g de mostaza antigua",
+      "1 cucharada sopera de zumo de limón",
+      "30 g de aceite de oliva virgen",
+      "Sal y pimienta"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Poner unos 800 g de agua en el vaso, calentar durante 5 minutos, 100º, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 4
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Colocar los langostinos en el Varoma, espolvorear un poco de sal y reservar.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Sazonar el agua del vaso y colocar dentro el cestillo con el arroz. Programar 14 minutos, temperatura Varoma, velocidad 4. Remover de vez en cuando con la espátula para que el arroz no se quede apelmazado.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 11
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Cuando queden 5 minutos para terminar la cocción, colocar el Varoma en su posición.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Mientras se cuece el arroz, lavar las hojas de ensalada escurrirlas bien. Raspar, lavar y secar la zanahoria. Cortarla en daditos de tamaño similiar. Enjuagar el maíz dulce y reservar todos estos ingredientes en una ensaladera amplia.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Transcurrido el tiempo retirar el Varoma con cuidado de no quemarse. Retirar también el cestillo, refrescar el arroz para cortar la cocción y escurrir bien.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Agregar el arroz y los langostinos al resto de los ingredientes y reservar en la nevera.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Desechar el agua de cocción y aclarar el vaso. Poner todos los ingredientes del aliño. Batir durante 15 segundos a velocidad 3.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Aliñar la ensalada con este aderezo.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/ensalada-de-arroz-y-langostinos/",
+    "creado_en": "2026-10-22"
+  },
+  {
+    "id": "4c1499d6-d76c-4bc9-8ae1-c44c620214a8",
+    "slug": "tarta-salada-de-calabacin",
+    "titulo": "Tarta salada de calabacín",
+    "descripcion": "Receta de Tarta salada de calabacín adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/07/tarta-salada-de-calabacin.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 20,
+    "comensales": 6,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "1 plancha redonda de hojaldre",
+      "50 g de queso Parmesano (si no tenéis, podéis sustituirlo por otro tipo de queso)",
+      "200 g de puerros, solo la parte blanca",
+      "300 g de calabacines",
+      "1 diente de ajo",
+      "Perejil",
+      "30 g de aceite de oliva virgen extra",
+      "Sal",
+      "Pimienta",
+      "250 g de ricotta o de requesón",
+      "Unas hojas de menta (opcional)",
+      "1 huevo",
+      "Nuez moscada"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Trituramos el queso Parmesano durante 10 segundos en velocidad 8. Sacamos del vaso y reservamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 8,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Limpiamos lo puerros desechando la parte verde más dura. Los lavamos y los cortamos en rodajas como de unos 3 o 4 milímetros.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Lavamos y pelamos los calabacines. Los cortamos también en rodajas del mismo grosor.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Metemos en el vaso el ajo y el perejil y trituramos programando 7 segundos, velocidad 7.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Añadimos el aceite y programamos 3 minutos, 100º, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 3
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Unimos ahora los puerros, el calabacín, la sal y la pimienta. Programamos 10 minutos, temperatura varoma, giro a la izquierda, velocidad cuchara. Lo sacamos del vaso y reservamos.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Sin lavar el vaso ponemos la ricotta (o el requesón), las hojas de menta -si es que nos decidimos a ponerlas-, el queso que hemos rallado antes, el huevo, la sal, la pimienta y la nuez moscada. Mezclamos programando 20 segundos, velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Unimos las verduras que teníamos reservadas, corregimos de sal y pimienta si lo consideramos necesario, y mezclamos 10 segundos, giro a la izquierda, velocidad 3.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Ponemos la lámina de hojaldre en un molde de unos 24 cms de diámetro -dejamos el papel de horno bajo la plancha para que no se nos pegue al molde-. Aplastamos un poco para que coja la forma del molde.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Ahora solo nos queda poner encima el relleno y hornear. Lo haremos en el horno precalentado a 180º durante, aproximadamente, 25 minutos.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 25
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/tarta-salada-de-calabacin/",
+    "creado_en": "2026-10-22"
   }
 ]
