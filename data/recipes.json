@@ -50549,5 +50549,648 @@
     ],
     "fuente_url": "https://www.thermorecetas.com/tarta-salada-de-calabacin/",
     "creado_en": "2026-10-22"
+  },
+  {
+    "id": "f5f5832d-4469-4491-b659-4fbe2ee11a42",
+    "slug": "dulce-de-leche",
+    "titulo": "Dulce de Leche",
+    "descripcion": "Receta de Dulce de Leche adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/07/dulce-de-leche.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 45,
+    "comensales": 10,
+    "dificultad": "Media",
+    "ingredientes": [
+      "1 litro de leche entera",
+      "350 gr de azúcar",
+      "una cucharadita de postre rasa de bicarbonato"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Introducir todos los ingredientes en el vaso y programar 45 minutos, temperatura Varoma, velocidad 5. Sin cubilete y con el cestillo colocado sobre la tapa para evitar salpicaduras.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 45
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Comprobad que la textura es adecuada a vuestro gusto y si no es así, id añadiendo 5 minutos más a la misma temperatura y velocidad.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Seguidamente, mezcladlo durante 30 segundos a velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Vertedlo en un bote de cristal tapado y cuando se enfríe un poco introducidlo en el frigorífico durante un par de horas antes de su consumo.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Es fácil, ¿verdad?",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/dulce-de-leche/",
+    "creado_en": "2026-10-23"
+  },
+  {
+    "id": "7769ddf7-5539-466a-9d4a-2ebe11675614",
+    "slug": "aleta-de-ternera-rellena-de-carne-jamon-y-bacon",
+    "titulo": "Aleta de ternera rellena de carne, jamón y bacon",
+    "descripcion": "Receta de Aleta de ternera rellena de carne, jamón y bacon adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/07/Aleta_rellena.jpg",
+    "categoria": "carnes",
+    "tiempo_total_min": 90,
+    "comensales": 6,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "400 gr de aleta de ternera para rellenar aprox(tenéis que decirle a vuestro carnicero que os la prepare y la abra para rellenarla).",
+      "200 gr de carne picada mitad ternera y mitad cerdo",
+      "lonchas de bacon",
+      "lonchas de jamón york",
+      "sal",
+      "1 huevo",
+      "pimienta",
+      "ajo en polvo",
+      "perejil picado",
+      "hilo bramante o una media para carne",
+      "1 bolsa de hornear",
+      "4 zanahorias",
+      "2 cebollas",
+      "3 dientes de ajo",
+      "50 gr de aceite de oliva"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "En un bol ponemos la carne picada, el huevo, sal y pimienta, ajo en polvo y perejil picado. Mezclamos bien.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Salpimentamos la aleta abierta por la cara de dentro (donde irá el relleno). Colocamos unas lonchas de bacon y encima lonchas de jamón york. Por último añadimos la carne. La cantidad de carne dependerá del tamaño de la aleta abierta, así que puede ser que os sobre un poco (podréis usarlo para hace filetes rusos a la plancha por ejemplo). Tened cuidado de no rellenarlo excesivamente, ni apurar hasta los bordes porque si no después no lo podréis cerrar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Vamos enrollando con cuidado pero presionando firmemente para que quede bien prieto, cerramos hacia abajo los bordes y les damos forma redondeada (para que no se salga el relleno). Cuando esté enrollado le ponemos la media de carne o el hilo bramante presionando y apretando muy bien para que no se vaya a abrir durante el proceso de cocinado. Debemos fijarnos en que los bordes están bien cerrados.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "En una sartén ponemos un poco de aceite a calentar. Salpimentamos el redondo y doramos a fuego fuerte por ambas caras. Dejamos que se enfríe un poco.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Colocamos el redondo en una bolsa de asar con el jugo de la sartén y cerramos bien y ponemos en el varoma, llenamos el vaso con 2 litros de agua y programamos 60 minutos, velocidad 2, temperatura varoma.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 49
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Cuando pasen 30 minutos damos la vuelta al redondo.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 30
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Cuando haya terminado de cocinarse, dejamos que se temple un poco. Vaciamos el agua del vaso y echamos un chorrito de aceite, las zanahorias peladas y cortadas en trozos, las cebollas cortadas en cuartos, los ajos pelados y una pizca de sal. Programamos 20 minutos, temperatura varoma, velocidad 1.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 16
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Esperamos a que baje un poco la temperatura. Sacamos la carne de la bolsa y el jugo que hay dentro de la bolsa se lo añadimos al vaso. Trituramos 1 minuto, velocidad progresiva 5-7-10.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Ahora sólo hace falta esperar 1 día para que la carne se enfríe en la nevera. Cortamos rodajas muy finitas y las colocamos en los tupper con la salsa (opcional). Se puede tomar frío o caliente.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "¡Que aproveche!",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/aleta-de-ternera-rellena-de-carne-jamon-y-bacon/",
+    "creado_en": "2026-10-23"
+  },
+  {
+    "id": "f3527142-74eb-40d7-880c-97aeb0f60531",
+    "slug": "papillote-de-albaricoques",
+    "titulo": "Papillote de albaricoques",
+    "descripcion": "Receta de Papillote de albaricoques adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/07/papillote-de-albaricoques-thermorecetas.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 10,
+    "comensales": 2,
+    "dificultad": "Media",
+    "ingredientes": [
+      "300 g de albaricoques",
+      "1 vaina de vainilla",
+      "1/2 palo de canela en rama",
+      "15 g de azúcar moreno o integral",
+      "1 cucharada sopera de Amaretto",
+      "10 g de mantequilla"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Llenar el vaso de agua con unos 500 g de agua del grifo. Calentar durante 5 minutos, 100º, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 4
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Mientras, lavar los albaricoques, secarlos y frotarlos con un papel de cocina para que no tengan pelusilla. Cortarlos a la mitad y retirar el hueso.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Abrir la vaina de vainilla haciendo un corte a lo largo y, con un cuchillo de punta, retirar las semillitas negras.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Colocar los albaricoque sobre un trozo de papel de aluminio o papel de hornear. Añadir el resto de los ingredientes. Colocar otro trozo de igual tamaño encima, doblar bien los lados presionando para queden bien cerrados.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Cuando el agua esté caliente, colocar el Varoma en su posición y programar 10 minutos, temperatura Varoma, velocidad 2.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Transcurrido el tiempo, retirar el Varoma y abrir los paquetes con cuidado para no quemarse.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Servir los albaricoques en caliente acompañados de helado y unas flores de lavanda o romero.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/papillote-de-albaricoques/",
+    "creado_en": "2026-10-23"
+  },
+  {
+    "id": "fda2353c-c2fa-480a-ae35-0572de75534e",
+    "slug": "marineras-un-delicioso-aperitivo-murciano",
+    "titulo": "Marineras, un delicioso aperitivo murciano",
+    "descripcion": "Receta de Marineras, un delicioso aperitivo murciano adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/07/marineras-1.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 25,
+    "comensales": 20,
+    "dificultad": "Media",
+    "ingredientes": [
+      "600 g de patatas ya peladas (aproximadamente)",
+      "180 g de zanahorias ya peladas (aproximadamente)",
+      "600 g de agua del grifo para cocinar al varoma",
+      "100 g de pepinillos en vinagre",
+      "2 latas de atún",
+      "Sal (si lo consideráis conveniente)",
+      "3 cucharadas soperas -colmadas- de mayonesa (si hay alérgicos al huevo podemos sustituirlo por lactonesa)",
+      "Anchoas en vinagre (una para cada marinera)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Cortamos las patatas y las zanahorias en daditos pequeños. No os preocupéis mucho porque sean perfectos ya que luego perderán su forma (esta ensaladilla es casi una pasta). Los ponemos en el recipiente varoma.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Ahora echamos el agua en el vaso. Colocamos el recipiente varoma en su posición y lo tapamos. Programamos 25 minutos, temperatura varoma, velocidad 1.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 21
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Acabado el tiempo retiramos el recipiente varoma y reservamos y dejamos que se enfríe un poco.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Tiramos el agua del vaso y ponemos los pepinillos. Picamos durante 4 segundos en velocidad 5. Añadimos el atún y programamos 2 segundos, velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Cuando las patatas se hayan enfriado un poco ponemos la mariposa en las cuchillas, sabiendo que debe quedar bien encajada. Añadimos las patatas y las zanahorias. Programamos 15 segundos, velocidad 2, giro a la izquierda.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Incorporamos 3 cucharadas de mayonesa y programamos 5 segundos, velocidad 2, giro a la izquierda. Si lo consideramos conveniente, añadimos un poco de sal.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Metemos en la nevera para que se enfríe. En el momento de servir, colocamos la ensaladilla (bien fresquita) en las rosquillas, más o menos como veis en la foto, y ponemos una anchoa encima de cada una de ellas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/marineras/",
+    "creado_en": "2026-10-23"
+  },
+  {
+    "id": "42d52408-ad7b-45a8-b529-e13c8e17f59d",
+    "slug": "huevo-poche-con-foie-sobre-lecho-de-patata",
+    "titulo": "Huevo poché con foie sobre lecho de patata",
+    "descripcion": "Receta de Huevo poché con foie sobre lecho de patata adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/07/huevo-con-foie.jpg",
+    "categoria": "sopas-y-cremas",
+    "tiempo_total_min": 33,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "4 huevos",
+      "600 g de patatas cortadas a trozos",
+      "250 g de leche",
+      "30 g de mantequilla",
+      "1 cucharadita de sal",
+      "2 quesitos de porción",
+      "100 g de foie"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos la mariposa en las cuchillas.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Introducimos las patatas, la leche y la sal y programamos 25 minutos, 90º, velocidad 1.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 25
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Mientras, prepararemos los huevos poché. Seguimos la técnica que nos enseña el libro Imprescindible. Para ello, cortamos un trozo de papel film grande y cuadrado. Forramos con él el interior del cubilete dejando que sobresalga por los lados. Lo untamos con el dedo con un poco de aceite. Cascamos un huevo y lo vertemos sobre el papel film en el interior del cubilete. Ahora, recogemos los extremos y hacemos un paquetito con el papel film, uniendo los extremos en uno solo y enrollándolo sobre sí mismo, hasta que tengamos un paquetito con forma de bola, que colocaremos en el centro del recipiente Varoma.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Repetimos la operación con los otros 3 huevos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 180
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Colocamos el Varoma en su lugar y programamos 7 minutos, temperatura Varoma, velocidad 1.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 7
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Quitamos el Varoma y añadimos los quesitos y la mantequilla en el vaso. Rectificamos de sal y mezclamos bien durante 30 segundos a velocidad 3.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Montamos el plato con puré de patatas en el fondo, un huevo sobre el mismo y unas lascas de foie al gusto sobre el huevo.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/huevo-poche-con-foie-sobre-lecho-de-patata/",
+    "creado_en": "2026-10-23"
+  },
+  {
+    "id": "047fb92e-c13c-4027-9f04-e86dd8de5a92",
+    "slug": "cuscus-de-pollo-y-mango",
+    "titulo": "Cuscús de pollo y mango",
+    "descripcion": "Receta de Cuscús de pollo y mango adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.misthermorecetas.com/wp-content/uploads/2012/12/cuscus_pollo_mango.jpg",
+    "categoria": "carnes",
+    "tiempo_total_min": 26,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "Para las pechugas en salsa de fresa con mostaza a la antigua:",
+      "60 g de mermelada de fresa",
+      "2-3 cucharadas de mostaza de grano entero o mostaza a la antigua",
+      "40 g de zumo de limón",
+      "1 cucharada de extracto de buey (Bovril)",
+      "20 g de salsa de soja",
+      "2 pechugas de pollo sin piel (500-600 g) cortadas en tacos",
+      "20 g de mantequilla",
+      "500 g de agua",
+      "20 g de mantequilla",
+      "1 cucharadita de sal",
+      "250 g de cuscús precocido",
+      "20 g de azúcar moreno",
+      "20 g de mantequilla",
+      "1 mango maduro cortado en trozos grandes",
+      "1 cucharada de cominos",
+      "3 cucharadas de vinagre",
+      "200 g de cebolleta (reservamos la parte verde tierna para decorar)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "En el vaso del Thermomix ponemos la mermelada, la mostaza, el zumo de limón, el extracto de buey y la salsa de soja. Programamos 2 minutos, temperatura 100º y velocidad 1, poniendo el cestillo sobre la tapa en lugar del cubilete.\nMientras tanto, colocamos los trozos de pollo en un bol.\nVolcamos el contenido del vaso sobre el pollo y mezclamos bien. Dejamos marinar un mínimo de 15 minutos.\nAclaramos y secamos el vaso.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 2
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "En el vaso limpio, vertemos el agua y añadimos la mantequilla y la sal. Calentamos durante 5 minutos, temperatura 120º y velocidad 1, colocando el cestillo sobre la tapa en lugar del cubilete.\nSobre la tapa del vaso, colocamos un bol, pulsamos la función balanza y pesamos el cuscús. Retiramos.\nVertemos el agua del vaso sobre el cuscús, removemos y dejamos reposar durante 5 minutos.\nLavamos y secamos bien el vaso y la tapa.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 4
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Con el vaso limpio y seco, pulverizamos el azúcar moreno durante 5 segundos, a velocidad 10.\nAñadimos la mantequilla y programamos 2 minutos, temperatura 120º y velocidad cuchara, poniendo el cestillo sobre la tapa en lugar del cubilete.\nIncorporamos los trozos de mango, los cominos, el vinagre y la parte blanca de la cebolleta cortada en rodajas. Programamos 6 minutos, temperatura 120º y velocidad cuchara, poniendo el cestillo sobre la tapa en lugar del cubilete.\nRetiramos a un bol y reservamos.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 2
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Sin lavar el vaso, colocamos la mariposa en las cuchillas, ponemos los 20 g de mantequilla y añadimos el pollo con la marinada. Programamos 12 minutos, temperatura 120º, giro a la izquierda y velocidad cuchara, poniendo el cestillo sobre la tapa en lugar del cubilete.\nRetiramos del vaso los trozos de pechuga y reducimos la salsa durante 3 minutos, temperatura 120º y velocidad 1, poniendo el cestillo sobre la tapa en lugar del cubilete.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 12
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Servimos en un fuente colocando la carne en el centro, el cuscús alrededor y el mango con la cebolleta encima. Decoramos con la parte verde tierna de la cebolleta (cortada en aros o en juliana) y podemos regarlo con la salsa o servirla en salsera aparte para que cada uno se sirva lo que quiera.\nTambién podemos presentarlo en raciones individuales, emplatando el cuscús con una aro, encima colocamos el pollo y coronamos con el mango con cebolleta.\nDecoramos con la parte verde tierna de la cebolleta y regamos con un poco de salsa.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.misthermorecetas.com/cuscus-de-pollo-y-mango/",
+    "creado_en": "2026-10-23"
+  },
+  {
+    "id": "cd9f4de6-df11-43dd-bb74-807ff8f40a0d",
+    "slug": "sushi-arroz-alino-maki-nigiri-temaki-y-edomae-sushi",
+    "titulo": "Sushi: Arroz, aliño, Maki, Nigiri, Temaki y Edomae Sushi",
+    "descripcion": "Receta de Sushi: Arroz, aliño, Maki, Nigiri, Temaki y Edomae Sushi adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.misthermorecetas.com/wp-content/uploads/2016/07/sushi.jpg",
+    "categoria": "arroces",
+    "tiempo_total_min": 1499,
+    "comensales": 6,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "Para el aliño del arroz para sushi - Amazu: (para 360 g)",
+      "240 g de vinagre de arroz",
+      "80 g de azúcar",
+      "40 g de sal",
+      "500 g de agua (para el vapor)",
+      "300 g de arroz especial para sushi",
+      "3 trozos pequeños de alga kombu, para aromatizar el arroz (opcional)",
+      "380 g de agua (para el arroz)",
+      "6 cucharadas de aliño del arroz para sushi",
+      "1 esterilla de bambú",
+      "5-6 laminas de alga nori",
+      "pescado y marisco fresco variado, especial para sushi (cortado en tiras o láminas)",
+      "salmón ahumado",
+      "palitos de cangrejo",
+      "atún al natural (bien escurrido)",
+      "huevas de salmón",
+      "gambas cocidas, ...",
+      "verduras variadas cortadas en bastones (zanahoria, calabacín, aguacate, pepino, ...)",
+      "cogollos de lechuga cortados en trozos pequeños, rúcula, canónigos, soja, ...",
+      "1 huevo cuajado para tortilla",
+      "mayonesa",
+      "pasta de wasabi",
+      "salsa de soja y salsa agridulce",
+      "pasta de wasabi",
+      "una flor de láminas de jengibre encurtido",
+      "rábano daikon rallado"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos todos los ingredientes del aliño en el vaso de la Thermomix y programamos 4 minutos, temperatura 80º y velocidad 2.\nVertemos en un tarro, dejamos enfriar y reservamos en el frigorífico.",
+        "accesorio": "Cuchillas",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 4
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Sobre la tapa del vaso, ponemos un bol grande y pulsamos la función balanza, echamos el arroz hasta que pese 300 g. Ponemos agua en el bol hasta cubrirlo y lo movemos un poco con la mano. Cambiamos el agua tantas veces sea necesaria hasta que quede bien clara (para cambiar el agua, echamos el arroz en el cestillo o en un colador, lo volvemos a poner en el bol y echamos más agua), más o menos serán entre 10 y 12 veces. Este paso es muy importante para conseguir la textura del arroz de sushi, al igual que el reposo, que forma parte de la cocción en sí y no nos lo podemos saltar.\nUna vez el agua del último lavado esté clara, colamos el arroz a través del cestillo (o colador) y dejamos que repose durante 30 minutos.\nMojamos un rectángulo de papel de hornear de aproximadamente 40 x 30 cm, lo escurrimos bien y cubrimos con él el recipiente varoma. Reservamos.\nVertemos el agua para el vapor en el vaso (500 g) y programamos 5 minutos, temperatura 120º y velocidad 1, poniendo el cestillo sobre la tapa en lugar del cubilete.\nTerminado este tiempo, colocamos el varoma en su posición y echamos el arroz que tenemos reposando en el cestillo y los trozos de alga kombu en el recipiente varoma, sobre el papel de hornear. Con las manos lo distribuimos de manera uniforme, pulsamos la función balanza y echamos sobre el arroz 380 g de agua. Tapamos el varoma y programamos 22 minutos, temperatura varoma y velocidad 2. Es muy importante no levantar la tapa del varoma, en ningún momento, durante la cocción.\nPasado este tiempo, retiramos el recipiente varoma, SIN LEVANTAR LA TAPA (es muy importante no levantar la tapa del varoma para que no salga el vapor) y dejamos que repose el arroz durante 10-12 minutos.\nVolcamos el arroz en un recipiente no metálico (preferiblemente de madera). Con la espátula, movemos el arroz de forma delicada para airearlo y ayudar a que se enfríe por igual (la forma tradicional de enfriarlo es abanicándolo). Mientras lo movemos, vertemos poco a poco 6 cucharadas del aliño de vinagre (tiene que estar frío) sobre el arroz, removiendo y repartiendo con mucho cuidado el líquido por toda la mezcla. El resultado debe ser pegajoso y a la vez brillante.\n_________________________",
+        "accesorio": "Ninguno",
+        "velocidad": 0,
+        "temperatura_c": 120,
+        "potencia_calorifica": 9,
+        "tiempo_minutos": 25
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Sobre la esterilla de bambú (podemos forrarla con papel film transparente para no mancharla) ponemos una lámina de alga nori, con la parte más rugosa hacia arriba. Esta lámina tiene unas marcas (líneas) que debemos poner en horizontal igual que las de la esterilla.\nExtendemos el arroz sobre el alga en una capa fina (como es arroz es pegajoso, lo podemos hacer con las manos previamente humedecidas en agua o en el aliño del arroz), dejando libre de arroz desde la última marca del alga, del borde más alejado a nosotros (los laterales tienen que quedar cubiertos para aprovechar todo el rollo).\nColocamos en el borde (no tan en el borde como lo he puesto yo, sino un poquito más hacia el centro) más cercano a nosotros, sobre el arroz, los ingredientes elegidos; por ejemplo:\nlechuga, palitos de cangrejo, zanahoria, aguacate y mayonesa\ncanónigos, atún, zanahoria, calabacín, mayonesa y una pizca de wasabi\nsalmón ahumado, aguacate, zanahoria, lechuga y mayonesa\ntortilla, atún, calabacín, zanahoria y mayonesa\nÉstos son solo unos ejemplos y son los rellenos que más gustan en casa.\nCon la ayuda de la esterilla, vamos enrollando haciendo una ligera presión y terminamos humedeciendo el borde la lámina con un poquito de agua para sellar el rollo.\nCortamos el rollo en 6-7 porciones con un cuchillo humedecido.\nRepetimos el proceso con todas las láminas de alga nori.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Ponemos una capa de arroz para sushi sobre un cuadrado de alga nori de 10 x 10 cm.\nColocamos el relleno elegido en diagonal y formamos un cucurucho desde unos de los extremos de la diagonal.\nEste sushi se come con la manos al ser demasiado grande para utilizar los palillo.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Cogemos una porción de arroz para sushi con la palma de la mano humedecida y moldeamos en forma de croqueta.\nPonemos una pizca de wasabi (opcional) sobre la croqueta y colocamos encima una lámina del pescado elegido (fresco o ahumado).\nPodemos poner una tira de alga nori, a modo de cinturón, para mantener el pescado en su sitio.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Distribuimos el arroz de sushi en los cuencos hasta llenar dos tercios y colocamos por encima los ingredientes a gusto de cada uno, mezclando formas y colores.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Este sushi se presenta en una especie de saco pequeño de tofu frito, relleno de arroz de sushi y otros ingredientes.\n__________________________",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Servimos acompañados de salsa de soja, un poco de pasta de wasabi, una flor de láminas de jengibre encurtido y rábano daikon rallado.\nCada comensal puede añadir la cantidad de wasabi (cuidado que es muy picante) que desee a la salsa de soja y tomar un poco de jengibre encurtido entre cada tipo de sushi para cambiar de sabor.\nSi utilizamos pescado y marisco crudo, previamente tenemos que congelarlo durante un mínimo de 24 horas para evitar el anisakis. Una vez hecho, se conserva en el frigorífico y es conveniente consumirlo en el día.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1440
+      }
+    ],
+    "fuente_url": "https://www.misthermorecetas.com/sushi-thermomix/",
+    "creado_en": "2026-10-23"
   }
 ]
