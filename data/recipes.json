@@ -51192,5 +51192,367 @@
     ],
     "fuente_url": "https://www.misthermorecetas.com/sushi-thermomix/",
     "creado_en": "2026-10-23"
+  },
+  {
+    "id": "d4bc5add-7725-4c12-a1b4-b800ea196b03",
+    "slug": "gazpacho-de-manzana",
+    "titulo": "Gazpacho de manzana",
+    "descripcion": "Receta de Gazpacho de manzana adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/07/Gazpacho_manzana.jpg",
+    "categoria": "panes-masas",
+    "tiempo_total_min": 2,
+    "comensales": 4,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "4 tomates grandes y muy maduros",
+      "1 manzana pelada y descorazonada (utilizaremos media en el gazpacho y la otra media para decorar los platos)",
+      "1/2 cebolleta dulce (podéis poner 1/8 de cebolla normal)",
+      "25 gr de aceite de oliva virgen",
+      "1 cucharadita de café rasa de sal",
+      "1/2 cucharadita de café rasa de azúcar",
+      "1 diente de ajo pequeño (quitarle el corazón)",
+      "50 gr de pimiento rojo (opcional)",
+      "30 gr de pan del día anterior",
+      "un chorrito de vinagre (al gusto)",
+      "100 ml de agua fría"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Echamos en el vaso el tomate, la 1/2 manzana, la cebolleta, el aceite, la sal, el azúcar, el ajo, el pan, el pimiento (opcional) y el vinagre.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Trituramos 30 segundos a velocidad 5, y después, 1 minuto a velocidad 10.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Añadimos el agua y trituramos 10 segundos, velocidad 4. Comprobamos si nos gusta más líquido (añadimos más agua y repetimos la operación 10 seg, v.4) y comprobamos el punto de sal, azúcar y vinagre. Rectificamos a nuestro gusto.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Servimos en platos individuales y adornamos con la 1/2 manzana que teníamos reservada. Yo puse dos láminas finas a modo de decoración y cuadraditos picaditos dentro de cada plato. Y por último, un chorrito de aceite de oliva para decorar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/gazpacho-de-manzana/",
+    "creado_en": "2026-10-24"
+  },
+  {
+    "id": "dd5a2bde-74d3-406b-9391-3259848e2e57",
+    "slug": "rollitos-al-vapor-de-pimiento-asado-y-queso-tetilla",
+    "titulo": "Rollitos al vapor de pimiento asado y queso tetilla",
+    "descripcion": "Receta de Rollitos al vapor de pimiento asado y queso tetilla adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/07/rollitos-al-vapor-de-pimiento-asado-y-queso-tetilla-thermorecetas.jpg",
+    "categoria": "sopas-y-cremas",
+    "tiempo_total_min": 32,
+    "comensales": 2,
+    "dificultad": "Media",
+    "ingredientes": [
+      "2 filetes de pavo (150 g aprox c/u)",
+      "70 g de queso tetilla",
+      "70 g de pimiento rojo asado",
+      "Sal y pimienta"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Calentar unos 800 g de agua del grifo durante 7 minutos, 100º, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 6
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Mientras, disponer un trozo amplio de film transparente sobre la mesa de trabajo. Colocar un filete de pavo, salpimentar y, sobre él, colocar bastones de queso y, al lado, tiras de pimiento asado.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Enrollar los filetes procurando que no se salga el relleno. Cerrar bien los paquetes por los extremos, tiene que quedar como si fuera un caramelo. Pinchar con un palillo o brocheta el rollito para facilitar la cocción. Repetir la operación con el otro filete. Colocar en el Varoma.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Cuando el agua esté caliente poner el Varoma en su posición y programar 25 minutos, temperatura Varoma, velocidad 2.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 21
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Terminado el tiempo, retirar el Varoma y abrir los paquetes con mucho cuidado de no quemarse con el vapor. Cortarlos en rodajas y servir acompañado de cualquier de las opciones anteriores.",
+        "accesorio": "Ninguno",
+        "velocidad": 0,
+        "temperatura_c": 120,
+        "potencia_calorifica": 9,
+        "tiempo_minutos": 8
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/rollitos-al-vapor-de-pimiento-asado-y-queso-tetilla/",
+    "creado_en": "2026-10-24"
+  },
+  {
+    "id": "b58cc801-e432-452c-81ee-ab74f9bc13c6",
+    "slug": "como-dibujar-una-flor-en-un-bizcocho",
+    "titulo": "Cómo dibujar una flor en un bizcocho",
+    "descripcion": "Receta de Cómo dibujar una flor en un bizcocho adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/07/como-dibujar-una-flor-en-un-bizcocho.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 135,
+    "comensales": 8,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "150 g de azúcar",
+      "1 limón biológico (utilizaremos primero la piel -sólo la parte amarilla- y luego el zumo)",
+      "100 g de almendras peladas",
+      "300 g de zanahorias ya peladas",
+      "5 huevos",
+      "70 g de harina de maiz (Maicena) o de fécula de patata si la encontráis",
+      "200 g de harina de repostería",
+      "50 g de ron oscuro",
+      "1 poco de canela en polvo",
+      "1 sobre de levadura en polvo tipo Royal",
+      "2 cucharadas soperas de chocolate amargo en polvo"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos en el vaso la piel del limón y el azúcar. Pulverizamos programando 10 segundos, velocidad 8. Sacamos y reservamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 8,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Sin lavar el vaso ponemos las almendras y las trituramos programando 8 segundos, velocidad 7. Sacamos y reservamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Ponemos ahora las zanahorias, también sin lavar el vaso, y programamos [i]10 segundos, velocidad 7.[/i] Las ponemos en un bol, exprimimos el zumo del limón y se lo echamos a las zanahorias.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Ponemos en el vaso la mezcla de azúcar y ralladura de limón que hemos obtenido en el primer paso. Añadimos los huevos y batimos programando 1 minuto, velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Unimos las almendras, la zanahoria, la harina de maíz (o la fécula de patata), la harina y el ron. Programamos 20 segundos, velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Por último, añadimos la canela y la levadura. Programamos 20 segundos, velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Sacamos y reservamos la mitad de la masa. A la otra parte que nos ha quedado en el vaso le ponemos el chocolate y mezclamos unos segundos en velocidad 4, hasta que quede bien integrado.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Precalentamos el horno a 180º.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Preparamos un molde desmoldable, el mío era de 22 cms pero puede tener un diámetro mayor si tenéis en cuenta que variará el tiempo de horneado. Para que luego desmolde bien podemos cubrir su interior con papel de horno o untarlo con un poco de mantequilla y harina.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Y ahora empieza lo divertido. Tened en cuenta que siempre tendremos que echar las masas en el centro del molde y alternadas. Llenamos un vaso con masa clara (sin chocolate) y lo vertemos en el centro del molde. Ahora llenamos otro con masa oscura y lo vertemos también en el centro (caerá sobre la blanca). Y repetimos la operación tantas veces como queramos. Tened en cuenta que cada vaso será un aro de nuestro dibujo del bizcocho. Si queremos que la flor sea negra, la última tanda de masa tendrá que ser de chocolate.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 11,
+        "instruccion": "Una vez hayamos acabado nuestras dos masas es el momento de hacer el dibujo de la flor. Utilizaremos un cuchillo y algunas servilletas de papel para limpiarlo. Ponemos la punta del cuchillo en el centro del bizcocho y lo llevamos hacia afuera, hacia el lado derecho. Ahora limpiamos el cuchillo, lo ponemos de nuevo en el centro y lo llevamos hacia afuera pero esta vez hacia el lado izquierdo. Lo limpiamos y vamos del centro hacia arriba. Lo limpiamos y lo llevamos del centro hacia abajo. De este modo habremos formado una cruz (+) haciendo cuatro trazos que habrán ido siempre del centro hacia el exterior. En el dibujo corresponde a las flechas rojas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 12,
+        "instruccion": "Ahora, vamos a hacer una x pero esta vez llevando el cuchillo de los extremos del molde hacia el centro. Las lineas tendrán que estar en el centro de cada una de las anteriores (fijaos en el dibujo, en las flechas verdes).",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 13,
+        "instruccion": "Cuando el horno esté caliente metemos nuestro bizcocho. Lo cubrimos con papel de aluminio para que no se nos dore y horneamos a esa temperatura (180º) durante 1 hora y 15 minutos aproximadamente. Si vuestro molde tenía un diámetro mayor tened en cuenta que estará listo antes.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 75
+      },
+      {
+        "paso_numero": 14,
+        "instruccion": "Desmoldamos cuando esté templado y ya está. Sólo nos queda presumir de bizcocho rico y bonito.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/como-dibujar-una-flor-en-un-bizcocho/",
+    "creado_en": "2026-10-24"
+  },
+  {
+    "id": "ec70948f-e869-4769-aa32-943e6aa03d46",
+    "slug": "tortitas-de-patatas-con-queso",
+    "titulo": "Tortitas de patatas con queso",
+    "descripcion": "Receta de Tortitas de patatas con queso adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/07/tortas-de-patatas.jpg",
+    "categoria": "legumbres",
+    "tiempo_total_min": 15,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "400 g de patatas",
+      "1 cucharada de tomate natural triturado",
+      "75 g de cebolla",
+      "50 g de jamón serrano",
+      "1 huevo cocido",
+      "1 cucharadita de sal",
+      "125 g de queso de untar"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Lavamos las patatas y las introducimos con piel a grandes trozos en vaso. Trituramos durante 4 segundos velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Sacamos del vaso y las escurrimos en un colador o tamiz, presionando para que suelten la mayor cantidad de agua posible. Este punto es importante, cuanta menos agua tengan, más compacta y crujiente quedará la tortita.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Volvemos a meter las patatas trituradas en el vaso y añadimos el tomate, la cebolla, el huevo duro, la sal y el jamon (reservamos un poco de jamón para decorar). Trituramos de nuevo durante 6 segundos a velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Extendemos la mezcla resultante sobre una superficie plana formando una plancha de unos 5 mm de grosor. Cortamos con un cortapastas formas circulares (si no tenéis cortapastas, podéis formar bolitas y aplastarlas con la mano, para hacer las tortitas).",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Calentamos una sartén o plancha con una lámina de aceite de oliva y echamos las tortitas con el aceite caliente, dejándolas tostar por cada lado.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Montamos el plato con una torta, queso de untar sobre ella y otra torta cerrando el conjunto. Decoramos con un poco de queso en el centro de la torta superior y unos trocitos o una loncha de jamón coronando el bocado.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/tortitas-de-patatas-con-queso/",
+    "creado_en": "2026-10-24"
   }
 ]
