@@ -51554,5 +51554,360 @@
     ],
     "fuente_url": "https://www.thermorecetas.com/tortitas-de-patatas-con-queso/",
     "creado_en": "2026-10-24"
+  },
+  {
+    "id": "e95c90ea-a06f-4987-937e-fbf5f35f2cc0",
+    "slug": "zumo-de-sandia",
+    "titulo": "Zumo de sandía",
+    "descripcion": "Receta de Zumo de sandía adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/07/zumo-de-sandía-thermorecetas.jpg",
+    "categoria": "bebidas",
+    "tiempo_total_min": 5,
+    "comensales": 2,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "500 g de sandía sin piel y sin pepitas",
+      "125 g de zumo de naranja",
+      "50 g de zumo de limón",
+      "50 g de azúcar"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Poner en el vaso la pulpa de sandía troceada, el azúcar y los dos tipos de zumo. Programar 1 minuto, velocidad progresiva 5-7-9.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Para que esté bien fresco podéis guardarlo en la nevera durante 1 hora. Servir en vasos o copas y terminar decorando al gusto.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 60
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/zumo-de-sandia/",
+    "creado_en": "2026-10-25"
+  },
+  {
+    "id": "4b7d0ba0-7d73-4c63-8f09-068963e19510",
+    "slug": "strudel-de-verduras",
+    "titulo": "Strudel de verduras",
+    "descripcion": "Receta de Strudel de verduras adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/07/strudel-de-verduras.jpg",
+    "categoria": "verduras",
+    "tiempo_total_min": 30,
+    "comensales": 8,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "Unas hojas de albahaca lavadas y secadas",
+      "200 g de harina de repostería",
+      "200 g de ricotta o de requesón",
+      "50 g de agua",
+      "Media cucharadita de sal",
+      "200 g de queso (yo he puesto Provolone pero podéis utilizar otro, por ejemplo, un semicurado)",
+      "450 g de berenjena",
+      "100 g de calabacín",
+      "100 g de tomates cherry",
+      "Un poco de perejil",
+      "1 cebolleta o una cebolla",
+      "1 diente de ajo",
+      "30 g de aceite de oliva virgen extra para freír",
+      "Sal",
+      "Pimienta (opcional)",
+      "Algunas hojas de albahaca",
+      "Un poco de aceite para pintar la superficie de la masa"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos en el vaso todos los ingredientes de la masa. Amasamos programando 30 segundos, velocidad 6.",
+        "accesorio": "Cuchillas",
+        "velocidad": 6,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Envolvemos la masa en film trasparente y lo dejamos reposar en el frigorífico. Es el momento de preparar el relleno.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Rallamos el queso. Para ello lo ponemos en el vaso y programamos 10 segundos, velocidad 7. Sacamos y reservamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Cortamos la berenjena en cuadraditos, le ponemos sal y la dejamos reposar durante unos 10-15 minutos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 15
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Cortamos el calabacín en cuadrados pequeños y los tomates por la mitad.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Ponemos el perejil en el vaso para triturarlo programando 5 segundos, velocidad 7. Sacamos y reservamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Trituramos ahora la cebolleta (o la cebolla, si es lo que tenéis). La ponemos en el vaso y programamos 3 segundos, velocidad 5. Añadimos el diente de ajo y el aceite. Programamos 3 minutos, 100º, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 3
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Añadimos la berenjena al contenido del vaso y cocinamos. Programamos para ello 5 minutos, 100º, giro a la izquierda, velocidad cuchara.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Añadimos lo calabacines y los tomates, la mitad del perejil triturado y dos hojas de albahaca. Cocinamos programando 10 minutos, temperatura varoma, giro a la izquierda, velocidad cuchara.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Sacamos del vaso las verduras ya cocinadas y las dejamos enfriar. Cuando estén frías les añadimos el queso que habíamos triturado al principio.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 11,
+        "instruccion": "Unos minutos antes de que vayamos a dar forma a nuestro strudel sacamos la masa del frigorífico.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 12,
+        "instruccion": "Encendemos el horno y lo precalentamos a 200º.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 13,
+        "instruccion": "Extendemos la masa en nuestra superficie de trabajo hasta que quede una lámina fina y con forma rectangular. Tendremos que utilizar un rodillo y algo de harina para que no se nos pegue a la superficie de trabajo (si tenéis lámina de silicona os vendrá muy bien).",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 14,
+        "instruccion": "Cubrimos una bandeja de horno con papel de hornear y, con ayuda del rodillo, ponemos la masa extendida sobre ella.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 15,
+        "instruccion": "Ponemos nuestro relleno (las verduras con el queso) sobre la mitad de la superficie de la masa (sobre uno de los lados más largos), añadimos unas hojas de basílico y también el perejil que nos ha sobrado. Ahora cubrimos las verduras con la masa dejando la unión en la parte inferior y dándole forma de strudel (ojo, no hacemos como con el de manzana que enrollábamos como un brazo gitano, en este caso solo queda masa arriba y abajo, el relleno es todo verdura -fijaos en la foto-). Cerramos bien los extremos de nuestro strudel y pintamos la superficie con aceite.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 16,
+        "instruccion": "Horneamos durante 30-40 minutos a una temperatura de 200º.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 40
+      },
+      {
+        "paso_numero": 17,
+        "instruccion": "Lo servimos frío o caliente, como más nos guste.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/strudel-de-verduras/",
+    "creado_en": "2026-10-25"
+  },
+  {
+    "id": "462f9d84-335b-463b-844f-ac7ddc46fc75",
+    "slug": "frutas-con-crema-de-requeson",
+    "titulo": "Frutas con crema de requesón",
+    "descripcion": "Receta de Frutas con crema de requesón adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/07/frutas-con-crema.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 1,
+    "comensales": 4,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "Una rodaja de sandía",
+      "2 cortadas de piña",
+      "2 plátanos",
+      "350 g de requesón",
+      "100 ml de leche",
+      "3 cucharadas de miel",
+      "4 cucharadas de copos de maíz o corn-flakes"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Pelamos y cortamos la fruta, reservamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Introducimos en el vaso la leche, la miel y el requesón. Batimos durante 30 segundos a velocidad 4.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Ponemos en el fondo del bol o la copa dos cucharadas de crema de requesón. Repartimos la fruta por encima y coronamos con más crema al gusto. Espolvoreamos por encima los cereales y servimos.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/frutas-con-crema-de-requeson/",
+    "creado_en": "2026-10-25"
+  },
+  {
+    "id": "292a6969-0efa-4983-8dc3-fe08d8b8d32d",
+    "slug": "tartaletas-de-salmon-ahumado-con-lluvia-de-eneldo",
+    "titulo": "Tartaletas de salmón ahumado con lluvia de eneldo",
+    "descripcion": "Receta de Tartaletas de salmón ahumado con lluvia de eneldo adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/07/Tartaletas-de-salmón-ahumado.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 5,
+    "comensales": 4,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "12 tartaletas pequeñas",
+      "100 gr de salmón ahumado",
+      "100 gr de queso philadelphia",
+      "eneldo seco para espolvorear"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos en el vaso de la thermomix el salmón y el queso philadelphia. Trituramos 15 segundos, velocidad 5. Si os gusta una crema fina, podéis bajar los restos de las paredes hacia las cuchillas y repetir de nuevo la operación.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Rellenamos las tartaletas y espolvoreamos con eneldo seco.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/tartaletas-de-salmon-ahumado-con-lluvia-de-eneldo/",
+    "creado_en": "2026-10-25"
+  },
+  {
+    "id": "299b4185-7cb6-4f24-bfb5-e3215623b64f",
+    "slug": "tomate-frito",
+    "titulo": "Tomate frito",
+    "descripcion": "Receta de Tomate frito adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.misthermorecetas.com/wp-content/uploads/2012/09/tomate_frito.jpg",
+    "categoria": "sopas-y-cremas",
+    "tiempo_total_min": 50,
+    "comensales": 20,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "800 g de tomate triturado (natural o en conserva)",
+      "70 g de aceite de oliva virgen extra",
+      "1 cucharada de azúcar",
+      "1 cucharada de sal"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Si lo hacemos con tomate triturado en conserva:\nPonemos todos los ingredientes en el vaso del Thermomix y programamos 20 minutos, temperatura 100º y velocidad 2, poniendo el cestillo sobre la tapa en lugar del cubilete.",
+        "accesorio": "Cuchillas",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 20
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Ponemos los tomates, cortados en cuartos, en el vaso (sin el resto de ingredientes) y trituramos durante 15 segundos, a velocidad 5 (yo retiro la piel antes de ponerlos en el vaso).\nAñadimos el aceite, el azúcar y la sal. Programamos 30 minutos, temperatura 120º y velocidad 2, poniendo el cestillo sobre la tapa en lugar del cubilete.\nVertemos en un tarro de cristal, esperamos a que enfríe, tapamos y guardamos en el frigorífico.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 30
+      }
+    ],
+    "fuente_url": "https://www.misthermorecetas.com/tomate-frito/",
+    "creado_en": "2026-10-25"
   }
 ]
