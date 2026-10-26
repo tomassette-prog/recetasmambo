@@ -51909,5 +51909,320 @@
     ],
     "fuente_url": "https://www.misthermorecetas.com/tomate-frito/",
     "creado_en": "2026-10-25"
+  },
+  {
+    "id": "63cb2f68-a466-4bb0-bb48-893d4e5f4fc4",
+    "slug": "sandwich-de-brocoli-y-pavo",
+    "titulo": "Sándwich de brócoli y pavo",
+    "descripcion": "Receta de Sándwich de brócoli y pavo adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/07/sándwich-de-brócoli-y-pavo-thermorecetas.jpg",
+    "categoria": "panes-masas",
+    "tiempo_total_min": 17,
+    "comensales": 5,
+    "dificultad": "Media",
+    "ingredientes": [
+      "10 rebanadas de pan de sándwich",
+      "100 g de brócoli",
+      "120 g de queso de untar (tipo Philadelphia)",
+      "20 lonchas finas de fiambre de pavo",
+      "10 anacardos fritos",
+      "1 cucharada de café rasa de mostaza suave",
+      "Sal"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Poner los anacardos en el vaso, programar vaso cerrado y darle 2 golpes de turbo. Retirar y reservar.",
+        "accesorio": "Cuchillas",
+        "velocidad": "Turbo",
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Sin lavar el vaso, llenarlos hasta la marca de 1 litro. Calentar durante 7 minutos, 100º, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 7
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Mientras lavar los ramilletes de brócoli. Retirar los tallos y reservar en el cestillo. Una vez el agua ya esté caliente, añadir un pellizco de sal y poner el cestillo en el interior. Programar 10 minutos, 100º, velocidad 3.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Terminado el tiempo, desechar el agua de cocción y escurrir bien el brócoli.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Colocar de nuevo en el vaso el brócoli que, al quitar los tallos se habrá quedado en unos 60 g, el queso de untar y la mostaza. Triturar durante 10 segundos, velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Cubrir con esta pasta la mitad de las rebanadas de pan, colocar encima de cada una 2 lonchas de fiambre de pavo y espolvorear los anacardos fritos. Tapar con las otras rebanadas de pan de molde.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/sandwich-de-brocoli-y-pavo/",
+    "creado_en": "2026-10-26"
+  },
+  {
+    "id": "7030bb5c-b148-4707-b53a-7c7dd40963d0",
+    "slug": "salsa-tonnata",
+    "titulo": "Salsa tonnata",
+    "descripcion": "Receta de Salsa tonnata adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/07/salsa-tonnata.jpg",
+    "categoria": "pescados",
+    "tiempo_total_min": 2,
+    "comensales": 6,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "80 g de atún en aceite bien escurrido",
+      "10 alcaparras",
+      "3 filetes de anchoa en aceite",
+      "1 cucharadita de vinagre de vino",
+      "1 huevo entero",
+      "1 yema",
+      "20 g de zumo de limón",
+      "Sal",
+      "300 g de aceite de girasol"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos en el vaso el atún, las alcaparras, las anchoas y el vinagre. Trituramos programando 10 segundos, velocidad 7.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Añadimos los huevos, el zumo de limón y la sal. Ponemos el cubilete como lo solemos poner cuando usamos la mariposa (con la parte hueca hacia abajo) y con las cuchillas en movimiento, en velocidad 5, vamos echando el aceite sobre el cubilete. Tendremos las cuchillas en movimiento y en esa velocidad durante 1 minuto.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/salsa-tonnata/",
+    "creado_en": "2026-10-26"
+  },
+  {
+    "id": "7042c8e6-1080-4622-8eeb-a7257bff22af",
+    "slug": "crema-fria-de-melon-y-manzana-con-menta-y-limon",
+    "titulo": "Crema fría de melón y manzana con menta y limón",
+    "descripcion": "Receta de Crema fría de melón y manzana con menta y limón adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/07/crema-de-melon.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 2,
+    "comensales": 4,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "800 g de melón pelado y sin pepitas",
+      "120 g de manzana pelada",
+      "la piel de medio limón",
+      "5 hojas de menta fresca",
+      "120 g de caldo de verduras frío (podéis hacerlo también con agua y media pastilla de caldo, pero dejadlo enfriar)",
+      "1 cucharadita de sal",
+      "20 g de nata líquida para cocinar"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Introducimos en el vaso la piel del limón y la menta. Los trituramos 30 segundos a velocidad progresiva 5/10.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Bajamos los restos con la espátula y añadimos el melón troceado, la manzana troceada, el caldo y la sal. Trituramos 1 minuto a velocidad progresiva 5/10.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Añadimos la nata y mezclamos durante 20 segundos a velocidad 3.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Corregimos de sal y…¡listo!",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/crema-fria-de-melon-y-manzana-con-menta-y-limon/",
+    "creado_en": "2026-10-26"
+  },
+  {
+    "id": "47fdebd8-fd91-4c12-a6e5-64cdf52cfc14",
+    "slug": "quinoa-con-queso-feta-y-arandanos",
+    "titulo": "Quinoa con queso feta y arándanos",
+    "descripcion": "Receta de Quinoa con queso feta y arándanos adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/07/quinoa_feta_arandanos.jpg",
+    "categoria": "bebidas",
+    "tiempo_total_min": 25,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "200 gr de quinoa seca",
+      "700 gr de agua",
+      "sal",
+      "100 gr de arándanos secos (que dejamos que se hidraten en agua caliente mientras cocemos la quinoa)",
+      "1 cebolleta pequeña o media si es mediana",
+      "50 gr de aceite de oliva",
+      "200 gr de queso feta",
+      "Zumo de 1/2 limón",
+      "sal",
+      "perejil picado (opcional)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos en el vaso el agua, la sal y la quinoa. Programamos 20 minutos, 100º, giro a la izquierda, velocidad cuchara. Escurrimos la quinoa en el colador fino y la dejamos en una ensaladera y esperamos a que se enfríe un poco.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 16
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Secamos el vaso (no hace falta lavarlo) y ponemos la cebolleta. Trituramos 5 segundos, velocidad 4. La echamos donde está la quinoa.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Añadimos los arándanos hidratados (dejamos algunos para adornar) y trituramos 4 segundos, velocidad 4. Echamos junto con la quinoa.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Agregamos el queso hecho trocitos, reservando unos trocitos para adornar (yo también lo compro en Mercadona que ya viene en dados), el aceite, la sal y el zumo de limón y el perejil picado. Removemos bien. Probamos y rectificamos de limón o sal. Podéis espolvorear un poco de perejil para adornar, si queréis.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "¡Listo para comer! Está más rico si lo dejamos reposar unas horas. Así que si lo vais a hacer para la comida, podéis prepararlo por la mañana y dejarlo en la nevera.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/quinoa-con-queso-feta-y-arandanos/",
+    "creado_en": "2026-10-26"
+  },
+  {
+    "id": "6e2402e5-6d0b-4d61-9ffb-e65c1c99155c",
+    "slug": "pan-de-muerto-de-chocolate",
+    "titulo": "Pan de muerto de chocolate",
+    "descripcion": "Receta de Pan de muerto de chocolate adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.misthermorecetas.com/wp-content/uploads/2017/10/pan_muerto_chocolate.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 186,
+    "comensales": 1,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "50 g. de leche entera",
+      "10 g. de levadura prensada fresca",
+      "40 g. de harina de fuerza",
+      "10 g. de azúcar",
+      "50 g. de leche entera",
+      "215 g. de harina de fuerza",
+      "20 g. de cacao puro en polvo",
+      "65 g. de azúcar",
+      "1 pellizco de sal",
+      "1 huevo",
+      "1 cucharadita de extracto de vainilla",
+      "la ralladura de una naranja",
+      "45 g. de mantequilla a temperatura ambiente, en trozos pequeños",
+      "25 g. de mantequilla fundida",
+      "2-3 cucharadas de azúcar",
+      "1-2 cucharaditas de canela en polvo",
+      "50 g. de chocolate fondant"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos un bol sobre la tapa del vaso de la Thermomix y pulsamos la función balanza. Echamos la leche hasta que pese 50 g. y la calentamos en el microondas durante 20-25 segundos, a máxima potencia.\nVolvamos a poner el bol sobre la tapa del vaso, pulsamos la función balanza, echamos la levadura (10 g.) desmenuzada y mezclamos bien hasta que se disuelva.\nAñadimos la harina de fuerza y el azúcar y mezclamos hasta que todo esté bien integrado. Tapamos con un paño y dejamos que fermente durante 1 hora aproximadamente.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 60
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Echamos la leche en el vaso y programamos 1 minuto, temperatura 50º y velocidad 1.\nAñadimos el resto de ingredientes de la masa y la masa fermentada que tenemos en el bol. Programamos 30 segundos, a velocidad 6. Seguidamente, programamos 3 minutos, a velocidad espiga.\nEnvolvemos el vaso en una manta y dejamos que la masa doble su volumen dentro del vaso (aprox. 2 horas).\nUna vez haya doblado su volumen, ponemos la masa sobre la superficie de trabajo enharinada y amasamos ligeramente con las manos.\nSeparamos unos 100 g. de masa y con el resto de la masa formamos una bola que colocaremos sobre una bandeja de horno forrada con papel de hornear.\nLos 100 g. de masa los dividimos en 3 partes: una parte de aprox. 30 g. y 2 partes de 35 g. cada una.\nCon la masa de 30 g. hacemos una bola y reservamos.\nCon las 2 partes de 35 g. cada una hacemos dos cilindros. Con los dedos índice, corazón y anular, movemos cada unos de estos 2 cilindros para que donde estén los dedos quede un cilindro mucho más fino y así, les daremos forma de huesos. Los colocamos cruzados sobre la bola grande que tenemos en la bandeja, de modo que en la parte superior queden las partes finas de los cilindros. Encima de éstas colocamos la bola pequeña que tenemos reservada.\nDejamos que repose en un lugar cálido, libre de corrientes de aire, hasta que doble su volumen (para que tarde menos tiempo, podéis meter la bandeja en el horno, a 50º).\nPrecalentamos el horno a 200º.\nUna vez haya doblado su volumen, introducimos la bandeja en el horno y bajamos la temperatura a 180º. Horneamos durante 30 minutos, a 180º (si pasados 20 minutos, vemos que se está tostando mucho por arriba, lo cubrimos con papel de aluminio).",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 121
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Retiramos del horno y aún en caliente lo pincelamos con la mantequilla fundida y espolvoreamos con el azúcar y la canela molida.\nDejamos que enfríe completamente sobre una rejilla.\nFundimos el chocolate, en trozos, en el microondas de pocos en pocos segundos para que no se queme y lo echamos sobre el pan.\nPartimos en porciones y servimos.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.misthermorecetas.com/pan-de-muerto-de-chocolate/",
+    "creado_en": "2026-10-26"
   }
 ]
