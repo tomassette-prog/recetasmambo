@@ -52224,5 +52224,314 @@
     ],
     "fuente_url": "https://www.misthermorecetas.com/pan-de-muerto-de-chocolate/",
     "creado_en": "2026-10-26"
+  },
+  {
+    "id": "b3de62a2-1742-460b-a9e8-f10cef695020",
+    "slug": "ensalada-de-patatas-con-alino-de-mayonesa-y-yogur",
+    "titulo": "Ensalada de patatas con aliño de mayonesa y yogur",
+    "descripcion": "Receta de Ensalada de patatas con aliño de mayonesa y yogur adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/07/ensalada-de-patatas-con-aliño-de-mayonesa-y-yogur-thermorecetas.jpg",
+    "categoria": "verduras",
+    "tiempo_total_min": 20,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "4 patatas nuevas medianas (100 g aprox c/u)",
+      "1/2 cebolla tierna",
+      "3 cucharadas soperas de vinagre de vino blanco",
+      "135 de mayonesa o lactonesa",
+      "75 g de yogur natural",
+      "Sal y pimienta",
+      "Cebollino picado"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Llenar el vaso con agua del grifo hasta la marca de 1 litro. Calentarla durante 7 minutos, 100º, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 6
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Mientras, lavar bien las patatas y reservarlas en el cestillo.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Terminado el tiempo, colocar el cestillo en el interior del vaso y programar 18 minutos, 100º, velocidad 3 1/2. Terminado el tiempo comprobar que las patatas están bien cocidas, de no ser así prolongar la cocción un par de minutos más. Retirar y reservar hasta que estén templadas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 18
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Mientras, poner la mayonesa, el yogur y el vinagre en el vaso limpio. Salpimentar y mezclar durante 5 segundos a velocidad 2.",
+        "accesorio": "Cuchillas",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Cuando las patatas estén templadas cortarlas en rodajas de 1 cm de grosor. Agregar el aliño, mezclar bien y dejar enfriar completamente, como mínimo durante 1 hora. Remover de vez en cuando.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 60
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "A la hora de servir agregar la cebolla cortada en aros y decorar con el cebollino picado.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/ensalada-de-patatas-con-alino-de-mayonesa-y-yogur/",
+    "creado_en": "2026-10-27"
+  },
+  {
+    "id": "d4138ba7-fc5a-4d76-beb8-5cbf0f5cab06",
+    "slug": "sorbete-de-naranja-con-fruta-fresca",
+    "titulo": "Sorbete de naranja con fruta fresca",
+    "descripcion": "Receta de Sorbete de naranja con fruta fresca adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/07/sorbete-de-naranja-con-fruta-fresca.jpg",
+    "categoria": "bebidas",
+    "tiempo_total_min": 3,
+    "comensales": 4,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "1 limón pelado (sin la parte blanca)",
+      "2 naranjas peladas (sin la parte blanca)",
+      "El zumo de 1 naranja",
+      "125 g de azúcar",
+      "650 g de cubitos de hielo",
+      "Fruta fresca (melocotón, piña…)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Comenzamos pelando y troceando la fruta fresca con la que vamos a acompañar nuestro sorbete.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Ponemos en el vaso las naranjas y los limones cortados en cuartos, el zumo de la naranja, el azúcar y el hielo (en este orden). Programamos 45 segundos, velocidad progresiva 6-8, parando de vez en cuando si es necesario para bajar lo que pueda quedar en las paredes.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Servimos inmediatamente con unos trocitos de la fruta que habíamos preparado antes.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/sorbete-de-naranja-con-fruta-fresca/",
+    "creado_en": "2026-10-27"
+  },
+  {
+    "id": "5354d958-ab06-4147-9fa8-df474d7dfac6",
+    "slug": "salsa-de-mostaza-casera",
+    "titulo": "Salsa de mostaza casera",
+    "descripcion": "Receta de Salsa de mostaza casera adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/07/salsa-mostaza.jpg",
+    "categoria": "salsas",
+    "tiempo_total_min": 3,
+    "comensales": 20,
+    "dificultad": "Media",
+    "ingredientes": [
+      "25 g de cebolla tierna",
+      "medio diente de ajo",
+      "30 g de semillas de mostaza",
+      "15 g de mostaza en polvo",
+      "1,5 g de cúrcuma en polvo",
+      "1 g de comino en polvo",
+      "1 g de jengibre en polvo",
+      "1 g de nuez moscada",
+      "25 g de azúcar moreno",
+      "15 g de miel",
+      "2 g de sal",
+      "20 g de vinagre de manzana",
+      "80 ml de agua caliente",
+      "20 ml de aceite de oliva"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Introducimos en el vaso la cebolla y el ajo. Trituramos 5 segundos a velocidad 7.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Bajamos los restos de las paredes y volvemos a triturar 3 segundos a velocidad 7.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Añadimos las mostazas, la cúrcuma, el comino, el jengibre y la nuez moscada y la sal. Mezclamos durante 10 segundos a velocidad 3.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Añadimos el azúcar, la miel, el vinagre y el agua caliente. Trituramos todo junto durante 30 segundos a velocidad 7.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Así queda una salsa gruesa, más estilo Dijón. Si queréis una salsa más fina, volved a triturar durante 1 minuto a velocidad 7/10.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Finalmente, programamos velocidad 4 y medio, sin tiempo, y echamos lentamente el aceite de oliva por el bocal para emulsionar la salsa.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Guardamos en un recipiente de vidrio cerrado en el frigorífico. Se puede consumir inmediatamente, pero estará mucho mejor si la dejamos en la nevera durante 24 h.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1440
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/salsa-de-mostaza-casera/",
+    "creado_en": "2026-10-27"
+  },
+  {
+    "id": "ff75ce44-1b3c-4091-b4d7-21492233e6bb",
+    "slug": "cucharilla-japonesa-de-tartar-de-tomate-con-mozzarella",
+    "titulo": "Cucharilla japonesa de tartar de tomate con mozzarella",
+    "descripcion": "Receta de Cucharilla japonesa de tartar de tomate con mozzarella adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/07/Cucharillas_japonesas_tartar_tomate1.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 10,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "2 tomates tipo ensalada grandes",
+      "2 bolas de mozzarella",
+      "1 cebollita francesa (cebolleta pequeña)",
+      "4 cucharadas de aceite de oliva virgen extra",
+      "una pizca de sal",
+      "orégano al gusto",
+      "reducción de módena (para adornar y regar al final)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Sacamos las bolas de mozzarella y escurimos bien en un colador.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Pelamos el tomate y con cuchillo y tabla lo picamos en daditos regulares y pequeños. Ponemos a escurrir para que suelte el exceso de agua.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Para la reducción de módena pincha aquí.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "En la thermomix ponemos la cebollita y trituramos 6 segundos, velocidad 4. Reservamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Con cuchillo y tabla picamos la mozzarella en daditos regulares y pequeños (igual que el tomate).",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "En un bol mezclamos la cebollita, el tomate y la mozzarella. Añadimos sal y orégano al gusto y el aceite de oliva. Removemos bien.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Servimos en las cucharillas japonesas (si no tenéis estas cucharrillas servidlo en cuencos individuales) y regad con la reducción de módena.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/cucharilla-japonesa-de-tartar-de-tomate-y-mozzarella/",
+    "creado_en": "2026-10-27"
   }
 ]
