@@ -52533,5 +52533,261 @@
     ],
     "fuente_url": "https://www.thermorecetas.com/cucharilla-japonesa-de-tartar-de-tomate-y-mozzarella/",
     "creado_en": "2026-10-27"
+  },
+  {
+    "id": "32615a0b-b7c1-4991-96ed-77eac03a5ba2",
+    "slug": "flores-de-jamon-serrano-con-kiwi-y-salsa-de-queso",
+    "titulo": "Flores de jamón serrano con kiwi y salsa de queso",
+    "descripcion": "Receta de Flores de jamón serrano con kiwi y salsa de queso adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/07/flores-de-jamón-serrano-con-kiwi-y-salsa-de-queso-thermorecetas.jpg",
+    "categoria": "salsas",
+    "tiempo_total_min": 1,
+    "comensales": 2,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "2 kiwis",
+      "6 lonchas de jamón serrano",
+      "50 g de queso de cabra",
+      "20 g de nata líquida",
+      "20 g de leche",
+      "1 cucharada de vinagre de Jerez",
+      "20 g de aceite de oliva",
+      "Sal y pimienta"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Poner en el vaso todos los ingredientes de la salsa, reservando unos trocitos de queso de cabra para decorar. Salpimentar y batir durante 30 segundos a velocidad 3.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Pelar y cortar los kiwis en rodajas y colocarlas en 2 platos o una fuente. Repartir las lonchas de jamón serrano dobladas y enrolladas como si fueran flores. Desmenuzar y repartir por encima los trocitos de queso reservados.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "En el último momento, distribuir con una cuchara la salsa de queso y servir el resto en una salsera.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/flores-de-jamon-serrano-con-kiwi-y-salsa-de-queso/",
+    "creado_en": "2026-10-28"
+  },
+  {
+    "id": "28da0c71-3716-49ce-aa77-79dd88d800ed",
+    "slug": "tarta-sin-horno-de-petit-suisse-y-cereales",
+    "titulo": "Tarta sin horno de petit-suisse y cereales",
+    "descripcion": "Receta de Tarta sin horno de petit-suisse y cereales adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/07/tarta-sin-horno-petit-suisse.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 10,
+    "comensales": 8,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "200 g de cereales de chocolate (los que tengáis: pétalos, bolitas… o una mezcla)",
+      "60 g de mantequilla del tiempo o algo fundida",
+      "3 hojas de gelatina",
+      "150 g de chocolate negro",
+      "200 ml de leche entera",
+      "200 g de yogurt natural",
+      "165 g de queso tipo ricotta o requesón",
+      "75 g de azúcar blanca",
+      "Chocolate rallado",
+      "Cereales de chocolate"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Hacemos la base de nuestra tarta. Para ello, ponemos los cereales en el vaso y programamos 7 segundos, velocidad 5. Añadimos la mantequilla del tiempo (o algo fundida en el microondas) y mezclamos 5 segundos, velocidad 5. Ponemos esta mezcla en un molde desmoldable -el mío era redondo, de 22 cms de diámetro-. Lo metemos a la nevera.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Ahora lavamos el vaso y preparamosla crema. Ponemos las hojas de gelatina en un recipiente con agua fría, para que se hidraten.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Ponemos en el vaso el chocolatey la leche. Calentamos programando 6 minutos, 90º, velocidad 2.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 6
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Escurrimos la gelatina y la ponemos en el vaso. Mezclamos durante 30 segundos a velocidad 3.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Añadimos el yogur, el queso y el azúcar. Mezclamos programando 30 segundos, velocidad 3.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "La ponemos en nuestro molde, encima de la base de cereales.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Lo metemos al frigorífico para que se enfríe y solidifique.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Después de unas horas (mínimo 6), y en el momento de servir, solo tendremos que decorar la superficie. Una opción es ponerle chocolate rallado y unos cereales de chocolate.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Y ya está lista para desmoldar y servir.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/tarta-sin-horno-de-petit-suisse-y-cereales/",
+    "creado_en": "2026-10-28"
+  },
+  {
+    "id": "4b0cbdb6-943e-414e-b20f-2f014a1e7abc",
+    "slug": "vermut-de-sandia",
+    "titulo": "Vermut de sandía",
+    "descripcion": "Receta de Vermut de sandía adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/07/vermut-sandia.jpg",
+    "categoria": "sopas-y-cremas",
+    "tiempo_total_min": 2,
+    "comensales": 4,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "200 g de sandía sin piel ni pepitas (mejor si está fría)",
+      "1 naranja pelada y troceada sin semillas",
+      "150 ml de vermut blanco",
+      "8 cubitos de hielo"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Introducimos en el vaso la sandía y la naranja y trituramos durante 2 minutos a velocidad progresiva 5/10.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 2
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Añadimos el vermut y mezclamos durante 5 segundos, velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Servimos en copas con dos cubitos de hielo por copa.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/vermut-de-sandia/",
+    "creado_en": "2026-10-28"
+  },
+  {
+    "id": "3e4e121e-b1be-49c1-9f69-2a291206b9dc",
+    "slug": "pate-de-datiles-y-queso-azul",
+    "titulo": "Paté de dátiles y queso azul",
+    "descripcion": "Receta de Paté de dátiles y queso azul adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/07/Paté_datiles_queso.jpg",
+    "categoria": "panes-masas",
+    "tiempo_total_min": 1,
+    "comensales": 4,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "100 gr de dátiles ya deshuesados",
+      "80 gr de queso azul blando",
+      "50 gr de nata",
+      "200 gr de queso cremoso (tipo Philadelphia)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos los dátiles en el vaso y los trituramos programando 15 segundos, velocidad 9.",
+        "accesorio": "Cuchillas",
+        "velocidad": 9,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Añadimos el resto de ingredientes y programamos 15 segundos, velocidad 5. Tiene que quedar una mezcla homogénea, si no, trituramos unos segundos más.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Y ahora… ya sólo queda untarlo en mini tostas de pan y ¡disfrutar!",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/pate-de-datiles-y-queso-azul/",
+    "creado_en": "2026-10-28"
   }
 ]
