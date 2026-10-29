@@ -52789,5 +52789,400 @@
     ],
     "fuente_url": "https://www.thermorecetas.com/pate-de-datiles-y-queso-azul/",
     "creado_en": "2026-10-28"
+  },
+  {
+    "id": "57c1d668-d5a0-43bf-af1c-5ebabdcee4a1",
+    "slug": "tostas-con-crema-de-pimientos",
+    "titulo": "Tostas con crema de pimientos",
+    "descripcion": "Receta de Tostas con crema de pimientos adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/07/tostas-con-crema-de-pimientos-1-thermorecetas.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 1,
+    "comensales": 10,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "85 g de pimientos del piquillo (4 unidades)",
+      "175 g de queso de untar",
+      "Sal y pimienta",
+      "Bonito del norte en aceite",
+      "Aceitunas negras",
+      "Tostas de pan"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Poner en vaso limpio los pimientos del piquillo y el queso de untar. Salpimentar y mezclar durante 15 segundos, velocidad 5. Retirar y reservar en la nevera durante un par de horas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "A la hora de servir, tostar el pan elegido y untar un poco de la crema de pimiento. Colocar encima de cada tostada unos trozos de bonito del norte en aceite. Terminar decorando con las aceitunas negras troceadas o en rodajas.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Servir enseguida.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/tostas-con-crema-de-pimientos/",
+    "creado_en": "2026-10-29"
+  },
+  {
+    "id": "fdf87890-9a5b-4615-a8be-110b201a5cac",
+    "slug": "mousse-de-limon",
+    "titulo": "Mousse de limón",
+    "descripcion": "Receta de Mousse de limón adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/07/mousse-de-limon1.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 5,
+    "comensales": 8,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "1 bote pequeño de leche condensada (350g)",
+      "4 yogures naturales",
+      "100 g de zumo de limón"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos todos los ingredientes en el vaso y programamos 30 segundos, velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Y ahora, elegid una de estas opciones en función de cómo queráis presentarlo:Mousse: Lo vertemos en copas o en recipientes individuales y lo metemos en el frigorífico.Helado: Lo vertemos en moldes de helado (los venden y no son muy caros) y lo metemos al congelador.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Otra opción es que hagáis las dos cosas porque sale cantidad suficiente.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/mousse-de-limon/",
+    "creado_en": "2026-10-29"
+  },
+  {
+    "id": "2563d63d-33a5-4095-bace-201a4bd7550c",
+    "slug": "sopa-fria-de-pesto",
+    "titulo": "Sopa fría de pesto",
+    "descripcion": "Receta de Sopa fría de pesto adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/08/sopa-pesto.jpg",
+    "categoria": "salsas",
+    "tiempo_total_min": 3,
+    "comensales": 4,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "40 g de queso parmesano",
+      "20 g piñones",
+      "40 g de albahaca fresca en hojas",
+      "1 diente de ajo",
+      "275 g de leche evaporada o leche concentrada (tipo leche Ideal)",
+      "40 g de aceite de oliva",
+      "500 ml de agua",
+      "1 cucharadita de café de sal"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Introducimos en el vaso el queso troceado, los piñones, la albahaca y el ajo. Trituramos durante 20 segundos a velocidad 7.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Añadimos la leche evaporada y trituramos de nuevo durante 1 minuto a velocidad progresiva 5/10",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Añadimos el agua, la sal y el aceite y mezclamos todo durante 1 minuto a velocidad progresiva 5/10.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Introducimos en el frigorífico hasta el momento de servir.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/sopa-fria-de-pesto/",
+    "creado_en": "2026-10-29"
+  },
+  {
+    "id": "69075b44-4b90-4339-af6a-67916cfa1c36",
+    "slug": "chuletas-rellenas-de-manzana-y-queso-azul",
+    "titulo": "Chuletas rellenas de manzana y queso azul",
+    "descripcion": "Receta de Chuletas rellenas de manzana y queso azul adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/08/chuletas_cerdo_rellenas.jpg",
+    "categoria": "carnes",
+    "tiempo_total_min": 1,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "8 chuletas de cerdo gruesas",
+      "1 manzana reineta pelada y sin corazón.",
+      "100 gr de queso azul",
+      "harina para rebozar",
+      "aceite para dorar en sartén",
+      "sal",
+      "pimienta",
+      "palillos de dientes para cerrar las chuletas."
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Abrimos como un libro cada chuleta: colocamos en una tabla de cortar la chuleta y con un cuchillo muy afilado vamos cortándolos horizontalmente con mucho mimo para no romperlas hasta llegar al hueso.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Salpimentamos muy bien por dentro y por fuera cada chuleta. Podemos utilizar también cualquier hierba aromática que nos guste.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Ponemos en el vaso la manzana y el queso azul. Programamos 10 segundos, velocidad 5. Si no se han integrado bien los ingredientes, volvemos a repetir la operación.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Rellenamos cada chuleta con esta pasta de queso y manzana y cerramos con un palillo para que no se nos salga al cocinarlas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Las pasamos por harina muy bien, sobre todo por los lados par que selle bien. Doramos en una sartén a fuego fuerte 2-3 minutos por cada cara.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 3
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/chuletas-rellenas-de-manzana-y-queso-azul/",
+    "creado_en": "2026-10-29"
+  },
+  {
+    "id": "45fee129-8f1b-463e-ab90-de8bdb8abf27",
+    "slug": "cupcakes-de-calabaza-y-buttercream-de-cacao",
+    "titulo": "Cupcakes de calabaza y buttercream de cacao",
+    "descripcion": "Receta de Cupcakes de calabaza y buttercream de cacao adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.misthermorecetas.com/wp-content/uploads/2013/10/cupcakes_calabaza_buttercream_cacao.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 9,
+    "comensales": 16,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "100 g. de almendras crudas y peladas",
+      "200 g. de calabaza, pelada y cortada en trozos",
+      "2 huevos grandes (L)",
+      "150 g. de azúcar",
+      "100 g. de harina de repostería",
+      "2 cucharaditas de levadura química en polvo",
+      "1 pellizco de sal",
+      "50 g. de zumo de naranja",
+      "120 g. de mantequilla sin sal, a temperatura ambiente",
+      "420 g. de azúcar glas",
+      "80 g. de cacao puro en polvo",
+      "100 g. de leche entera"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Precalentamos el horno a 180º y colocamos los moldes de papel dentro de un molde para 12 magdalenas de aluminio o en moldes individuales de silicona.\nPrimero pulverizamos las almendras programando 15 segundos, a velocidad progresiva 5-7-10. Reservamos en un bol.\nEchamos la calabaza y la trituramos durante 10 segundos, a velocidad progresiva 5-7. Bajamos los restos que hayan quedado en las paredes y en la tapa del vaso hacia las cuchillas, con ayuda de la espátula. Volvemos a programar otros 10 segundos, a la misma velocidad para que quede bien triturada. Si queda algún trozo un poco grande repetimos la operación. Reservamos junto con la harina de almendras.\nColocamos la mariposa en las cuchillas y añadimos los huevos y el azúcar. Programamos 5 minutos, temperatura 37º y velocidad 3½. Pasado este tiempo, volvemos a programar otros 4 minutos, a velocidad 3½, sin temperatura.\nIncorporamos la calabaza, la harina de almendras, la harina de repostería, la levadura, una pizca de sal y el zumo de naranja. Mezclamos durante 15 segundos, a velocidad 2½. Quitamos la mariposa de las cuchillas y terminamos de mezclarlo con la espátula, mediante movimientos envolventes.\nVertemos en los moldes de papel llenándolos hasta la mitad y horneamos durante 20 minutos, a 180º (el tiempo depende del horno y antes de sacarlas, pinchamos una magdalena con un palillo y cuando salga limpio es que ya están listas).\nDejamos enfriar sobre una rejilla (mientras, lavamos y secamos el vaso y la tapa de la Thermomix).",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Ponemos el azúcar y la mantequilla en el vaso de la Thermomix. Programamos 4 minutos, a velocidad 3. No os preocupéis si no queda como una crema y quedan bolitas o trozos de masa de mantequilla y azúcar.\nAñadimos el cacao y la leche. Programamos 5 minutos, a velocidad 3.\nVertemos dentro de un manga pastelera con boquilla de estrella y decoramos los cupcakes poniendo la manga totalmente vertical y empezamos desde fuera hacia dentro, en el sentido de las agujas del reloj.\nColocamos algunos huesos de azúcar sobre el buttercream, clavamos las manos y ¡¡¡listos!!!",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 4
+      }
+    ],
+    "fuente_url": "https://www.misthermorecetas.com/halloween-cupcakes-de-calabaza-y-buttercream-de-cacao/",
+    "creado_en": "2026-10-29"
+  },
+  {
+    "id": "6911f8bb-4357-489a-b018-ead85f38ef17",
+    "slug": "cupcakes-de-calabaza-con-frosting-de-queso",
+    "titulo": "Cupcakes de calabaza con frosting de queso",
+    "descripcion": "Receta de Cupcakes de calabaza con frosting de queso adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.misthermorecetas.com/wp-content/uploads/2014/10/cupcakes_calabaza_frosting_queso-1.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 9,
+    "comensales": 14,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "190 g. de harina de repostería",
+      "1 cucharadita de levadura química",
+      "¼ cucharadita de bicarbonato sódico",
+      "1 pellizco de sal",
+      "1 cucharadita de canela en polvo",
+      "¼ cucharadita de nuez moscada molida",
+      "2 huevos grandes (L)",
+      "150 g. de azúcar",
+      "50 g. de azúcar moreno",
+      "130 g. de aceite de girasol",
+      "220 g. de puré de calabaza",
+      "1 cucharadita de extracto de vainilla",
+      "160 g. de mantequilla a temperatura ambiente",
+      "275 g. de azúcar glas",
+      "400 g. de queso cremoso (tipo Philadelphia®) frío"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Precalentamos el horno a 180º. Colocamos los moldes de papel en un molde de rígido para magdalenas. Reservamos.\nEn el vaso de la Thermomix echamos la harina, la levadura, el bicarbonato, la sal, la canela y la nuez moscada. Mezclamos durante 10 segundos, a velocidad 7. Retiramos del vaso y reservamos en un bol.\nSin lavar el vaso, ponemos los huevos, el azúcar, el azúcar moreno y el aceite de girasol. Programamos 1 minuto, a velocidad 3.\nAñadimos el puré de calabaza y la vainilla. Programamos 30 segundos, a velocidad 4.\nIncorporamos la mezcla de harina, levadura, ... y programamos 10 segundos, a velocidad 3. Terminamos de mezclarlo bien con la espátula, mediante movimientos envolventes.\nLlenamos las cápsulas, con esta mezcla, hasta la mitad y horneamos durante 25-30 minutos, a 180º (o hasta que al pinchar con un palillo, éste salga limpio).\nSacamos del horno, esperamos un par de minutos a que templen, retiramos del molde y dejamos enfriar sobre una rejilla.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "En el vaso limpio y seco, ponemos la mantequilla (tiene que estar blanda) y el azúcar glas. Programamos 3 minutos, a velocidad 2½. Con la espátula, separamos la crema que haya en las paredes y base del vaso y programamos 1 minuto más, a velocidad 3.\nRevolvemos de nuevo con la espátula y añadimos el queso cremoso. Programamos 1 minuto, a velocidad 3½. Terminamos de mezclarlo bien con la espátula, hasta que quede una crema fina y suave.\nVertemos en una manga pastelera con boquilla de estrella abierta.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 3
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Cuando los cupcakes estén completamente fríos, los decoramos con el frosting y para ello, ponemos la manga pastelera totalmente vertical al cupcake y empezamos a hacer círculos desde fuera hacia adentro, en el sentido de las agujas del reloj.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.misthermorecetas.com/cupcakes-de-calabaza-con-frosting-de-queso/",
+    "creado_en": "2026-10-29"
+  },
+  {
+    "id": "4e4537dc-9115-4a04-8304-e17a251b8b3f",
+    "slug": "pastel-de-calabaza",
+    "titulo": "Pastel de calabaza",
+    "descripcion": "Receta de Pastel de calabaza adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.misthermorecetas.com/wp-content/uploads/2018/10/pastel_calabaza0.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 78,
+    "comensales": 12,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "1 cucharadita de mantequilla para engrasar el molde",
+      "280 g. de azúcar",
+      "la piel de una naranja, sin nada de parte blanca",
+      "400 g. de pulpa de calabaza en trozos",
+      "4 huevos grandes (L)",
+      "240 g. de aceite de girasol",
+      "250 g. de harina de repostería",
+      "2 cucharadita rasas de bicarbonato",
+      "2 cucharaditas rasas de levadura química en polvo",
+      "1½ cucharaditas de canela molida",
+      "½ cucharadita de nuez moscada molida",
+      "¼ cucharadita de sal",
+      "80 g. de chocolate blanco en trozos",
+      "70 g. de mantequilla a temperatura ambiente",
+      "400 g. de queso cremoso (tipo Philadelphia)",
+      "30 g. de zumo de naranja",
+      "50 g. de azúcar glas"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Precalentamos el horno a 180º. Engrasamos los laterales de un molde desmoldable de 20 cm. de diámetro con mantequilla y cubrimos la base con papel de hornear. Reservamos.\nEn el vaso de la Thermomix ponemos el azúcar y la piel de naranja (en tiras) y programamos 20 segundos, a velocidad 10.\nAñadimos la calabaza y trituramos durante 5 segundos, a velocidad 5.\nAgregamos los huevos y el aceite de girasol. Programamos 30 segundos, a velocidad 5.\nIncorporamos la harina, el bicarbonato, la levadura, la canela, la nuez moscada y la sal. Programamos 3 segundos, a velocidad 6. Terminamos de mezclar bien con la espátula y vertemos en el molde preparado.\nHorneamos durante 60 minutos, a 180º. Dejamos enfriar el bizcocho dentro del molde durante 20 minutos y desmoldamos sobre una rejilla.\nLavamos y secamos el vaso y la tapa.",
+        "accesorio": "Ninguno",
+        "velocidad": 10,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 60
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Ponemos el chocolate blanco en el vaso y lo rallamos durante 8 segundos, a velocidad 8. Con la espátula, bajamos el chocolate hacia el fondo del vaso.\nAñadimos la mantequilla y programamos 3 minutos, temperatura 50º y velocidad 1. Comprobamos que se ha fundido todo y si no es así, programamos 1 minuto más, a la misma temperatura y velocidad.\nIncorporamos el queso cremoso, el zumo de naranja y el azúcar glas. Programamos 30 segundos, a velocidad 3. Con la espátula, bajamos los ingredientes hacia el fondo del vaso y programamos otros 30 segundos, a velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 8,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 3
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Cortamos el bizcocho por la mitad y lo rellenamos con la mitad del frosting.\nTapamos con la otra parte del bizcocho y extendemos el resto del frosting por encima.\nDecoramos con figuras de azúcar de Halloween, gominolas en forma de gusano o calaveras, ... o podemos espolvorear por encima cacao en polvo o canela molida.\nReservamos en el frigorífico durante 15 minutos.\nPartimos en porciones y servimos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 15
+      }
+    ],
+    "fuente_url": "https://www.misthermorecetas.com/pastel-de-calabaza/",
+    "creado_en": "2026-10-29"
   }
 ]
