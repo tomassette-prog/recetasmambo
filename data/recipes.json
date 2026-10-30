@@ -53184,5 +53184,353 @@
     ],
     "fuente_url": "https://www.misthermorecetas.com/pastel-de-calabaza/",
     "creado_en": "2026-10-29"
+  },
+  {
+    "id": "4d88999d-2202-457b-85d0-ddd3ba5c1056",
+    "slug": "nieve-de-pera",
+    "titulo": "Nieve de pera",
+    "descripcion": "Receta de Nieve de pera adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/07/nieve-de-pera-thermorecetas.jpg",
+    "categoria": "bebidas",
+    "tiempo_total_min": 10,
+    "comensales": 2,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "2 peras maduras (200 g aprox. de pera sin corazón)",
+      "80 g de agua mineral",
+      "el zumo de 1/2 limón",
+      "7 g de edulcorante en polvo",
+      "1/2 hoja de laurel",
+      "2 pellizcos de vainilla en polvo"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Lavar, secar y retirar el corazón a las peras.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Poner en el vaso las peras, el agua, el edulcorante, el zumo y el laurel. Y cocinar durante 10 minutos, a temperatura 100º, velocidad cuchara y giro a la izquierda.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Retirar la hoja de laurel y agregar el extracto de vainilla. Triturar durante 10 segundos a velocidad 3 1/2 y dejar enfriar hasta que llegue a temperatura ambiente. Introducir la compota en una heladera o sorbetera hasta conseguir una textura de granizado. No lo pongáis mucho tiempo para que no quede muy compacto.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Servir en copas decoradas con unas rodajas de limón y unas hojitas de menta o hierbabuena.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/nieve-de-pera/",
+    "creado_en": "2026-10-30"
+  },
+  {
+    "id": "bfab6e48-53bc-44f0-b8b6-60a97ae8c120",
+    "slug": "pimientos-fritos-en-thermomix",
+    "titulo": "Pimientos “fritos” en Thermomix",
+    "descripcion": "Receta de Pimientos “fritos” en Thermomix adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/07/pimientos-fritos-en-thermomix.jpg",
+    "categoria": "carnes",
+    "tiempo_total_min": 30,
+    "comensales": 4,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "2 dientes de ajo",
+      "50 g de aceite de oliva",
+      "700 g de pimientos amarillos, verdes y/o rojos, los que más os gusten, lavados y cortados",
+      "10 g de sal",
+      "30 g de azúcar",
+      "40 g de vinagre balsámico",
+      "40 g de vino blanco"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos en el vaso el ajo y el aceite y programamos 3 minutos, 100º, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 3
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Añadimos los pimientos cortados en trocitos (fijaos en la foto), la sal, el azúcar, el vinagre y el vino. Programamos 20 minutos, temperatura varoma, giro a la izquierda, velocidad cuchara.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 20
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Podéis servirlos como guarnición a cualquier carne o pescado, de entrante, en tostas o en bocadillo (solos, con lomo…). ¡Una delicia!",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/pimientos-fritos-en-thermomix/",
+    "creado_en": "2026-10-30"
+  },
+  {
+    "id": "88c35b0b-15bb-4ba9-bed2-4f072a8ad3bc",
+    "slug": "salsa-barbacoa",
+    "titulo": "Salsa barbacoa",
+    "descripcion": "Receta de Salsa barbacoa adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/08/salsa-barbacoa.jpg",
+    "categoria": "salsas",
+    "tiempo_total_min": 3,
+    "comensales": 20,
+    "dificultad": "Media",
+    "ingredientes": [
+      "1/2 cebolla picada (50 g aprox.)",
+      "300 g de ketchup",
+      "50 g de azúcar moreno",
+      "30 ml de zumo de limón",
+      "50 g de miel",
+      "1/2 cucharadita de café de cayena en polvo (si o os gusta el picante, podéis eliminarla)",
+      "1/2 cucharadita de café de pimentón dulce",
+      "1/2 cucharadita de café de cebolla en polvo",
+      "1/2 cucharadita de café de ajo en polvo",
+      "1 cucharadita de café de sal",
+      "1 cucharadita de café de tomillo",
+      "1 cucharadita de café de albahaca",
+      "1 cucharadita de café de orégano"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Picamos la cebolla en el vaso durante 5 segundos a velocidad 7.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Añadimos el ketchup, el azúcar y el zumo de limón y volvemos a triturar durante 10 segundos a velocidad 7.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Añadimos la miel y mezclamos durante 20 segundos a velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Mezclamos el resto de ingredientes aparte, en un bol, y los añadimos al vaso. Mezclamos durante 10 segundos a velocidad 3.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "A continuación programamos 2 minutos, 37º, velocidad cuchara.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 2
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Guardamos la salsa en un recipiente de vidrio cerrado y la introducimos en el frigorífico hasta el momento de consumirla. Lo ideal es tenerla al menos 24 horas para que alcance todo su aroma. Pero si no podéis esperar… pues también está muy rica.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1440
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/salsa-barbacoa/",
+    "creado_en": "2026-10-30"
+  },
+  {
+    "id": "67273a32-08c5-4b5f-b7d8-e34e0b00daae",
+    "slug": "risotto-verde",
+    "titulo": "Risotto verde",
+    "descripcion": "Receta de Risotto verde adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/08/Rissotto_verde.jpg",
+    "categoria": "arroces",
+    "tiempo_total_min": 25,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "2 puerros (sólo la parte blanca)",
+      "2 ramitas de apio",
+      "12 espárragos verdes (a los que habremos quitado la parte más gruesa del tallo)",
+      "2 dientes de ajo",
+      "50 gr. de aceite de oliva virgen",
+      "250 gr. de arroz",
+      "1 cucharada de azafrán",
+      "50 gr. de vino blanco",
+      "700 gr. de caldo de verduras hirviendo",
+      "70 gr. de nata líquida para cocinar",
+      "100 gr. de queso parmesano rallado",
+      "perejil picado para decorar",
+      "sal",
+      "pimienta"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "En el vaso, echamos el puerro y el apio troceados y el ajo. Programamos 10 segundos, a velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Añadimos los espárragos cortados y el aceite y programamos 10 minutos, temperatura 100º, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Incorporamos el arroz y rehogamos durante 3 minutos, temperatura 100º, giro a la izquierda, velocidad 1.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 3
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Agregamos el sobre de azafrán molido, el vino blanco y caldo hirviendo (yo lo calenté muy bien en el microondas, pero podéis ponerlo al fuego también). Programamos 17 minutos, temperatura 100º, giro a la izquierda, velocidad cuchara.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 9,
+        "tiempo_minutos": 14
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Dos minutos antes de que se termine el tiempo, echamos la nata . Cuando termine el tiempo, comprobamos que no esté duro, si no, programamos 2 minutos más.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 2
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Terminado el tiempo dejamos reposar dentro del vaso durante dos minutos más.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Servimos y espolvoreamos con perejil picado y el queso rallado.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/risotto-verde/",
+    "creado_en": "2026-10-30"
+  },
+  {
+    "id": "a72be1f9-6a92-47c5-a0cd-03e73d3c8bec",
+    "slug": "stollen",
+    "titulo": "Stollen",
+    "descripcion": "Receta de Stollen adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.misthermorecetas.com/wp-content/uploads/2013/01/stollen.jpg",
+    "categoria": "sopas-y-cremas",
+    "tiempo_total_min": 111,
+    "comensales": 20,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "100 g de azúcar glas",
+      "120 g de almendras molidas",
+      "20 g de clara de huevo",
+      "100 g de almendras crudas sin piel",
+      "400 g de harina de fuerza",
+      "40 g de levadura prensada fresca de panadería",
+      "120 g de leche a temperatura ambiente",
+      "200 g de mantequilla a temperatura ambiente",
+      "1 huevo",
+      "1 pellizco de sal",
+      "250 g de uvas pasas sin semillas",
+      "50 g de naranja confitada troceada",
+      "50 g de fruta confitada troceada",
+      "40 g de ron",
+      "80 g de mantequilla fundida",
+      "50 g de azúcar glas"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "En el vaso de la Thermomix, ponemos el azúcar glas (podemos hacerlo echando el azúcar normal en el vaso y programando 20 segundos, a velocidad progresiva 5-7-10) y las almendras molidas. Programamos 10 segundos, a velocidad 7.\nAñadimos la clara de huevo y programamos 15 segundos, a velocidad 5.\nRetiramos del vaso y reservamos envuelta en film transparente.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Sin lavar el vaso, ponemos las almendras y programamos 5 segundos, a velocidad 6. Retiramos del vaso y reservamos en un bol.\nPonemos en el vaso la harina, la levadura desmenuzada, la leche, la mantequilla, el huevo, la sal y 100 g de la pasta de almendras reservada. Programamos 3 minutos, función amasado.\nDejamos reposar la masa dentro del vaso durante 30 minutos (sólo tiene que reposar, no doblar su volumen).\nAñadimos las almendras troceadas reservadas, las uvas pasas, la naranja confitada, la fruta confitada y el ron. Programamos 2 minutos, función amasado.\nVolcamos la masa sobre una superficie de trabajo ligeramente espolvoreada con harina y la aplastamos con las manos hasta obtener un rectángulo de 30 x 35 cm. aprox., dejando el final del lateral derecho más grueso, para que al doblarla tenga la forma característica del stollen.\nCon la pasta de almendras que nos ha sobrado, formamos un rulo de 30 cm de largo y lo colocamos en el lateral izquierdo. Doblamos ese lado izquierdo hacia el centro y luego, el lado derecho lo doblamos de modo que quede encima del anterior, sin llegar la final (el lado de la masa que hemos dejado más gruesa no tiene que quedar encima del extremo donde está el rulo de pasta de almendras, que será ya más grueso).\nPonemos el stollen sobre una bandeja de horno cubierta con papel de hornear y dejamos reposar durante 1 hora y medio o 2 horas en un lugar cálido, libre de corrientes de aire (por ejemplo, dentro del horno apagado).",
+        "accesorio": "Ninguno",
+        "velocidad": 6,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 63
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Precalentamos el horno a 180º.\nPasado el tiempo de reposo, horneamos el stollen durante 40-43 minutos, a 180º.\nRetiramos del horno y lo pincelamos aún caliente con la mitad de la mantequilla fundida. Dejamos enfriar.\nCuando esté completamente frío, pincelamos con el resto de la mantequilla fundida y espolvoreamos con una capa gruesa de azúcar glas.\nCortamos en rebanadas y servimos.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 43
+      }
+    ],
+    "fuente_url": "https://www.misthermorecetas.com/stollen/",
+    "creado_en": "2026-10-30"
   }
 ]
