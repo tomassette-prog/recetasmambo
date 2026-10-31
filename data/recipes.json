@@ -53532,5 +53532,389 @@
     ],
     "fuente_url": "https://www.misthermorecetas.com/stollen/",
     "creado_en": "2026-10-30"
+  },
+  {
+    "id": "273e2ce5-74c9-4243-babe-c3914e22478a",
+    "slug": "tacos-de-salmon-con-crema-de-aguacate",
+    "titulo": "Tacos de salmón con crema de aguacate",
+    "descripcion": "Receta de Tacos de salmón con crema de aguacate adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/07/tacos-de-salmón-con-crema-de-aguacates-thermorecetas.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 1,
+    "comensales": 2,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "300 g de salmón en una rodaja",
+      "50 g de cebolla fresca",
+      "1 puntita de pasta de wasabi",
+      "1 aguacate",
+      "1 chorro de zumo de lima",
+      "1 cucharada sopera de semillas de sésamo",
+      "1 cucharada sopera de semillas de amapola",
+      "10 g de aceite de oliva",
+      "Pimienta recién molida",
+      "Escamas de sal negra"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Pelar la cebolla y triturar durante 5 segundos, velocidad 4. Bajar los trocitos hacia las cuchillas. Agregar la pulpa del aguacate sin piel ni hueso y el zumo de lima y el wasabi. Triturar durante 30 segundos, velocidad 3 1/2. Salpimentar y agregar unas gotas de aceite de oliva. Mezclar con la espátula, retirar y reservar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "En un plato hondo poner los dos tipos de semillas. Limpiar bien el salmón eliminando piel y espinas. Lavarlo, secarlo y cortarlo en dados. Salpimentar y untarlos con unas gotas de aceite. Rebozar una de las caras con las semillas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Dorar los cubos de salmón en una sartén o plancha caliente, comenzando por el lado que tiene las semillas y dejándolos sólo durante unos segundos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "A la hora de servir, distribuir en los platos o bandeja varios montoncitos con la crema de aguacate, colocar encima los dados de salmón procurando que queden las semillas hacia arriba. Espolvorear con las escamas de sal negra y servir antes de que se enfríen.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/tacos-de-salmon-con-crema-de-aguacate/",
+    "creado_en": "2026-10-31"
+  },
+  {
+    "id": "46816ee5-af0c-497a-8d05-46bbada1d774",
+    "slug": "tarta-de-whisky",
+    "titulo": "Tarta de whisky",
+    "descripcion": "Receta de Tarta de whisky adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/08/tarta-de-whisky-helada.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 90,
+    "comensales": 8,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "1 base de bizcocho genovés",
+      "4 huevos",
+      "100 g de azúcar",
+      "80 g de leche y un poquito más para hidratar la gelatina",
+      "3 hojas de gelatina neutra",
+      "50 g de whisky",
+      "Unos cubitos de hielo para enfriar el vaso antes de montar la nata",
+      "500 g de nata para montar",
+      "50 g de azúcar glas",
+      "1 pizca de sal",
+      "100 g de azúcar",
+      "250 g de agua",
+      "30 g de whisky",
+      "2 yemas",
+      "1 huevo entero",
+      "150 g de agua",
+      "150 g de azúcar",
+      "50 g de whisky",
+      "2 hojas de gelatina",
+      "Un poco de agua fría para hidratar la gelatina",
+      "Azúcar moreno para espolvorear y luego quemar"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Hacemos el bizcocho genovés siguiendo los pasos que podéis ver en esta receta. Con esa cantidad os saldrán dos bases, utilizad una para esta tarta y la otra, bien envuelta en papel film, podéis conservarla en el congelador para la próxima vez que hagáis una tarta. Yo he puesto la mitad de la masa en un molde desmoldable que me servirá para hacer toda la tarta de whisky. El resto (que he congelado), en otro molde.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Mientras tenemos el bizcocho en el horno podemos ir preparando el almíbar. Ponemos los ingredientes del almíbar en el vaso (agua, azúcar y whisky) y programamos 10 minutos, 100º, velocidad 2. Cuando acabe el tiempo programado lo sacamos del vaso y lo reservamos.",
+        "accesorio": "Ninguno",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Dejamos enfriar, tanto el bizcocho como el almíbar. Cuando esté frío preparamos la crema.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "En un plato con un poco de leche fría ponemos las hojas de gelatina neutra para que se vaya hidratando.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Ahora, con la mariposa en el vaso, ponemos la leche (80g), las yemas y los 100 g de azúcar. Programamos 5 minutos, 90º, velocidad 3 1/2. Añadimos la gelatina bien escurrida y programamos 15 segundos, velocidad 2. Incorporamos el whisky y volvemos a programar, esta vez 6 segundos, velocidad 2. Sacamos del vaso y dejamos enfriar.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Cuando la mezcla anterior se haya enfriado un poco, en el vaso limpio y sin mariposa, trituramos unos cubitos de hielo para que esté bien frío, tiramos el agua y secamos el vaso. Empezamos a montar la nata. Ponemos la mariposa en las cuchillas, ponemos la nata y la montamos en velocidad 3 1/2 hasta que veáis que está bien montada (unos 3 minutos). Ponemos la nata en un recipiente grande y la mezclamos con 50 g de azúcar glas. Reservamos en la nevera.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 101
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Lavamos y secamos bien el vaso y la mariposa porque vamos a montar las claras. Ponemos la mariposa en el vaso, las 4 claras y una pizca de sal. Las montamos durante 4 minutos en velocidad 3 1/2. Sacamos a otro bol y reservamos.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 4
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Ahora es el momento de mezclar el preparado inicial -ya frío- (yemas, leche, azúcar y whisky) con la nata y las claras. Para ello vamos incorporando todo al bol de la nata y mezclamos ayudándonos de la espátula con movimientos envolventes, hasta que todo quede integrado. Reservamos en la nevera.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Ya con todo listo vamos a montar la tarta.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Yo he utilizado el mismo molde en el que horneé la mitad de bizcocho genovés pero si habéis hecho una plancha con el bizcocho podéis cortarlo teniendo en cuenta vuestro molde desmoldable y colocarlo dentro, e incluso utilizar un aro grande de los que se utilizan para las tartas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 11,
+        "instruccion": "El bizcocho, que estará dentro del molde, lo bañamos con el almíbar. Ahora ponemos encima nuestra mezcla y metemos todo al frigorífico donde estará unas 4 horas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 240
+      },
+      {
+        "paso_numero": 12,
+        "instruccion": "Pasado ese tiempo hacemos la cobertura de la tarta.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 13,
+        "instruccion": "Ponemos la gelatina en agua fría para que se hidrate. Colocamos la mariposa en las cuchillas y los ingredientes de la cobertura -excepto la gelatina que tenemos en agua-. Programamos 5 minutos, 90º, velocidad 3 1/2. Añadimos la gelatina bien escurrida y mezclamos unos segundos en velocidad 3. Dejamos templar esta preparación y se la ponemos por encima a nuestra tarta. Metemos de nuevo nuestra tarta a la nevera. Pasada 1 hora la sacamos, espolvoreamos azúcar moreno y la quemamos con un soplete.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 53
+      },
+      {
+        "paso_numero": 14,
+        "instruccion": "Metemos nuestra tarta al congelador donde estará un mínimo de 12 horas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 720
+      },
+      {
+        "paso_numero": 15,
+        "instruccion": "Aproximadamente una hora antes de servir sacamos nuestra tarta del congelador y esperamos unos minutos para poder desmoldarla. Una vez desmoldada la metemos en la nevera.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/tarta-de-whisky/",
+    "creado_en": "2026-10-31"
+  },
+  {
+    "id": "57d6653e-82fc-4d7f-98e4-6d1028d62ecf",
+    "slug": "daiquiri-de-platano",
+    "titulo": "Daiquiri de plátano",
+    "descripcion": "Receta de Daiquiri de plátano adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/08/daiquiri-platano.jpg",
+    "categoria": "bebidas",
+    "tiempo_total_min": 1,
+    "comensales": 4,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "50 ml (medio cubilete) de zumo de limón",
+      "1 cucharadita de azúcar",
+      "100 ml (1 cubilete) de ron blanco",
+      "300 g de hielo",
+      "75 g de plátano"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Introducir todos los ingredientes en el vaso y triturar durante 30 segundos a velocidad 7.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Servir al momento.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/daiquiri-de-platano/",
+    "creado_en": "2026-10-31"
+  },
+  {
+    "id": "4075c626-4ff3-41a0-96c3-ba55a26c1635",
+    "slug": "coctel-salado-de-melon-hierbabuena-y-yogur-express",
+    "titulo": "Cóctel salado de melón, hierbabuena y yogur express",
+    "descripcion": "Receta de Cóctel salado de melón, hierbabuena y yogur express adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/07/Coctel_melon_jamon1.jpg",
+    "categoria": "sopas-y-cremas",
+    "tiempo_total_min": 3,
+    "comensales": 4,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "500 gr de melón cortado en trozos sin piel ni pepitas",
+      "1/2 diente de ajo",
+      "1 yogures griegos",
+      "1 manojo de hierbabuena fresca",
+      "1/2 cucharadita de azúcar",
+      "1 pizca de sal",
+      "1 pizca de pimienta (opcional)",
+      "Jamón serrano cortado en tiras finas tierno o en forma de crujiente"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos todos los ingredientes (excepto el jamón y el yogur) en el vaso y trituramos 1 minuto en velocidad 9.",
+        "accesorio": "Cuchillas",
+        "velocidad": 9,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Añadimos el yogur y programamos 20 segundos en velocidad 3 1/2.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Probamos y rectificamos de sal, azúcar o pimienta.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Dejamos que repose en la nevera y que se ponga fresquito y servimos en copas individuales. Decoramos con crujiente de jamón.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/coctel-salado-de-melon-hierbabuena-y-yogur-express/",
+    "creado_en": "2026-10-31"
+  },
+  {
+    "id": "7fa90a94-d0ea-4e51-bf74-2c30bfb088d6",
+    "slug": "caprichos-de-pasas-y-nueces",
+    "titulo": "Caprichos de pasas y nueces",
+    "descripcion": "Receta de Caprichos de pasas y nueces adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.misthermorecetas.com/wp-content/uploads/2014/09/caprichos_pasas_nueces3.jpg",
+    "categoria": "bebidas",
+    "tiempo_total_min": 26,
+    "comensales": 6,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "160 gr. de agua",
+      "20 gr. de levadura prensada fresca de panadería",
+      "60 gr. de aceite de oliva",
+      "1 huevo",
+      "80 gr. de azúcar",
+      "450 gr. de harina de fuerza",
+      "½ cucharadita de anís en grano",
+      "1 pellizco de sal",
+      "1 huevo batido",
+      "50 gr. de nueces en mitades",
+      "20-30 gr. de uvas pasas",
+      "6 cucharadas de azúcar"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "En el vaso de la Thermomix ponemos el agua y la levadura. Programamos 1 minuto, temperatura 37º y velocidad 2.\nAñadimos el aceite, el huevo y el azúcar. Programamos 10 segundos, a velocidad 4.\nIncorporamos la harina, el anís y la sal. Programamos 10 segundos, a velocidad 4 y después, amasamos durante 1 minuto, vaso cerrado y velocidad espiga.\nDejamos reposar dentro del vaso hasta que doble su volumen (aprox. 50-60 minutos, en función de la temperatura ambiente) o hasta que la masa se salga por el bocal.\nTranscurrido este tiempo, bajamos la masa con la espátula y volvemos a programar 1 minuto, vaso cerrado y velocidad espiga.\nPrecalentamos el horno a 200º.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Extendemos la masa sobre la superficie de trabajo espolvoreada con harina, la dividimos en 6 porciones y las estiramos, primero con las manos y luego con el rodillo, sin que queden muy finas. Las colocamos en 2 bandejas de horno, forradas con papel de hornear.\nLas pintamos con huevo batido y decoramos con nueces y uvas pasas. Espolvoreamos una cucharada de azúcar sobre cada porción.\nHorneamos cada bandeja durante 20-25 minutos, a 200º.\nSacamos del horno, dejamos enfriar y servimos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 25
+      }
+    ],
+    "fuente_url": "https://www.misthermorecetas.com/caprichos-de-pasas-y-nueces/",
+    "creado_en": "2026-10-31"
   }
 ]
