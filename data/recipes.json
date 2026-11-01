@@ -53916,5 +53916,473 @@
     ],
     "fuente_url": "https://www.misthermorecetas.com/caprichos-de-pasas-y-nueces/",
     "creado_en": "2026-10-31"
+  },
+  {
+    "id": "3771bb09-2d53-4d4c-bc72-a5af733adc41",
+    "slug": "sandwich-de-roquefort",
+    "titulo": "Sándwich de roquefort",
+    "descripcion": "Receta de Sándwich de roquefort adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/07/sándwich-de-roquefort-thermorecetas.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 5,
+    "comensales": 2,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "4 rebanadas de pan de molde",
+      "15 g de queso roquefort a temperatura ambiente",
+      "1 cucharada de queso gruyère rallado",
+      "1 cucharadita de coñac",
+      "20 g de margarina light a temperatura ambiente",
+      "1/2 cucharada de hierbas frescas picadas"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Poner en el vaso de la Thermomix los dos quesos y la margarina. Mezclar durante 5 segundos a velocidad 3. Bajar los trocitos hacia las cuchillas e incorporar el coñac y las hierbas frescas, mezclar durante 15 segundos a velocidad 3.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Untar con esta crema 2 rebanadas de pan y cubrir con las otras 2. Presionar un poco y cortar los sándwiches a la mitad y servir.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/sandwich-de-roquefort/",
+    "creado_en": "2026-11-01"
+  },
+  {
+    "id": "058635dd-9827-4619-8388-e8c7a2342576",
+    "slug": "bacalao-a-la-livornesa",
+    "titulo": "Bacalao a la livornesa",
+    "descripcion": "Receta de Bacalao a la livornesa adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/08/bacalao-a-la-livornesa.jpg",
+    "categoria": "pescados",
+    "tiempo_total_min": 50,
+    "comensales": 6,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "800 g aproximadamente de bacalao en salazón",
+      "Agua para desalar el bacalao",
+      "700 g de tomates maduros (aproximadamente 6 tomates)",
+      "1 cebolla blanca",
+      "4 dientes de ajo (3 para freír el bacalao y 1 para la salsa)",
+      "70 g de aceite de oliva virgen extra",
+      "1 ramillete de romero",
+      "Harina para enharinar el bacalao y luego freírlo",
+      "Aceite para freír el bacalao",
+      "Sal",
+      "Pimienta",
+      "80 g de pasas",
+      "Un poco de agua para hidratar las pasas",
+      "Piñones (opcional)",
+      "Unos 10 tomates cherry (opcional) partidos por la mitad",
+      "Aceitunas negras"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Lavamos el bacalao en salazón bajo el chorro de agua corriente y lo ponemos en remojo (el agua lo tiene que cubrir completamente) durante 48 horas, cambiando el agua 6 veces (cada 8 horas aproximadamente).",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 2362
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Una vez que el bacalao está desalado, empezamos nuestra receta.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Ponemos las pasas en un vaso con un poco de agua para que se hidraten.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Vamos a preparar la salsa. Pelamos y cortamos en cuartos los tomates. Los ponemos en el vaso y los troceamos 2 segundos, velocidad 4. Los sacamos y reservamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Sin lavar el vaso, ponemos la cebolla y el diente de ajo en el vaso y trituramos 6 segundos, velocidad 5. Bajamos lo que haya quedado en las paredes, añadimos los 70 g de aceite de oliva virgen extra y programamos 5 minutos, 100º, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Acabado el tiempo, añadimos los tomates ya triturados, la sal y un poco de azúcar. Con el cestillo sobre la tapa (sin cubilete) programamos 20 minutos 90º, velocidad cuchara, giro a la izquierda.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 20
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Mientras se hace nuestra salsa vamos a cortar, rebozar y freír el bacalao ya desalado y escurrido (incluso podéis secarlo con un poco de papel de cocina). Lo cortamos en trozos de unos 4 centímetros aproximadamente. Enharinamos cada trozo y lo freímos en una sartén (o en la freidora) con abundante aceite, una ramita de romero y 3 dientes de ajo. Lo freímos poco tiempo, pensad que luego acabará de cocinarse en el horno.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Cuando se acabe de hacer la salsa le añadimos las pasas, los piñones, los tomates cherry y las aceitunas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Treinta minutos antes de servir el plato ponemos la salsa y el bacalao en una fuente o bandeja apta para horno. Horneamos durante 20 minutos en el horno previamente precalentado a 180º. Si no os apetece encender el horno (en estas fechas es lo más probable) podéis colocar todo en una sartén grande y terminar de cocinar vuestro plato en el fuego, también durante 15-20 minutos a fuego lento.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 20
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/bacalao-a-la-livornesa/",
+    "creado_en": "2026-11-01"
+  },
+  {
+    "id": "1e83da79-7aad-4458-aecc-ecb2f7c2f7e6",
+    "slug": "salsa-napolitana",
+    "titulo": "Salsa napolitana",
+    "descripcion": "Receta de Salsa napolitana adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/07/Salsa_napolitana.jpg",
+    "categoria": "salsas",
+    "tiempo_total_min": 25,
+    "comensales": 4,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "2 latas de tomate triturado (800 gr)",
+      "30 gr de aceite de oliva",
+      "4 ajos pelados",
+      "1 pimiento verde, cortado en trozo y sin pepitas",
+      "1 pimiento rojo, cortado en trozos y sin pepitas",
+      "2 cebollas medianas cortadas en cuartos",
+      "1 cucharadita de café de azúcar",
+      "1/2 cucharadita de café de sal",
+      "1 manojo de albahaca fresca (si no 1 cucharada rasa de albahaca seca)",
+      "1 cucharada rasa de orégano",
+      "una pizca de tabasco (si os gusta el picante podéis echarle un poquito más)",
+      "una pizca de pimienta"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Echamos en el vaso el aceite, los ajos, los pimientos y las cebollas y trituramos 5 segundos, velocidad 5. Bajamos los restos de las paredes y programamos 10 minutos, temperatura varoma, velocidad 1.",
+        "accesorio": "Ninguno",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Añadimos el resto de ingredientes y programamos 20 minutos, temperatura 100º, velocidad cuchara.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 20
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Si os gusta muy fina la salsa, podéis triturarla 1 minuto a velocidad 5-7-9. Sabed que si hacéis esto, la salsa adquirirá un tono anaranjado porque el aceite de oliva emulsiona.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/salsa-napolitana/",
+    "creado_en": "2026-11-01"
+  },
+  {
+    "id": "ea219019-1034-4f27-8b96-1a2790fa7bf3",
+    "slug": "gazpacho-de-hierbabuena",
+    "titulo": "Gazpacho de hierbabuena",
+    "descripcion": "Receta de Gazpacho de hierbabuena adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/08/gazpacho-hierbabuena.jpg",
+    "categoria": "panes-masas",
+    "tiempo_total_min": 4,
+    "comensales": 6,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "150 g de pan de molde o miga de pan (preferentemente del día anterior)",
+      "1 diente de ajo",
+      "10 hojas de hierbabuena fresca",
+      "50 ml de aceite de oliva",
+      "25 ml de vinagre",
+      "1 cucharadita de sal",
+      "500 ml de agua",
+      "200 g de cubitos de hielo"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Introducimos en el vaso todos los ingredientes y programamos 3 minutos a velocidad progresiva 5/10.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 3
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Probamos, rectificamos de sal y vinagre y volvemos a batir durante 30 segundos a velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/gazpacho-de-hierbabuena/",
+    "creado_en": "2026-11-01"
+  },
+  {
+    "id": "826c7c62-fb2e-40b2-86df-477ed97d8124",
+    "slug": "tarta-facil-de-chocolate-y-oreo",
+    "titulo": "Tarta fácil de chocolate y Oreo",
+    "descripcion": "Receta de Tarta fácil de chocolate y Oreo adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.misthermorecetas.com/wp-content/uploads/2015/06/tarta_facil_chocolate_oreo.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 187,
+    "comensales": 4,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "320 gr. de galletas Oreo",
+      "100 gr. de mantequilla",
+      "400 gr. de nata líquida para montar (con mínimo 35% m.g.)",
+      "50 gr. de azúcar",
+      "380 gr. de chocolate negro, especial para postres (con 52% de cacao)",
+      "50 gr. de mantequilla",
+      "8 galletas Oreo, partidas por la mitad",
+      "un puñado de chips o gotas de chocolate"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos las galletas en el vaso de la Thermomix y las trituramos durante 20 segundos, a velocidad 8.\nAñadimos la mantequilla y programamos 2 minutos, temperatura 50º y velocidad 3.\nVertemos en un molde desmoldable rectangular (de 28 x 20 cm. aprox.) y prensamos para formar la base y cubrir las paredes del molde. Reservamos en el congelador mientras hacemos el relleno.",
+        "accesorio": "Cuchillas",
+        "velocidad": 8,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 2
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Limpiamos el vaso con papel de cocina absorbente para eliminar los restos de galletas que queden.\nEchamos la nata y el azúcar. Programamos 5 minutos, temperatura 90º y velocidad 1.\nAñadimos el chocolate en trozos y la mantequilla. Programamos 2 minutos, a velocidad 3.\nVertemos sobre la base de galletas y dejamos templar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Cuando la crema de chocolate esté templada, colocamos las mitades de galletas Oreo y las gotas de chocolate.\nReservamos en el frigorífico durante un mínimo de 3 horas.\nDesmoldamos, partimos en porciones y servimos",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 180
+      }
+    ],
+    "fuente_url": "https://www.misthermorecetas.com/tarta-facil-de-chocolate-y-oreo/",
+    "creado_en": "2026-11-01"
+  },
+  {
+    "id": "1c09a106-c1c1-4db6-84c0-cc14daf1e5c0",
+    "slug": "tarta-tortuga-gertrudis",
+    "titulo": "Tarta “Tortuga Gertrudis”",
+    "descripcion": "Receta de Tarta “Tortuga Gertrudis” adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.misthermorecetas.com/wp-content/uploads/2012/05/tarta_tortuga_gertrudis_chocolate-1.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 301,
+    "comensales": 4,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "1 ensaladera o bol de unos 24 o 26 cm. de diámetro",
+      "2 o 3 brazos de gitano rellenos nata o trufa (depende del tamaño, yo utilizo 2 y son del Lidl)",
+      "100 gr. de azúcar",
+      "250 gr. de chocolate negro de buena calidad",
+      "500 gr. de nata para montar (35% m.g.)",
+      "4 huevos (separamos las yemas de las claras)",
+      "1 pellizco de sal",
+      "2 Bollycaos con las puntas de chocolate, para las patas",
+      "1 pan de leche, para la cabeza",
+      "2 caramelos redondos blancos",
+      "2 pepitas de chocolate",
+      "1 trozo de regaliz con pica-pica, para la lengua."
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Metemos los brazos de gitano en el frigorífico durante 1 hora, para que al cortarlos queden las rodajas perfectas.\nForramos la ensaladera por dentro con papel film. Reservamos.\nCortamos los brazos de gitano en rodajas de 2 cm. de grosor y las colocamos sobre el papel film con el que hemos forrado en interior de la ensaladera, empezando en el centro y sobre ésta vamos colocando unas sobre otras, hasta que las paredes de la ensaladera estén completamente cubiertas (hay que intentar que queden los menos huecos posibles). Reservamos unas rodajas para tapar la parte superior, después de echar la mousse.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 60
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Echamos el azúcar en el vaso de la Thermomix y la pulverizamos durante 20 segundos, a velocidad progresiva 5-7-10. Retiramos y reservamos.\nPonemos el chocolate, en trozos, en el vaso y programamos 15 segundos, a velocidad 8. Con la espátula, bajamos los restos que hayan quedado en las paredes y en la tapa del vaso hacia las cuchillas. Si no ha quedado bien triturado, programamos otros 10 segundos más, a la misma velocidad (bajamos los restos que hayan quedado en las paredes con la espátula, hacia las cuchillas).\nAñadimos el azúcar glas y la nata. Programamos 1 minuto, temperatura 50º y velocidad 2 (el chocolate tiene que quedar fundido, si no es así, programamos 30 segundos más, a la misma temperatura y velocidad).\nIncorporamos las yemas y mezclamos durante 15 segundos, a velocidad 4. Reservamos en un bol grande y dejamos enfriar.\nLavamos y secamos muy bien el vaso y la tapa (para eliminar los restos de agua que quedan en las cuchillas, pulsamos 3 veces el botón \"turbo\" y así secaremos perfectamente el vaso).\nColocamos la mariposa en las cuchillas y echamos las claras de huevo y un pellizco de sal. Programamos 7 minutos, velocidad 3 (pasados los 2 primeros minutos, retiramos el cubilete para que las claras cojan aire y monten mejor).\nAñadimos las claras montadas a la mezcla de chocolate y mezclamos muy suavemente con la espátula, mediante movimientos envolventes, de abajo hacia arriba.\nVertemos la mousse en la ensaladera, sobre las rodajas de brazo de gitano. Extendemos bien y con la espátula alisamos la parte superior.\nColocamos las rodajas de brazo de gitano reservadas, de modo que quede la superficie quede bien tapada.\nCubrimos con papel film y reservamos en el frigorífico, un mínimo de 4 horas (yo la dejo de un día para otro).\nQuitamos el papel film de la parte superior de la ensaladera y la volcamos sobre la bandeja donde vamos a presentarla. Con mucho cuidado retiramos la ensaladera y el papel film para que nos quede el caparazón de la tortuga perfecto (como en la foto).\nCortamos los dos extremos de cada Bollycao (4 puntas) y las ponemos a modo de patas.\nCortamos un extremo del pan de leche y la parte más grande la colocamos como cabeza.\nUntamos un poquito de nocilla en los caramelos y los pegamos en el pan de leche, hacemos lo mismo con las perlitas de chocolate (o un poco de fondant negro) y las pegamos encima de los caramelos. Con un cuchillo hacemos un corte en la parte delantera del pan de leche e introducimos un trozo del regaliz, previamente recortado como una lengua (como en la foto).\n¡Lista para presentarla y comerla!.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 8,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 198
+      }
+    ],
+    "fuente_url": "https://www.misthermorecetas.com/tarta-tortuga-gertrudis/",
+    "creado_en": "2026-11-01"
+  },
+  {
+    "id": "3390dcd9-eb5d-4c58-bb8e-a482c0189ba7",
+    "slug": "bizcocho-de-galletas-principe-en-el-microondas",
+    "titulo": "Bizcocho de galletas Príncipe, en el microondas",
+    "descripcion": "Receta de Bizcocho de galletas Príncipe, en el microondas adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.misthermorecetas.com/wp-content/uploads/2014/01/bizcocho_galletas_principe_microondas.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 19,
+    "comensales": 4,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "250 g de galletas Príncipe®",
+      "3 huevos grandes (L)",
+      "120 g de azúcar",
+      "200 g de leche entera",
+      "100 g de aceite de girasol",
+      "1 sobre de levadura química en polvo",
+      "100 g de pepitas de chocolate (opcional)",
+      "150 g de chocolate para postres (con 52% cacao)",
+      "50 g de mantequilla",
+      "50 g de agua",
+      "galletas Príncipe minis®"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos las galletas en el vaso del Thermomix y programamos 20 segundos, a velocidad progresiva 5-7-10. Con la espátula, bajamos los restos que hayan quedado en las paredes del vaso hacia las cuchillas.\nAñadimos los huevos, el azúcar, la leche, el aceite y la levadura. Programamos 20 segundos, a velocidad 6.\nUntamos con mantequilla un molde redondo de silicona de 23 cm de diámetro y vertemos la mezcla del vaso. Cogemos el molde y, con cuidado, le damos unos golpes contra la encimera para que salga el aire y repartimos las pepitas de chocolate sobre la masa.\nMetemos al microondas y programamos 10 minutos, a 800 w. Cuando termine este tiempo, dejamos el bizcocho dentro del microondas (apagado), con la puerta cerrada, durante 5 minutos más.\nSacamos, dejamos enfriar completamente sobre una rejilla, desmoldamos y decoramos con la cobertura de chocolate.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 6,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Ponemos el chocolate en el vaso del Thermomix y programamos 20 segundos, a velocidad progresiva 5-7. Con la espátula, bajamos los restos que queden en las paredes del vaso hacia las cuchillas.\nAñadimos el agua y programamos 4 minutos, temperatura 37º y velocidad 2.\nIncorporamos la mantequilla y programamos 4 minutos, temperatura 37º y velocidad 2. Comprobamos que quede una mezcla homogénea; si no es así, programamos 1 minuto más, a la misma temperatura y velocidad.",
+        "accesorio": "Cuchillas",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 3
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Cubrimos el bizcocho con esta cobertura y dejamos reposar hasta que la cobertura se enfríe.\nDecoramos con las galletas Príncipe minis® y servimos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.misthermorecetas.com/bizcocho-de-galletas-principe-en-el-microondas/",
+    "creado_en": "2026-11-01"
+  },
+  {
+    "id": "01c9cc74-55c3-482e-82c3-6e3123c5441e",
+    "slug": "cupcakes-de-vainilla-con-frosting-de-nutella-en-forma-de-helado",
+    "titulo": "Cupcakes de vainilla con frosting de Nutella, en forma de helado",
+    "descripcion": "Receta de Cupcakes de vainilla con frosting de Nutella, en forma de helado adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.misthermorecetas.com/wp-content/uploads/2014/09/cupcakes_forma_helado11.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 11,
+    "comensales": 12,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "12 conos para helado con base plana",
+      "200 gr. de harina de repostería",
+      "1 y ½ cucharaditas de levadura química en polvo",
+      "1 pellizco de sal",
+      "110 gr. de mantequilla a temperatura ambiente, en trozos",
+      "140 gr. de azúcar",
+      "3 huevos grandes (L)",
+      "70 gr. de leche",
+      "2 cucharadita de vainilla",
+      "70 gr. de pepitas de chocolate",
+      "50 gr. de azúcar glas",
+      "300 gr. de Nutella",
+      "100 gr. de mantequilla a temperatura ambiente",
+      "1 pellizco de sal",
+      "fideos de chocolate",
+      "fideos de colores o bolitas de colores"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Precalentamos el horno a 180º. Colocamos los conos para helado dentro de un molde rígido para magdalenas o para mini-magdalenas. Reservamos.\nEn el vaso de la Thermomix ponemos la harina, la levadura y la sal. Programamos 15 segundos, a velocidad 7. Retiramos del vaso y reservamos.\nSin lavar el vaso, ponemos la mantequilla en trozos (tiene que estar blanda) y el azúcar. Programamos 30 segundos, a velocidad 3. Con la espátula, separamos la crema que haya quedado pegada en las paredes y en la base del vaso.\nA continuación, programamos 1 minuto, a velocidad 3 y añadimos los huevos, de uno en uno, por el bocal.\nIncorporamos la leche y la vainilla. Programamos a velocidad 3, sin programar tiempo y añadimos la harina con levadura reservada por el bocal.\nAgregamos las pepitas de chocolate y mezclamos con la espátula, mediante movimientos envolventes.\nVertemos en los conos, llenándolos hasta las ¾ partes.\nHorneamos durante 25-30 minutos, a 180º (o hasta que al pincharlos con un palillo, éste salga limpio).\nSacamos del horno y dejamos enfriar.",
+        "accesorio": "Ninguno",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "En el vaso limpio y seco, ponemos el azúcar glas, la Nutella, la mantequilla y la sal. Programamos 30 segundos, a velocidad 4.\nTerminamos de mezclarlo bien con la espátula y vertemos en una manga pastelera con boquilla de estrella abierta. Si la crema no tiene la consistencia necesaria para decorar los cupcakes, la guardamos en el frigorífico durante ½ hora aprox.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Cuando los conos estén completamente fríos, los decoramos con el frosting y espolvoreamos con los fideos de chocolate o de colores.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.misthermorecetas.com/cupcakes-de-vainilla-con-frosting-de-nutella-en-forma-de-helado/",
+    "creado_en": "2026-11-01"
   }
 ]
