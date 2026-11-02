@@ -54384,5 +54384,283 @@
     ],
     "fuente_url": "https://www.misthermorecetas.com/cupcakes-de-vainilla-con-frosting-de-nutella-en-forma-de-helado/",
     "creado_en": "2026-11-01"
+  },
+  {
+    "id": "89ac8e57-03fb-460d-a1fb-2a22399a5ae2",
+    "slug": "ensalada-fresca-de-zanahorias",
+    "titulo": "Ensalada fresca de zanahorias",
+    "descripcion": "Receta de Ensalada fresca de zanahorias adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/08/ensalada-fresca-de-zanahorias-thermorecetas.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 5,
+    "comensales": 2,
+    "dificultad": "Media",
+    "ingredientes": [
+      "2 zanahorias medianas",
+      "1 cucharada sopera de uvas pasas",
+      "Albahaca picada",
+      "Limón o lima (opcional)",
+      "3 cucharadas soperas de aceite de oliva virgen",
+      "1 cucharada sopera de vinagre de Jerez",
+      "1 cucharada sopera de zumo de limón",
+      "1 cucharada de postre de azúcar blanquilla",
+      "Sal y pimienta"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Poner las uvas pasas a remojo en una tacita con agua caliente.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Mientras, raspar, lavar y trocear de manera uniforme las zanahorias. Trocearlas con la Thermomix durante 9 segundos a velocidad 4. Retirar y reservar en una ensaladera.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Sin lavar el vaso poner el vinagre, el limón y el azúcar blanquilla. Programar velocidad 3 1/2 sin tiempo y verter el aceite de oliva sobre la tapa. De este modo caerá en hilo y emulsionará el aliño.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Agregar a las zanahorias las uvas pasas escurridas y salpimentar. Agregar el aliño y remover bien para que quede bien repartido.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Terminar espolvoreando la albahaca picada y decorando la ensaladera con unas rodajas de limón o lima.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/ensalada-fresca-de-zanahorias/",
+    "creado_en": "2026-11-02"
+  },
+  {
+    "id": "d6319e70-1728-4125-b392-59dd95611016",
+    "slug": "tortano-napoletano",
+    "titulo": "Tortano napoletano",
+    "descripcion": "Receta de Tortano napoletano adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/08/tortano-napoletano-2.jpg",
+    "categoria": "sopas-y-cremas",
+    "tiempo_total_min": 10,
+    "comensales": 8,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "200 g de agua templada",
+      "100 g de leche templada",
+      "1 cucharadita de azúcar",
+      "25 g de levadura de panadería",
+      "500 g de harina de repostería",
+      "1 cucharadita de sal fina",
+      "150 g de queso (yo he puesto provolone pero os sirve también un semicurado o el que tengáis)",
+      "150 g de salami o de otro embutido",
+      "50 g de manteca o de mantequilla",
+      "50 g de queso de oveja (u otro que tengamos)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos en el vaso el agua, la leche y el azúcar. Programamos 1 minuto, 37º, velocidad 2.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 4,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Añadimos la levadura y mezclamos 10 segundos, velocidad 3.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Ponemos la harina y la sal. Amasamos programando 3 minutos, vaso cerrado, velocidad espiga.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 3
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Sacamos la masa y la ponemos en un recipiente amplio cubierto con papel film. Lo dejamos levar durante 1 hora aproximadamente.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 60
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "En el vaso limpio y seco trituramos los quesos durante unos segundos en velocidad 8. Sacamos y reservamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 8,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Ponemos ahora el salami y programamos 10 segundos, velocidad 7. Sacamos y reservamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Cuando la masa haya levado la ponemos sobre la superficie de trabajo y la extendemos formado un rectángulo de aproximadamente, 30×40 cms.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Pintamos la masa ya extendida con la mantequilla o la manteca. Ponemos encima los quesos rallados y el salami. Enrollamos la pasta sobre si misma (como si fuera un brazo gitano) y formamos un aro.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Lo dejamos levar de nuevo durante 60 minutos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 60
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Pasada esa hora, precalentamos el horno a 200º. Una vez caliente, metemos nuestro tortano. Lo horneamos durante media hora aproximadamente, los primeros 10 minutos a 200º y los siguientes 20 a 180º.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/tortano-napoletano/",
+    "creado_en": "2026-11-02"
+  },
+  {
+    "id": "0344e225-eb6e-40ee-aa6c-17a4896c2871",
+    "slug": "granizado-de-mango-y-ron",
+    "titulo": "Granizado de mango y ron",
+    "descripcion": "Receta de Granizado de mango y ron adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/08/granizado-mango.jpg",
+    "categoria": "sopas-y-cremas",
+    "tiempo_total_min": 2,
+    "comensales": 4,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "1 mango pelado y troceado",
+      "50 g de azúcar",
+      "400 g de cubitos de hielo",
+      "100 ml de ron blanco (o 100 ml de cointreau o 200 ml de cava)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Introducimos el azúcar en el vaso y la pulverizamos durante 1 minuto a velocidad progresiva 5/10.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Añadimos el resto de ingredientes y trituramos durante 1 minuto a velocidad 7.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Servimos en copas y… ¡listo!",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/granizado-de-mango-y-ron/",
+    "creado_en": "2026-11-02"
+  },
+  {
+    "id": "76163fb4-17ad-4e1e-a7a0-20b79a10e9b9",
+    "slug": "batido-multifrutas-tropical",
+    "titulo": "Batido multifrutas tropical",
+    "descripcion": "Receta de Batido multifrutas tropical adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/08/Batido_multifrutas_tropical.jpg",
+    "categoria": "bebidas",
+    "tiempo_total_min": 1,
+    "comensales": 4,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "3 plátanos medianos pelados",
+      "600 gr de leche",
+      "50 gr de azúcar",
+      "4 cucharadas de zumo de limón",
+      "2 paraguayas peladas y sin hueso",
+      "2 fresquillas o nectarinas sin hueso y con piel",
+      "unas hojas de menta o hierbabuena (opcional)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos todos los ingredientes en el vaso de la Thermomix y trituramos 1 minuto, velocidad progresiva 5-7-10.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "¡Así de fácil!",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/batido-multifrutas-tropical/",
+    "creado_en": "2026-11-02"
   }
 ]
