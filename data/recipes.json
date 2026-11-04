@@ -54662,5 +54662,343 @@
     ],
     "fuente_url": "https://www.thermorecetas.com/batido-multifrutas-tropical/",
     "creado_en": "2026-11-02"
+  },
+  {
+    "id": "4ca18436-e2ac-475a-81f9-d05d3700db6c",
+    "slug": "tostas-con-aceite-de-albahaca",
+    "titulo": "Tostas con aceite de albahaca",
+    "descripcion": "Receta de Tostas con aceite de albahaca adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/08/tostas-con-aceite-de-albahaca-thermorecetas.jpg",
+    "categoria": "panes-masas",
+    "tiempo_total_min": 1,
+    "comensales": 8,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "4 rebanadas de pan de molde",
+      "1 tomate",
+      "1 aguacate",
+      "1 bola de mozzarella",
+      "1 chorrito de limón",
+      "1 cucharada sopera de piñones",
+      "Sal y pimienta",
+      "15 g de hojas de albahaca",
+      "60 g de aceite de oliva virgen extra"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "En una olla pequeña escaldar las hojas de albahaca durante 10 segundos en agua caliente pero no hirviendo.",
+        "accesorio": "Cuchillas",
+        "velocidad": 0,
+        "temperatura_c": 100,
+        "potencia_calorifica": 9,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Refrescarlas en agua con hielo para cortar la cocción. Llenar el vaso con agua hasta la marca de 1/2 litro, agregar las hojas de albahaca y triturar durante 15 segundos a velocidad 5. Escurrir muy bien con la ayuda de un colador de malla fina.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Poner las hojas en un bote, agregar el aceite y cerrar con la tapa. Batir para que el aceite se impregne con el aroma de la albahaca.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Recortar cada rebanada con un aro redondo de 6 cm de diámetro. Tostar los círculos en la tostadora hasta que queden doraditos y crujientes.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Lavar y secar el tomate, cortarlo en finas lonchas y dejarlas escurrir para que pierdan todo el agua.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 8
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Pelar el aguacate y cortarlo también en finas lonchas. Rociarlas con el chorrito de limón para que no se pongan feas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Escurrir y cortar la mozzarella en rodajas.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Para el montaje: colocar en la base un círculo de pan tostado, poner el tomate salpimentado, el aguacate, la mozzarella y regar con un hilo de aceite de albahaca y terminar colocando unos 2 o 3 piñones encima de cada canapé.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Servir enseguida antes de que el pan se reblandezca.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/tostas-con-aceite-de-albahaca/",
+    "creado_en": "2026-11-04"
+  },
+  {
+    "id": "f57393c3-f592-43c1-967e-da91619c2a4f",
+    "slug": "bica",
+    "titulo": "Bica",
+    "descripcion": "Receta de Bica adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/08/bica-1.jpg",
+    "categoria": "sopas-y-cremas",
+    "tiempo_total_min": 12,
+    "comensales": 10,
+    "dificultad": "Media",
+    "ingredientes": [
+      "300 g de azúcar",
+      "4 huevos",
+      "200 g de mantequilla a temperatura ambiente",
+      "200 g de nata líquida",
+      "350 g de harina de repostería",
+      "1 sobre de levadura química",
+      "1 pizca de sal",
+      "Azúcar para espolvorear la superficie"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Precalentamos el horno a 200º.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Colocamos la mariposa en las cuchillas. Ponemos en el vaso el azúcar y los huevos y programamos 5 minutos, 37º, velocidad 3.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Volvemos a programar 5 minutos, velocidad 3, pero esta vez sin temperatura. Retiramos la mariposa de las cuchillas.",
+        "accesorio": "Pala MamboMix",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 5
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Añadimos la mantequilla en trozos y mezclamos durante 15 segundos en velocidad 2.",
+        "accesorio": "Cuchillas",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Incorporamos la nata y programamos de nuevo 15 segundos, velocidad 2.",
+        "accesorio": "Cuchillas",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Agregamos la harina, la levadura y la sal. Mezclamos programando 15 segundos, velocidad 5. Si es necesario, terminamos de mezclar con la espátula.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Vertemos la mezcla en un molde cuadrado de 23 x 23 cms, cubierto con papel de hornear o engrasado con mantequilla (también nos puede servir un molde redondo de 28 cms de diámetro o uno rectangular de 20 x 30 cms y de unos 6 cms de altura). Cuando ya está la mezcla en nuestro molde espolvoreamos la superficie con azúcar, bajamos el horno a 180º y horneamos durante 30 minutos aproximadamente. Como siempre, con una brocheta podemos comprobar si está listo.",
+        "accesorio": "Ninguno",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 30
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/bica/",
+    "creado_en": "2026-11-04"
+  },
+  {
+    "id": "0484b3a0-05b9-4200-b79d-9a2b9820d5e1",
+    "slug": "crema-dulce-de-aguacate-requeson-y-miel",
+    "titulo": "Crema dulce de aguacate, requesón y miel",
+    "descripcion": "Receta de Crema dulce de aguacate, requesón y miel adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/08/crema-aguacate.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 1,
+    "comensales": 2,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "1 aguacate (120 g aprox.)",
+      "200 g de requesón",
+      "50 ml de leche",
+      "50-70 g de miel (según lo dulce que os guste)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Poner todos los ingredientes en el vaso y triturar durante 30 segundos a velocidad 7",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Conservar en el frigorífico hasta el momento de su utilización.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/crema-de-aguacate-requeson-y-miel/",
+    "creado_en": "2026-11-04"
+  },
+  {
+    "id": "b10f4c10-acab-4712-a881-2263db4ee481",
+    "slug": "tataki-de-atun-con-guacamole-de-wasabi",
+    "titulo": "Tataki de atún con guacamole de wasabi",
+    "descripcion": "Receta de Tataki de atún con guacamole de wasabi adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/08/Tataki_atun.jpg",
+    "categoria": "arroces",
+    "tiempo_total_min": 15,
+    "comensales": 4,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "una pieza de solomillo de atún gruesa que cortaremos en trozos alargados de unos dos dedos de ancho",
+      "6 cucharadas de salsa de soja",
+      "12 cucharadas de vinagre de arroz",
+      "1/2 cucharadita de café de jengibre en polvo",
+      "1 cucharadita de café de ajo en polvo",
+      "430 gr de aguacates maduros, pelados y sin hueso central (guardamos un hueso)",
+      "90 gr de cebolla",
+      "360 gr de tomates maduros",
+      "cilantro (opcional, podéis sustituir por perejil)",
+      "sal",
+      "una pizca de chili en polvo (opcional)",
+      "unas gotas de Tabasco (opcional)",
+      "el zumo de 1/2 limón",
+      "50 gr de aceite de oliva virgen extra",
+      "1/2 cucharadita de café de pasta de wasabi (si sois muy aficionados al wasabi podéis ponerle 1 cucharadita entera o más a vuestro gusto)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos en el vaso todos los ingredientes de la marinada y mezclamos 30 segundos, velocidad 5. Retiramos y reservamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Doramos las tiras de atún rápidamente en una plancha o sartén. Lo que queremos es que se cocine un poco por fuera y se nos quede crudo por dentro. Si no os gusta comerlo crudo podéis pasarlo un poco más, pero recordad que ya no será tataki y que corréis el riesgo de que os quede demasiado seco.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Introducimos los lomos de atún en la marinada y dejamos reposar en la nevera varias horas. Lo ideal 8 horas, pero si no tenéis tiempo como fue mi caso, luego podemos mojar el atún con la salsa mientras lo tomamos…",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 480
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Enjuagamos el vaso para preparar el guacamole: echamos la cebolla en el vaso y trituramos 20 segundos a velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Echamos el tomate, el cilantro, la sal, la pimienta y el chili en polvo. Trituramos 1 minuto a velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Incorporamos el resto de los ingredientes y programamos 1 minuto a velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 1
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "COMENTARIO: Si utilizáis el guacamole ya preparado, sólo tendríais que mezclarlo con el wasabi.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "En un plato ponemos un fondo de guacamole de wasabi y colocamos el tataki encima cortado en tiras. En mi caso puse las tiras gordas, pero es muy buena opción cortarlas finitas (sobre todo si la carne está bastante cruda). Espolvoreamos con sal gorda o escamas de sal y ¡listo para comer!",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": 5,
+        "tiempo_minutos": 10
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/tataki-de-atun-con-guacamole-de-wasabi/",
+    "creado_en": "2026-11-04"
   }
 ]
