@@ -1,8 +1,10 @@
 name: Daily Recipe Pipeline
 
 on:
-  schedule:
-    - cron: "0 3 * * *"  # Every day at 3:00 AM UTC
+  # PAUSED 2026-11-04 (maintainer decision): automation paused until further
+  # notice. Reactivate by uncommenting the schedule.
+  # schedule:
+  #   - cron: "0 3 * * *"  # Every day at 3:00 AM UTC
   workflow_dispatch:
 
 permissions:
