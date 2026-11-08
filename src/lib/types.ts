@@ -18,6 +18,8 @@ export type AccesorioMambo =
 export type MamboStep = {
   paso_numero: number;
   instruccion: string;
+  /** Original Thermomix source text (input of the conversion). Keeps reconvert.ts idempotent. */
+  instruccion_original?: string;
   accesorio: AccesorioMambo;
   velocidad: number | "Turbo" | null;
   temperatura_c: number | null;
