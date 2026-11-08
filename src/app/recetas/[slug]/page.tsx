@@ -2,6 +2,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { getAllRecipes, getRecipeBySlug } from "@/lib/store";
+import { formatTiempo } from "@/lib/convert";
 import { categories } from "@/lib/recipes-data";
 import AffiliateProducts from "@/components/AffiliateProducts";
 import PinterestShare from "@/components/PinterestShare";
@@ -155,13 +156,27 @@ export default async function RecipePage({ params }: Props) {
                     <div className="px-3 py-3 text-center">
                       <div className="text-[11px] text-gray-400 uppercase tracking-wide mb-1">Accesorio</div>
                       <div className="text-sm font-medium" style={{ color: "#23282A" }}>
-                        {paso.accesorio === "Pala MamboMix" ? "🥄 Pala" : paso.accesorio === "Cuchillas" ? "🔪 Cuchillas" : "—"}
+                        {paso.accesorio === "Cuchillas"
+                          ? "🔪 Cuchillas"
+                          : paso.accesorio === "Cuchara MamboMix" || paso.accesorio === "Pala MamboMix"
+                            ? "🥄 Cuchara MamboMix"
+                            : paso.accesorio === "Mariposa"
+                              ? "🌀 Mariposa"
+                              : paso.accesorio === "Vaporera"
+                                ? "♨️ Vaporera"
+                                : paso.accesorio === "Cestillo de hervir"
+                                  ? "🧺 Cestillo"
+                                  : "—"}
                       </div>
                     </div>
                     <div className="px-3 py-3 text-center">
                       <div className="text-[11px] text-gray-400 uppercase tracking-wide mb-1">Velocidad</div>
                       <div className="text-sm font-medium" style={{ color: "#23282A" }}>
-                        {paso.velocidad === "Turbo" ? "⚡ Turbo" : paso.velocidad}
+                        {paso.velocidad_progresiva && paso.velocidad_progresiva.length > 0
+                          ? paso.velocidad_progresiva.join(" → ")
+                          : paso.velocidad === "Turbo"
+                            ? "⚡ Turbo"
+                            : paso.velocidad ?? "—"}
                       </div>
                     </div>
                     <div className="px-3 py-3 text-center">
@@ -179,10 +194,23 @@ export default async function RecipePage({ params }: Props) {
                     <div className="px-3 py-3 text-center">
                       <div className="text-[11px] text-gray-400 uppercase tracking-wide mb-1">Tiempo</div>
                       <div className="text-sm font-medium" style={{ color: "#00AC46" }}>
-                        {paso.tiempo_minutos ? `${paso.tiempo_minutos} min` : "—"}
+                        {formatTiempo(paso.tiempo_minutos, paso.tiempo_max_minutos)}
                       </div>
                     </div>
                   </div>
+                  {(paso.sin_convertir || (paso.notas_conversion && paso.notas_conversion.length > 0)) && (
+                    <div className="border-t border-gray-100 px-5 py-3 text-xs" style={{ color: "#8a6d3b", background: "#fffaf0" }}>
+                      {paso.confianza && paso.confianza !== "alta" && (
+                        <p className="font-semibold">Confianza de conversión: {paso.confianza}</p>
+                      )}
+                      {paso.sin_convertir && (
+                        <p className="font-semibold">⚠️ Paso sin convertir del todo: revisar manualmente.</p>
+                      )}
+                      {paso.notas_conversion?.map((nota, i) => (
+                        <p key={i}>• {nota}</p>
+                      ))}
+                    </div>
+                  )}
                 </div>
               ))}
             </div>

@@ -8,46 +8,12 @@
 
 import fs from "node:fs";
 import path from "node:path";
+import type { Recipe } from "../src/lib/types";
+import { convertScrapedRecipe, type ScrapedRecipe } from "../src/lib/convert";
 
 // ---------------------------------------------------------------------------
 // Types
 // ---------------------------------------------------------------------------
-
-type ScrapedRecipe = {
-  title: string;
-  ingredients: string[];
-  servings?: string;
-  time?: string;
-  instructions: string[];
-  image?: string;
-};
-
-type MamboStep = {
-  paso_numero: number;
-  instruccion: string;
-  accesorio: "Cuchillas" | "Pala MamboMix" | "Ninguno";
-  velocidad: number | "Turbo";
-  temperatura_c: number | null;
-  potencia_calorifica: number | null;
-  tiempo_minutos: number | null;
-};
-
-type Recipe = {
-  id: string;
-  slug: string;
-  titulo: string;
-  descripcion: string;
-  imagen: string;
-  categoria: string;
-  tiempo_total_min: number;
-  comensales: number;
-  dificultad: "Fácil" | "Media" | "Difícil";
-  ingredientes: string[];
-  pasos_mambo: MamboStep[];
-  fuente_url: string;
-  creado_en: string;
-  destacada?: boolean;
-};
 
 // ---------------------------------------------------------------------------
 // Sources
@@ -225,192 +191,6 @@ async function scrapeRecipe(url: string): Promise<ScrapedRecipe | null> {
 }
 
 // ---------------------------------------------------------------------------
-// Conversion engine (same rules as src/lib/convert.ts)
-// ---------------------------------------------------------------------------
-
-function slugify(text: string): string {
-  return text
-    .normalize("NFD")
-    .replace(/\p{Diacritic}/gu, "")
-    .toLowerCase()
-    .replace(/[^a-z0-9]+/g, "-")
-    .replace(/(^-|-$)/g, "");
-}
-
-function toLower(value: string): string {
-  return value
-    .normalize("NFD")
-    .replace(/\p{Diacritic}/gu, "")
-    .toLowerCase();
-}
-
-function inferCategory(text: string): string {
-  const t = toLower(text);
-  if (/\bvapor\b/.test(t)) return "vapor";
-  if (/\b(hervir|hervor|hirviendo)\b/.test(t)) return "hervir";
-  if (/\b(pan|amasar)\b/.test(t)) return "amasar";
-  if (/\b(picar|triturar|turbo|batir|montar)\b/.test(t)) return "triturar";
-  if (/\bsofrit[oa]|rehogar|pochar\b/.test(t)) return "sofrito";
-  if (/\blenteja|garbanzo|judia|alubia|potaje\b/.test(t)) return "legumbres";
-  if (/\bguiso|estofad[oa]|cald[oa]\b/.test(t)) return "guiso";
-  if (/\barroz|paella|risotto\b/.test(t)) return "arroz";
-  if (/\bleche|bechamel|crema|natilla\b/.test(t)) return "lacteo";
-  if (/\blicuado|batido|smoothie|zumo|pure\b/.test(t)) return "liquido";
-  return "general";
-}
-
-function mapAccesorio(text: string): MamboStep["accesorio"] {
-  const t = toLower(text);
-  if (/\b(espiga)\b/.test(t)) return "Pala MamboMix";
-  if (/\b(izquierda|giro.*izquierda|cuchara)\b/.test(t)) return "Pala MamboMix";
-  if (/\b(mariposa)\b/.test(t)) return "Pala MamboMix";
-  if (/\b(pala|mambo.?mix)\b/.test(t)) return "Pala MamboMix";
-  if (/\b(turbo|triturar|picar|licuado|batido|pure|batir|montar)\b/.test(t)) return "Cuchillas";
-  if (/\b(ninguna?|sin accesorio|sin cuchilla|horno|varoma)\b/.test(t)) return "Ninguno";
-  const cat = inferCategory(t);
-  if (cat === "guiso" || cat === "arroz" || cat === "lacteo" || cat === "legumbres") return "Pala MamboMix";
-  if (/\b(pieza|enter[oa]|costillar|muslo)\b/.test(t)) return "Ninguno";
-  if (cat === "vapor") return "Ninguno";
-  if (cat === "amasar") return "Pala MamboMix";
-  if (cat === "sofrito") return "Cuchillas";
-  return "Cuchillas";
-}
-
-function inferVelocidad(text: string): number | "Turbo" {
-  const t = toLower(text);
-  const m = /\bvel(?:ocidad)?\.?\s*(\d{1,2})\b/.exec(t);
-  if (m) return Math.min(10, Math.max(0, Number(m[1])));
-  if (/\bturbo\b/.test(t)) return "Turbo";
-  if (/\bvaroma\b/.test(t)) return 3;           // Velocidad Varoma → Vel. 3
-  if (/\b(espiga|amasar)\b/.test(t)) return 3;   // Espiga → Vel. 3
-  if (/\b(pieza|enter[oa]|costillar|muslo)\b/.test(t)) return 0;
-  const cat = inferCategory(t);
-  if (cat === "vapor" || cat === "hervir") return 0;
-  if (cat === "guiso" || cat === "arroz" || cat === "legumbres") return 1;
-  if (cat === "lacteo") return 3;
-  if (cat === "triturar") return 7;              // Picar Vel. 5-6 TM → Vel. 6-7 Mambo
-  if (cat === "sofrito") return 2;
-  if (cat === "liquido") return 5;
-  return 1;
-}
-
-function inferPotencia(text: string): number {
-  const t = toLower(text);
-  if (/\bvapor|hirviendo|hervir\b/.test(t)) return 9;
-  if (/\bsofrit[oa]\b/.test(t)) return 7;
-  if (/\bguiso|estofad[oa]\b/.test(t)) return 5;
-  if (/\barroz\b/.test(t)) return 5;
-  if (/\blenteja|garbanzo|judia|potaje\b/.test(t)) return 5;
-  if (/\bleche|bechamel|crema\b/.test(t)) return 4;
-  return 5;
-}
-
-function inferTemperatura(text: string): number | null {
-  const m = /(\d{2,3})\s*°/.exec(text);
-  if (m) return Number(m[1]);
-  const t = toLower(text);
-  if (/\bvaroma\b/.test(t)) return 120;  // Varoma = 120°C
-  if (/\bvapor\b/.test(t)) return 120;
-  if (/\bhervir\b/.test(t)) return 100;
-  if (/\bsofrit[oa]\b/.test(t)) return 135;
-  if (/\blenteja|garbanzo|guiso|estofad/.test(t)) return 100;
-  return 100;
-}
-
-function parseTime(text: string): number | null {
-  if (!text) return null;
-  // ISO 8601 duration: PT1H30M, PT45M, PT2H
-  const iso = /PT(?:(\d+)H)?(?:(\d+)M)?/i.exec(text);
-  if (iso) {
-    const h = Number(iso[1] ?? 0);
-    const m = Number(iso[2] ?? 0);
-    if (h > 0 || m > 0) return h * 60 + m;
-  }
-  const hm = /(\d+)\s*h\s*(\d+)/i.exec(text);
-  if (hm) return Number(hm[1]) * 60 + Number(hm[2]);
-  const h = /(\d+)\s*h(?:ora)?/i.exec(text);
-  const m = /(\d+)\s*min/i.exec(text);
-  if (h && m) return Number(h[1]) * 60 + Number(m[1]);
-  if (h) return Number(h[1]) * 60;
-  if (m) return Number(m[1]);
-  return null;
-}
-
-function convertToMambo(recipe: ScrapedRecipe): Omit<Recipe, "id" | "creado_en" | "fuente_url"> {
-  const allText = recipe.instructions.join(" ");
-  const totalTime =
-    parseTime(recipe.time ?? "") ??
-    recipe.instructions.reduce((sum, s) => sum + (parseTime(s) ?? 5), 0);
-
-  // Determine global category from all instructions
-  const globalCategory = (() => {
-    const cats = recipe.instructions.map((s) => inferCategory(s));
-    const counts: Record<string, number> = {};
-    for (const c of cats) counts[c] = (counts[c] ?? 0) + 1;
-    return Object.entries(counts).sort((a, b) => b[1] - a[1])[0]?.[0] ?? "general";
-  })();
-
-  // recipeYield can be "4-5 personas", "45 unidades", "6", etc.
-  const servingsStr = String(recipe.servings ?? "");
-  const servingsMatch = /^(\d+)/.exec(servingsStr);
-  const comensales = servingsMatch ? Math.min(Number(servingsMatch[1]), 20) : 4;
-
-  const pasos_mambo: MamboStep[] = recipe.instructions.map((text, idx) => {
-    const cat = inferCategory(text);
-    const explicitMin = parseTime(text);
-    const timeDefault =
-      cat === "sofrito" ? 6 : cat === "guiso" ? 25 : cat === "arroces" ? 18 : 10;
-    let time = explicitMin ?? timeDefault;
-    // Reduce heat time by 15-20% for liquid heating
-    if (/\b(hervir|vapor|caldo|agua)\b/i.test(text)) {
-      time = Math.max(1, Math.round(time * 0.82));
-    }
-
-    return {
-      paso_numero: idx + 1,
-      instruccion: text,
-      accesorio: mapAccesorio(text),
-      velocidad: inferVelocidad(text),
-      temperatura_c: inferTemperatura(text),
-      potencia_calorifica: inferPotencia(text),
-      tiempo_minutos: time,
-    };
-  });
-
-  const difficulty: Recipe["dificultad"] =
-    recipe.instructions.length <= 4 ? "Fácil" : recipe.instructions.length <= 7 ? "Media" : "Difícil";
-
-  return {
-    slug: slugify(recipe.title) || Math.random().toString(36).slice(2, 10),
-    titulo: recipe.title,
-    descripcion: `Receta de ${recipe.title} adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.`,
-    imagen: recipe.image ?? "",
-    categoria: mapCategory(globalCategory),
-    tiempo_total_min: totalTime,
-    comensales,
-    dificultad: difficulty,
-    ingredientes: recipe.ingredients,
-    pasos_mambo,
-  };
-}
-
-function mapCategory(cat: string): string {
-  const map: Record<string, string> = {
-    sofrito: "salsas",
-    guiso: "carnes",
-    arroces: "arroces",
-    postres: "postres",
-    bebidas: "bebidas",
-    "panes-masas": "panes-masas",
-    verduras: "verduras",
-    vapor: "pescados",
-    pasta: "arroces",
-    general: "sopas-y-cremas",
-  };
-  return map[cat] ?? "sopas-y-cremas";
-}
-
-// ---------------------------------------------------------------------------
 // Persistent store
 // ---------------------------------------------------------------------------
 
@@ -480,7 +260,7 @@ async function main() {
         continue;
       }
 
-      const converted = convertToMambo(scraped);
+      const converted = convertScrapedRecipe(scraped);
       existing.push({
         id: crypto.randomUUID(),
         ...converted,

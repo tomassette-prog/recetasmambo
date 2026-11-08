@@ -1,5 +1,12 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## Conversion engine
+
+The Thermomix → Cecotec Mambo Cooking Total Gourmet conversion engine lives in
+`src/lib/convert.ts` (single source of truth). Its mapping table, verified limits
+and sources are documented in [docs/CONVERSION-THERMOMIX-MAMBO.md](docs/CONVERSION-THERMOMIX-MAMBO.md).
+Unit tests: `npm test`.
+
 ## Getting Started
 
 First, run the development server:

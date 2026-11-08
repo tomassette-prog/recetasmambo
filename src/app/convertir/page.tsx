@@ -2,15 +2,21 @@
 
 import { useState } from "react";
 import Link from "next/link";
+import { formatTiempo } from "@/lib/convert";
 
 type MamboStep = {
   paso_numero: number;
   instruccion: string;
   accesorio: string;
-  velocidad: number | string;
+  velocidad: number | string | null;
   temperatura_c: number | null;
   potencia_calorifica: number | null;
   tiempo_minutos: number | null;
+  tiempo_max_minutos?: number | null;
+  velocidad_progresiva?: number[];
+  confianza?: string;
+  sin_convertir?: boolean;
+  notas_conversion?: string[];
 };
 
 type ConvertedRecipe = {
@@ -143,7 +149,11 @@ export default function ConvertPage() {
                     </div>
                     <div className="rounded bg-gray-50 p-2 text-center">
                       <div className="text-gray-400">Velocidad</div>
-                      <div className="font-medium">{String(paso.velocidad)}</div>
+                      <div className="font-medium">
+                        {paso.velocidad_progresiva && paso.velocidad_progresiva.length > 0
+                          ? paso.velocidad_progresiva.join(" → ")
+                          : paso.velocidad ?? "—"}
+                      </div>
                     </div>
                     <div className="rounded bg-gray-50 p-2 text-center">
                       <div className="text-gray-400">Potencia</div>
@@ -151,9 +161,22 @@ export default function ConvertPage() {
                     </div>
                     <div className="rounded bg-gray-50 p-2 text-center">
                       <div className="text-gray-400">Tiempo</div>
-                      <div className="font-medium">{paso.tiempo_minutos ? `${paso.tiempo_minutos} min` : "—"}</div>
+                      <div className="font-medium">{formatTiempo(paso.tiempo_minutos, paso.tiempo_max_minutos)}</div>
                     </div>
                   </div>
+                  {(paso.sin_convertir || (paso.notas_conversion && paso.notas_conversion.length > 0)) && (
+                    <div className="mt-2 rounded bg-amber-50 p-2 text-xs text-amber-800">
+                      {paso.confianza && paso.confianza !== "alta" && (
+                        <p className="font-semibold">Confianza de conversión: {paso.confianza}</p>
+                      )}
+                      {paso.sin_convertir && (
+                        <p className="font-semibold">⚠️ Paso sin convertir del todo: revisar manualmente.</p>
+                      )}
+                      {paso.notas_conversion?.map((nota, i) => (
+                        <p key={i}>• {nota}</p>
+                      ))}
+                    </div>
+                  )}
                 </div>
               ))}
             </div>
