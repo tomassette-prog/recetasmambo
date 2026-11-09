@@ -81865,5 +81865,546 @@
     ],
     "fuente_url": "https://www.misthermorecetas.com/albondigas-de-carne-en-salsa-de-verduras/",
     "creado_en": "2026-11-08"
+  },
+  {
+    "id": "62c67ec4-3af7-4868-bb30-9080bd59414c",
+    "slug": "melocotones-al-romero",
+    "titulo": "Melocotones al romero",
+    "descripcion": "Receta de Melocotones al romero adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/08/melocotones-al-romero-thermorecetas.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 1,
+    "comensales": 2,
+    "dificultad": "Media",
+    "ingredientes": [
+      "2 melocotones",
+      "1 chorritos de limón",
+      "1 cucharada de hojitas de romero",
+      "30 g de azúcar blanquilla (15 g + 15 g)",
+      "1 yogur cremoso (tipo griego)",
+      "100 g de queso de untar",
+      "20 g de frutos secos",
+      "Unas hojas de menta (opcional)",
+      "Miel de romeo (opcional)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "La noche anterior pelar los melocotones, cortarlos por la mitad y retirar los huesos. Regarlos con el zumo de limón para que no se pongan feos.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Con la jarra limpio y bien seco pulverizar 15 g de azúcar y las hojas de romero lavadas y secas. Programar 10 segundos, subiendo la velocidad de forma progresiva 5, 7 y 9 (ajústala a mano: la Mambo no tiene velocidad progresiva). Espolvorear el azúcar de romero encima de los melocotones. Tapar con film transparente y reservar en la nevera.",
+        "accesorio": "Cuchillas",
+        "velocidad": 9,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 0.17,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "media",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Velocidad progresiva 5-7-9: la Mambo no la programa; ajusta la velocidad a mano en 3 tramos."
+        ],
+        "velocidad_progresiva": [
+          5,
+          7,
+          9
+        ]
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Al día siguientes, colocar la Mariposa en la cuchillas. Disponer el queso, el yogur y el azúcar restante. Batir durante 30 segundos, velocidad 4. Retirar la crema a una manga pastelera con boquilla rizada y reservar también en la nevera.",
+        "accesorio": "Mariposa",
+        "velocidad": 4,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 0.5,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "En el momento de servir, retirar el film de los melocotones y hacer un rosetón con la crema de queso en el agujero del hueso. Trocear los frutos secos y repartirlos entre las 4 mitades. Acompañar con unas hojitas de romero o de menta. Otra opción sería decorarlos con unos hilos de miel.",
+        "accesorio": "Cuchillas",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "baja",
+        "sin_convertir": true,
+        "notas_conversion": [
+          "El texto menciona un tiempo que no se ha podido convertir; revisar manualmente.",
+          "El texto original no indica velocidad de la Mambo; hay que revisar manualmente."
+        ]
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "¡Buen provecho!",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/melocotones-al-romero/",
+    "creado_en": "2026-11-09"
+  },
+  {
+    "id": "91bf4a66-8c16-40ff-b8a4-e3f5041943bb",
+    "slug": "berenjenas-con-jamon",
+    "titulo": "Berenjenas con jamón",
+    "descripcion": "Receta de Berenjenas con jamón adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/08/berenjenas-con-jamon.jpg",
+    "categoria": "verduras",
+    "tiempo_total_min": 50,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "1 diente de ajo",
+      "Perejil fresco (o seco, si no tenéis hojas frescas)",
+      "40 g de aceite de oliva virgen extra",
+      "200 g de jamón serrano en taquitos",
+      "500 g de berenjenas (unas 2 berenjenas hermosas)",
+      "Sal",
+      "Pimienta",
+      "Queso parmesano rallado (opcional)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Treinta minutos antes de preparar la receta lavamos y secamos bien las berenjenas. Las cortamos en cubitos y las colocamos en un colador grande o en una bandeja que habremos cubierto con papel de cocina. Salamos y las dejamos reposar (esos 30 minutos aproximadamente) para que suelten el líquido.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 30,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "baja",
+        "sin_convertir": true,
+        "notas_conversion": [
+          "El texto original no indica velocidad de la Mambo; hay que revisar manualmente."
+        ]
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Pasado ese tiempo, ponemos en la jarra el diente de ajo pelado y el perejil bien limpio y seco. Trituramos programando 5 segundos, velocidad 7.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 0.08,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Añadimos el aceite y el jamón y programamos 5 minutos, 120 °C con la Vaporera de dos niveles, velocidad 2.",
+        "accesorio": "Vaporera",
+        "velocidad": 2,
+        "temperatura_c": 120,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 5,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Sacamos unos trocitos de jamón si queremos utilizarlos para decorar luego el plato.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Ahora añadimos al sofrito la berenjena que habíamos preparado antes y programamos 15 minutos, 100 °C, con la Cuchara MamboMix (función SlowMambo), Cuchara MamboMix, velocidad 1.",
+        "accesorio": "Cuchara MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 15,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Si lo consideramos necesario, añadimos sal y pimienta.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Servimos inmediatamente. Podemos poner en la mesa queso parmesano rallado (o cualquier otro que tengáis) para los que quieran dar más sabor al plato.",
+        "accesorio": "Cuchillas",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/berenjenas-con-jamon/",
+    "creado_en": "2026-11-09"
+  },
+  {
+    "id": "723cd3c9-bc2c-4f70-a8b4-97cda4012cc8",
+    "slug": "trufas-de-chocolate-negro-con-naranja-y-licor",
+    "titulo": "Trufas de chocolate negro con naranja y licor",
+    "descripcion": "Receta de Trufas de chocolate negro con naranja y licor adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/08/trufas.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 185,
+    "comensales": 15,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "150 g de chocolate negro de repostería o para postres",
+      "40 g de leche condensada",
+      "50 g de azúcar moreno (puede ser blanca)",
+      "70 g de mantequilla",
+      "2 yemas de huevo",
+      "25 ml de licor de naranja (Cointreau, Grand Marnier o similar)",
+      "30 g de naranja confitada"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Introducimos el azúcar en la jarra (completamente seco) y pulverizamos durante 20 segundos a velocidad 10. Sacamos y reservamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 10,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 0.33,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Introducimos la naranja confitada y troceamos durante 7 segundos a velocidad 5. Sacamos y reservamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 0.12,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Introducimos el chocolate troceado y lo rallamos a golpe de turbo. Sacamos dos cucharadas para rebozar las trufas y dejamos el resto en la jarra.",
+        "accesorio": "Cuchillas",
+        "velocidad": "Turbo",
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "baja",
+        "sin_convertir": true,
+        "notas_conversion": [
+          "El texto original no indica tiempo de programación; hay que revisar manualmente."
+        ]
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Añadimos la leche condensada, el licor y el azúcar que habíamos reservado. Lo fundimos todo durante 2 minutos, 60 °C, velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 60,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 2,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Incorporamos la mantequilla y de nuevo fundimos durante 1 minuto, 70 °C, velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 70,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 1,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Programamos 1 minuto a velocidad 4, sin calor y añadimos las yemas una a una por el abertura de la tapa.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 1,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Sin calor: no seleccionar temperatura ni potencia calorífica."
+        ]
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Añadimos la naranja y mezclamos durante 30 segundos a velocidad 3.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 0.5,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Vertemos la mezcla en un recipiente y la dejamos enfriar a temperatura ambiente. Una vez frío, introducimos en el frigorífico durante, al menos, 3 horas.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 180,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Formamos bolitas con las manos y las rebozamos con el chocolate que habíamos reservado.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/trufas-de-chocolate-negro-con-naranja-y-licor/",
+    "creado_en": "2026-11-09"
+  },
+  {
+    "id": "28cf56b6-729d-454f-b4bd-74d6dfa1a75e",
+    "slug": "arroz-con-pasas-y-pinones",
+    "titulo": "Arroz con pasas y piñones",
+    "descripcion": "Receta de Arroz con pasas y piñones adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/08/arroz-con-pasas-y-piñones-2-thermorecetas.jpg",
+    "categoria": "arroces",
+    "tiempo_total_min": 32,
+    "comensales": 1,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "75 g de arroz basmati",
+      "2 cucharadas de aceite de oliva",
+      "1 cucharada sopera de uvas pasas",
+      "1 diente de ajo",
+      "20 g de piñones",
+      "80 g de maíz dulce",
+      "10 g de aceite de oliva",
+      "Sal y pimienta",
+      "Perejil picado y cebollino"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Llenar la jarra hasta la segunda marca (1 litro de agua). Añadir la sal y calentarla durante 10 minutos a 100 °C y velocidad 1. Pasado el tiempo poner el arroz en el cestillo y este dentro de la jarra. Programar 10 minutos, 100 °C y velocidad 3.",
+        "accesorio": "Cestillo de hervir",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 20,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Terminado el tiempo, retirar con cuidado el cestillo y refrescar el arroz bajo el chorro de agua fría. Escurrir bien y reservar. Desechar también el agua de cocción.",
+        "accesorio": "Cestillo de hervir",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Poner a remojo las uvas pasas en una jarra con agua caliente.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Poner el aceite en la jarra limpio. Calentarlo 3 minutos, 100 °C, Cuchara MamboMix, velocidad 1. Agregar el diente de ajo laminado y dorarlo durante 5 minutos, 120 °C con la Vaporera de dos niveles, Cuchara MamboMix, velocidad 1.",
+        "accesorio": "Vaporera",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 8,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Mientras dorar los piñones en una sartén sin aceite. Retirar y reservar",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "A continuación, agregar a la jarra el maíz y las pasas enjuagadas y escurridas. Programar 2 minutos, 100 °C, Cuchara MamboMix, velocidad 1.",
+        "accesorio": "Cuchara MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 2,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Y para terminar, incorporar el arroz y los piñones. Salpimentar y mezclar programando 2 minutos, 100 °C, Cuchara MamboMix, velocidad 1.",
+        "accesorio": "Cuchara MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 2,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "A la hora de servir espolvorear un poco de perejil picado y decorar con una ramita cebollino.",
+        "accesorio": "Cuchillas",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "baja",
+        "sin_convertir": true,
+        "notas_conversion": [
+          "El texto menciona un tiempo que no se ha podido convertir; revisar manualmente."
+        ]
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/arroz-con-pasas-y-pinones/",
+    "creado_en": "2026-11-09"
   }
 ]
