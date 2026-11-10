@@ -82406,5 +82406,388 @@
     ],
     "fuente_url": "https://www.thermorecetas.com/arroz-con-pasas-y-pinones/",
     "creado_en": "2026-11-09"
+  },
+  {
+    "id": "9fcadd90-e6b7-444d-9f32-490e2460e590",
+    "slug": "salsa-roquefort-para-carne-o-pescado",
+    "titulo": "Salsa roquefort para carne o pescado",
+    "descripcion": "Receta de Salsa roquefort para carne o pescado adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/08/Salsa_roquefort.jpg",
+    "categoria": "carnes",
+    "tiempo_total_min": 6,
+    "comensales": 20,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "200 gr de queso roquefort o queso azul (yo he puesto uno no muy intenso de sabor y algo cremoso)",
+      "2 huevos",
+      "200 gr de leche entera o nata de cocinar",
+      "pimienta al gusto",
+      "pizca de sal"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos todos los ingredientes en la jarra y programamos 6 minutos, 90 °C, velocidad 3.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 90,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 6,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/salsa-roquefort-para-carne-o-pescado/",
+    "creado_en": "2026-11-10"
+  },
+  {
+    "id": "45c28259-fcf7-4744-8610-ba50649b8310",
+    "slug": "pastel-de-pina-express",
+    "titulo": "Pastel de piña express",
+    "descripcion": "Receta de Pastel de piña express adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/08/pastel-de-piña-express.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 29,
+    "comensales": 10,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "1 lámina redonda de masa de hojaldre",
+      "1 lata de piña (de 400 g aproximadamente, con 7 rodajas será suficiente)",
+      "4 yemas de huevo",
+      "300 ml de leche entera",
+      "1 cucharada de de harina de maíz (tipo Maicena) o de fécula de patata",
+      "50 g de azúcar",
+      "2 cucharadas de licor (opcional)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Sacamos de la nevera la masa de hojaldre (antes de desenrollarla tiene que estar a temperatura ambiente para que no se nos rompa).",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Ponemos la Mariposa en la jarra y echamos el azúcar y las yemas de huevo. Programamos 3 minutos, velocidad 3.",
+        "accesorio": "Mariposa",
+        "velocidad": 3,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 3,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Añadimos ahora la leche y la harina de maíz (podéis sustituirla por fécula de patata) y programamos 6 minutos, 70 °C, velocidad 2.",
+        "accesorio": "Cuchillas",
+        "velocidad": 2,
+        "temperatura_c": 70,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 6,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "En un molde redondo apto para horno de unos 24-26 cms de diámetro ponemos la lámina de hojaldre extendida sobre el propio papel de horno que suele venir en el paquete. Pinchamos la base con un tenedor (unas 10 veces). Ponemos encima la crema que acabamos de hacer (veréis que será más bien líquida pero no os preocupéis que con el horneado y luego al enfriar cambiará la textura). Sobre ella colocamos las rodajas de piña, una en el centro y las otras siguiendo el círculo del molde.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "horno",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Paso de horno: se programa en el horno, no en la Mambo."
+        ]
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Si queremos podemos doblar el borde de hojaldre (el que veis en la foto está hecho así).",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Aprovechamos parte de las claras que nos han sobrado para pincelar el hojaldre que ha quedado alrededor de nuestro pastel. De este modo el hojaldre quedará más bonito al hornearlo.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "horno",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Paso de horno: se programa en el horno, no en la Mambo."
+        ]
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Horneamos a 200 °C durante 20 minutos aproximadamente.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 20,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "horno",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Paso de horno: se programa en el horno, no en la Mambo.",
+          "Horno a 200 °C."
+        ]
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Cuando esté lista la sacamos del horno y la dejamos templar a temperatura ambiente. Luego la metemos en la nevera porque este pastel, bien frío, está para chuparse los dedos.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "horno",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Paso de horno: se programa en el horno, no en la Mambo."
+        ]
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/pastel-de-pina-express/",
+    "creado_en": "2026-11-10"
+  },
+  {
+    "id": "21cf70c9-55ad-471a-9b60-a1cd71e94b51",
+    "slug": "muhammara",
+    "titulo": "Muhammara",
+    "descripcion": "Receta de Muhammara adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/09/muhammara.jpg",
+    "categoria": "panes-masas",
+    "tiempo_total_min": 26,
+    "comensales": 8,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "200 g de pimientos rojos (sustituibles por dos pimientos asados y pelados)",
+      "100 g de nueces peladas",
+      "25 ml de zumo de limón (sustituible por 50 ml de zumo de granada)",
+      "25 g de azúcar moreno o blanca (sustituible, junto al zumo de limón, por melaza de granada)",
+      "1 rebanada de pan de molde integral",
+      "1 diente de ajo",
+      "1 cucharadita de comino en polvo",
+      "50 ml de aceite de oliva",
+      "1 cucharada de yogur natural",
+      "1 cucharadita (de las de café) de sal",
+      "1/2 cucharadita de tahina (se puede omitir)",
+      "1 guindilla roja (opcional)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Introducimos los pimientos rojos troceados en la jarra y trituramos durante 6 segundos a velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 0.1,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Los cocemos durante 25 minutos, a 100 °C y velocidad 1. Con cubilete.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 25,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Añadimos las nueces, el zumo de limón, el azúcar, el pan, el ajo, el comino, el yogur, la sal, la tahina y la guindilla. Trituramos durante 10 segundos a velocidad 8 (así queda una textura grumosa, si os gusta más cremoso, podemos volver a triturar durante 20 segundos a velocidad 1)",
+        "accesorio": "Cuchillas",
+        "velocidad": 8,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 0.5,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Programamos velocidad 4 y medio, sin tiempo y emulsionamos añadiendo lentamente el aceite de oliva dejándolo caer sobre la tapa para que resbale hacia el abertura de la tapa.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "baja",
+        "sin_convertir": true,
+        "notas_conversion": [
+          "El texto original no indica tiempo de programación; hay que revisar manualmente."
+        ]
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/muhammara/",
+    "creado_en": "2026-11-10"
+  },
+  {
+    "id": "3da09208-5928-459d-b2dc-0227ffc42394",
+    "slug": "pastel-vegetal",
+    "titulo": "Pastel vegetal",
+    "descripcion": "Receta de Pastel vegetal adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/09/Pastel_vegetal.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 60,
+    "comensales": 6,
+    "dificultad": "Media",
+    "ingredientes": [
+      "12 rebanadas de pan de molde sin bordes",
+      "2 latas de atún en aceite",
+      "5 cucharadas grandes de salsa de tomate frito o natural triturado",
+      "Sal",
+      "½ cogollo de lechuga",
+      "6 palitos de cangrejo",
+      "5 cucharadas grandes de mayonesa",
+      "Salsa rosa"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Necesitamos un molde donde hacer nuestro pastel. El que yo he utilizado tiene una base en la que caben 4 rebanadas de pan de molde (dos a un lado y dos al otro). Podéis adaptar las cantidades de ingredientes al molde que tengáis, lo que debéis tener en cuenta es que el pastel tendrá 3 capas de pan.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Ponemos en la jarra de la thermomix las 2 latas de atún (si queréis podéis escurrirle el aceite a una lata) y el tomate y mezclamos 10 segundos, velocidad 3. Echamos sal al gusto y si el tomate es muy ácido podemos echarle una pizca de azúcar. Reservamos en un bol.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 0.17,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Le damos un agua rápida a la jarra y mezclamos los palitos de cangrejo, la lechuga cortada en trozos y la mayonesa (si os gusta, podéis añadir un poquito de cebolleta en trocitos también) y trituramos 6 segundos, velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 0.1,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "En el molde ponemos una primera capa de pan, después añadimos la preparación del atún. Ponemos otra capa de pan y presionamos bien para que se impregne bien con la preparación anterior. Echamos la preparación de los palitos de cangrejo y cubrimos con otra capa de pan. Volvemos a presionar bien. Lo dejamos reposar 1 hora.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 60,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Lo desmoldamos en un plato o fuente (se desmolda muy fácil sólo dándole la vuelta. Yo pongo un plato encima del molde y lo vuelco poniéndolo al revés). Lo cubrimos con salsa rosa.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Podemos adornarlo con lo que queramos. En la foto está adornado con aceitunas verdes y negras, pero podéis ponerle: gambas, huevo cocido echo rodajas, pepinillos, anchoas, zanahoria rallada, espárragos, maíz, guisantes… lo que más os guste.",
+        "accesorio": "Cuchillas",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/pastel-vegetal/",
+    "creado_en": "2026-11-10"
   }
 ]
