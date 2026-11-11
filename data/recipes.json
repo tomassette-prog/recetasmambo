@@ -82789,5 +82789,482 @@
     ],
     "fuente_url": "https://www.thermorecetas.com/pastel-vegetal/",
     "creado_en": "2026-11-10"
+  },
+  {
+    "id": "95761778-a97c-477d-b648-1a77df185861",
+    "slug": "batido-de-mango-y-frambuesa",
+    "titulo": "Batido de mango y frambuesa",
+    "descripcion": "Receta de Batido de mango y frambuesa adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/09/batido-de-mango-y-frambuesa-thermorecetas.jpg",
+    "categoria": "bebidas",
+    "tiempo_total_min": 1,
+    "comensales": 4,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "1 mango maduro",
+      "100 g de frambuesas",
+      "30 g de azúcar",
+      "2 yogures naturales",
+      "250 g de leche"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Lavar con mucho cuidado las frambuesas y secarlas con papel de cocina. Reservar varias para decorar y poner el resto en la jarra de la Thermomix.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "baja",
+        "sin_convertir": true,
+        "notas_conversion": [
+          "El texto original no indica velocidad de la Mambo; hay que revisar manualmente.",
+          "El texto original no indica tiempo de programación; hay que revisar manualmente."
+        ]
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Pelar el mango, retirar el hueso y poner la pulpa junto a las frambuesas. Agregar el resto de los ingredientes y batir durante 30 segundos a velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 0.5,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Verter en vasos y decorar con las frambuesas reservadas.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/batido-de-mango-y-frambuesa/",
+    "creado_en": "2026-11-11"
+  },
+  {
+    "id": "7294b2f0-d0ae-4090-bc63-40ee27bb48d5",
+    "slug": "mejillones-al-vapor",
+    "titulo": "Mejillones al vapor",
+    "descripcion": "Receta de Mejillones al vapor adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/09/mejillones-al-vapor.jpg",
+    "categoria": "pescados",
+    "tiempo_total_min": 20,
+    "comensales": 20,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "1 kilo de mejillones bien limpios",
+      "1 diente de ajo",
+      "30 g de aceite de oliva virgen extra",
+      "Un poco de guindilla (opcional)",
+      "2 tomates medianos partidos en cuartos",
+      "Un ramillete de perejil triturado",
+      "200 g de agua (o 150 g de agua y 50 g de vino blanco)",
+      "Sal"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Colocamos los mejillones limpios en el recipiente Vaporera de dos niveles.",
+        "accesorio": "Vaporera",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Ponemos el perejil en la jarra y lo trituramos unos 5 segundos en velocidad 7. Añadimos el ajo, al aceite y la guindilla (opcional) y los tomates. Ponemos también el agua y la sal. Cerramos la tapa, ponemos el recipiente Vaporera de dos niveles con los mejillones en su posición y lo cerramos con su tapadera. Programamos 20 minutos, 120 °C con la Vaporera de dos niveles, velocidad 2.",
+        "accesorio": "Vaporera",
+        "velocidad": 7,
+        "temperatura_c": 120,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 20.08,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Acabado el tiempo ponemos los mejillones en una fuente y los servimos inmediatamente, con su propio jugo (colamos el caldo ayudándonos del cestillo). Veréis cómo ese caldito está delicioso.",
+        "accesorio": "Cestillo de hervir",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/mejillones-al-vapor/",
+    "creado_en": "2026-11-11"
+  },
+  {
+    "id": "40831e2d-c5c9-44a6-98dd-a7c0de8108df",
+    "slug": "pastel-de-macarrones",
+    "titulo": "Pastel de macarrones",
+    "descripcion": "Receta de Pastel de macarrones adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/09/pastel-macarrones.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 55,
+    "comensales": 4,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "200 g de macarrones (podéis usar los de colores para hacerlo más vistoso)",
+      "2 latas pequeñas de atún (en aceite o al natural)",
+      "100 g de jamón york",
+      "3 huevos",
+      "1 kg de tomates",
+      "2 dientes de ajo",
+      "100 g de cebolla",
+      "30 g de azúcar",
+      "750 ml de agua",
+      "sal",
+      "1 cucharada de orégano",
+      "50 ml de aceite de oliva (medio cubilete)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Introducimos en la jarra el atún y el jamón york. Troceamos durante 4 segundos a velocidad 4. Sacamos y reservamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 0.07,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Sin limpiar la jarra, introducimos los huevos. Los batimos durante 4 segundos a velocidad 4. Sacamos y reservamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 0.07,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Enjuagamos la jarra e introducimos el agua, el aceite y dos cucharaditas de sal. Programamos 5 minutos, velocidad 2, 120 °C con la Vaporera de dos niveles. Añadimos los macarrones y programamos 12 minutos, 100 °C, Cuchara MamboMix, velocidad 1, con la Cuchara MamboMix (función SlowMambo).",
+        "accesorio": "Vaporera",
+        "velocidad": 2,
+        "temperatura_c": 120,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 17,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Escurrimos, desechamos el agua y mezclamos en un recipiente los macarrones con los huevos, el atún y el jamón reservados.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Engrasamos con un poquito de aceite un recipiente de aluminio que quepa dentro del recipiente Vaporera de dos niveles. Introducimos en él la mezcla de los macarrones. Ponemos el recipiente en la Vaporera de dos niveles, tapamos la Vaporera de dos niveles y reservamos.",
+        "accesorio": "Vaporera",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Sin lavar la jarra, añadimos el aceite, la cebolla y los ajos. Trituramos todo durante 15 segundos a velocidad 7 y lo sofreímos durante 8 minutos 120 °C con la Vaporera de dos niveles, velocidad 2. Con cubilete",
+        "accesorio": "Vaporera",
+        "velocidad": 7,
+        "temperatura_c": 120,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 8.25,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Añadimos los tomates lavados y troceados, el azúcar, el orégano y una cucharadita de sal y trituramos todo junto durante 5 segundos a velocidad 5. Ponemos el cubilete y el cestillo para evitar salpicaduras",
+        "accesorio": "Cestillo de hervir",
+        "velocidad": 5,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 0.08,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "baja",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Velocidad 5 por encima del máximo documentado del accesorio Cestillo de hervir (máx. 3)."
+        ]
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Ponemos el recipiente Vaporera de dos niveles en su lugar y programamos 30 minutos, 120 °C con la Vaporera de dos niveles, velocidad 2.",
+        "accesorio": "Vaporera",
+        "velocidad": 2,
+        "temperatura_c": 120,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 30,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Una vez finalice, destapamos la Vaporera de dos niveles (siempre en dirección contraria a nosotros para evitar quemaduras), lo dejamos enfriar un poco, desmoldamos y cubrimos con la salsa de tomate.",
+        "accesorio": "Vaporera",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/pastel-de-macarrones/",
+    "creado_en": "2026-11-11"
+  },
+  {
+    "id": "0981172c-89d2-4d92-b0da-3e365a7ff376",
+    "slug": "pollo-a-la-coca-cola-con-salsa-de-nata",
+    "titulo": "Pollo a la coca-cola con salsa de nata",
+    "descripcion": "Receta de Pollo a la coca-cola con salsa de nata adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/09/Pollo_cocacola.jpg",
+    "categoria": "arroces",
+    "tiempo_total_min": 55,
+    "comensales": 4,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "1 pechuga de pollo grande o 2 medias pequeñas",
+      "300 gr de arroz basmati (también vale arroz jazmín o blanco normal)",
+      "2 cebollas cortadas en cuartos",
+      "330 ml de coca-cola normal",
+      "200 ml de nata para cocinar",
+      "50 gr de aceite de oliva",
+      "Pizca de sal",
+      "Pizca de pimienta"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Lo primero es cocer el arroz. Ponemos 1 litro de agua en la jarra, un chorrito de aceite de oliva y sal al gusto, introducimos el cestillo y programamos 8 minutos, Cuchara MamboMix, velocidad 1, 120 °C con la Vaporera de dos niveles.",
+        "accesorio": "Cestillo de hervir",
+        "velocidad": 1,
+        "temperatura_c": 120,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 8,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Añadimos el arroz por el abertura de la tapa dentro del cestillo. Programamos 12 minutos, Cuchara MamboMix, velocidad 1, 120 °C con la Vaporera de dos niveles. El arroz basmati se cuece antes que nuestro arroz redondo, así que serán aproximadamente 12 minutos. De todas formas, yo os recomiendo seguir las indicaciones del paquete y que lo vayáis probando de vez en cuando para ponerlo a vuestro gusto. Lo removeremos unas 3 veces durante la cocción y cuando esté a nuestro gusto, lo escurrimos y reservamos.",
+        "accesorio": "Cestillo de hervir",
+        "velocidad": 1,
+        "temperatura_c": 120,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 24,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Mientras se cuece el arroz vamos cortando las pechugas de pollo en trozos grandes y los salpimentamos.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Cuando haya terminado el arroz, le damos un agua rápida a la jarra y lo secamos bien con papel de cocina.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "baja",
+        "sin_convertir": true,
+        "notas_conversion": [
+          "El texto original no indica velocidad de la Mambo; hay que revisar manualmente.",
+          "El texto original no indica tiempo de programación; hay que revisar manualmente."
+        ]
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Añadimos el aceite y la cebolla y trituramos 4 segundos, velocidad 5. Bajamos los restos de las paredes y programamos 5 minutos, velocidad 1, 120 °C con la Vaporera de dos niveles.",
+        "accesorio": "Vaporera",
+        "velocidad": 5,
+        "temperatura_c": 120,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 5.07,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Añadimos los trozos de pollo y programamos 5 minutos, velocidad 1, 120 °C con la Vaporera de dos niveles, con la Cuchara MamboMix (función SlowMambo).",
+        "accesorio": "Vaporera",
+        "velocidad": 1,
+        "temperatura_c": 120,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 5,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Añadimos la coca-cola poco a poco para que no se nos desborde y programamos 6 minutos, 100, velocidad 1, con la Cuchara MamboMix (función SlowMambo). OJO: puede ser que la coca-cola cuando hierve a 100 grado se salga por el abertura de la tapa. Vigiladlo, y si es así, bajad la temperatura a 90 °C.",
+        "accesorio": "Cuchara MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 90,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 6,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Añadimos la nata 5 minutos, 90, velocidad 1, con la Cuchara MamboMix (función SlowMambo).",
+        "accesorio": "Cuchara MamboMix",
+        "velocidad": 1,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 5,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Lo probamos y rectificamos según nos guste: más sal, más pimienta, más nata, más coca-cola (si añadís algo cocinadlo a 90 °C 2 minutos más).",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 2,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Servimos con el arroz y ¡a disfrutar!",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/pollo-la-coca-cola-con-salsa-de-nata/",
+    "creado_en": "2026-11-11"
   }
 ]
