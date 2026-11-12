@@ -83266,5 +83266,475 @@
     ],
     "fuente_url": "https://www.thermorecetas.com/pollo-la-coca-cola-con-salsa-de-nata/",
     "creado_en": "2026-11-11"
+  },
+  {
+    "id": "7793718b-c4ae-4859-a778-adda168128e6",
+    "slug": "bizcochitos-integrales-de-naranja",
+    "titulo": "Bizcochitos integrales de naranja",
+    "descripcion": "Receta de Bizcochitos integrales de naranja adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/09/bizcochitos-integrales-de-naranja-thermorecetas.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 11,
+    "comensales": 15,
+    "dificultad": "Media",
+    "ingredientes": [
+      "1 yogur desnatado",
+      "125 g de harina integral",
+      "30 g de azúcar",
+      "10 g de levadura en polvo",
+      "5 g de canela molida",
+      "Piel de naranja",
+      "50 g de chocolate negro"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Precalentar el horno a 180 °C. Forrar dos bandejas con papel sulfurizado o similar.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "horno",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Paso de horno: se programa en el horno, no en la Mambo.",
+          "Horno a 180 °C."
+        ]
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Lavar y secar bien la naranja. Con un pelaverduras cortar dos tiras largas sin nada de piel blanca. Ponerlas en la jarra junto con el azúcar y la harina, pulverizar durante 10 segundos a velocidad 10.",
+        "accesorio": "Cuchillas",
+        "velocidad": 10,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 0.17,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Esperar unos segundos para abrir la tapa y, después, incorporar el yogur, la canela y la levadura. Batir durante 30 segundos a velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 0.5,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Formar sobre las bandejas 15 montones con la masa, teniendo precaución de no juntarlos demasiado porque crecen.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Introducir en el horno y hornear durante 10 minutos. Transcurrido el tiempo retirar del horno y trasladar los bizcochitos a una rejilla para que se enfríen completamente.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 10,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "horno",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Paso de horno: se programa en el horno, no en la Mambo."
+        ]
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Mientras, derretir el chocolate en el microondas teniendo precaución de que no se queme. Introducirlo en un biberón, manga pastelera o similar con boquilla estrecha. Decorar cada bizcochito con unos hilos de chocolate.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Servir acompañados de un buen jarra de leche o de vuestra bebida favorita.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/bizcochitos-integrales-de-naranja-2/",
+    "creado_en": "2026-11-12"
+  },
+  {
+    "id": "ba738dfc-2a53-4efc-a1ab-7447b705a46e",
+    "slug": "guisantes-con-bacon",
+    "titulo": "Guisantes con bacon",
+    "descripcion": "Receta de Guisantes con bacon adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/09/guisantes-con-bacon.jpg",
+    "categoria": "sopas-y-cremas",
+    "tiempo_total_min": 23,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "1 ramillete de perejil",
+      "1 cebolla en cuartos",
+      "30 g de aceite de oliva virgen extra",
+      "200 g de bacon cortado en cuadraditos",
+      "500 g de guisantes congelados",
+      "100 g de vino blanco",
+      "Sal y pimienta (opcional)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Trituramos el perejil programando 5 segundos, velocidad 7. Sacamos y reservamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 0.08,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Sin lavar la jarra ponemos la cebolla y la trituramos programando 5 segundos, velocidad 7. Bajamos con la espátula lo que haya quedado en las paredes.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 0.08,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Añadimos el aceite y el bacon. Programamos 3 minutos, 100 °C, con la Cuchara MamboMix (función SlowMambo), velocidad 1.",
+        "accesorio": "Cuchara MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 3,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Unimos los guisantes, el vino, la sal y, si queremos, un poco de pimienta. Programamos 20 minutos, 100 °C, con la Cuchara MamboMix (función SlowMambo), velocidad 1.",
+        "accesorio": "Cuchara MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 20,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Cuando acaba el tiempo ponemos el perejil picado y servimos inmediatamente.",
+        "accesorio": "Cuchillas",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/guisantes-con-bacon/",
+    "creado_en": "2026-11-12"
+  },
+  {
+    "id": "990545bd-e195-4691-a51b-c20f3de87050",
+    "slug": "croquetas-de-quinoa-y-zanahoria",
+    "titulo": "Croquetas de quinoa y zanahoria",
+    "descripcion": "Receta de Croquetas de quinoa y zanahoria adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/09/croquetas-quinoa.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 38,
+    "comensales": 4,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "200 g de quinoa",
+      "700 ml de agua",
+      "300 g de zanahorias",
+      "1 cebolla mediana (170 g aprox.)",
+      "50 ml de aceite (medio cubilete)",
+      "1 cucharadita de postre de cominos",
+      "2 cucharadas de harina de trigo",
+      "4 cucharadas de harina de garbanzos (podéis sustituirla por harina de trigo)",
+      "4 cucharadas de pan rallado",
+      "1 huevo",
+      "sal"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos en la jarra el agua, la quinoa y 2 cucharaditas (de las de café) de sal. La cocemos durante 20 minutos, 100 °C, Cuchara MamboMix, velocidad 1 y con la Cuchara MamboMix (función SlowMambo).",
+        "accesorio": "Cuchara MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 20,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Al finalizar la cocción, colamos la quinoa, desechamos el agua de cocción. Reservamos.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Introducimos en la jarra la cebolla y las zanahorias peladas y troceadas, el aceite y dos cucharaditas (de las de café) de sal. Troceamos durante 5 segundos a velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 0.08,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "A continuación, programamos 12 minutos, 120 °C con la Vaporera de dos niveles, velocidad 1, con la Cuchara MamboMix (función SlowMambo).",
+        "accesorio": "Vaporera",
+        "velocidad": 1,
+        "temperatura_c": 120,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 12,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Añadimos a la jarra la quinoa reservada y los cominos y programamos 3 minutos, 100 °C, Cuchara MamboMix, velocidad 1 y con la Cuchara MamboMix (función SlowMambo).",
+        "accesorio": "Cuchara MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 3,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Añadimos las dos cucharadas de harina de trigo y un cubilete (100 ml) de agua. Programamos 3 minutos, velocidad 3, con la Cuchara MamboMix (función SlowMambo).",
+        "accesorio": "Cuchara MamboMix",
+        "velocidad": 3,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 3,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Reservamos esta masa en un recipiente y dejamos que se enfríe. Así será más fácil formar las croquetas.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Una vez fría, formamos croquetas con dos cucharas o con las manos y las rebozamos en harina de garbanzo, huevo batido y pan rallado, por ese orden. Freímos en abundante aceite.",
+        "accesorio": "Cuchillas",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/croquetas-de-quinoa-y-zanahoria/",
+    "creado_en": "2026-11-12"
+  },
+  {
+    "id": "05b9fbd2-a743-4ae9-9a8d-b26520956f3f",
+    "slug": "ensalada-templada-de-gulas-a-la-bilbaina-al-ajillo",
+    "titulo": "Ensalada templada de gulas a la bilbaína (al ajillo)",
+    "descripcion": "Receta de Ensalada templada de gulas a la bilbaína (al ajillo) adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/09/ensalada-templada-de-gulas-1.jpg",
+    "categoria": "verduras",
+    "tiempo_total_min": 13,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "40 gr de aceite de oliva virgen extra",
+      "3 dientes de ajo laminados",
+      "1 cayena",
+      "200 gr de gulas",
+      "1 cucharada de vinagre (opcional)",
+      "200 gr de lechuga variada limpia"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos el aceite en la jarra y programamos 5 minutos, 120 °C con la Vaporera de dos niveles, velocidad 1.",
+        "accesorio": "Vaporera",
+        "velocidad": 1,
+        "temperatura_c": 120,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 5,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Mientras colocamos la lechuga en una fuente o en raciones individuales (según cómo queráis presentarlo) y añadimos sal al gusto.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Añadimos los ajos y programamos 5 minutos, 120 °C con la Vaporera de dos niveles, con la Cuchara MamboMix (función SlowMambo), Cuchara MamboMix, velocidad 1.",
+        "accesorio": "Vaporera",
+        "velocidad": 1,
+        "temperatura_c": 120,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 5,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Incorporamos la guindilla y las gulas para sofreír, 3 minutos, 120 °C con la Vaporera de dos niveles, con la Cuchara MamboMix (función SlowMambo), velocidad 1. En los últimos 15 segundos, agregamos por el abertura de la tapa en vinagre.",
+        "accesorio": "Vaporera",
+        "velocidad": 1,
+        "temperatura_c": 120,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 3.25,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Añadimos las gulas inmediatamente por encima de la lechuga y ya están listas para servir.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/ensalada-templada-de-gulas-la-bilbaina-al-ajillo/",
+    "creado_en": "2026-11-12"
   }
 ]
