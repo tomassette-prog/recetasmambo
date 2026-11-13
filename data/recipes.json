@@ -83736,5 +83736,523 @@
     ],
     "fuente_url": "https://www.thermorecetas.com/ensalada-templada-de-gulas-la-bilbaina-al-ajillo/",
     "creado_en": "2026-11-12"
+  },
+  {
+    "id": "6898cabd-9f1b-4266-9c61-be4c29efc1c0",
+    "slug": "graten-de-salmon",
+    "titulo": "Gratén de salmón",
+    "descripcion": "Receta de Gratén de salmón adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/09/gratén-de-salmón-thermorecetas.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 16,
+    "comensales": 1,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "100 g de salmón fresco sin espinas ni piel",
+      "4 gambas peladas",
+      "4 ramilletes de brócoli",
+      "4 tomatitos cherry",
+      "1 zanahoria pequeña",
+      "50 g de puerro",
+      "30 g de nata líquida",
+      "2 cucharadas del agua de cocción de las hortalizas",
+      "20 g de queso de untar a la finas hierbas",
+      "1 rebanada de pan de molde",
+      "1/2 diente de ajo",
+      "1/2 cucharadita de mantequilla",
+      "Perejil",
+      "Sal y pimienta"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Poner dentro de la jarra el ajo, el pan de molde, la mantequilla y perejil al gusto. Triturar durante 5 segundos a velocidad 7. Retirar y reservar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 0.08,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Llenar la jarra de la Thermomix con agua hasta la marca de 1 litro. Agregar un pellizco de sal y calentarla durante 7 minutos, 100 °C, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 7,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Mientras, lavar el puerro y la zanahoria y cortar ambas hortalizas en rodajas. Lavar también el brócoli y reservar en el cestillo.",
+        "accesorio": "Cestillo de hervir",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Terminado el tiempo, colocar el cestillo en su posición y programar 4 minutos, 100 °C, velocidad 4.",
+        "accesorio": "Cestillo de hervir",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 4,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "baja",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Velocidad 4 por encima del máximo documentado del accesorio Cestillo de hervir (máx. 3).",
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Mientras lavar los tomates cherry y cortar el salmón a cubos.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Terminado el tiempo de cocción de las hortalizas, desechar el agua reservando 2 cucharadas. Escurrir las hortalizas y reservar.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "En un cuenco poner la nata, el queso y el agua de cocción. Salpimentar y mezclar hasta que los ingredientes estén integrados.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "En una cazuela que pueda ir al horno disponer las hortalizas cocidas, los tomatitos, los dados de salmón y las gambitas. Verter la crema por encima y coronar con las migas de ajo y perejil que estaban reservadas.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "horno",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Paso de horno: se programa en el horno, no en la Mambo."
+        ]
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Hornear en la altura media durante 5 minutos a 200 °C. Después subir a la altura superior y gratinar entre 3 y 5 minutos teniendo cuidado de que no se queme la superficie.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 3,
+        "tiempo_max_minutos": 5,
+        "tipo_paso": "horno",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Paso de horno: se programa en el horno, no en la Mambo.",
+          "Horno a 200 °C."
+        ]
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Servir enseguida.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/graten-de-salmon/",
+    "creado_en": "2026-11-13"
+  },
+  {
+    "id": "7fd1cce6-110a-46e7-a6bc-a9f99dd43683",
+    "slug": "pastelitos-arabes",
+    "titulo": "Pastelitos árabes",
+    "descripcion": "Receta de Pastelitos árabes adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/09/pastelitos-arabes.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 40,
+    "comensales": 20,
+    "dificultad": "Media",
+    "ingredientes": [
+      "150 g de almendra",
+      "75 h g de nueces",
+      "125 g de azúcar",
+      "15 g de agua de azahar",
+      "25 g de miel",
+      "170 g de agua",
+      "150 g de azúcar",
+      "1 rodaja de limón",
+      "20 g de miel",
+      "1 plancha de masa (brisa) cuadrada",
+      "Huevo batido para pintarlos",
+      "Algunas almendras para decorar"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Sacamos la masa unos minutos antes de preparar los rollitos para que así al desenrollarla no se nos rompa.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "baja",
+        "sin_convertir": true,
+        "notas_conversion": [
+          "El texto menciona un tiempo que no se ha podido convertir; revisar manualmente."
+        ]
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Ponemos los ingredientes del relleno la jarra y programamos 5 segundos, velocidad 5. Sacamos y reservamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 0.08,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Ponemos todos los ingredientes del almíbar en la jarra y programamos 20 minutos, 90 °C, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 90,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 20,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Mientras se hace el almíbar se pueden ir haciendo los rollitos. Quedan como si fueran canutillos (no como brazo gitano) así que la tira no tiene que ser muy ancha (de unos 8 cms). Cuando tenemos las tiras rellena la pintamos con huevo, le ponemos las almendras para decorar.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Las metemos al horno. Yo las he tenido unos 20 minutos a 180 °C. Cuando esté hechas, las cortamos con un cuchillo de sierra para obtener nuestros pastelitos.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 20,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "horno",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Paso de horno: se programa en el horno, no en la Mambo.",
+          "Horno a 180 °C."
+        ]
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Cuando el almíbar esté frío o templado bañamos en él nuestros pastelitos y los colocamos en cápsulas (de las pequeñitas que se utilizan para los bombones).",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/pastelitos-arabes/",
+    "creado_en": "2026-11-13"
+  },
+  {
+    "id": "a1c4e5fb-2ebc-4e11-96dd-33e6bec8de19",
+    "slug": "salsa-romesco",
+    "titulo": "Salsa Romesco",
+    "descripcion": "Receta de Salsa Romesco adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/09/salsa-romescu.jpg",
+    "categoria": "panes-masas",
+    "tiempo_total_min": 1661,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "3 tomates maduros (medio kilo aprox.)",
+      "1 rebanada gruesa de pan tostado o frito (25 g aprox.)",
+      "1 ñora",
+      "media cabeza de ajos (6 dientes aprox.)",
+      "1 diente de ajo ( si no os gusta mucho el sabor del ajo crudo, poned medio)",
+      "100 ml de aceite de oliva (un cubilete)",
+      "25 ml de vinagre",
+      "50 g de almendras fritas (o tostadas) y peladas",
+      "25 g de avellanas tostadas y peladas",
+      "1 cucharadita (de las de café) de sal"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos la ñora en remojo con agua la noche anterior (debe estar mínimo 3 horas en remojo, pero podéis dejarla hasta 24 h)",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 1620,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Asamos los tomates y los ajos en el horno. Para ello, precalentamos el horno a 180 °C. A los tomates les hacemos dos cortes en la base formando una cruz y los ponemos boca abajo (con los cortes arriba) en un recipiente adecuado junto con la cabeza de ajos. Necesitarán entre 30 y 40 minutos (depende del horno) para estar listos. Reservamos y los dejamos enfriar.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 30,
+        "tiempo_max_minutos": 40,
+        "tipo_paso": "horno",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Paso de horno: se programa en el horno, no en la Mambo.",
+          "Horno a 180 °C."
+        ]
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Ponemos en la jarra la rebanada de pan tostado o frito, las almendras, las avellanas, la sal y el diente de ajo crudo. Trituramos durante 30 segundos a velocidad 7.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 0.5,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Abrimos la ñora, le quitamos las pepitas y el rabito, pelamos los tomates y los ajos asados y los añadimos a la jarra. Incorporamos también el vinagre y trituramos de nuevo otros 30 segundos a velocidad 7.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 0.5,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Con velocidad 4 y medio y sin programar tiempo vamos dejando caer el aceite de oliva sobre la tapa de la jarra, de forma que caiga lentamente por el abertura de la tapa. Emulsionamos así la salsa.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "baja",
+        "sin_convertir": true,
+        "notas_conversion": [
+          "El texto original no indica tiempo de programación; hay que revisar manualmente."
+        ]
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Y ya está lista. A disfrutar de esta salsa romescu que realzará con su sabor cualquier plato de verduras o pescado blanco.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/salsa-romescu/",
+    "creado_en": "2026-11-13"
+  },
+  {
+    "id": "73dab64b-8302-4cb3-8a3c-0a21bafa246c",
+    "slug": "sopa-ligera-de-rucula",
+    "titulo": "Sopa ligera de rúcula",
+    "descripcion": "Receta de Sopa ligera de rúcula adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/09/Sopa_ligera.jpg",
+    "categoria": "verduras",
+    "tiempo_total_min": 38,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "1 litro de caldo de caldo de verdura",
+      "2 zanahorias pequeñas o 1 grande",
+      "2 patatas medianas",
+      "50 gr de rúcula fresca (de las que venden en la sección de ensaladas envasadas)",
+      "20 gr de aceite de oliva virgen",
+      "Sal (opcional al gusto)",
+      "Pimienta"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos en la jarra la Mariposa y añadimos el caldo y el aceite. Calentamos 8 minutos, 120 °C con la Vaporera de dos niveles, velocidad cuchada.",
+        "accesorio": "Vaporera",
+        "velocidad": null,
+        "temperatura_c": 120,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 8,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "baja",
+        "sin_convertir": true,
+        "notas_conversion": [
+          "El texto menciona una velocidad que no se ha podido convertir; revisar manualmente.",
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Añadimos la zanahoria en rodajas y la patata en trozos no muy pequeños. Os recomiendo el siguiente corte para la patata: empezáis a introducir el cuchillo y antes de llegar al final del trozo chascáis la patata hacia arriba. Así conseguiremos que el caldo nos quede con más almidón de la patata y, por tanto, más espeso.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Programamos 25 minutos, Cuchara MamboMix, velocidad 1, con la Cuchara MamboMix (función SlowMambo), 120 °C con la Vaporera de dos niveles.",
+        "accesorio": "Vaporera",
+        "velocidad": 1,
+        "temperatura_c": 120,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 25,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Cuando haya terminado el tiempo añadimos la rúcula, pimienta al gusto y programamos 5 minutos, Cuchara MamboMix, velocidad 1, con la Cuchara MamboMix (función SlowMambo), 120 °C con la Vaporera de dos niveles.",
+        "accesorio": "Vaporera",
+        "velocidad": 1,
+        "temperatura_c": 120,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 5,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Rectificamos de sal y pimienta y ¡a disfrutar!",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/sopa-ligera-de-rucula/",
+    "creado_en": "2026-11-13"
   }
 ]
