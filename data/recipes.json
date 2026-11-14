@@ -84254,5 +84254,584 @@
     ],
     "fuente_url": "https://www.thermorecetas.com/sopa-ligera-de-rucula/",
     "creado_en": "2026-11-13"
+  },
+  {
+    "id": "b4356484-b694-4159-990b-645d0055f322",
+    "slug": "huevos-al-plato-con-guisantes",
+    "titulo": "Huevos al plato con guisantes",
+    "descripcion": "Receta de Huevos al plato con guisantes adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/09/huevos-al-plato-con-guisantes-thermorecetas.jpg",
+    "categoria": "salsas",
+    "tiempo_total_min": 41,
+    "comensales": 2,
+    "dificultad": "Media",
+    "ingredientes": [
+      "200 g de guisantes",
+      "70 g de cebolla",
+      "1 diente de ajo",
+      "30 g de aceite de oliva",
+      "300 g de tomates (pelados y sin semillas)",
+      "1 cucharadita de azúcar",
+      "2 huevos",
+      "Sal y pimienta"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Llenar la jarra con agua del grifo hasta la marca de 1 litro. Calentar durante 5 minutos, 100 °C, velocidad 1. A continuación colocar el cestillo con los guisantes dentro. Cocer durante 5 minutos, 100 °C, velocidad 5. Cuando termine el tiempo, sacar con cuidado el cestillo, refrescar los guisantes y reservar.",
+        "accesorio": "Cestillo de hervir",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 10,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Desechar el agua de cocción y, sin lavar la jarra, incorporar la cebolla, el ajo y el aceite. Picar durante 5 segundos a velocidad 5, bajar los trocitos hacia las cuchillas y pochar durante 5 minutos, 100 °C, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 5.08,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Despues incorporar los tomates, sin piel ni semillas, y el azúcar. Salpimentar al gusto y proseguir la cocción durante 13 minutos, 100 °C, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 13,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Precalentar el horno a 180 °C.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "horno",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Paso de horno: se programa en el horno, no en la Mambo.",
+          "Horno a 180 °C."
+        ]
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Finalizado el tiempo tendremos un sofrito espeso que repartiremos en 2 cazuelas que puedan ir al horno. Repartir también los guisantes reservados, colocándolos en un lado del recipiente. Cascar un huevo y dejar caer encima de la parte sin guisantes. Repertir la operación con el otro huevo.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "horno",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Paso de horno: se programa en el horno, no en la Mambo."
+        ]
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Introducir en el horno precalentado y hornear durante 13 minutos o hasta que la clara esté cuajada y la yema líquida y jugosa.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 13,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "horno",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Paso de horno: se programa en el horno, no en la Mambo."
+        ]
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Antes de servir espolvorear un pellizco pequeño de sal encima de cada huevo y servir enseguida.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/huevos-al-plato-con-guisantes/",
+    "creado_en": "2026-11-14"
+  },
+  {
+    "id": "7c92a109-247f-4882-ad0e-5510edf54d94",
+    "slug": "potitos-o-papillas-de-fruta-para-conserva",
+    "titulo": "Potitos o papillas de fruta para conserva",
+    "descripcion": "Receta de Potitos o papillas de fruta para conserva adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/09/potitos-fruta-para-conserva.jpg",
+    "categoria": "bebidas",
+    "tiempo_total_min": 22,
+    "comensales": 5,
+    "dificultad": "Media",
+    "ingredientes": [
+      "500 g de manzana",
+      "400 g de pera (o 300 g de pera y 100 de melocotón)",
+      "300 g de plátano",
+      "El zumo de 2 naranjas, sin pepitas"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Pelamos y limpiamos bien las manzanas y las peras (también los melocotones si decidimos incluirlos). Los cortamos en cuartos. Los ponemos en la jarra y programamos 15 minutos, Vaporera de dos niveles, velocidad 1.",
+        "accesorio": "Vaporera",
+        "velocidad": 1,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 15,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Acabado el tiempo, ponemos los plátanos (cortados en trocitos) y el zumo de naranja. Programamos 5 minutos, Vaporera de dos niveles, velocidad 1.",
+        "accesorio": "Vaporera",
+        "velocidad": 1,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 5,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Ahora esperamos 1 minuto y trituramos. Con cuidado de no quemarnos y siempre con el cubilete puesto y sujetándolo con la mano, trituramos utilizando velocidad progresiva hasta llegar a 9 y lo dejamos en esa velocidad durante 1 minuto.",
+        "accesorio": "Cuchillas",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 2,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "baja",
+        "sin_convertir": true,
+        "notas_conversion": [
+          "El texto menciona una velocidad que no se ha podido convertir; revisar manualmente."
+        ]
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Metemos en botes de conserva. Los ponemos al baño maría para que hagan el vacío.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Ya me contaréis si os gusta y, lo más importante, qué opinan los chiquitines.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/potitos-o-papillas-de-fruta-para-conserva/",
+    "creado_en": "2026-11-14"
+  },
+  {
+    "id": "4628102b-b402-4b6e-9ac6-e7c90460a4a1",
+    "slug": "sepia-a-la-mallorquina",
+    "titulo": "Sepia a la mallorquina",
+    "descripcion": "Receta de Sepia a la mallorquina adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/09/sepia-mallorquina.jpg",
+    "categoria": "pescados",
+    "tiempo_total_min": 63,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "1 kilo de sepia limpia y troceada",
+      "300 g de cebolla tierna",
+      "2 dientes de ajo",
+      "75 ml de aceite de oliva",
+      "175 g de tomate natural triturado",
+      "75 ml de brandy",
+      "media pastilla de caldo de pescado",
+      "25 g de pasas",
+      "25 g de piñones",
+      "1 guindilla",
+      "1 cucharadita de sal",
+      "1 cucharadita de azúcar",
+      "media cucharadita de pimienta negra molida"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Introducimos la sepia en la jarra, con 25 ml de aceite y 25 ml de brandy. La cocemos durante 20 minutos, 120 °C con la Vaporera de dos niveles, Cuchara MamboMix, velocidad 1 y con la Cuchara MamboMix (función SlowMambo). Sin cubilete. La sacamos y reservamos junto con el jugo que haya formado.",
+        "accesorio": "Vaporera",
+        "velocidad": 1,
+        "temperatura_c": 120,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 20,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Sin limpiar la jarra, introducimos los ajos y las cebollas. Trocemos durante 6 segundos, velocidad 5. Sacamos y reservamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 0.1,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Ponemos en la jarra 50 ml de aceite y lo calentamos durante 3 minutos, 120 °C con la Vaporera de dos niveles, velocidad 1. Incorporamos la cebolla y los ajos reservados y sofreímos durante 10 minutos, 120 °C con la Vaporera de dos niveles, Cuchara MamboMix, velocidad 1. Con cubilete.",
+        "accesorio": "Vaporera",
+        "velocidad": 1,
+        "temperatura_c": 120,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 13,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Añadimos el tomate, la sal y el azúcar. Sofreímos otros 10 minutos, 120 °C con la Vaporera de dos niveles, Cuchara MamboMix, velocidad 1. Con cubilete",
+        "accesorio": "Vaporera",
+        "velocidad": 1,
+        "temperatura_c": 120,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 10,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Introducimos la sepia reservada, la pastilla de caldo, la guindilla, la pimienta, las pasas, los piñones y el brandy restante. Lo cocemos todo junto durante 20 minutos, 120 °C con la Vaporera de dos niveles, Cuchara MamboMix, velocidad 1, con la Cuchara MamboMix (función SlowMambo).",
+        "accesorio": "Vaporera",
+        "velocidad": 1,
+        "temperatura_c": 120,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 20,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/sepia-la-mallorquina/",
+    "creado_en": "2026-11-14"
+  },
+  {
+    "id": "49305677-8b38-44dd-83bc-b380bb179246",
+    "slug": "lasana-maestra",
+    "titulo": "Lasaña maestra",
+    "descripcion": "Receta de Lasaña maestra adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/09/Lasaña_maestra2.jpg",
+    "categoria": "carnes",
+    "tiempo_total_min": 68,
+    "comensales": 6,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "placas de lasaña precocida (el número dependerá del molde que utilicéis).",
+      "600 gr de carne picada (yo mitad ternera mitad cerdo)",
+      "50 gr de aceite de oliva virgen",
+      "150 gr de whisky o de cualquier bebida alcohólica que tengáis (vino, coñac, ron…)",
+      "Salsa napolitana",
+      "Sal de ajo (podemos sustituir por ajo en polvo)",
+      "1 cebolla grande",
+      "Pimienta",
+      "Sal",
+      "Unas gotitas de tabasco",
+      "200 gr de jamón york",
+      "200 gr de queso manchego semicurado",
+      "Orégano",
+      "Queso rallado tipo emmental o mezcla de quesos que gratinen bien",
+      "800 gr de leche semidesnatada",
+      "25 gr de aceite de oliva",
+      "50 gr de harina",
+      "sal",
+      "pimienta",
+      "nuez moscada"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Cortamos la cebolla en cuartos y la ponemos en la thermomix. Trituramos 5 segundos, velocidad 5. Bajamos los restos de tapa y paredes y añadimos el aceite. Programamos 5 minutos, 120 °C con la Vaporera de dos niveles, velocidad 1.",
+        "accesorio": "Vaporera",
+        "velocidad": 5,
+        "temperatura_c": 120,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 5.08,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Añadimos la carne, un espolvoreo bien generoso de sal de ajo, sal y pimienta. Dejamos cocinar 15 minutos, 120 °C con la Vaporera de dos niveles, velocidad 1, con la Cuchara MamboMix (función SlowMambo).",
+        "accesorio": "Vaporera",
+        "velocidad": 1,
+        "temperatura_c": 120,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 15,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Añadimos el whisky o la bebida alcohólica que tengáis en casa y dejamos cocinar durante 3 minutos, 120 °C con la Vaporera de dos niveles, velocidad 1, con la Cuchara MamboMix (función SlowMambo), sin cubilete.",
+        "accesorio": "Vaporera",
+        "velocidad": 1,
+        "temperatura_c": 120,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 3,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Añadimos la salsa napolitana y el orégano y cocinamos durante 5 minutos, 120 °C con la Vaporera de dos niveles, velocidad 1, con la Cuchara MamboMix (función SlowMambo), ahora si ponemos el cubilete.",
+        "accesorio": "Vaporera",
+        "velocidad": 1,
+        "temperatura_c": 120,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 5,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Retiramos la carne y reservamos.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Con la jarra limpio vamos a preparar la bechamel. Añadimos el aceite y calentamos 3 minutos, velocidad 1, 120 °C con la Vaporera de dos niveles. Añadimos la harina y sofreímos 3 minutos, velocidad 1, 120 °C con la Vaporera de dos niveles.",
+        "accesorio": "Vaporera",
+        "velocidad": 1,
+        "temperatura_c": 120,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 6,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Agregamos la leche, la sal, la pimienta y la nuez moscada. Cocinamos 9 minutos, velocidad 4, 90 °C.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 90,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 9,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Reservamos dentro de la jarra. Cuando vayamos a usarla veremos que se ha quedado una capa solidificada en la superficie. Trituramos unos segundos a velocidad 4 y ya la tendremos lista para usar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "baja",
+        "sin_convertir": true,
+        "notas_conversion": [
+          "El texto menciona un tiempo que no se ha podido convertir; revisar manualmente."
+        ]
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Debe quedar una bechamel muy ligerita.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Precalentamos el horno a 180 °C.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "horno",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Paso de horno: se programa en el horno, no en la Mambo.",
+          "Horno a 180 °C."
+        ]
+      },
+      {
+        "paso_numero": 11,
+        "instruccion": "Hervimos la pasta de la lasaña en agua caliente hasta que se reblandezca un poco. Como ya está precocida, no hace falta cocerla mucho. Reservamos.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "baja",
+        "sin_convertir": true,
+        "notas_conversion": [
+          "El texto original no indica velocidad de la Mambo; hay que revisar manualmente.",
+          "Sin tiempo fijo: cocinar según el punto indicado en el texto."
+        ]
+      },
+      {
+        "paso_numero": 12,
+        "instruccion": "Colocamos una capa de bechamel en la base del molde. Después las placas de lasaña. Una capa de carne, unas lonchas de jamón york y unas lonchas de queso. Repetimos la operación (sin bechamel): placas + carne + jamón york + queso. Terminamos con una capa de placas, cubrimos con bechamel y espolvoreamos con mucho queso rallado.",
+        "accesorio": "Cuchillas",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 13,
+        "instruccion": "Cocinamos en el horno durante unos 20-25 minutos a 180 °C hasta que veamos que burbujea la parte inferior de la lasaña y el queso de la superficie. Después encendemos el gratinador y doramos por la superficie.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 20,
+        "tiempo_max_minutos": 25,
+        "tipo_paso": "horno",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Paso de horno: se programa en el horno, no en la Mambo.",
+          "Horno a 180 °C."
+        ]
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/lasana-maestra/",
+    "creado_en": "2026-11-14"
   }
 ]
