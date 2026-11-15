@@ -84833,5 +84833,588 @@
     ],
     "fuente_url": "https://www.thermorecetas.com/lasana-maestra/",
     "creado_en": "2026-11-14"
+  },
+  {
+    "id": "58eb9f89-2161-47b5-be6f-575b9b4b8b7c",
+    "slug": "crema-de-ave-y-zanahorias",
+    "titulo": "Crema de ave y zanahorias",
+    "descripcion": "Receta de Crema de ave y zanahorias adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/09/crema-de-ave-y-zanahorias-thermorecetas.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 28,
+    "comensales": 2,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "400 g de zanahorias",
+      "150 g de cebolla",
+      "1 diente de ajo",
+      "400 g de caldo de ave",
+      "200 g de nata para cocinar",
+      "30 g de aceite de oliva",
+      "1/2 cucharada pequeña de comino molido",
+      "Sal y pimienta",
+      "Cilantro picado"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Raspar, lavar y trocear las zanahorias. Ponerlas en la jarra y picarlas durante 15 segundos a velocidad 4. Retirar y reservar.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 0.25,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Pelar y trocear grueso la cebolla y el diente de ajo. Echarlas en la jarra y agregar el aceite de oliva, picar durante 5 segundos a velocidad 5. Después programar 8 minutos, 100 °C, velocidad 1 para pocharla.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 8.08,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Transcurrido el tiempo agregar las zanahorias reservadas y el comino. Programar 10 minutos, 100 °C, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 10,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Incorporar el caldo y la nata, programar 7 minutos, 90 °C, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 90,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 7,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Terminado el tiempo, esperar a que la jarra pierda temperatura y después triturar durante 1 minuto, subiendo la velocidad de forma progresiva 5, 7 y 9 (ajústala a mano: la Mambo no tiene velocidad progresiva).",
+        "accesorio": "Cuchillas",
+        "velocidad": 9,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 1,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "media",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Velocidad progresiva 5-7-9: la Mambo no la programa; ajusta la velocidad a mano en 3 tramos."
+        ],
+        "velocidad_progresiva": [
+          5,
+          7,
+          9
+        ]
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Salpimentar al gusto y volver a calentarla durante 2 minutos, 100 °C, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 2,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Servir en cuencos o platos hondos decorados con el cilantro picado no muy menudo y servir enseguida",
+        "accesorio": "Cuchillas",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "¡Buen provecho!",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/crema-de-ave-y-zanahorias/",
+    "creado_en": "2026-11-15"
+  },
+  {
+    "id": "b4700e96-162b-49e4-9ea9-fbe7c7276ca8",
+    "slug": "tarta-de-manzana-ligera",
+    "titulo": "Tarta de manzana ligera",
+    "descripcion": "Receta de Tarta de manzana ligera adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/09/tarta-ligera-de-manzana.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 40,
+    "comensales": 8,
+    "dificultad": "Media",
+    "ingredientes": [
+      "700 g de manzana pelada y limpia cortada en cuartos",
+      "Aroma de vainilla",
+      "1 lámina de hojaldre",
+      "3 o 4 manzanas para la superficie",
+      "Azúcar para la superficie (opcional)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos los 700 g de manzana (ya pelada, descorazonada y partida en cuartos) en la jarra. Programamos 18 minutos, 120 °C con la Vaporera de dos niveles, velocidad 1.",
+        "accesorio": "Vaporera",
+        "velocidad": 1,
+        "temperatura_c": 120,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 18,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Cuando acabe el tiempo esperamos 1 minuto antes de triturar. Ahora, con el cubilete puesto y siempre sujetándolo, trituramos en subiendo la velocidad de forma progresiva 4 y 9 (ajústala a mano: la Mambo no tiene velocidad progresiva). Cuando llegamos a 9 trituramos durante 1 minuto.",
+        "accesorio": "Cuchillas",
+        "velocidad": 9,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 2,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "media",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Velocidad progresiva 4-9: la Mambo no la programa; ajusta la velocidad a mano en 2 tramos."
+        ],
+        "velocidad_progresiva": [
+          4,
+          9
+        ]
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Ponemos una lámina de hojaldre sobre un molde redondo que habremos cubierto con papel de horno. Pinchamos el hojaldre y sobre él colocamos nuestra crema de manzana.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "horno",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Paso de horno: se programa en el horno, no en la Mambo."
+        ]
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Precalentamos el horno a 200 °C",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "horno",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Paso de horno: se programa en el horno, no en la Mambo.",
+          "Horno a 200 °C."
+        ]
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Pelamos las manzanas que utilizaremos para la superficie y las cortamos en gajos. Colocamos los gajos sobre la compota, como se ve en la foto o haciendo el diseño que más os guste. Espolvoreamos las manzanas con un poco de azúcar.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Horneamos en horno precalentado a 200 °C durante 20 minutos aproximadamente o hasta que veáis que está dorada.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 20,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "horno",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Paso de horno: se programa en el horno, no en la Mambo.",
+          "Horno a 200 °C."
+        ]
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "La dejamos enfriar a temperatura ambiente y la metemos en la nevera. ¡Que la disfrutéis!",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/tarta-de-manzana-ligera/",
+    "creado_en": "2026-11-15"
+  },
+  {
+    "id": "95993c3c-c47e-4da7-921f-74b5818904b6",
+    "slug": "garbanzos-con-pimientos-y-queso-de-cabra",
+    "titulo": "Garbanzos con pimientos y queso de cabra",
+    "descripcion": "Receta de Garbanzos con pimientos y queso de cabra adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/09/garbanzos-queso.jpg",
+    "categoria": "legumbres",
+    "tiempo_total_min": 22,
+    "comensales": 2,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "2 pimientos rojos (200 g aprox)",
+      "1 pimiento verde italiano (70 g aprox)",
+      "1 cebolla (150 g aprox.)",
+      "400 g de garbanzos cocidos (pueden ser de bote o hechos en casa)",
+      "150 g de queso de cabra",
+      "1 cucharada de tomate frito",
+      "3 dientes de ajo",
+      "1 guindilla",
+      "50 ml de leche",
+      "75 ml de aceite",
+      "2 cucharaditas de sal",
+      "1 cucharada de orégano",
+      "1/2 cucharadita de pimienta"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos en la jarra 50 ml de aceite, los pimientos y la cebolla a trozos, una cucharadita de sal y la pimienta. Troceamos durante 4 segundos a velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 0.07,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "A continuación, rehogamos programando 12 minutos, 120 °C con la Vaporera de dos niveles, Cuchara MamboMix, velocidad 1. Con cubilete.",
+        "accesorio": "Vaporera",
+        "velocidad": 1,
+        "temperatura_c": 120,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 12,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Sacamos y reservamos.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Introducimos en la jarra los 3 dientes de ajo, la guindilla y 25 ml de aceite. Lo trituramos durante 5 segundos, velocidad 7.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 0.08,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Programamos 5 minutos, 120 °C con la Vaporera de dos niveles, velocidad 1. Con cubilete",
+        "accesorio": "Vaporera",
+        "velocidad": 1,
+        "temperatura_c": 120,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 5,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Añadimos la cucharada de tomate frito, la de orégano, una cucharadita de sal y los garbanzos escurridos. Programamos 2 minutos, 100 °C, Cuchara MamboMix, velocidad 1, con la Cuchara MamboMix (función SlowMambo). Con cubilete",
+        "accesorio": "Cuchara MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 2,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Añadimos el queso de cabra troceado y la leche. Programamos 3 minutos, 90 °C, Cuchara MamboMix, velocidad 1, con la Cuchara MamboMix (función SlowMambo). Sin cubilete.",
+        "accesorio": "Cuchara MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 90,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 3,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Servimos el plato, disponiendo como base los pimientos y sobre ellos, los garbanzos (en la fotografía, hemos utilizado un aro de emplatar). Coronamos con un poco de orégano espolvoreado por encima.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/garbanzos-con-pimientos-y-queso-de-cabra/",
+    "creado_en": "2026-11-15"
+  },
+  {
+    "id": "c4b06afa-851a-4bba-b2db-8f15b62fba36",
+    "slug": "receta-basica-salsa-rosa",
+    "titulo": "Receta básica – Salsa Rosa",
+    "descripcion": "Receta de Receta básica – Salsa Rosa adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/09/Salsa-rosa.jpg",
+    "categoria": "salsas",
+    "tiempo_total_min": 0,
+    "comensales": 20,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "300 gr de aceite de oliva suave",
+      "3 yemas de huevos",
+      "zumo de 1/2 naranja",
+      "80 g de ketchup",
+      "2 cucharadas de brandy (opcional)",
+      "una gota de Tabasco",
+      "sal"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Pesamos el aceite en una jarrita antes. Reservamos.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Ponemos todos los ingredientes en la jarra, excepto el aceite y trituramos 10 segundos, velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 0.17,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Con el cubilete puesto y sobre la tapa, programamos velocidad 4, y sin programar tiempo vamos echando el aceite con cuidado sobre la tapa. Como la tapa está inclinada hacia dentro y el cubilete no cierra herméticamente, el aceite irá entrando y se irá mezclando poco a poco con la salsa.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "baja",
+        "sin_convertir": true,
+        "notas_conversion": [
+          "El texto original no indica tiempo de programación; hay que revisar manualmente."
+        ]
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/receta-basica-salsa-rosa/",
+    "creado_en": "2026-11-15"
+  },
+  {
+    "id": "5925683f-5bbf-41c8-b796-2abbf5498db3",
+    "slug": "cheesecake-con-dulce-de-membrillo",
+    "titulo": "Cheesecake con dulce de membrillo",
+    "descripcion": "Receta de Cheesecake con dulce de membrillo adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.misthermorecetas.com/wp-content/uploads/2026/10/cheesecake_dulce_membrillo.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 428,
+    "comensales": 4,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "250 g de galletas Digestive o María",
+      "50 g de mantequilla, en trozos (y un poco más para engrasar el molde)",
+      "3 huevos L",
+      "150 g de azúcar",
+      "1 cucharadita de vainilla líquida",
+      "10 g de harina fina de maíz",
+      "20 g de zumo de limón",
+      "750 g de queso cremoso, tipo Philadelphia®",
+      "50 g de nata para montar, con 35% m.g.",
+      "150 g de dulce de membrillo, en trozos"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Precalentamos el horno a 150 °C. Engrasamos con mantequilla la base y las paredes de un molde desmoldable de 23 cm de diámetro (también podemos forrarlo con papel de hornear). Reservamos.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "horno",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Paso de horno: se programa en el horno, no en la Mambo.",
+          "Horno a 150 °C."
+        ]
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Ponemos las galletas en la jarra del Thermomix y programamos 10 segundos, a velocidad 8. Con la espátula, bajamos los restos que hayan quedado en las paredes y tapa de la jarra hacia las cuchillas. Añadimos la mantequilla en trozos y programamos 3 minutos, 50 °C y velocidad 1. Vertemos en el molde preparado y presionamos con una jarra o con una cuchara hasta formar una base compacta y del mismo grosor por toda la base. Reservamos en el congelador o frigorífico mientras preparamos el relleno.",
+        "accesorio": "Cuchillas",
+        "velocidad": 8,
+        "temperatura_c": 50,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 3.17,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Con papel de cocina absorbente retiramos los restos de galleta que queden en la jarra. Ponemos los huevos, el azúcar y la vainilla en la jarra y programamos 40 segundos, a velocidad 4. Colocamos un bol pequeño sobre la tapa de la jarra, pulsamos la función balanza y echamos la harina fina de maíz y el zumo de limón. Mezclamos bien con una cuchara o varilla pequeña, hasta que la harina esté completamente disuelta. Vertemos esta mezcla en la jarra junto con el queso cremoso y la nata. Programamos 30 segundos, a velocidad 4. Con cuidado, vertemos en el molde, sobre la base de galletas. Limpiamos la jarra y la tapa con papel de cocina absorbente. Ponemos el dulce de membrillo en la jarra y programamos 4 minutos, 40 °C, velocidad 4. Vertemos sobre el relleno de queso y con un palillo o brocheta realizamos el diseño marmolado, de modo, que el dulce de membrillo quede bien distribuido por la superficie de toda la tarta. Horneamos durante 40 minutos, a 150 °C. Pasado este tiempo, apagamos el horno y dejamos la tarta dentro durante 20 minutos más. Retiramos del horno y dejamos que enfríe. Reservamos en el frigorífico durante un mínimo de 6 horas. Desmoldamos, partimos en porciones y servimos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 40,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 425.17,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      }
+    ],
+    "fuente_url": "https://www.misthermorecetas.com/cheesecake-con-dulce-de-membrillo/",
+    "creado_en": "2026-11-15"
   }
 ]
