@@ -20,6 +20,7 @@ export async function generateMetadata({ params }: Props) {
   return {
     title: `${recipe.titulo} — Recetas Mambo`,
     description: recipe.descripcion,
+    alternates: { canonical: `https://recetasmambo.com/recetas/${recipe.slug}` },
     openGraph: {
       title: recipe.titulo,
       description: recipe.descripcion,
