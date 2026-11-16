@@ -830,6 +830,47 @@ function parseComensales(servings: string | undefined): number {
   return m ? Math.min(Number(m[1]), 20) : 4;
 }
 
+const CATEGORIA_NOMBRE: Record<string, string> = {
+  postres: "postre",
+  "sopas-y-cremas": "sopa o crema",
+  pescados: "pescado",
+  carnes: "carne",
+  "panes-masas": "pan o masa",
+  arroces: "arroces",
+  verduras: "verduras",
+  bebidas: "bebida",
+  salsas: "salsa",
+  legumbres: "legumbres",
+};
+
+/** Unique, factual description built only from real recipe data (zero invented claims). */
+export function generarDescripcion(
+  titulo: string,
+  categoria: string,
+  tiempoMin: number,
+  comensales: number,
+  ingredientes: string[],
+  numPasos: number
+): string {
+  const cat = CATEGORIA_NOMBRE[categoria] ?? "receta";
+  const principales = ingredientes
+    .map((i) =>
+      i
+        .replace(/^\s*[\d¼½¾.,/]+\s*(g|kg|ml|cl|l|cucharadas?|cdas?|cucharaditas?|cdtas?|pizcas?|pellizcos?|sobres?|dientes?|unidades?|tazas?|copas?)\s*(de\s+|del\s+)?/i, "")
+        .replace(/[.\s]+$/, "")
+        .trim()
+    )
+    .filter((i) => i.length > 2)
+    .slice(0, 3);
+  const conIngredientes =
+    principales.length > 0 ? ` Ingredientes principales: ${principales.join(", ")}.` : "";
+  const tiempo = tiempoMin > 0 ? ` con un tiempo total de ${tiempoMin} min` : "";
+  return (
+    `${titulo}: receta de ${cat} para ${comensales} ${comensales === 1 ? "persona" : "personas"}${tiempo}.` +
+    `${conIngredientes} Los ${numPasos} pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.`
+  );
+}
+
 export function convertScrapedRecipe(
   recipe: ScrapedRecipe
 ): Omit<Recipe, "id" | "creado_en" | "fuente_url"> {
@@ -840,7 +881,14 @@ export function convertScrapedRecipe(
   return {
     slug: slugify(recipe.title) || Math.random().toString(36).slice(2, 10),
     titulo: mambo.titulo,
-    descripcion: `Receta de ${mambo.titulo} adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.`,
+    descripcion: generarDescripcion(
+      mambo.titulo,
+      clasificarCategoria(mambo.titulo, mambo.ingredientes, recipe.instructions),
+      tiempo,
+      parseComensales(recipe.servings),
+      mambo.ingredientes,
+      mambo.pasos_mambo.length
+    ),
     imagen: recipe.image ?? "",
     categoria: clasificarCategoria(mambo.titulo, mambo.ingredientes, recipe.instructions),
     tiempo_total_min: tiempo,
@@ -863,7 +911,7 @@ export function clasificarCategoria(
   const all = toLower([title, ...ingredients, ...instructions].join(" "));
 
   if (
-    /\b(tarta|bizcoch|brownie|galleta|helado|postre|natilla|crema|flan|pudin|magdalena|cupcake|donut|muffin|croissant|brioche|panquemad|buñuelo|buñuelos|churro|torrija|arroz.*leche|leche.*frita|tocino.*cielo|santiago|quesada|fartons|ensaimada|hojaldre|rosco|rosquilla|pestiño|polvoron|mantecado|turrón|turron|mazapan|mazapán|fruta.*seca|plum.cake|pastel|fondant)/.test(
+    /\b(tarta|bizcoch|brownie|galleta|helado|postre|natilla|flan|pudin|magdalena|cupcake|donut|muffin|croissant|brioche|panquemad|buñuelo|buñuelos|churro|torrija|arroz.*leche|leche.*frita|tocino.*cielo|santiago|quesada|fartons|ensaimada|rosco|rosquilla|pestiño|polvoron|mantecado|turrón|turron|mazapan|mazapán|fruta.*seca|plum.cake|pastel|fondant|crema (catalana|inglesa|pastelera|de vainilla|de chocolate|de limón|de limon|de fresa|de oreo))/.test(
       all
     )
   )

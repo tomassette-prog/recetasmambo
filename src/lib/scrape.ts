@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any -- JSON-LD scraped from arbitrary external pages is inherently untyped */
 export type ScrapedRecipe = {
   title: string;
   ingredients: string[];
