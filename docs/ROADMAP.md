@@ -49,9 +49,12 @@ Descripciones generadas SOLO con datos reales de cada receta (categoría, comens
 Datos de `tiempo_total_min` con valores implausibles (p. ej. recetas "1 min") heredados de la conversión antigua. Revisar contra la fuente original (`fuente_url`) y corregir o retirar el dato. El guard ya los señala como aviso.
 - **Verificación:** 0 recetas con tiempo < 5 min en el guard.
 
-### 1.2 Las 45 recetas finas
-Recetas con <3 pasos o ingredientes incompletos. Decisión por receta: enriquecer con datos reales de su `fuente_url` o retirarlas del sitemap (noindex). Nada de relleno inventado.
-- **Verificación:** ninguna receta publicada con <3 pasos reales.
+### 🆕 1.6 Revisar categorías ambiguas (~casos puntuales)
+Clasificación correcta en general tras la corrección de 1.1, pero nombres ambiguos siguen en categorías equivocadas ("Pastel de atún" → postres, "Sopa fría de melón" → bebidas). Revisión manual puntual de los casos que el clasificador no puede decidir por palabras.
+- **Verificación:** muestra manual de 20 nombres de receta coherentes con su categoría.
+
+### ✅ 1.2 Las recetas "finas" — REVISADO 16/11/2026 (sin acción de contenido)
+Las 45 recetas con ≤2 pasos se auditaron contra sus fuentes (`fuente_url`): las 18 con perfil sospechoso (8-12 ingredientes, 2 pasos) se re-scrapearon y **las fuentes confirman que son de 2 pasos de verdad** — cero contenido perdido en la conversión. No son contenido fino de Google: son recetas legítimamente simples (batidos, salsas, cremas). **No se enriquece ni se retira nada.** Lo real que quedó de esta revisión va en 1.5 (tiempos) y 1.6 (categorías ambiguas).
 
 ### 1.3 Imágenes duplicadas (4 grupos)
 Fallbacks de categoría usados como foto de receta (`pescados.jpg` → merluza, `postres.jpg` → tarta de arañas, `salsas.jpg` → pesto) + `arroz-con-leche` duplicada. Imagen propia por receta (pipeline de imágenes) o sin imagen.
