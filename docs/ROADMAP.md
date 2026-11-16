@@ -41,9 +41,13 @@ Añadido `alternates.canonical` self-referencing en `generateMetadata` de `src/a
 
 ## P1 — Contenido (decide si Google posiciona)
 
-### 1.1 Descripciones únicas por receta (661/661 plantilla)
-Todas las descripciones copian la misma frase con el título cambiado. Es contenido duplicado escalado — lo peor que puede hacer Google con el sitio entero. Generar descripciones **únicas construidas con datos REALES de cada receta** (categoría, tiempo, ingredientes principales, nº de pasos) — inventar cero. Añadir un guard que detecte plantillas para que no vuelva.
-- **Verificación:** guard de lint en verde (0 descripciones con la plantilla) + muestra manual de 10 recetas distintas entre sí.
+### ✅ 1.1 Descripciones únicas por receta (661/661) — HECHO 16/11/2026
+Descripciones generadas SOLO con datos reales de cada receta (categoría, comensales, tiempo, ingredientes principales, nº de pasos) — cero afirmaciones inventadas. El generador (`generarDescripcion` en `src/lib/convert.ts`) repara además la fuente (el motor de conversión del cron diario). De paso se corrigió el clasificador de categorías (`crema`/`hojaldre` clasificaban sopas y hojaldres salados como postres — 72 recetas reclasificadas). Guard `check-content.mjs` encadenado a `npm run lint` (detecta plantillas, duplicados, descripciones cortas).
+- **Verificación (cumplida):** guard en verde (661 descripciones únicas, 0 plantillas) + muestra en producción (meta description nueva + categoría corregida).
+
+### 🆕 1.5 Revisar 72 recetas con tiempos sospechosos (<5 min)
+Datos de `tiempo_total_min` con valores implausibles (p. ej. recetas "1 min") heredados de la conversión antigua. Revisar contra la fuente original (`fuente_url`) y corregir o retirar el dato. El guard ya los señala como aviso.
+- **Verificación:** 0 recetas con tiempo < 5 min en el guard.
 
 ### 1.2 Las 45 recetas finas
 Recetas con <3 pasos o ingredientes incompletos. Decisión por receta: enriquecer con datos reales de su `fuente_url` o retirarlas del sitemap (noindex). Nada de relleno inventado.
