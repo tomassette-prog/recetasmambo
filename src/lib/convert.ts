@@ -903,39 +903,124 @@ export function convertScrapedRecipe(
 // Recipe category (shared by scrape-bulk and fix-recipes)
 // ---------------------------------------------------------------------------
 
+// Protein words in the title mark a savory dish even when dessert words
+// appear too ("Pastel de atun", "Tarta salada de salchichas").
+const PROTEINA_SALADA =
+  /\b(pollo|ternera|cerdo|cordero|carne|albondig|estofad|hamburguesa|chuleta|solomillo|lomo|magro|costilla|chistorra|chorizo|morcilla|salchich|jamon|pavo|huevo|iberico|medallon|ossobuco|lenguado|merluza|salmon|gamba|langostino|gostino|anchoa|caballa|bonito|besugo|trucha|atun|pescad|marisco|bacalao|rape|rodaballo|lubina|dorada|sardina|calamar|pulpo|mejillon|almeja|berberecho|pez)/;
+
+// Titles the keyword rules cannot decide: manual judgment, keyed by the
+// normalized title (lowercase, accent-free). Add ambiguous cases here
+// instead of growing the regexes.
+const CATEGORIA_POR_TITULO: Record<string, string> = {
+  "carne o dulce de membrillo con azucar moreno": "postres",
+  "flan de salmorejo": "postres",
+  "crema de queso": "salsas",
+  "bolitas de zanahoria, coco e incluso chocolate": "postres",
+  "canutillos de hojaldre con crema": "postres",
+  "chinoise de crema y chocolate": "postres",
+  "crema dulce de aguacate, requeson y miel": "postres",
+  "sopa de calabaza con langostinos y caviar": "sopas-y-cremas",
+  "huevos benedict con esparragos": "panes-masas",
+  "judias y pimientos verdes con jamon york": "verduras",
+  "guarnicion de ramilletes de coliflor con bechamel y jamon": "verduras",
+  "falafel: albondigas vegetales con salsa de yogur": "legumbres",
+  "albondigas de berenjena y parmesano": "verduras",
+  "albondigas de la huerta con un toque de miel": "verduras",
+  "hamburguesas vegetales de setas y anacardos": "verduras",
+  "estofado de frijoles": "legumbres",
+  "bolitas o croquetas de cocido": "carnes",
+  "croquetas de boletus, cheddar y jamon": "verduras",
+  "pastas para sandwich": "salsas",
+  "carne picada para arroz, pasta…": "carnes",
+  "empanadillas dulces de albaricoque": "postres",
+  "zanahorias agridulces": "verduras",
+  "pan de muerto de chocolate": "postres",
+  "galets rellenos de espinacas": "panes-masas",
+  "dalky": "postres",
+  "dalky de fresa natural": "postres",
+  "judias verdes con jamon": "verduras",
+  "berenjenas con jamon": "verduras",
+  "guisantes con jamon y tomate": "verduras",
+  "graten de boniato": "verduras",
+  "tomates rellenos": "verduras",
+  "tortillas de cebolla": "carnes",
+  "zarangollo - revuelto de cebolla, huevos y calabacines": "verduras",
+  "baked beans en thermomix": "legumbres",
+  "harina tostada de garbanzos": "legumbres",
+  "torta de harina tostada de garbanzos": "postres",
+  "bocaditos de queso": "panes-masas",
+  "quiche lorraine versionada": "panes-masas",
+  "quiche de tres quesos con rucula y nueces": "panes-masas",
+  "rompope: el ponche de las clarisas": "bebidas",
+  "bica": "postres",
+  "sobaos": "postres",
+  "doowaps": "postres",
+  "caprichos de pasas y nueces": "postres",
+  "hojaldres de san valentin": "postres",
+  "souffles de chocolate blanco": "postres",
+  "panettone": "postres",
+  "stollen": "postres",
+  "tortas de pascua": "postres",
+  "relleno de fruta para empanadillas": "postres",
+  "garbanzos con pimientos y queso de cabra": "legumbres",
+};
+
+// Category rules over normalized text (lowercase, accent-free — see toLower,
+// so patterns must not use accents). `esTitulo` marks the title-only pass:
+// names starting with a soup form ("Sopa de...", "Crema de...") are soups
+// even when they contain protein add-ins. Returns null when nothing matches.
+function reglasCategoria(all: string, esSalada: boolean, esTitulo: boolean): string | null {
+  if (
+    !esSalada &&
+    /\b(tarta|bizcoch|brownie|galleta|helado|postre|natilla|flan|pudin|magdalena|cupcake|donut|muffin|croissant|brioche|panquemad|bunuelo|bunuelos|churro|torrija|arroz.*leche|leche.*frita|tocino.*cielo|santiago|quesada|fartons|ensaimada|rosco|rosquilla|pestino|polvoron|mantecado|turron|mazapan|fruta.*seca|plum.cake|pastel|fondant|dorayaki|sorbete|semifrio|mousse|gachas dulces|polea|crema (catalana|inglesa|pastelera|de vainilla|de chocolate|de limon|de fresa|de oreo|de avellana|de galleta|de whisky|de caramelo|de cafe))/.test(
+      all
+    )
+  )
+    return "postres";
+  if (esTitulo && /^(sopa|crema|gazpacho|salmorejo|vichyssoise|consome|ramen|minestrone|veloute)\b/.test(all))
+    return "sopas-y-cremas";
+  if (esTitulo && /^(ensalada|ensaladas|guarnicion|guarniciones)\b/.test(all))
+    return "verduras";
+  if (esTitulo && /^(salsa|salsas|alioli|pesto|mayonesa|mojo|vinagreta|romesco|chimichurri|pipirrana|ketchup)\b/.test(all))
+    return "salsas";
+  if (/\b(pan |panecillo|bollo|rosca|hogaza|barra|chapata|focaccia|pizza|naan|pita|pretzel|pasta|tagliatelle|penne|spaghetti|espagueti|macarron|lasagna|canelon|migas|sandwich|tosta|empanadilla|empanada|muffin|bagel)/.test(all))
+    return "panes-masas";
+  if (/\b(arroz|paella|risotto|fideua|sushi|meloso|caldoso|negro.*arroz|arroz.*negro)/.test(all))
+    return "arroces";
+  if (esTitulo && /\b(huevos?|frittata)\b/.test(all))
+    return "carnes";
+  if (/\b(merluza|salmon|gamba|langostino|gostino|anchoa|caballa|bonito|besugo|trucha|atun|pescad|marisco|bacalao|rape|lubina|rodaballo|dorada|sardina|calamar|pulpo|mejillon|almeja|lenguado|berberecho|pez)/.test(all))
+    return "pescados";
+  if (/\b(pollo|ternera|cerdo|cordero|carne|albondiga|estofad|hamburguesa|chuleta|solomillo|lomo|magro|costilla|chistorra|chorizo|morcilla|salchich|jamon|pavo|iberico|medallon|ossobuco)/.test(all))
+    return "carnes";
+  if (/\b(verdura|ensalada|gazpacho|crema.*calabaza|crema.*zapallo|crema.*zanahoria|crema.*puerro|pure.*verdura|saltead|guarnicion|espinaca|brocoli|brcoli|coliflor|alcachofa|berenjena|calabacin|calabaza|patata|pimiento|lechuga|champinon|boniato|guisante|seta|hong|judias? verdes)/.test(all))
+    return "verduras";
+  if (/\b(lenteja|garbanzo|judia|alubia|frijol|potaje|fabada|cocid)/.test(all))
+    return "legumbres";
+  if (/\b(salsa|pesto|mayonesa|alino|alinio|vinagreta|sofrito|sofregit|romesco|pipirrana|mojo|chimichurri)/.test(all))
+    return "salsas";
+  if (/\b(zumo|batido|smoothie|limonada|horchata|sangria|tinto.*verano|bebida|infusion|granizado|frapuccino|frappe|te |cafe)/.test(all))
+    return "bebidas";
+  if (/\b(sopa|crema|potaje|caldo|menudo|gazpacho|salmorejo|vichyssoise|consome|ramen)/.test(all))
+    return "sopas-y-cremas";
+
+  return null;
+}
+
 export function clasificarCategoria(
   title: string,
   ingredients: string[],
   instructions: string[]
 ): string {
-  const all = toLower([title, ...ingredients, ...instructions].join(" "));
-
-  if (
-    /\b(tarta|bizcoch|brownie|galleta|helado|postre|natilla|flan|pudin|magdalena|cupcake|donut|muffin|croissant|brioche|panquemad|buñuelo|buñuelos|churro|torrija|arroz.*leche|leche.*frita|tocino.*cielo|santiago|quesada|fartons|ensaimada|rosco|rosquilla|pestiño|polvoron|mantecado|turrón|turron|mazapan|mazapán|fruta.*seca|plum.cake|pastel|fondant|crema (catalana|inglesa|pastelera|de vainilla|de chocolate|de limón|de limon|de fresa|de oreo))/.test(
-      all
-    )
-  )
-    return "postres";
-  if (/\b(pan |panecillo|bollo|rosca|hogaza|barra|chapata|focaccia|pizza.*masa|masa.*pizza|naan|pita|pretzel)/.test(all))
-    return "panes-masas";
-  if (/\b(arroz|paella|risotto|meloso|caldoso|negro.*arroz|arroz.*negro)/.test(all))
-    return "arroces";
-  if (/\b(pollo|ternera|cerdo|cordero|carne|albondiga|estofad|hamburguesa|chuleta|solomillo|lomo|magro|costilla|chistorra|chorizo|morcilla|salchich)/.test(all))
-    return "carnes";
-  if (/\b(merluza|salmon|salmón|gamba|atun|atún|pescad|marisco|bacalao|rape|lubina|dorada|sardina|calamar|pulpo|mejillon|almeja|bonito|pez)/.test(all))
-    return "pescados";
-  if (/\b(verdura|ensalada|gazpacho|crema.*calabaza|crema.*zapallo|crema.*zanahoria|crema.*puerro|pure.*verdura|saltead|guarnicion|guarnición|espinaca|brócoli|brcoli|coliflor|alcachofa|berenjena|calabacin|calabacín|seta|hong)/.test(all))
-    return "verduras";
-  if (/\b(lenteja|garbanzo|judia|judía|alubia|potaje|fabada|cocid)/.test(all))
-    return "legumbres";
-  if (/\b(salsa|pesto|mayonesa|aliño|vinagreta|sofrito|sofregit|romesco|pipirrana|mojo|chimichurri)/.test(all))
-    return "salsas";
-  if (/\b(zumo|batido|smoothie|limonada|horchata|sangria|sangría|tinto.*verano|bebida|infusion|té |te |caf[ée])/.test(all))
-    return "bebidas";
-  if (/\b(sopa|crema|potaje|caldo|menudo|gazpacho|salmorejo|vichyssoise|consom[ée]|ramen)/.test(all))
-    return "sopas-y-cremas";
-
-  return "sopas-y-cremas";
+  const t = toLower(title).replace(/\s+/g, " ").replace(/[–—]/g, "-").trim();
+  const excepcion = CATEGORIA_POR_TITULO[t];
+  if (excepcion) return excepcion;
+  const esSalada = PROTEINA_SALADA.test(t);
+  return (
+    reglasCategoria(t, esSalada, true) ??
+    reglasCategoria(toLower([title, ...ingredients, ...instructions].join(" ")), esSalada, false) ??
+    "sopas-y-cremas"
+  );
 }
 
 // ---------------------------------------------------------------------------

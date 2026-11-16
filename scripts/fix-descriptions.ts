@@ -27,6 +27,7 @@ for (const r of list) {
   );
   const cat = clasificarCategoria(r.titulo, r.ingredientes, pasosTexto);
   if (cat !== r.categoria) {
+    console.log(`  reclasificada: "${r.titulo}": ${r.categoria} -> ${cat}`);
     r.categoria = cat;
     reclasified++;
   }
