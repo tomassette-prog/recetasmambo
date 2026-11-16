@@ -33,9 +33,9 @@ DOS propiedades verificadas con la cuenta ziarresamot: `https://recetasmambo.com
 `www.recetasmambo.com` presentaba certificado solo para el dominio sin www → error de seguridad para el visitante. Diagnóstico: el DNS ya estaba bien (Namecheap: `@` A → 76.76.21.21, `www` CNAME → cname.vercel-dns.com) — faltaba emitir el certificado de www en Vercel (`vercel certs issue www.recetasmambo.com`). Verificado en vivo: TLS estricto OK, SAN `www.recetasmambo.com`, redirect 307 → apex.
 - **Verificación (cumplida):** `https://www.recetasmambo.com/` redirige (307) a `https://recetasmambo.com/` sin error de certificado.
 
-### 0.3 Canonical en páginas de receta
-Hoy no hay `<link rel="canonical">` en las recetas. Añadir canonical self-referencing en el metadata de `app/recetas/[slug]/page.tsx`.
-- **Verificación:** el HTML de una receta contiene canonical con su propia URL.
+### ✅ 0.3 Canonical en páginas de receta — HECHO 16/11/2026
+Añadido `alternates.canonical` self-referencing en `generateMetadata` de `src/app/recetas/[slug]/page.tsx` (commit 6258182, deploy manual + probe en vivo OK).
+- **Verificación (cumplida):** el HTML de una receta contiene canonical con su propia URL.
 
 ---
 
