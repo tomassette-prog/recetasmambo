@@ -45,9 +45,9 @@ Añadido `alternates.canonical` self-referencing en `generateMetadata` de `src/a
 Descripciones generadas SOLO con datos reales de cada receta (categoría, comensales, tiempo, ingredientes principales, nº de pasos) — cero afirmaciones inventadas. El generador (`generarDescripcion` en `src/lib/convert.ts`) repara además la fuente (el motor de conversión del cron diario). De paso se corrigió el clasificador de categorías (`crema`/`hojaldre` clasificaban sopas y hojaldres salados como postres — 72 recetas reclasificadas). Guard `check-content.mjs` encadenado a `npm run lint` (detecta plantillas, duplicados, descripciones cortas).
 - **Verificación (cumplida):** guard en verde (661 descripciones únicas, 0 plantillas) + muestra en producción (meta description nueva + categoría corregida).
 
-### 🆕 1.5 Revisar 72 recetas con tiempos sospechosos (<5 min)
-Datos de `tiempo_total_min` con valores implausibles (p. ej. recetas "1 min") heredados de la conversión antigua. Revisar contra la fuente original (`fuente_url`) y corregir o retirar el dato. El guard ya los señala como aviso.
-- **Verificación:** 0 recetas con tiempo < 5 min en el guard.
+### ✅ 1.5 Revisar 72 recetas con tiempos sospechosos (<5 min) — HECHO 16/11/2026
+Las 72 se contrastaron contra `fuente_url` con `fix-times.ts` (dry-run primero, luego escritura): **8 tenían el tiempo mal** — peor caso `spinacini-nuggets-de-pollo-y-espinacas` 1 min → real 30 min (también quesadillas 1→20, granizado 3→10) — corregidas con descripciones regeneradas. **64 son rápidas de verdad** (zumos, batidos, cremas frías, salsas): la fuente confirma PT00H01M–PT00H04M. De paso se sincronizaron casos donde el dato guardado no coincidía con la fuente (p. ej. guacamole 2→3). El aviso del guard (<5 min) queda como recordatorio permanente de revisión: las 64 restantes están verificadas contra fuente.
+- **Verificación (cumplida):** 72/72 contrastadas con la fuente, 0 fallos, muestra en producción (30/20/10 min visibles).
 
 ### 🆕 1.6 Revisar categorías ambiguas (~casos puntuales)
 Clasificación correcta en general tras la corrección de 1.1, pero nombres ambiguos siguen en categorías equivocadas ("Pastel de atún" → postres, "Sopa fría de melón" → bebidas). Revisión manual puntual de los casos que el clasificador no puede decidir por palabras.
