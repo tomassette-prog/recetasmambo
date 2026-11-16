@@ -261,9 +261,13 @@ async function main() {
       }
 
       const converted = convertScrapedRecipe(scraped);
+      // same title from different sources must not collide on slug
+      let slug = converted.slug;
+      for (let n = 2; existing.some((r) => r.slug === slug); n++) slug = `${converted.slug}-${n}`;
       existing.push({
         id: crypto.randomUUID(),
         ...converted,
+        slug,
         fuente_url: url,
         creado_en: new Date().toISOString().slice(0, 10),
       });

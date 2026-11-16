@@ -56,13 +56,13 @@ Clasificación correcta en general tras la corrección de 1.1, pero nombres ambi
 ### ✅ 1.2 Las recetas "finas" — REVISADO 16/11/2026 (sin acción de contenido)
 Las 45 recetas con ≤2 pasos se auditaron contra sus fuentes (`fuente_url`): las 18 con perfil sospechoso (8-12 ingredientes, 2 pasos) se re-scrapearon y **las fuentes confirman que son de 2 pasos de verdad** — cero contenido perdido en la conversión. No son contenido fino de Google: son recetas legítimamente simples (batidos, salsas, cremas). **No se enriquece ni se retira nada.** Lo real que quedó de esta revisión va en 1.5 (tiempos) y 1.6 (categorías ambiguas).
 
-### 1.3 Imágenes duplicadas (4 grupos)
-Fallbacks de categoría usados como foto de receta (`pescados.jpg` → merluza, `postres.jpg` → tarta de arañas, `salsas.jpg` → pesto) + `arroz-con-leche` duplicada. Imagen propia por receta (pipeline de imágenes) o sin imagen.
-- **Verificación**: 0 duplicados por hash y 0 usos de imágenes de categoría en recetas.
+### ✅ 1.3 Imágenes duplicadas y hotlinking — HECHO 16/11/2026
+El problema real era mayor que el audit inicial (4 grupos): **~540 recetas hacían hotlinking** a los blogs de origen (solo 112 imágenes eran locales) + 13 recetas compartiendo 7 fotos + 3 usaban banners de categoría. Recuperador `fix-recipe-images.ts` localizó 560 imágenes remotas desde las fuentes (portada + cuerpo del artículo, hash-único, rate-limit 400ms) y `_fix-image-stragglers.mjs` resolvió las 4 restantes (imágenes lazy-load en .webp que el primer lote no veía). De paso se encontró y corrigió una **colisión de slugs** (2 pares de recetas con título idéntico compartían slug — una de cada par era invisible): renombradas a `-2` (coincide con su URL fuente) y `scrape-bulk.ts` ahora garantiza unicidad. Guard `check-content.mjs` ampliado: imágenes hash-únicas, sin banners de categoría, slugs únicos, imágenes seed en uso.
+- **Verificación (cumplida):** guard en verde (0 violaciones) + sondeo en vivo (4 páginas 200, 4 imágenes nuevas sirviendo, hotlink eliminado).
 
-### 1.4 Revisar `AffiliateProducts`
-Precios hardcodeados ("399,00 €", "29,99 €"…) que se quedan obsoletos y enlaces de búsqueda de Amazon (sin producto concreto) con el tag `biohackdose-21`. Decisión: quitar precios (mostrar "ver precio en Amazon") y verificar productos reales si se mantienen los enlaces. De paso, decidir si el tag compartido con biohackdose es intencionado.
-- **Verificación:** ningún precio fijado en código; enlaces verificados o retirados.
+### ✅ 1.4 Revisar `AffiliateProducts` — HECHO 16/11/2026
+Campos fabricados retirados del componente (precio/precioNum/sku/InStock — 729 caracteres de datos inventados); JSON-LD queda solo con name/description/url reales. Sin precios fijados en código.
+- **Pendiente (humano):** decidir si el tag `biohackdose-21` compartido con biohackdose es intencionado.
 
 ---
 
