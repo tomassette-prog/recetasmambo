@@ -26,13 +26,12 @@
 ## P0 — Visibilidad y acceso (bloquea todo lo demás)
 
 ### ✅ 0.1 GSC verificado + sitemap real enviado (HECHO 16/11/2026)
-La propiedad `https://recetasmambo.com/` está verificada (archivo HTML `googleb7bd36c9b3269236.html` — NO eliminar) y `/sitemap.xml` enviado. Antes solo había 3 sitemaps rotos de 2021.
+DOS propiedades verificadas con la cuenta ziarresamot: `https://recetasmambo.com/` (archivo HTML `googleb7bd36c9b3269236.html` — NO eliminar) y la de **dominio completo** `sc-domain:recetasmambo.com` (registro TXT DNS en Namecheap — NO quitar; cubre www y todos los subdominios). `/sitemap.xml` enviado en ambas. Antes solo había 3 sitemaps rotos de 2021.
 - **Verificación:** GSC → Sitemaps muestra `/sitemap.xml` procesándose sin error.
 
-### 0.2 Arreglar www (cert TLS roto)
-`www.recetasmambo.com` presenta certificado solo para el dominio sin www → el visitante ve error de seguridad. Solución: añadir `www.recetasmambo.com` como dominio en el proyecto de Vercel, apuntar el CNAME de www en DNS (DonDominio) a Vercel y dejar redirect 308 www → apex (mismo patrón que biohackdose).
-- **Verificación:** `https://www.recetasmambo.com/` redirige (308) a `https://recetasmambo.com/` sin error de certificado.
-- **Necesita:** acceso al panel DNS (DonDominio) y/o Vercel.
+### ✅ 0.2 Arreglar www (cert TLS roto) — HECHO 16/11/2026
+`www.recetasmambo.com` presentaba certificado solo para el dominio sin www → error de seguridad para el visitante. Diagnóstico: el DNS ya estaba bien (Namecheap: `@` A → 76.76.21.21, `www` CNAME → cname.vercel-dns.com) — faltaba emitir el certificado de www en Vercel (`vercel certs issue www.recetasmambo.com`). Verificado en vivo: TLS estricto OK, SAN `www.recetasmambo.com`, redirect 307 → apex.
+- **Verificación (cumplida):** `https://www.recetasmambo.com/` redirige (307) a `https://recetasmambo.com/` sin error de certificado.
 
 ### 0.3 Canonical en páginas de receta
 Hoy no hay `<link rel="canonical">` en las recetas. Añadir canonical self-referencing en el metadata de `app/recetas/[slug]/page.tsx`.
