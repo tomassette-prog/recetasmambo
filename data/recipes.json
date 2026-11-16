@@ -85416,5 +85416,527 @@
     ],
     "fuente_url": "https://www.misthermorecetas.com/cheesecake-con-dulce-de-membrillo/",
     "creado_en": "2026-11-15"
+  },
+  {
+    "id": "d447f7f9-5c48-4921-9fac-3a57cba0c76d",
+    "slug": "empanadillas-de-pisto-con-huevo-y-aceitunas",
+    "titulo": "Empanadillas de pisto con huevo y aceitunas",
+    "descripcion": "Receta de Empanadillas de pisto con huevo y aceitunas adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/09/empanadillas-de-pisto-con-huevo-y-aceitunas-2-thermorecetas.jpg",
+    "categoria": "pescados",
+    "tiempo_total_min": 25,
+    "comensales": 14,
+    "dificultad": "Media",
+    "ingredientes": [
+      "14 obleas para empanadillas",
+      "130 g de calabacín",
+      "100 g de cebolla",
+      "1 tomate",
+      "60 g de pimiento verde",
+      "100 g de pimiento rojo",
+      "40 g de aceitunas negras",
+      "1 huevo cocido",
+      "1 yema",
+      "30 g de aceite de oliva",
+      "Sal y pimienta"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Pelar la cebolla, lavar y limpiar los pimientos, lavar también y despuntar el calabacín. Introducir estas hortalizas troceadas en la jarra y picar durante 4 segundos a velocidad 4. Bajar los trocitos hacia las cuchillas, agregar el aceite y programar durante 10 minutos, 120 °C con la Vaporera de dos niveles, Cuchara MamboMix, velocidad 1 y con la Cuchara MamboMix (función SlowMambo).",
+        "accesorio": "Vaporera",
+        "velocidad": 4,
+        "temperatura_c": 120,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 10.07,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Mientras pelar el tomate y retirar las semillas. Transcurrido el tiempo agregarlo a la jarra y salpimentar al gusto. Programar 5 minutos, 120 °C con la Vaporera de dos niveles, Cuchara MamboMix, velocidad 1 y con la Cuchara MamboMix (función SlowMambo).",
+        "accesorio": "Vaporera",
+        "velocidad": 1,
+        "temperatura_c": 120,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 5,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Terminado el tiempo, retirar y reservar hasta que esté a temperatura ambiente.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Después agregar las aceitunas negras cortadas en rodajas y el huevo cocido troceado y mezclar con la espátula o una cuchara.",
+        "accesorio": "Cuchillas",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "baja",
+        "sin_convertir": true,
+        "notas_conversion": [
+          "El texto original no indica velocidad de la Mambo; hay que revisar manualmente.",
+          "El texto original no indica tiempo de programación; hay que revisar manualmente."
+        ]
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "En un cuenco a parte mezclar la yema con una cucharada de agua.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Repartir la farsa entre las obleas, pintar con la yema los bordes de las empanadillas y cerrarlos presionando con un tenedor para sellarlos bien. Pintar también la superficie de la empanadilla e introducir el en horno precalentado a 180 °C. Hornear durante 10 minutos.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 10,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "horno",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Paso de horno: se programa en el horno, no en la Mambo.",
+          "Horno a 180 °C."
+        ]
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Cuando tengan un bonito color tostado y brillante retirarlas del horno y servir enseguida.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "horno",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Paso de horno: se programa en el horno, no en la Mambo."
+        ]
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/empanadillas-de-pisto-con-huevo-y-aceitunas/",
+    "creado_en": "2026-11-16"
+  },
+  {
+    "id": "bb224f87-1188-4779-b87e-ad2435efa5a1",
+    "slug": "spinacini-nuggets-de-pollo-y-espinacas",
+    "titulo": "Spinacini – Nuggets de pollo y espinacas",
+    "descripcion": "Receta de Spinacini – Nuggets de pollo y espinacas adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/09/nuggets-de-pollo-y-espinacas.jpg",
+    "categoria": "panes-masas",
+    "tiempo_total_min": 1,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "500 g de pechuga de pollo",
+      "50 g de espinacas congeladas (hay que descongelarlas antes de empezar con la receta)",
+      "1 huevo",
+      "1 cucharada de harina de maíz",
+      "1 cucharada de pan rallado",
+      "1 cucharada de queso parmesano -u otro- rallado (opcional)",
+      "Sal",
+      "Pimienta o nuez moscada",
+      "1 ó 2 huevos batidos",
+      "Pan rallado",
+      "Aceite de oliva virgen extra"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Cortamos la pechuga de pollo en trozos. Los ponemos en la jarra y trituramos programando 20 segundos, velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 0.33,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Añadimos las espinacas (tenemos que descongelarlas antes y escurrirlas muy bien). Programamos 10 segundos, velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 0.17,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Añadimos el huevo, la harina, el queso rallado, la sal y la nuez moscada rallada (o pimienta molida). Programamos 10 segundos, velocidad 3.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 0.17,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Ahora damos forma a nuestros spinacini. Los pasamos por huevo batido y luego en el pan rallado.",
+        "accesorio": "Cuchillas",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Para cocinarlos tenemos dos opciones. Una de ellas es freírlos en abundante aceite caliente. La otra, hornearlos a 180 °C, pincelándolos antes con aceite de oliva.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "horno",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Paso de horno: se programa en el horno, no en la Mambo.",
+          "Horno a 180 °C."
+        ]
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Los que veis en la foto están horneados y quedaron realmente bien.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "horno",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Paso de horno: se programa en el horno, no en la Mambo."
+        ]
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/spinacini-nuggets-de-pollo-y-espinacas/",
+    "creado_en": "2026-11-16"
+  },
+  {
+    "id": "d7a6e82b-1d4f-4a1b-9eee-50ff408a2c8f",
+    "slug": "crema-de-guisantes-y-foie",
+    "titulo": "Crema de guisantes y foie",
+    "descripcion": "Receta de Crema de guisantes y foie adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/09/crema-guisantes-foie.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 39,
+    "comensales": 4,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "500 g de guisantes congelados",
+      "500 ml de agua",
+      "110 g de foie",
+      "225 ml de leche evaporada",
+      "Entre 100 y 200 ml del agua que os sobrará de la cocción de los guisantes",
+      "2 dientes de ajo",
+      "125 g de puerros (la parte blanca)",
+      "pimienta negra",
+      "sal",
+      "25 ml de aceite de oliva"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Introducimos los guisantes en la jarra con los 500 ml de agua y dos cucharaditas (de café) de sal. Programamos 15 minutos, 100 °C, Cuchara MamboMix, velocidad 1, con la Cuchara MamboMix (función SlowMambo).",
+        "accesorio": "Cuchara MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 15,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Colamos (atención, que hay que reservar el agua de cocción). Reservamos los guisantes y el agua de cocción.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Introducimos los puerros troceados, 25 ml de aceite y los ajos en la jarra. Trituramos durante 7 segundos, velocidad 6.",
+        "accesorio": "Cuchillas",
+        "velocidad": 6,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 0.12,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Sofreimos durante 12 minutos, 100 °C, velocidad 2. Con cubilete.",
+        "accesorio": "Cuchillas",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 12,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Añadimos el foie (reservad 10 g para adornar los platos) y lo fundimos programando 3 minutos, 90 °C, velocidad 1. Con cubilete.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 90,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 3,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Incorporamos la leche evaporada, media cucharadita (de café) de pimienta y una cucharadita (de café) de sal. Programamos 7 minutos, 120 °C con la Vaporera de dos niveles, velocidad 3. Con cubilete. Obtendremos una crema espesa.",
+        "accesorio": "Vaporera",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 7,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Añadimos 150 ml del agua de cocción y los guisantes reservados. Trituramos todo durante 2 minutos subiendo la velocidad de forma progresiva hasta 5 (ajústala a mano: la Mambo no tiene velocidad progresiva)/10.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 2,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "media",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Velocidad progresiva 5: la Mambo no la programa; ajusta la velocidad a mano en 1 tramos."
+        ],
+        "velocidad_progresiva": [
+          5
+        ]
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Comprobad la textura para que esté a nuestro gusto. Si la véis demasiado espesa, añadid 50 ml más de agua de cocción y triturad durante 5 segundos a velocidad 7. Repetid este último paso hasta que esté a vuestro gusto.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 0.08,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Se sirve caliente o templada y adornada con una virutas de foie.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/crema-de-guisantes-y-foie/",
+    "creado_en": "2026-11-16"
+  },
+  {
+    "id": "436e616f-9055-4d93-a8b2-400014461c34",
+    "slug": "bienmesabe-en-adobo",
+    "titulo": "Bienmesabe en adobo",
+    "descripcion": "Receta de Bienmesabe en adobo adaptada de Thermomix a la Cecotec Mambo Cooking Total Gourmet.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/09/Bienmesabe_adobo.jpg",
+    "categoria": "pescados",
+    "tiempo_total_min": 180,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "600 gr de cazón*",
+      "6 ajos pequeños",
+      "2 cucharada de orégano",
+      "2 cucharada de pimentón dulce",
+      "4 hojas de laurel",
+      "sal al gusto",
+      "100 gr de vinagre blanco",
+      "60 gr de aceite",
+      "60 gr de agua",
+      "harina para freír pescado",
+      "aceite para freír",
+      "* Si en la pescadería os preguntan que cómo lo queréis, decidle que va a ser en adobo y que si os lo pueden cortar en cuadraditos."
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Echamos todos los ingredientes en la jarra excepto el pescado. Trituramos 4 segundos, velocidad 4. Echamos este adobo en un recipiente amplio y hondo y, por último, ponemos el pescado cortado a trozos pequeños (de bocado).",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 0.07,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Lo vamos a dejar en adobo mínimo 3 horas en la nevera cubierto con papel film. Lo ideal es hacerlo a primera hora de la mañana para comerlo al medio día. Hay gente que les gusta mucho la intensidad del sabor y lo dejan macerando toda la noche. Eso va en gustos. Debéis removerlo de vez en cuando para que todos los trozos se impregnen bien.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 180,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Importante: Debéis escurrir el pescado muy muy bien antes de freírlo.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "hora antes de freírlo lo sacamos de su adobo y lo ponemos en un escurridor. Cuando haya pasado esa hora vamos secando los trozos en papel absorbente.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "baja",
+        "sin_convertir": true,
+        "notas_conversion": [
+          "El texto menciona un tiempo que no se ha podido convertir; revisar manualmente."
+        ]
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Pasamos los trocitos por harina y los echamos a freír. El aceite debe estar fuertecito, pero no humeante.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/bienmesabe-en-adobo/",
+    "creado_en": "2026-11-16"
   }
 ]
