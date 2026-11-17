@@ -5611,7 +5611,7 @@
     "descripcion": "Zumo Florida: receta de bebida para 4 personas con un tiempo total de 2 min. Ingredientes principales: zumo de pomelo, zumo de limón, zumo de naranja. Los 4 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
     "imagen": "/images/recipes/zumo-florida.jpg",
     "categoria": "bebidas",
-    "tiempo_total_min": 2,
+    "tiempo_total_min": 1,
     "comensales": 4,
     "dificultad": "Fácil",
     "ingredientes": [
@@ -7764,7 +7764,7 @@
     "descripcion": "Mousse de yogur griego y queso: receta de postre para 4 personas con un tiempo total de 4 min. Ingredientes principales: 2 yogures griegos, queso cremoso para untar, azúcar. Los 4 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
     "imagen": "/images/recipes/mousse-de-yogur-griego-y-queso.jpg",
     "categoria": "postres",
-    "tiempo_total_min": 4,
+    "tiempo_total_min": 2,
     "comensales": 4,
     "dificultad": "Fácil",
     "ingredientes": [
@@ -10931,7 +10931,7 @@
     "descripcion": "Pastel de galletas con crema de galletas: receta de postre para 4 personas con un tiempo total de 5 min. Ingredientes principales: galletas oreo (o similar), leche condensada, queso untar. Los 4 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
     "imagen": "/images/recipes/pastel-de-galletas-con-crema-de-galletas.jpg",
     "categoria": "postres",
-    "tiempo_total_min": 5,
+    "tiempo_total_min": 1,
     "comensales": 4,
     "dificultad": "Fácil",
     "ingredientes": [
@@ -13302,7 +13302,7 @@
     "descripcion": "Dorayakis: receta de postre para 12 personas con un tiempo total de 2 min. Ingredientes principales: harina, 2 huevos, azúcar. Los 5 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
     "imagen": "/images/recipes/dorayakis.jpg",
     "categoria": "postres",
-    "tiempo_total_min": 2,
+    "tiempo_total_min": 1,
     "comensales": 12,
     "dificultad": "Media",
     "ingredientes": [
@@ -24161,7 +24161,7 @@
     "descripcion": "Guacamole: receta de bebida para 4 personas con un tiempo total de 3 min. Ingredientes principales: aguacates maduros, pelados y sin hueso central (guardamos un hueso), cebolla, tomates maduros. Los 4 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
     "imagen": "/images/recipes/guacamole.jpg",
     "categoria": "bebidas",
-    "tiempo_total_min": 3,
+    "tiempo_total_min": 2,
     "comensales": 4,
     "dificultad": "Fácil",
     "ingredientes": [
@@ -24975,7 +24975,7 @@
     "descripcion": "Sándwich de manzana, roquefort y nueces: receta de pan o masa para 4 personas con un tiempo total de 2 min. Ingredientes principales: queso de untar, queso Roquefort, 6 nueces peladas. Los 6 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
     "imagen": "/images/recipes/sandwich-de-manzana-roquefort-y-nueces.jpg",
     "categoria": "panes-masas",
-    "tiempo_total_min": 2,
+    "tiempo_total_min": 1,
     "comensales": 4,
     "dificultad": "Media",
     "ingredientes": [
@@ -25199,7 +25199,7 @@
     "descripcion": "Copa de aguacate y fresas: receta de bebida para 2 personas con un tiempo total de 3 min. Ingredientes principales: pulpa de aguacate, ½ yogur natural, zumo de naranja. Los 8 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
     "imagen": "/images/recipes/copa-de-aguacate-y-fresas.jpg",
     "categoria": "bebidas",
-    "tiempo_total_min": 3,
+    "tiempo_total_min": 1,
     "comensales": 2,
     "dificultad": "Difícil",
     "ingredientes": [
@@ -26880,7 +26880,7 @@
     "descripcion": "Gazpacho con cerezas: receta de sopa o crema para 3 personas con un tiempo total de 4 min. Ingredientes principales: cerezas, tomates maduros, pimiento rojo. Los 10 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
     "imagen": "/images/recipes/gazpacho-con-cerezas.jpg",
     "categoria": "sopas-y-cremas",
-    "tiempo_total_min": 4,
+    "tiempo_total_min": 1,
     "comensales": 3,
     "dificultad": "Difícil",
     "ingredientes": [
@@ -29735,7 +29735,7 @@
     "descripcion": "Piña colada: receta de sopa o crema para 4 personas con un tiempo total de 2 min. Ingredientes principales: 7oo g de piña natural (pelada y sin la parte central). Os recomiendo la natural, es más sabrosa, pero se puede utilizar también piña en conserva, crema de coco (o 100 ml de leche de coco y 75 g de azúcar), ron blanco (con esta cantidad queda muy suave). Los 3 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
     "imagen": "/images/recipes/pina-colada.jpg",
     "categoria": "sopas-y-cremas",
-    "tiempo_total_min": 2,
+    "tiempo_total_min": 3,
     "comensales": 4,
     "dificultad": "Fácil",
     "ingredientes": [
@@ -32767,7 +32767,7 @@
     "id": "b2be7021-3c00-460e-9fa0-b45b53f905a6",
     "slug": "leche-de-pantera",
     "titulo": "Leche de Pantera",
-    "descripcion": "Leche de Pantera: receta de sopa o crema para 4 personas con un tiempo total de 1 min. Ingredientes principales: 1 bote de leche condensada pequeño (350 g), . de ron blanco (3 cubiletes), brandy (medio cubilete). Los 2 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
+    "descripcion": "Leche de Pantera: receta de sopa o crema para 4 personas con un tiempo total de 1 min. Ingredientes principales: 1 bote de leche condensada pequeño (350 g),. de ron blanco (3 cubiletes), brandy (medio cubilete). Los 2 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
     "imagen": "/images/recipes/leche-de-pantera.jpg",
     "categoria": "sopas-y-cremas",
     "tiempo_total_min": 1,
@@ -37307,7 +37307,7 @@
     "descripcion": "Batido de horchata y kiwi: receta de bebida para 4 personas con un tiempo total de 2 min. Ingredientes principales: itro de horchata, 2 kiwis (200 g). Los 3 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
     "imagen": "/images/recipes/batido-de-horchata-y-kiwi.jpg",
     "categoria": "bebidas",
-    "tiempo_total_min": 2,
+    "tiempo_total_min": 1,
     "comensales": 4,
     "dificultad": "Fácil",
     "ingredientes": [
@@ -37725,7 +37725,7 @@
     "descripcion": "Paté de aceitunas verdes al aroma de naranja: receta de sopa o crema para 4 personas con un tiempo total de 3 min. Ingredientes principales: aceitunas verdes (escurridas y con hueso), r de aceite de oliva virgen extra, aproximadamente, ajo. Los 5 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
     "imagen": "/images/recipes/pate-de-aceitunas-verdes-al-aroma-de-naranja.jpg",
     "categoria": "sopas-y-cremas",
-    "tiempo_total_min": 3,
+    "tiempo_total_min": 1,
     "comensales": 4,
     "dificultad": "Media",
     "ingredientes": [
@@ -54568,7 +54568,7 @@
     "descripcion": "Crema de avellanas: receta de postre para 10 personas con un tiempo total de 4 min. Ingredientes principales: azúcar glass (queda mejor con el comprado pero, si no tenemos, podemos hacerlo nosotros), leche en polvo, avellanas sin piel para que la crema quede blanquita. Los 3 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
     "imagen": "/images/recipes/crema-de-avellanas.jpg",
     "categoria": "postres",
-    "tiempo_total_min": 4,
+    "tiempo_total_min": 1,
     "comensales": 10,
     "dificultad": "Fácil",
     "ingredientes": [
@@ -62077,7 +62077,7 @@
     "descripcion": "Ensalada de garbanzos y espinacas con vinagreta de huevo duro: receta de verduras para 4 personas con un tiempo total de 5 min. Ingredientes principales: r de garbanzos cocidos (yo utilicé garbanzos de bote ya cocidos), 6 huevos cocidos, r de hojas de espinacas frescas (las venden en la parte de ensaladas envasadas refrigeradas). Los 4 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
     "imagen": "/images/recipes/ensalada-de-garbanzos-y-espinacas-con-vinagreta-de-huevo-duro.jpg",
     "categoria": "verduras",
-    "tiempo_total_min": 5,
+    "tiempo_total_min": 1,
     "comensales": 4,
     "dificultad": "Fácil",
     "ingredientes": [
@@ -64626,7 +64626,7 @@
     "descripcion": "Smoothie de fresas y hierbabuena: receta de bebida para 4 personas con un tiempo total de 5 min. Ingredientes principales: 2 plátanos medianos troceados, r de fresas sin rabito y troceadas, un puñado de hojas de menta o hierbabuena fresca. Los 2 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
     "imagen": "/images/recipes/smoothie-de-fresas-y-hierbabuena.jpg",
     "categoria": "bebidas",
-    "tiempo_total_min": 5,
+    "tiempo_total_min": 1,
     "comensales": 4,
     "dificultad": "Fácil",
     "ingredientes": [
@@ -66030,7 +66030,7 @@
     "descripcion": "Dúo de cremas de pepino y maíz: receta de sopa o crema para 4 personas con un tiempo total de 2 min. Ingredientes principales: 2 pepinos (300 g aprox.) sin pelar y cortados en grandes trozos, 1 yogur natural (125 g), ajo. Los 5 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
     "imagen": "/images/recipes/duo-de-cremas-de-pepino-y-maiz.jpg",
     "categoria": "sopas-y-cremas",
-    "tiempo_total_min": 2,
+    "tiempo_total_min": 3,
     "comensales": 4,
     "dificultad": "Media",
     "ingredientes": [
@@ -66141,7 +66141,7 @@
     "descripcion": "Quesadillas mexicanas con guacamole y pico de gallo: receta de pescado para 4 personas con un tiempo total de 20 min. Ingredientes principales: 4 tortillas mejicanas de trigo, onchas de queso cheddar, onchas de queso emmental. Los 5 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
     "imagen": "/images/recipes/quesadillas-mexicanas-con-guacamole-y-pico-de-gallo.jpg",
     "categoria": "pescados",
-    "tiempo_total_min": 20,
+    "tiempo_total_min": 1,
     "comensales": 4,
     "dificultad": "Media",
     "ingredientes": [
@@ -67185,7 +67185,7 @@
     "id": "8fcd4f40-069b-4190-9d98-174a6553784a",
     "slug": "brazo-de-gitano-de-tiramisu",
     "titulo": "Brazo de gitano de tiramisú",
-    "descripcion": "Brazo de gitano de tiramisú: receta de postre para 6 personas con un tiempo total de 15 min. Ingredientes principales: 3 huevos, azúcar, . harina. Los 9 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
+    "descripcion": "Brazo de gitano de tiramisú: receta de postre para 6 personas con un tiempo total de 15 min. Ingredientes principales: 3 huevos, azúcar,. harina. Los 9 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
     "imagen": "/images/recipes/brazo-de-gitano-de-tiramisu.jpg",
     "categoria": "postres",
     "tiempo_total_min": 15,
@@ -72653,7 +72653,7 @@
     "id": "45738eba-2431-4693-80a2-5971a5b6dafc",
     "slug": "sorpresas-de-queso",
     "titulo": "Sorpresas de queso",
-    "descripcion": "Sorpresas de queso: receta de pan o masa para 4 personas con un tiempo total de 23 min. Ingredientes principales: . de carne picada, mitad ternera y mitad cerdo, 2 rebanadas de pan de molde, r. de leche. Los 6 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
+    "descripcion": "Sorpresas de queso: receta de pan o masa para 4 personas con un tiempo total de 23 min. Ingredientes principales:. de carne picada, mitad ternera y mitad cerdo, 2 rebanadas de pan de molde, r. de leche. Los 6 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
     "imagen": "/images/recipes/sorpresas-de-queso.jpg",
     "categoria": "panes-masas",
     "tiempo_total_min": 23,
@@ -73009,7 +73009,7 @@
     "id": "1c6cac22-b895-485e-b4aa-9d1be73a60bf",
     "slug": "canutillos-de-hojaldre-con-crema",
     "titulo": "Canutillos de hojaldre con crema",
-    "descripcion": "Canutillos de hojaldre con crema: receta de postre para 4 personas con un tiempo total de 24 min. Ingredientes principales: áminas de hojaldre (si es rectangular, mejor), 1 huevo batido, . de leche entera. Los 2 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
+    "descripcion": "Canutillos de hojaldre con crema: receta de postre para 4 personas con un tiempo total de 24 min. Ingredientes principales: áminas de hojaldre (si es rectangular, mejor), 1 huevo batido,. de leche entera. Los 2 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
     "imagen": "/images/recipes/canutillos-de-hojaldre-con-crema.jpg",
     "categoria": "postres",
     "tiempo_total_min": 24,
@@ -73068,7 +73068,7 @@
     "id": "18285dc7-418d-4e44-b98a-da8239af8e1d",
     "slug": "bizcocho-a-las-tres-leches",
     "titulo": "Bizcocho a las tres leches",
-    "descripcion": "Bizcocho a las tres leches: receta de postre para 4 personas con un tiempo total de 254 min. Ingredientes principales: 1 bizcocho genovés (de 4 huevos), . de leche condensada, . de leche evaporada. Los 2 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
+    "descripcion": "Bizcocho a las tres leches: receta de postre para 4 personas con un tiempo total de 254 min. Ingredientes principales: 1 bizcocho genovés (de 4 huevos),. de leche condensada,. de leche evaporada. Los 2 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
     "imagen": "/images/recipes/bizcocho-a-las-tres-leches.jpg",
     "categoria": "postres",
     "tiempo_total_min": 254,
@@ -74082,7 +74082,7 @@
     "descripcion": "Granizado de limón: receta de bebida para 4 personas con un tiempo total de 10 min. Ingredientes principales: La piel de un limón, sólo la parte amarilla, imones pelados (incluyendo el anterior), sin nada de parte blanca y sin pepitas, 150 ó 200 g de azúcar -podéis sustituirlo por su equivalente en edulcorante-. Los 7 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
     "imagen": "/images/recipes/granizado-de-limon.jpg",
     "categoria": "bebidas",
-    "tiempo_total_min": 10,
+    "tiempo_total_min": 3,
     "comensales": 4,
     "dificultad": "Media",
     "ingredientes": [
@@ -77202,7 +77202,7 @@
     "descripcion": "Salsa tonnata: receta de salsa para 6 personas con un tiempo total de 2 min. Ingredientes principales: atún en aceite bien escurrido, 10 alcaparras, 3 filetes de anchoa en aceite. Los 2 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
     "imagen": "/images/recipes/salsa-tonnata.jpg",
     "categoria": "salsas",
-    "tiempo_total_min": 2,
+    "tiempo_total_min": 1,
     "comensales": 6,
     "dificultad": "Fácil",
     "ingredientes": [
@@ -77446,7 +77446,7 @@
     "id": "6e2402e5-6d0b-4d61-9ffb-e65c1c99155c",
     "slug": "pan-de-muerto-de-chocolate",
     "titulo": "Pan de muerto de chocolate",
-    "descripcion": "Pan de muerto de chocolate: receta de postre para 1 persona con un tiempo total de 175 min. Ingredientes principales: . de leche entera, . de levadura prensada fresca, . de harina de fuerza. Los 3 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
+    "descripcion": "Pan de muerto de chocolate: receta de postre para 1 persona con un tiempo total de 175 min. Ingredientes principales:. de leche entera,. de levadura prensada fresca,. de harina de fuerza. Los 3 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
     "imagen": "/images/recipes/pan-de-muerto-de-chocolate.jpg",
     "categoria": "postres",
     "tiempo_total_min": 175,
@@ -77645,7 +77645,7 @@
     "descripcion": "Sorbete de naranja con fruta fresca: receta de postre para 4 personas con un tiempo total de 3 min. Ingredientes principales: imón pelado (sin la parte blanca), 2 naranjas peladas (sin la parte blanca), El zumo de 1 naranja. Los 3 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
     "imagen": "/images/recipes/sorbete-de-naranja-con-fruta-fresca.jpg",
     "categoria": "postres",
-    "tiempo_total_min": 3,
+    "tiempo_total_min": 1,
     "comensales": 4,
     "dificultad": "Fácil",
     "ingredientes": [
@@ -78403,7 +78403,7 @@
     "descripcion": "Mousse de limón: receta de postre para 8 personas con un tiempo total de 5 min. Ingredientes principales: 1 bote pequeño de leche condensada (350g), 4 yogures naturales, zumo de limón. Los 3 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
     "imagen": "/images/recipes/mousse-de-limon.jpg",
     "categoria": "postres",
-    "tiempo_total_min": 5,
+    "tiempo_total_min": 1,
     "comensales": 8,
     "dificultad": "Fácil",
     "ingredientes": [
@@ -78465,7 +78465,7 @@
     "descripcion": "Sopa fría de pesto: receta de sopa o crema para 4 personas con un tiempo total de 3 min. Ingredientes principales: queso parmesano, piñones, albahaca fresca en hojas. Los 4 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
     "imagen": "/images/recipes/sopa-fria-de-pesto.jpg",
     "categoria": "sopas-y-cremas",
-    "tiempo_total_min": 3,
+    "tiempo_total_min": 2,
     "comensales": 4,
     "dificultad": "Fácil",
     "ingredientes": [
@@ -78558,7 +78558,7 @@
     "descripcion": "Chuletas rellenas de manzana y queso azul: receta de carne para 4 personas con un tiempo total de 1 min. Ingredientes principales: 8 chuletas de cerdo gruesas, 1 manzana reineta pelada y sin corazón, r de queso azul. Los 5 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
     "imagen": "/images/recipes/chuletas-rellenas-de-manzana-y-queso-azul.jpg",
     "categoria": "carnes",
-    "tiempo_total_min": 1,
+    "tiempo_total_min": 3,
     "comensales": 4,
     "dificultad": "Media",
     "ingredientes": [
@@ -78653,7 +78653,7 @@
     "id": "45fee129-8f1b-463e-ab90-de8bdb8abf27",
     "slug": "cupcakes-de-calabaza-y-buttercream-de-cacao",
     "titulo": "Cupcakes de calabaza y buttercream de cacao",
-    "descripcion": "Cupcakes de calabaza y buttercream de cacao: receta de postre para 16 personas con un tiempo total de 39 min. Ingredientes principales: . de almendras crudas y peladas, . de calabaza, pelada y cortada en trozos, 2 huevos grandes (L). Los 2 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
+    "descripcion": "Cupcakes de calabaza y buttercream de cacao: receta de postre para 16 personas con un tiempo total de 39 min. Ingredientes principales:. de almendras crudas y peladas,. de calabaza, pelada y cortada en trozos, 2 huevos grandes (L). Los 2 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
     "imagen": "/images/recipes/cupcakes-de-calabaza-y-buttercream-de-cacao.jpg",
     "categoria": "postres",
     "tiempo_total_min": 39,
@@ -78720,7 +78720,7 @@
     "id": "6911f8bb-4357-489a-b018-ead85f38ef17",
     "slug": "cupcakes-de-calabaza-con-frosting-de-queso",
     "titulo": "Cupcakes de calabaza con frosting de queso",
-    "descripcion": "Cupcakes de calabaza con frosting de queso: receta de postre para 14 personas con un tiempo total de 35 min. Ingredientes principales: . de harina de repostería, levadura química, bicarbonato sódico. Los 3 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
+    "descripcion": "Cupcakes de calabaza con frosting de queso: receta de postre para 14 personas con un tiempo total de 35 min. Ingredientes principales:. de harina de repostería, levadura química, bicarbonato sódico. Los 3 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
     "imagen": "/images/recipes/cupcakes-de-calabaza-con-frosting-de-queso.jpg",
     "categoria": "postres",
     "tiempo_total_min": 35,
@@ -78797,7 +78797,7 @@
     "id": "4e4537dc-9115-4a04-8304-e17a251b8b3f",
     "slug": "pastel-de-calabaza",
     "titulo": "Pastel de calabaza",
-    "descripcion": "Pastel de calabaza: receta de postre para 12 personas con un tiempo total de 101 min. Ingredientes principales: mantequilla para engrasar el molde, . de azúcar, la piel de una naranja, sin nada de parte blanca. Los 3 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
+    "descripcion": "Pastel de calabaza: receta de postre para 12 personas con un tiempo total de 101 min. Ingredientes principales: mantequilla para engrasar el molde,. de azúcar, la piel de una naranja, sin nada de parte blanca. Los 3 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
     "imagen": "/images/recipes/pastel-de-calabaza.jpg",
     "categoria": "postres",
     "tiempo_total_min": 101,
@@ -79781,7 +79781,7 @@
     "descripcion": "Cóctel salado de melón, hierbabuena y yogur express: receta de carne para 4 personas con un tiempo total de 3 min. Ingredientes principales: r de melón cortado en trozos sin piel ni pepitas, ajo, 1 yogures griegos. Los 4 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
     "imagen": "/images/recipes/coctel-salado-de-melon-hierbabuena-y-yogur-express.jpg",
     "categoria": "carnes",
-    "tiempo_total_min": 3,
+    "tiempo_total_min": 1,
     "comensales": 4,
     "dificultad": "Fácil",
     "ingredientes": [
@@ -81873,7 +81873,7 @@
     "descripcion": "Melocotones al romero: receta de postre para 2 personas con un tiempo total de 5 min. Ingredientes principales: 2 melocotones, 1 chorritos de limón, hojitas de romero. Los 5 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
     "imagen": "/images/recipes/melocotones-al-romero.jpg",
     "categoria": "postres",
-    "tiempo_total_min": 5,
+    "tiempo_total_min": 1,
     "comensales": 2,
     "dificultad": "Media",
     "ingredientes": [
@@ -85562,7 +85562,7 @@
     "descripcion": "Spinacini – Nuggets de pollo y espinacas: receta de carne para 4 personas con un tiempo total de 30 min. Ingredientes principales: pechuga de pollo, espinacas congeladas (hay que descongelarlas antes de empezar con la receta), 1 huevo. Los 6 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
     "imagen": "/images/recipes/spinacini-nuggets-de-pollo-y-espinacas.jpg",
     "categoria": "carnes",
-    "tiempo_total_min": 30,
+    "tiempo_total_min": 1,
     "comensales": 4,
     "dificultad": "Media",
     "ingredientes": [
@@ -85938,5 +85938,482 @@
     ],
     "fuente_url": "https://www.thermorecetas.com/bienmesabe-en-adobo/",
     "creado_en": "2026-11-16"
+  },
+  {
+    "id": "42a493d4-a448-4307-957b-966c3cdab33e",
+    "slug": "batido-de-platano-y-helado-de-vainilla",
+    "titulo": "Batido de plátano y helado de vainilla",
+    "descripcion": "Batido de plátano y helado de vainilla: receta de postre para 5 personas con un tiempo total de 1 min. Ingredientes principales: plátanos maduros, imón, 1 yogur natural. Los 2 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/09/batido-de-platano-y-helado-de-vainilla-thermorecetas.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 1,
+    "comensales": 5,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "200 g de plátanos maduros",
+      "1/2 limón",
+      "1 yogur natural",
+      "350 g de leche",
+      "45 g de azúcar morena",
+      "5 galletas tipo Digestive",
+      "5 bolas de helado de vainilla"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Pelar y trocear los plátanos. Colocarlos en jarra de la Thermomix. Rociar con el zumo de limón, agregar también el azúcar, la leche, el yogur y las galletas. Triturar durante 1 minuto a velocidad 4. Reservar en la nevera.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 1,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "A la hora de servir, colocar 1 bola de helado de vainilla en cada jarra o cuenco, repartir el batido de plátano. Opcionalmente se puede decorar con otra galleta, almendras picadas o cualquier otro fruto seco.",
+        "accesorio": "Cuchillas",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "baja",
+        "sin_convertir": true,
+        "notas_conversion": [
+          "El texto menciona un tiempo que no se ha podido convertir; revisar manualmente."
+        ]
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/batido-de-platano-y-helado-de-vainilla/",
+    "creado_en": "2026-11-17"
+  },
+  {
+    "id": "43f70973-6088-4793-aebe-df5c425a167c",
+    "slug": "bunuelos-de-zanahoria",
+    "titulo": "Buñuelos de zanahoria",
+    "descripcion": "Buñuelos de zanahoria: receta de postre para 6 personas con un tiempo total de 20 min. Ingredientes principales: zanahorias peladas y en trozos, agua para cocer las zanahorias, 2 huevos. Los 6 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/09/buñuelos-de-zanahoria.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 20,
+    "comensales": 6,
+    "dificultad": "Media",
+    "ingredientes": [
+      "230 g de zanahorias peladas y en trozos",
+      "500 g de agua para cocer las zanahorias",
+      "2 huevos",
+      "2 o 3 cucharadas de azúcar",
+      "100 g de harina",
+      "Aceite para freirlos",
+      "Azúcar para rebozarlos una vez fritos"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos las zanahorias (peladas y cortadas en trozos) y el agua en la jarra y programamos 20 minutos, 120 °C con la Vaporera de dos niveles, Cuchara MamboMix, velocidad 1.",
+        "accesorio": "Vaporera",
+        "velocidad": 1,
+        "temperatura_c": 120,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 20,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Cuando acabe el tiempo programado escurrimos los trozos de zanahoria (podemos ayudarnos con cestillo, desechando el agua) y los volvemos a poner en la jarra. Trituramos programando 8 segundos, velocidad 5.",
+        "accesorio": "Cestillo de hervir",
+        "velocidad": 5,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 0.13,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "baja",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Velocidad 5 por encima del máximo documentado del accesorio Cestillo de hervir (máx. 3)."
+        ]
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Ahora tenemos que poner la Mariposa. Añadimos el azúcar y los huevos. Programamos 10 segundos, velocidad 2.",
+        "accesorio": "Mariposa",
+        "velocidad": 2,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 0.17,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Incorporamos los 100 g de harina y volvemos a programar 10 segundos, velocidad 2. Terminamos de mezclar ayudándonos con la espátula.",
+        "accesorio": "Cuchillas",
+        "velocidad": 2,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 0.17,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Es el momento de freír los buñuelos. Ponemos abundante aceite en una sartén. Los buñuelos los haremos con ayuda de un par de cucharas siempre con el aceite bien caliente y dejando separación entre ellos.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "baja",
+        "sin_convertir": true,
+        "notas_conversion": [
+          "El texto menciona un tiempo que no se ha podido convertir; revisar manualmente."
+        ]
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Los vamos sacando con ayuda de una espumadera y colocando en un plato cubierto con papel de cocina para quitar el exceso de aceite. Los rebozamos en azúcar y ¡listos para servir!",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "baja",
+        "sin_convertir": true,
+        "notas_conversion": [
+          "El texto original no indica velocidad de la Mambo; hay que revisar manualmente.",
+          "El texto original no indica tiempo de programación; hay que revisar manualmente."
+        ]
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/bunuelos-de-zanahoria/",
+    "creado_en": "2026-11-17"
+  },
+  {
+    "id": "01f4e130-6147-4148-a02f-0b59ee5ae26d",
+    "slug": "teriyakki-de-pollo-con-cous-cous-y-pistachos",
+    "titulo": "Teriyakki de pollo con cous cous y pistachos",
+    "descripcion": "Teriyakki de pollo con cous cous y pistachos: receta de carne para 4 personas con un tiempo total de 151 min. Ingredientes principales: 2 pechugas de pollo, grandes de salsa teriyakki, Sal. Los 5 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/09/teriyakki_pollo_couscous.jpg",
+    "categoria": "carnes",
+    "tiempo_total_min": 151,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "2 pechugas de pollo",
+      "10 cucharadas grandes de salsa teriyakki",
+      "Sal",
+      "Pimienta",
+      "Jengibre en polvo",
+      "150 gr de cous cous",
+      "150 gr de agua",
+      "1 bolsa de hornear"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos las pechugas bien libres de grasa dentro de la bolsa de asar. Añadimos sal y jengibre al gusto para que se impregnen bien. Ponemos dentro la salsa teriyakki y cerramos. Dejamos reposar unas 2 horas.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 120,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Vamos a cocinar el pollo. Sin lavar la jarra, ponemos 1 litro de agua en la jarra y ponemos la bolsa con el pollo en el recipiente Vaporera de dos niveles. Lo colocamos encima de la jarra sin el cubilete y programamos 25 minutos, 120 °C con la Vaporera de dos niveles, velocidad 2. Acordaos de darle la vuelta a la bolsa a mitad de cocción. Dejamos reposar 2 minutos y reservamos.",
+        "accesorio": "Vaporera",
+        "velocidad": 2,
+        "temperatura_c": 120,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 27,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Quitamos el agua de la jarra. Ponemos la Mariposa en la jarra, agregamos el cous cous y el agua, una pizca de sal y programamos 4 minutos, 70 °C, velocidad 1. Retiramos y reservamos.",
+        "accesorio": "Mariposa",
+        "velocidad": 1,
+        "temperatura_c": 70,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 4,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Mientras se cocina el cous cous, vamos a dorar el pollo en una sartén para que se caramelice la salsa teriyakki añadiendo una cucharada de aceite a la plancha o sartén, poniendo fuego muy fuerte y marcando cada cara del pollo durante 20 segundos.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 0.33,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Servimos la salsa sobrante de la bolsa en un cuenco y llevamos a la mesa. Colocamos el cous cous, ponemos encima en pollo cortado en rodajas, colocamos encima los pistachos y añadimos un poco de la salsa teriyakki.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/teriyakki-de-pollo-con-cous-cous-y-pistachos/",
+    "creado_en": "2026-11-17"
+  },
+  {
+    "id": "293d27fb-d1f3-473a-ba25-0572e7a2717b",
+    "slug": "merluza-con-salsa-de-naranja",
+    "titulo": "Merluza con salsa de naranja",
+    "descripcion": "Merluza con salsa de naranja: receta de pescado para 4 personas con un tiempo total de 23 min. Ingredientes principales: 4 rodajas de merluza fresca (puede ser congelada, pero necesita descongelación previa), cebolla, azúcar moreno (puede ser blanca). Los 7 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/10/merluza-naranja.jpg",
+    "categoria": "pescados",
+    "tiempo_total_min": 23,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "4 rodajas de merluza fresca (puede ser congelada, pero necesita descongelación previa)",
+      "200 g de cebolla",
+      "2 cucharadas de azúcar moreno (puede ser blanca)",
+      "sal",
+      "50 ml (medio cubilete) de aceite",
+      "250 ml de zumo de naranja natural",
+      "media pastilla de caldo de pescado"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Introducimos en la jarra la cebolla a trozos, el azúcar, el aceite y una cucharadita (de las de café) de sal. Troceamos durante 5 segundos a velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 0.08,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Bajamos los restos de las paredes de la jarra con la espátula y rehogamos durante 12 minutos, velocidad 2, 100 °C",
+        "accesorio": "Cuchillas",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 12,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Mientras, colocamos la merluza en la bandeja de la Vaporera de dos niveles. Espolvoreamos con un poquito de sal y un chorrito de aceite. Tapamos y reservamos.",
+        "accesorio": "Vaporera",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Finalizada ya la cocción de la cebolla, añadimos a la jarra el zumo y la media pastilla de caldo. Colocamos el recipiente Vaporera de dos niveles en su posición y programamos 10 minutos, 120 °C con la Vaporera de dos niveles velocidad 2.",
+        "accesorio": "Vaporera",
+        "velocidad": 2,
+        "temperatura_c": 120,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 10,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Retiramos la Vaporera de dos niveles y destapamos (siempre hacia la posición contraria a donde estemos ubicados para no quemarnos con el vapor).",
+        "accesorio": "Vaporera",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Si la salsa nos gusta más natural, con sus tropezones de cebolla, ya hemos terminado. Sevimos la merluza con su salsa.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Pero a los niños normalmente les gusta más tipo crema, entonces yo espero que se enfríe un poquito y la trituro durante 30 segundos subiendo la velocidad de forma progresiva hasta 5 (ajústala a mano: la Mambo no tiene velocidad progresiva)/10. Con el cubilete puesto. Luego ya servimos junto a la rodaja de merluza o sobre ella.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 0.5,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "media",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Velocidad progresiva 5: la Mambo no la programa; ajusta la velocidad a mano en 1 tramos."
+        ],
+        "velocidad_progresiva": [
+          5
+        ]
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/merluza-con-salsa-de-naranja/",
+    "creado_en": "2026-11-17"
+  },
+  {
+    "id": "ca08be17-15fb-4ff1-862b-2ce548eaf5cd",
+    "slug": "bundt-cake-con-nueces-y-dulce-de-membrillo",
+    "titulo": "Bundt Cake con nueces y dulce de membrillo",
+    "descripcion": "Bundt Cake con nueces y dulce de membrillo: receta de postre para 4 personas con un tiempo total de 83 min. Ingredientes principales: mantequilla, en trozos y a temperatura ambiente, queso cremoso, tipo Philadelphia®, azúcar. Los 3 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
+    "imagen": "https://www.misthermorecetas.com/wp-content/uploads/2025/11/bundt_cake_nueces_dulce_membrillo.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 83,
+    "comensales": 4,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "200 g de mantequilla, en trozos y a temperatura ambiente",
+      "250 g de queso cremoso, tipo Philadelphia®",
+      "300 g de azúcar",
+      "4 huevos L",
+      "400 g de harina de repostería",
+      "5 g (1 cucharadita) de levadura química en polvo",
+      "3 g (½ cucharadita) de bicarbonato sódico",
+      "80 g de nueces troceadas",
+      "100 g de dulce de membrillo en daditos",
+      "80 g de azúcar glas",
+      "150 g de queso cremoso",
+      "30 g de leche",
+      "nueces muy picadas",
+      "dulce de membrillo en daditos"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Precalentamos el horno a 175 °C, con calor arriba y abajo. Engrasamos con spray desmoldante un molde de Bundt Cake de 10 tazas (si no tenéis este spray, lo engrasamos con un poco de mantequilla, espolvoreamos harina por encima y retiramos el exceso de harina dando la vuelta al molde). Reservamos. En la jarra del Thermomix ponemos la mantequilla, el queso cremoso y el azúcar. Programamos 3 minutos, a velocidad 2½. Con la espátula, separamos la crema que haya quedado en las paredes y fondo de la jarra, mezclamos un poco y programamos 2 minutos más, a la misma velocidad. Programamos 2 minutos, a velocidad 3 y, por el abertura de la tapa, vamos añadiendo los huevos de 1 en 1, dejando que se integren en la mezcla antes de echar el siguiente. Terminado este tiempo, mezclamos bien con la espátula. Agregamos la harina, la levadura y el bicarbonato. Programamos 30 segundos, a velocidad 3.Con la espátula, terminamos de mezclar, con movimientos envolventes. Incorporamos las nueces troceadas y los dados de membrillos y mezclamos suavemente con la espátula, hasta que todo esté bien integrado. Vertemos esta masa en el molde preparado. Al ser una masa espesa, la repartimos bien por todo el molde y alisamos la superficie con la espátula. Horneamos durante 60 minutos, a 175 °C. Retiramos del horno y dejamos que repose durante 15 minutos una rejilla, pero aún sin desmoldar. Desmoldamos el bizcocho y dejamos que enfríe completamente sobre una rejilla.",
+        "accesorio": "Cuchillas",
+        "velocidad": 2,
+        "temperatura_c": 175,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 82.5,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "media",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "175 °C es válido en Mambo CooKing (37-180 °C) pero no verificado en generaciones anteriores de Mambo (máx. 120 °C).",
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Sobre la tapa de la jarra del Thermomix ponemos un bol, pulsamos la función balanza y echamos el azúcar glas, el queso cremoso y la leche. Mezclamos bien con una cuchara o varilla pequeña. Cuando el bizcocho esté completamente frío, vertemos este glaseado por encima y lo repartimos bien por toda la superficie.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Repartimos una nueces muy picaditas sobre la cobertura y colocamos unos trocitos de dulce de membrillo por encima. Partimos en porciones y servimos.",
+        "accesorio": "Cuchillas",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      }
+    ],
+    "fuente_url": "https://www.misthermorecetas.com/bundt-cake-con-nueces-y-dulce-de-membrillo/",
+    "creado_en": "2026-11-17"
   }
 ]
