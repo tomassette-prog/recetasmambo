@@ -72,12 +72,13 @@ Campos fabricados retirados del componente (precio/precioNum/sku/InStock — 729
 `/sitemap_index.xml`, `/page-sitemap.xml`, `/post-sitemap.xml` (restos del WordPress, todos con error) → quitarlos del panel para que el informe sea legible.
 
 ### 2.2 Redirects de URLs legacy (WordPress)
-`next.config.ts` no tiene redirects. Con los datos de GSC (en cuanto lleguen) se listan las URLs antiguas que aparezcan y se redirige 301 a su equivalente actual (o a la home si no existe).
-- **Verificación:** ninguna URL legacy devuelva 404.
+✅ DONE 2026-11-17: mapa generado desde la cosecha de Wayback (`scripts/map-legacy-redirects.mjs` + `scripts/legacy-urls-2026-11.txt`) → `src/lib/legacy-redirects.json` (68 redirects: 28 categorías, 9 estáticas, 6 recetas con match/override revisado, 21 a home, 4 wildcards de plumbing WP). Re-ejecutable cuando lleguen los datos de GSC para afinar los 21 casos sin equivalente.
+- **Verificación (cumplida):** ninguna URL legacy devuelve 404 — 9 cadenas de redirect verificadas en producción con `npm run check:live` (WordPress usa barra final y Next normaliza `/x/` → `/x` antes del redirect, así que cada URL legacy es una cadena de 2 saltos hasta su destino).
 
 ### 2.3 Deploy fiable (regla operativa + probe)
 El git-integration de Vercel falla en silencio en este proyecto. **Regla: todo push se despliega con `npx vercel --prod --yes` y se verifica en vivo**. Añadir `scripts/check-live.mjs` (como el de biohackdose) para comprobar URLs tras cada despliegue.
-- **Verificación:** `npm run check:live` en verde tras el despliegue.
+✅ DONE 2026-11-17: `scripts/check-live.mjs` + `npm run check:live` añadidos (páginas: 200/canonical/h1/JSON-LD/imágenes/marcadores; redirects legacy: destino final). Bonus del probe: canonical autorreferente añadido a los listados y páginas legales (solo las recetas lo tenían).
+- **Verificación (cumplida):** `npm run check:live` en verde tras el despliegue (6 páginas + 9 redirects).
 
 ---
 
