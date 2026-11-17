@@ -69,7 +69,8 @@ Campos fabricados retirados del componente (precio/precioNum/sku/InStock — 729
 ## P2 — Higiene técnica
 
 ### 2.1 Limpiar sitemaps de 2021 en GSC
-`/sitemap_index.xml`, `/page-sitemap.xml`, `/post-sitemap.xml` (restos del WordPress, todos con error) → quitarlos del panel para que el informe sea legible.
+✅ DONE 2026-11-17 (agente, vía pestaña compartida de GSC con la cuenta ziarresamot): los 3 sitemaps muertos (`/sitemap_index.xml`, `/page-sitemap.xml`, `/post-sitemap.xml`) eliminados del panel; `/sitemap.xml` reenviado ("Se ha enviado el sitemap correctamente", 17 nov 2026).
+- **Verificación (cumplida):** el informe queda con 1-1 de 1 (solo `/sitemap.xml`); pendiente de que Google complete la lectura (estado "No se ha podido obtener" del intento del 16 nov — revisar en próximos días).
 
 ### 2.2 Redirects de URLs legacy (WordPress)
 ✅ DONE 2026-11-17: mapa generado desde la cosecha de Wayback (`scripts/map-legacy-redirects.mjs` + `scripts/legacy-urls-2026-11.txt`) → `src/lib/legacy-redirects.json` (68 redirects: 28 categorías, 9 estáticas, 6 recetas con match/override revisado, 21 a home, 4 wildcards de plumbing WP). Re-ejecutable cuando lleguen los datos de GSC para afinar los 21 casos sin equivalente.
