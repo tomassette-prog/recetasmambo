@@ -30,6 +30,7 @@ export async function generateMetadata({ params }: Props) {
   return {
     title: `${cat.nombre} — Recetas Mambo`,
     description: cat.descripcion,
+    alternates: { canonical: `https://recetasmambo.com/categorias/${category}` },
   };
 }
 

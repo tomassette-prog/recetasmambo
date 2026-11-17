@@ -6,6 +6,10 @@ import Newsletter from "@/components/Newsletter";
 import AffiliateProducts from "@/components/AffiliateProducts";
 import SearchBox from "@/components/SearchBox";
 
+export const metadata = {
+  alternates: { canonical: "https://recetasmambo.com" },
+};
+
 const featured = getFeaturedRecipes();
 const allRecipes = getAllRecipes();
 

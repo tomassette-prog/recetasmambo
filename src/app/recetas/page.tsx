@@ -19,6 +19,7 @@ const categoryGradients: Record<string, string> = {
 export const metadata = {
   title: "Todas las Recetas — Recetas Mambo",
   description: "Explora todas las recetas adaptadas a la Mambo Cooking Total Gourmet.",
+  alternates: { canonical: "https://recetasmambo.com/recetas" },
 };
 
 export default function RecipesPage() {

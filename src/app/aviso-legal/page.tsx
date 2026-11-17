@@ -3,6 +3,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Aviso Legal — Mambo Cooking Total Gourmet",
   description: "Aviso legal y condiciones de uso de Mambo Cooking Total Gourmet.",
+  alternates: { canonical: "https://recetasmambo.com/aviso-legal" },
 };
 
 export default function LegalPage() {

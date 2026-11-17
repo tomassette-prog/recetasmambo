@@ -93,14 +93,13 @@ for (const p of DEFAULT_PATHS) {
 for (const [src, expected] of REDIRECT_CHECKS) {
   const problems = [];
   try {
-    const res = await fetch(BASE + src, { redirect: "manual" });
-    if (![301, 302, 307, 308].includes(res.status)) problems.push(`HTTP ${res.status} (esperado 3xx)`);
-    const loc = res.headers.get("location");
-    if (!loc) problems.push("sin Location");
-    else {
-      const dest = norm(new URL(loc, BASE).pathname);
-      if (dest !== norm(expected)) problems.push(`Location ${dest} (esperado ${expected})`);
-    }
+    // WordPress usa URLs con barra final: Next normaliza /x/ -> /x antes del
+    // redirect del mapa, así que se valida el destino FINAL de la cadena.
+    const res = await fetch(BASE + src, { redirect: "follow" });
+    if (!res.redirected) problems.push(`sin redirect (HTTP ${res.status})`);
+    if (res.status !== 200) problems.push(`HTTP final ${res.status}`);
+    const finalPath = norm(new URL(res.url).pathname);
+    if (finalPath !== norm(expected)) problems.push(`destino final ${finalPath} (esperado ${expected})`);
   } catch (err) {
     problems.push(`fetch: ${err.message}`);
   }

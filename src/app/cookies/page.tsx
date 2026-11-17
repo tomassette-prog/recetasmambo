@@ -3,6 +3,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Política de Cookies — Mambo Cooking Total Gourmet",
   description: "Política de cookies de Mambo Cooking Total Gourmet.",
+  alternates: { canonical: "https://recetasmambo.com/cookies" },
 };
 
 export default function CookiesPage() {

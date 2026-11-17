@@ -3,6 +3,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Política de Privacidad — Mambo Cooking Total Gourmet",
   description: "Política de privacidad de Mambo Cooking Total Gourmet.",
+  alternates: { canonical: "https://recetasmambo.com/privacidad" },
 };
 
 export default function PrivacyPage() {
