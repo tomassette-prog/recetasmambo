@@ -1,0 +1,274 @@
+[
+  {
+    "source": "/ads.txt",
+    "destination": "/"
+  },
+  {
+    "source": "/app-ads.txt",
+    "destination": "/"
+  },
+  {
+    "source": "/aviso-legal",
+    "destination": "/aviso-legal"
+  },
+  {
+    "source": "/bebida-y-coctel-con-mambo",
+    "destination": "/categorias/bebidas"
+  },
+  {
+    "source": "/bebida-y-coctel-con-mambo/agua-de-valencia-con-mambo",
+    "destination": "/recetas/agua-de-valencia"
+  },
+  {
+    "source": "/bebida-y-coctel-con-mambo/sorbete-de-limon-con-mambo",
+    "destination": "/"
+  },
+  {
+    "source": "/carne-con-mambo",
+    "destination": "/categorias/carnes"
+  },
+  {
+    "source": "/carne-con-mambo/alitas-de-pollo-con-mambo",
+    "destination": "/recetas/alitas-de-pollo-con-salsa-de-caramelo"
+  },
+  {
+    "source": "/carne-con-mambo/caldereta-de-cordero-con-mambo",
+    "destination": "/"
+  },
+  {
+    "source": "/carne-con-mambo/conejo-guisado-con-mambo",
+    "destination": "/"
+  },
+  {
+    "source": "/carne-con-mambo/pulled-pork-con-mambo",
+    "destination": "/"
+  },
+  {
+    "source": "/carne-con-mambo/steak-tartar-con-mambo",
+    "destination": "/"
+  },
+  {
+    "source": "/category/carne-con-mambo",
+    "destination": "/categorias/carnes"
+  },
+  {
+    "source": "/category/cerdo",
+    "destination": "/categorias/carnes"
+  },
+  {
+    "source": "/category/legumbres-y-verduras-con-mambo",
+    "destination": "/categorias/legumbres"
+  },
+  {
+    "source": "/category/mariscos-y-pescado-con-mambo",
+    "destination": "/categorias/pescados"
+  },
+  {
+    "source": "/category/masas",
+    "destination": "/categorias/panes-masas"
+  },
+  {
+    "source": "/category/masas-y-pan-con-mambo",
+    "destination": "/categorias/panes-masas"
+  },
+  {
+    "source": "/category/non-classe",
+    "destination": "/categorias"
+  },
+  {
+    "source": "/category/pan",
+    "destination": "/categorias/panes-masas"
+  },
+  {
+    "source": "/category/pastas",
+    "destination": "/categorias/arroces"
+  },
+  {
+    "source": "/category/pastas-y-arroz-con-mambo",
+    "destination": "/categorias/arroces"
+  },
+  {
+    "source": "/category/pescados",
+    "destination": "/categorias/pescados"
+  },
+  {
+    "source": "/category/platos-de-cuchara",
+    "destination": "/categorias"
+  },
+  {
+    "source": "/category/pollo",
+    "destination": "/categorias/carnes"
+  },
+  {
+    "source": "/category/postres-con-mambo",
+    "destination": "/categorias/postres"
+  },
+  {
+    "source": "/category/postres-faciles",
+    "destination": "/categorias/postres"
+  },
+  {
+    "source": "/category/postres-fruta",
+    "destination": "/categorias/postres"
+  },
+  {
+    "source": "/category/vacuno",
+    "destination": "/categorias/carnes"
+  },
+  {
+    "source": "/category/verduras",
+    "destination": "/categorias/verduras"
+  },
+  {
+    "source": "/confituras-y-conservas-con-mambo",
+    "destination": "/categorias"
+  },
+  {
+    "source": "/contacto",
+    "destination": "/"
+  },
+  {
+    "source": "/legumbres-y-verduras-con-mambo",
+    "destination": "/categorias/legumbres"
+  },
+  {
+    "source": "/legumbres-y-verduras-con-mambo/champinones-al-ajillo-con-mambo",
+    "destination": "/"
+  },
+  {
+    "source": "/legumbres-y-verduras-con-mambo/ensalada-campera",
+    "destination": "/"
+  },
+  {
+    "source": "/legumbres-y-verduras-con-mambo/lentejas-con-mambo",
+    "destination": "/recetas/lentejas-mambo"
+  },
+  {
+    "source": "/legumbres-y-verduras-con-mambo/menestra-de-verduras",
+    "destination": "/"
+  },
+  {
+    "source": "/legumbres-y-verduras-con-mambo/musaka-con-mambo",
+    "destination": "/"
+  },
+  {
+    "source": "/legumbres-y-verduras-con-mambo/pisto-manchego-con-mambo",
+    "destination": "/"
+  },
+  {
+    "source": "/legumbres-y-verduras-con-mambo/potaje-de-garbanzos",
+    "destination": "/recetas/potaje-de-garbanzos-y-acelgas"
+  },
+  {
+    "source": "/mambo-cecotec",
+    "destination": "/"
+  },
+  {
+    "source": "/mariscos-y-pescado-con-mambo",
+    "destination": "/categorias/pescados"
+  },
+  {
+    "source": "/mariscos-y-pescado-con-mambo/dorada-a-la-sal-con-mambo",
+    "destination": "/"
+  },
+  {
+    "source": "/mariscos-y-pescado-con-mambo/merluza-en-salsa-verde",
+    "destination": "/"
+  },
+  {
+    "source": "/masas-y-pan-con-mambo",
+    "destination": "/categorias/panes-masas"
+  },
+  {
+    "source": "/masas-y-pan-con-mambo/pan-brioche-con-mambo",
+    "destination": "/"
+  },
+  {
+    "source": "/masas-y-pan-con-mambo/pan-de-pita-con-mambo",
+    "destination": "/"
+  },
+  {
+    "source": "/masas-y-pan-con-mambo/pan-integral-con-mambo",
+    "destination": "/"
+  },
+  {
+    "source": "/masas-y-pan-con-mambo/pan-rapido-con-mambo",
+    "destination": "/"
+  },
+  {
+    "source": "/masas-y-pan-con-mambo/pizza-con-mambo",
+    "destination": "/"
+  },
+  {
+    "source": "/pastas-y-arroz-con-mambo",
+    "destination": "/categorias/arroces"
+  },
+  {
+    "source": "/pastas-y-arroz-con-mambo/lasana-de-verduras",
+    "destination": "/"
+  },
+  {
+    "source": "/politica-de-cookies",
+    "destination": "/cookies"
+  },
+  {
+    "source": "/politica-privadidad",
+    "destination": "/privacidad"
+  },
+  {
+    "source": "/postres-con-mambo",
+    "destination": "/categorias/postres"
+  },
+  {
+    "source": "/postres-con-mambo/bizcocho-de-yogur",
+    "destination": "/recetas/bizcocho-de-yogur-mambo"
+  },
+  {
+    "source": "/postres-con-mambo/flan-de-huevo-casero",
+    "destination": "/"
+  },
+  {
+    "source": "/postres-con-mambo/french-toast",
+    "destination": "/"
+  },
+  {
+    "source": "/postres-con-mambo/tarta-de-queso-sin-horno",
+    "destination": "/"
+  },
+  {
+    "source": "/salsas-con-mambo",
+    "destination": "/categorias/salsas"
+  },
+  {
+    "source": "/sitemap_index.xml",
+    "destination": "/sitemap.xml"
+  },
+  {
+    "source": "/sobre-nosotros",
+    "destination": "/"
+  },
+  {
+    "source": "/sopas-y-cremas-con-mambo",
+    "destination": "/categorias/sopas-y-cremas"
+  },
+  {
+    "source": "/sopas-y-cremas-con-mambo/crema-de-calabaza-y-zanahoria",
+    "destination": "/recetas/crema-de-calabaza"
+  },
+  {
+    "source": "/tag/:path*",
+    "destination": "/"
+  },
+  {
+    "source": "/category/:path*",
+    "destination": "/categorias"
+  },
+  {
+    "source": "/wp-json/:path*",
+    "destination": "/"
+  },
+  {
+    "source": "/wp-content/:path*",
+    "destination": "/"
+  }
+]
