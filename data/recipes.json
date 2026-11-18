@@ -86415,5 +86415,414 @@
     ],
     "fuente_url": "https://www.misthermorecetas.com/bundt-cake-con-nueces-y-dulce-de-membrillo/",
     "creado_en": "2026-11-17"
+  },
+  {
+    "id": "c7ba20e2-768d-4b76-9ab6-e7fbd6652a85",
+    "slug": "pasta-picante-al-parmesano",
+    "titulo": "Pasta picante al parmesano",
+    "descripcion": "Pasta picante al parmesano: receta de pan o masa para 1 persona con un tiempo total de 34 min. Ingredientes principales: macarrones estriados, ajo, orégano seco. Los 6 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/10/pasta-picante-al-parmesano-thermorecetas.jpg",
+    "categoria": "panes-masas",
+    "tiempo_total_min": 34,
+    "comensales": 1,
+    "dificultad": "Media",
+    "ingredientes": [
+      "85 g de macarrones estriados",
+      "1 diente de ajo",
+      "orégano seco",
+      "1 guindilla seca sin semillas",
+      "25 g de queso parmesano",
+      "10 g de aceite de oliva",
+      "Sal y pimienta"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Calentar 1 litro de agua programando 7 minutos, 100 °C, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 7,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Cuando el agua haya alcanzado la temperatura marcada, poner la pasta en el cestillo y este en interior de la jarra. Salar y programar el tiempo marcado en el paquete, 100 °C, velocidad 4. En mi caso fueron 11 minutos.",
+        "accesorio": "Cestillo de hervir",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 11,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "baja",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Velocidad 4 por encima del máximo documentado del accesorio Cestillo de hervir (máx. 3).",
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Cuando la pasta ya esté cocida, escurrir los macarrones, refrescarlos y desechar el agua de cocción.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Poner el aceite y calentarlo durante 3 minutos, 100 °C, velocidad 1. Después añadir el ajo laminado y la guindilla, dorar durante 10 minutos, 100 °C, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 13,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "A continuación coloca la Mariposa en las cuchillas, añade la pasta refrescada, el orégano y la pimienta. Saltea durante 3 minutos, 100 °C, velocidad 1, con la Cuchara MamboMix (función SlowMambo).",
+        "accesorio": "Mariposa",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 3,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Retira los macarrones a un plato y reparte por encima el queso rallado o cortado en lascas.",
+        "accesorio": "Cuchillas",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/pasta-picante-al-parmesano/",
+    "creado_en": "2026-11-18"
+  },
+  {
+    "id": "098a7daa-b05d-403a-8ecf-ce63d6b6952b",
+    "slug": "bizcocho-sin-huevo-con-compota-de-manzana",
+    "titulo": "Bizcocho sin huevo (con compota de manzana)",
+    "descripcion": "Bizcocho sin huevo (con compota de manzana): receta de carne para 8 personas con un tiempo total de 41 min. Ingredientes principales: yogurt natural, azúcar moreno (o blanco), aceite de oliva virgen extra. Los 5 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/10/bizcocho-sin-huevo.jpg",
+    "categoria": "carnes",
+    "tiempo_total_min": 41,
+    "comensales": 8,
+    "dificultad": "Media",
+    "ingredientes": [
+      "125 g de yogurt natural",
+      "115 g de azúcar moreno (o blanco)",
+      "60 g de aceite de oliva virgen extra",
+      "80 g de compota de manzana (ver la receta )",
+      "130 g de leche",
+      "270 g de harina de repostería",
+      "1 sobre de levadura",
+      "Azúcar glas (opcional)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Encendemos el horno a 180 °C.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "horno",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Paso de horno: se programa en el horno, no en la Mambo.",
+          "Horno a 180 °C."
+        ]
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Ponemos en la jarra todos los ingredientes de la masa excepto la harina y la levadura. Mezclamos 30 segundos, velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 0.5,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Añadimos la harina y la levadura. Mezclamos durante 8 segundos, en velocidad 3.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 0.13,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Lo ponemos en nuestro molde. Yo lo hago en un molde redondo, de 22 ó 24 centímetros.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Cuando el horno haya alcanzado los 180 °C metemos el bizcocho. Estará listo después de 30 ó 40 minutos, dependiendo del horno.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 40,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "horno",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Paso de horno: se programa en el horno, no en la Mambo.",
+          "Horno a 180 °C."
+        ]
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/bizcocho-sin-huevo-con-compota-de-manzana/",
+    "creado_en": "2026-11-18"
+  },
+  {
+    "id": "b18c3093-f67a-4a72-9a8c-bf329b5e6ff2",
+    "slug": "salsa-de-calabaza",
+    "titulo": "Salsa de calabaza",
+    "descripcion": "Salsa de calabaza: receta de salsa para 3 personas con un tiempo total de 29 min. Ingredientes principales: calabaza, puerros (la parte blanca), ajo. Los 6 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/10/salsa-calabaza.jpg",
+    "categoria": "salsas",
+    "tiempo_total_min": 29,
+    "comensales": 3,
+    "dificultad": "Media",
+    "ingredientes": [
+      "500 g de calabaza",
+      "100 g de puerros (la parte blanca)",
+      "2 dientes de ajo",
+      "200 ml de leche",
+      "200 ml de nata",
+      "25 ml de aceite de oliva",
+      "2 cucharaditas (de las de café) de sal",
+      "2 clavos",
+      "media cucharadita (de las de café) de pimienta negra molida",
+      "1 cucharadita (de las de café) de cominos",
+      "media cucharadita (de las de café) de jengibre en polvo"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Introducimos la calabaza pelada y troceada, los puerros troceados, los ajos, la sal y el aceite en la jarra. Trituramos durante 7 segundos, velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 0.12,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Cocemos todo junto durante 20 minutos, 120 °C con la Vaporera de dos niveles, velocidad 2. Con cubilete.",
+        "accesorio": "Vaporera",
+        "velocidad": 2,
+        "temperatura_c": 120,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 20,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Añadimos las especias, la leche y la nata. Dejamos reducir durante 8 minutos, 120 °C con la Vaporera de dos niveles, velocidad 3.",
+        "accesorio": "Vaporera",
+        "velocidad": 3,
+        "temperatura_c": 120,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 8,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Probamos y rectificamos de sal.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Trituramos durante 1 minuto, subiendo la velocidad de forma progresiva hasta 5 (ajústala a mano: la Mambo no tiene velocidad progresiva)/10.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 1,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "media",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Velocidad progresiva 5: la Mambo no la programa; ajusta la velocidad a mano en 1 tramos."
+        ],
+        "velocidad_progresiva": [
+          5
+        ]
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Aquí comprobamos la textura. Si es de nuestro agrado, hemos acabado. Si la vemos muy espesa, añadimos 50 ml más de leche y mezclamos durante 10 segundos a velocidad 7.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 0.17,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/salsa-de-calabaza/",
+    "creado_en": "2026-11-18"
+  },
+  {
+    "id": "3eb8db84-2754-4028-ad24-1ee054df1954",
+    "slug": "antipasto-di-provolone-con-tomate",
+    "titulo": "Antipasto di provolone con tomate",
+    "descripcion": "Antipasto di provolone con tomate: receta de salsa para 4 personas con un tiempo total de 33 min. Ingredientes principales: 1 rodaja de queso provolone, Pimienta, Orégano. Los 3 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/09/Antipasto-provolone-tomate.jpg",
+    "categoria": "salsas",
+    "tiempo_total_min": 33,
+    "comensales": 4,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "1 rodaja de queso provolone",
+      "Pimienta",
+      "Orégano",
+      "200 gr de tomate triturado natural",
+      "Sal",
+      "25 gr de aceite de oliva virgen"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos el tomate, la sal y el aceite en la jarra. Dejamos cocinar 15 minutos a 120 °C con la Vaporera de dos niveles, velocidad 1. No pondremos el cubilete, sino el cestillo para permitir la evaporación del agua.",
+        "accesorio": "Cestillo de hervir",
+        "velocidad": 1,
+        "temperatura_c": 120,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 15,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Ponemos esta salsa en el fondo de la cazuela. Colocamos el provolone encima, espolvoreamos con pimienta, orégano y un chorrito de aceite de oliva virgen.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Metemos en el microondas (función calentar y grill) 8 minutos, o en el horno 10 minutos a 180 °C. Sabremos que está cuando empiece a burbujear el queso y se dore por encima.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 18,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "horno",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Paso de horno: se programa en el horno, no en la Mambo.",
+          "Horno a 180 °C."
+        ]
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/antipasto-di-provolone-con-tomate/",
+    "creado_en": "2026-11-18"
   }
 ]
