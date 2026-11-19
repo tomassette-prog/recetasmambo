@@ -86824,5 +86824,397 @@
     ],
     "fuente_url": "https://www.thermorecetas.com/antipasto-di-provolone-con-tomate/",
     "creado_en": "2026-11-18"
+  },
+  {
+    "id": "b533869e-0bd3-4160-815c-6b75fe5bf338",
+    "slug": "patatas-revolconas",
+    "titulo": "Patatas revolconas",
+    "descripcion": "Patatas revolconas: receta de verduras para 2 personas con un tiempo total de 28 min. Ingredientes principales: patatas, caldo de verduras, aceite de oliva. Los 6 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/10/patatas-revolconas-thermorecetas.jpg",
+    "categoria": "verduras",
+    "tiempo_total_min": 28,
+    "comensales": 2,
+    "dificultad": "Media",
+    "ingredientes": [
+      "400 g de patatas",
+      "300 g de caldo de verduras",
+      "30 g de aceite de oliva",
+      "60 g de cebolla",
+      "2 dientes de ajo",
+      "75 g de panceta en tiras",
+      "1 hoja de laurel",
+      "1 cucharada sopera pimentón de la Vera",
+      "1/2 cucharada sopera pimentón picante",
+      "1 pellizco de cominos",
+      "Sal y pimienta",
+      "Perejil (opcional)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Calentar el aceite durante 4 minutos, 100 °C, velocidad 1. Añadir la panceta y cocinarla durante 5 minutos, 120 °C con la Vaporera de dos niveles, velocidad 1, con la Cuchara MamboMix (función SlowMambo). Transcurrido el tiempo retirar la panceta pero dejar la grasa en la jarra.",
+        "accesorio": "Vaporera",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 9,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Mientras pelar, lavar y trocear las patatas. Pelar también la cebolla y los ajos. Reservar.",
+        "accesorio": "Cuchillas",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "baja",
+        "sin_convertir": true,
+        "notas_conversion": [
+          "El texto original no indica velocidad de la Mambo; hay que revisar manualmente.",
+          "El texto original no indica tiempo de programación; hay que revisar manualmente."
+        ]
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Introducir la cebolla cortada en plumas y los ajos pelados. Picamos durante 3 segundos a velocidad 5. Bajar los trocitos hacia las cuchillas. Colocar la Mariposa y sofreír durante 2 minutos, 100 °C, velocidad 1.",
+        "accesorio": "Mariposa",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 2.05,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "baja",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Velocidad 5 por encima del máximo documentado del accesorio Mariposa (máx. 4).",
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "A continuación agregar las patatas troceadas y el laurel. Sazonar con los dos tipos de pimentón, el comino y salpimentar. Verter el caldo y programar 17 minutos, 120 °C con la Vaporera de dos niveles, velocidad 1.",
+        "accesorio": "Vaporera",
+        "velocidad": 1,
+        "temperatura_c": 120,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 17,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Al terminar, tendremos una especie de puré de patata con algún trozo pequeño entero. Retirar la hoja de laurel.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Repartir el puré en dos platos y terminar decorando con la panceta frita y un pellizco de perejil o pimentón.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/patatas-revolconas/",
+    "creado_en": "2026-11-19"
+  },
+  {
+    "id": "d314cf37-c0c7-4779-a0f3-6a4bc07c94ab",
+    "slug": "hamburguesas-de-merluza",
+    "titulo": "Hamburguesas de merluza",
+    "descripcion": "Hamburguesas de merluza: receta de pescado para 4 personas con un tiempo total de 62 min. Ingredientes principales: cebolla, aceite, Merluza congelada sin piel ni espinas (320g una vez descongelada y escurrida). Los 4 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/10/hamburguesas-de-merluza.jpg",
+    "categoria": "pescados",
+    "tiempo_total_min": 62,
+    "comensales": 4,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "30 g de cebolla",
+      "15 g de aceite",
+      "Merluza congelada sin piel ni espinas (320g una vez descongelada y escurrida)",
+      "1 lata de atún en aceite o al natural",
+      "1 cucharada de pan rallado",
+      "Sal",
+      "Pimienta o nuez moscada",
+      "1/2 cucharadita de las de café de pimentón de la Vera",
+      "1 huevo"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos en la jarra la cebolla y el aceite. Programamos 3 segundos, velocidad 5. Bajamos con la espátula lo que ha quedado en las paredes y programamos 2 minutos, 120 °C con la Vaporera de dos niveles, velocidad 2.",
+        "accesorio": "Vaporera",
+        "velocidad": 5,
+        "temperatura_c": 120,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 2.05,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Ahora añadimos la merluza (descongelada y escurrida), el atún, el pan rallado, sal, pimienta o nuez moscada, el pimentón y el huevo. Programamos 15 segundos, velocidad 3.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 0.25,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Si tenemos tiempo podemos dejar la mezcla en la nevera más o menos 1 hora antes de dar forma a nuestras hamburguesas.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 60,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Les damos la forma y las cocinamos en la sartén o en la plancha con un poco de aceite. Servimos en pan de hamburguesa, con patatas o con ensalada.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/hamburguesas-de-merluza/",
+    "creado_en": "2026-11-19"
+  },
+  {
+    "id": "a9733037-0283-470a-ad4f-2c2c8f9159b8",
+    "slug": "batido-nutritivo-para-ninos",
+    "titulo": "Batido nutritivo para niños",
+    "descripcion": "Batido nutritivo para niños: receta de bebida para 1 persona con un tiempo total de 1 min. Ingredientes principales: leche, 1 huevo, 1 plátano. Los 1 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/10/batido-nutritivo.jpg",
+    "categoria": "bebidas",
+    "tiempo_total_min": 1,
+    "comensales": 1,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "250 ml de leche",
+      "1 huevo",
+      "1 plátano",
+      "1 cucharada de miel",
+      "2 cucharaditas de cacao soluble (opcional, yo no lo pongo, pero es un atractivo si al niño le gusta mucho el chocolate)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Introducir todos los ingredientes en la jarra y batir durante 1 minuto a velocidad 7.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 1,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/batido-nutritivo/",
+    "creado_en": "2026-11-19"
+  },
+  {
+    "id": "3d2038d3-d590-4cc3-94ac-cec82438b1bb",
+    "slug": "tallarines-alfredo",
+    "titulo": "Tallarines Alfredo",
+    "descripcion": "Tallarines Alfredo: receta de pan o masa para 4 personas con un tiempo total de 17 min. Ingredientes principales: 1 pechuga grande de pollo, r de mantequilla, nata. Los 8 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/09/Tallarines_alfredo.jpg",
+    "categoria": "panes-masas",
+    "tiempo_total_min": 17,
+    "comensales": 4,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "1 pechuga grande de pollo",
+      "50 gr de mantequilla",
+      "500 ml de nata",
+      "100 gr de queso rallado",
+      "100 gr de queso parmesano en polvo",
+      "50 gr de aceite de oliva",
+      "350 gr de tallarines",
+      "Sal",
+      "Ajo el polvo",
+      "Nuez moscada",
+      "Pimienta",
+      "Orégano"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Primero coceremos los tallarines utilizando la técnica de cocción de pasta en Thermomix. Reservamos manteniéndolo caliente y secamos bien la jarra.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Ahora cortaremos el pollo bien limpio de grasa en daditos pequeños y aliñaremos en un recipiente hondo con pimienta, sal y bastante ajo en polvo. Lo mezclamos bien.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "En la jarra echamos el aceite y calentamos 3 minutos, 120 °C con la Vaporera de dos niveles, Cuchara MamboMix, velocidad 1.",
+        "accesorio": "Vaporera",
+        "velocidad": 1,
+        "temperatura_c": 120,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 3,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Añadimos el pollo y programamos 8 minutos, 120 °C con la Vaporera de dos niveles,velocidad 1, con la Cuchara MamboMix (función SlowMambo). Reservamos manteniendolo caliente.",
+        "accesorio": "Vaporera",
+        "velocidad": 1,
+        "temperatura_c": 120,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 8,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Sin lavar la jarra ponemos la mantequilla y programamos 1 minuto, 90, Cuchara MamboMix, velocidad 1.",
+        "accesorio": "Cuchara MamboMix",
+        "velocidad": 1,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 1,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Añadimos la nata, la nuez moscada y una pizca de sal. Programamos 3 minutos, 100 °C, velocidad 3.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": 100,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 3,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Añadimos el queso rallado y el orégano y programamos 2 minutos mas a la misma velocidad y temperatura.",
+        "accesorio": "Cuchillas",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 2,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "baja",
+        "sin_convertir": true,
+        "notas_conversion": [
+          "El texto menciona una velocidad que no se ha podido convertir; revisar manualmente."
+        ]
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Servimos los tallarines, la salsa y el pollo por encima. Espolvoreamos con el queso en polvo y ¡a disfrutar!",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/tallarines-alfredo/",
+    "creado_en": "2026-11-19"
   }
 ]
