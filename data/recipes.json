@@ -87216,5 +87216,518 @@
     ],
     "fuente_url": "https://www.thermorecetas.com/tallarines-alfredo/",
     "creado_en": "2026-11-19"
+  },
+  {
+    "id": "7c7b3a84-8c86-4403-8c8f-e7fc9394d392",
+    "slug": "biscottis-de-avellanas",
+    "titulo": "Biscottis de avellanas",
+    "descripcion": "Biscottis de avellanas: receta de sopa o crema para 20 personas con un tiempo total de 35 min. Ingredientes principales: harina, 2 huevos, azúcar. Los 6 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/10/biscottis-rossegons-carquinyolis-de-avellana-thermorecetas.jpg",
+    "categoria": "sopas-y-cremas",
+    "tiempo_total_min": 35,
+    "comensales": 20,
+    "dificultad": "Media",
+    "ingredientes": [
+      "180 g de harina",
+      "2 huevos",
+      "100 g de azúcar",
+      "100 g de avellanas crudas y peladas",
+      "la ralladura de 1/2 limón o naranja",
+      "1/2 sobre de levadura",
+      "20 g de licor de avellanas o Amaretto"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Precalentar el horno a 175 °C. Forrar una bandeja del horno con papel sulfurizado o similar.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "horno",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Paso de horno: se programa en el horno, no en la Mambo.",
+          "Horno a 175 °C."
+        ]
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Poner en la jarra de la Thermomix la harina, el azúcar, la levadura en polvo y los huevos. Mezclar durante 1 minuto a velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 1,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Agregar el licor y mezclar durante 20 segundos a velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 0.33,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Retirar la masa pegajosa y ponerla en una superficie enharinada. Embadurnaros las manos con aceite y mezclar la masa con las avellanas y formar un rectángulo de 7 x 10 cm. Ponerlo en la bandeja del horno. Y hornear durante 20 minutos a la misma temperatura.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 20,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "horno",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Paso de horno: se programa en el horno, no en la Mambo.",
+          "Horno a la misma temperatura del paso anterior."
+        ]
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Retirar del horno y con un cuchillo cortar en rebanadas de 1,5 cm de ancho. Dejar templar durante unos 3 minutos y después colocar las rebanadas en la bandeja del horno. Hornear durante 6 minutos, darles la vuelta y dejar que se hagan durante otros 5 minutos.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 14,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "horno",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Paso de horno: se programa en el horno, no en la Mambo."
+        ]
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Dejar enfriar sobre rejilla.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/biscottis-de-avellanas/",
+    "creado_en": "2026-11-20"
+  },
+  {
+    "id": "32f0872b-423f-4dff-b83d-0f300e29f568",
+    "slug": "calabacines-con-gambas-en-doce-minutos",
+    "titulo": "Calabacines con gambas en doce minutos",
+    "descripcion": "Calabacines con gambas en doce minutos: receta de pescado para 4 personas con un tiempo total de 12 min. Ingredientes principales: ajo, Perejil mejor si es fresco, aceite de oliva virgen extra. Los 4 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/10/calabacines-con-gambas.jpg",
+    "categoria": "pescados",
+    "tiempo_total_min": 12,
+    "comensales": 4,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "1 diente de ajo",
+      "Perejil mejor si es fresco",
+      "40 g de aceite de oliva virgen extra",
+      "150 g de gamas peladas (si son congeladas las sacamos antes para que se descongelen)",
+      "500 g de calabacín",
+      "Sal",
+      "Pimienta"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Lavamos bien los calabacines y los cortamos en cubitos.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Ponemos en la jarra el diente de ajo pelado y el perejil. Trituramos programando 3 segundos, velocidad 7. Con la ayuda de la espátula bajamos lo que haya quedado en las paredes de la jarra.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 0.05,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Añadimos ahora el aceite, las gambas, el calabacín, sal y pimienta (opcional). Programamos 12 minutos, 100 °C, con la Cuchara MamboMix (función SlowMambo), Cuchara MamboMix, velocidad 1.",
+        "accesorio": "Cuchara MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 12,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Y listo para servir. Así de fácil.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/calabacines-con-gambas/",
+    "creado_en": "2026-11-20"
+  },
+  {
+    "id": "cecd31da-df68-4f4e-8343-4911066fbb1f",
+    "slug": "estofado-de-cordero-con-berenjenas",
+    "titulo": "Estofado de cordero con berenjenas",
+    "descripcion": "Estofado de cordero con berenjenas: receta de carne para 4 personas con un tiempo total de 50 min. Ingredientes principales: carne de cordero troceada y deshuesada (si comprais chuletas de pierna, que van fenomenal, comprad 700 g para, una vez deshuesada y troceada, tener 500 g), berenjena, ajo. Los 12 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/10/estofado-cordero.jpg",
+    "categoria": "carnes",
+    "tiempo_total_min": 50,
+    "comensales": 4,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "500 g de carne de cordero troceada y deshuesada (si comprais chuletas de pierna, que van fenomenal, comprad 700 g para, una vez deshuesada y troceada, tener 500 g)",
+      "500 g de berenjena",
+      "1 diente de ajo",
+      "1 cebolla (150 g aprox.)",
+      "2 cucharadas de harina de trigo",
+      "100 g de tomate triturado",
+      "100 ml de vino blanco (1 cubilete)",
+      "50 ml de caldo de verduras (medio cubilete)",
+      "1 cucharadita de pimentón dulce",
+      "1 cucharadita de pimienta",
+      "2 cucharaditas de tomillo",
+      "media guindilla",
+      "agua",
+      "30 ml de vinagre (2 cucharadas)",
+      "50 ml de aceite de oliva (medio cubilete)",
+      "sal"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos en un recipiente agua, 2 cucharaditas de sal y el vinagre. Introducimos la carne, que debe quedar sumergida en el agua. Reservamos. Esto logrará que quede tan tiernecita al final.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Ponemos la berenjena cortada en dados en un recipiente con agua y 2 cucharaditas de sal de forma que quede sumergida en el agua. Reservamos.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Introducimos en la jarra el ajo y el aceite. Trituramos durante 3 segundos a velocidad 7.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 0.05,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Bajamos los restos con la espátula y programamos 3 minutos, 120 °C con la Vaporera de dos niveles, velocidad 1. Con cubilete.",
+        "accesorio": "Vaporera",
+        "velocidad": 1,
+        "temperatura_c": 120,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 3,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Incorporamos la berenjena bien escurrida con media cucharadita de sal. Rehogamos durante 5 minutos, 120 °C con la Vaporera de dos niveles, velocidad 1, con la Cuchara MamboMix (función SlowMambo). Con cubilete.",
+        "accesorio": "Vaporera",
+        "velocidad": 1,
+        "temperatura_c": 120,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 5,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Mientras, cortamos la cebolla a tiras.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Al terminar, sacamos la berenjena, la colamos y dejamos el jugo en la jarra de nuevo. Reservamos la berenjena e incorporamos a la jarra la cebolla, rehogándola durante 3 minutos, 100 °C, velocidad 1. Con cubilete.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 3,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Mientras tanto, escurrimos la carne y la colocamos en un plato sobre papel de cocina. La tapamos con otro papel de cocina y presionamos un poco para secarla bien. Retiramos ambos papeles y rebozamos la carne en harina.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "baja",
+        "sin_convertir": true,
+        "notas_conversion": [
+          "El texto original no indica velocidad de la Mambo; hay que revisar manualmente.",
+          "El texto original no indica tiempo de programación; hay que revisar manualmente."
+        ]
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Incorporamos la carne a la jarra y programamos 7 minutos, 120 °C con la Vaporera de dos niveles, velocidad 1, con la Cuchara MamboMix (función SlowMambo). Con cubilete.",
+        "accesorio": "Vaporera",
+        "velocidad": 1,
+        "temperatura_c": 120,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 7,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Añadimos el pimentón, la media guindilla, el vino blanco y una cucharadita de sal. Cocemos todo junto durante 2 minutos, 120 °C con la Vaporera de dos niveles, velocidad 1, con la Cuchara MamboMix (función SlowMambo). Con cubilete.",
+        "accesorio": "Vaporera",
+        "velocidad": 1,
+        "temperatura_c": 120,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 2,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 11,
+        "instruccion": "Incorporamos el tomate, el caldo, el tomillo y la pimienta. Cocemos durante 30 minutos, 100 °C, Cuchara MamboMix, velocidad 1, con la Cuchara MamboMix (función SlowMambo). Con cubilete",
+        "accesorio": "Cuchara MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 30,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 12,
+        "instruccion": "Servimos el cordero con su salsa y la berenjena sobre el mismo, espolvoreando el conjunto con una pizca de tomillo.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/estofado-de-cordero-con-berenjenas/",
+    "creado_en": "2026-11-20"
+  },
+  {
+    "id": "992b4c49-f62e-4399-94d5-def2d0a8d79e",
+    "slug": "pollo-a-la-mostaza-con-guarnicion-de-manzana",
+    "titulo": "Pollo a la mostaza con guarnición de manzana",
+    "descripcion": "Pollo a la mostaza con guarnición de manzana: receta de carne para 2 personas con un tiempo total de 13 min. Ingredientes principales: pechuga de pollo, 1 manzana, cebolla. Los 5 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/10/pollo-a-la-mostaza-con-guarnición-de-manzana-thermorecetas.jpg",
+    "categoria": "carnes",
+    "tiempo_total_min": 13,
+    "comensales": 2,
+    "dificultad": "Media",
+    "ingredientes": [
+      "300 g de pechuga de pollo",
+      "1 manzana",
+      "100 g de cebolla",
+      "30 g de mostaza",
+      "100 g de nata",
+      "15 g de mantequilla",
+      "15 g de aceite de oliva",
+      "Sal y pimienta"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Pelar la cebolla y ponerla en la jarra junto con el aceite. Trocear durante 4 segundos a velocidad 4. Bajar los trocitos hacia las cuchillas y programar 10 minutos, 100 °C, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 10.07,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Mientras, lavar y secar las pechugas de pollo. Cortarlas en dados y dorarlas con en la plancha con unas gotas de aceite de oliva. Salpimentar y reservar.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Terminado el tiempo agregar los dados, la nata y la mostaza. Programar 3 minutos, 90 °C, Cuchara MamboMix, velocidad 1, con la Cuchara MamboMix (función SlowMambo).",
+        "accesorio": "Cuchara MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 90,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 3,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Mientras, pelar la manzana, retirarle el corazón y trocearla en gajos. Rehogarlos en la sartén con mantequilla hasta que estén dorados.",
+        "accesorio": "Cuchillas",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Repartir el pollo y la salsa en dos platos. Servir acompañado de la manzana como guarnición.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/pollo-la-mostaza-con-guarnicion-de-manzana/",
+    "creado_en": "2026-11-20"
   }
 ]
