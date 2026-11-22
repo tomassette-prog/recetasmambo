@@ -88271,5 +88271,920 @@
     ],
     "fuente_url": "https://www.thermorecetas.com/bunuelos-de-coliflor/",
     "creado_en": "2026-11-21"
+  },
+  {
+    "id": "80e28472-1770-4b3a-a175-4209a5d3aa3a",
+    "slug": "aranas-dulces-para-halloween",
+    "titulo": "Arañas dulces para Halloween",
+    "descripcion": "Arañas dulces para Halloween: receta de bebida para 12 personas con un tiempo total de 87 min. Ingredientes principales: leche, azúcar, mantequilla. Los 14 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/10/arañas-dulces.jpg",
+    "categoria": "bebidas",
+    "tiempo_total_min": 87,
+    "comensales": 12,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "170 g de leche",
+      "75 g de azúcar",
+      "120 g de mantequilla",
+      "40 g de levadura fresca de panadería",
+      "4 huevos medianos (200 g)",
+      "550 g de harina de fuerza",
+      "500 g de nata",
+      "2 cucharadas de cacao amargo en polvo",
+      "1 cucharada de queso Philadelphia (opcional)",
+      "80 g de azúcar glas",
+      "Un poco más de cacao en polvo para espolvorear",
+      "Pastillitas de chocolate blanco",
+      "Gotas de chocolate negro",
+      "Regaliz negro"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos en le jarra la leche, el azúcar y la mantequilla. Programamos 2 minutos, 37 °C, velocidad 2.",
+        "accesorio": "Cuchillas",
+        "velocidad": 2,
+        "temperatura_c": 37,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 2,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Añadimos la levadura y los huevos. Mezclamos 5 segundos, velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 0.08,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Incorporamos la mitad de la harina y mezclamos 15 segundos, velocidad 6.",
+        "accesorio": "Cuchillas",
+        "velocidad": 6,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 0.25,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Y para acabar, añadimos el resto de la harina y programamos 3 minutos, jarra cerrado, Cuchara MamboMix, velocidad 3.",
+        "accesorio": "Cuchara MamboMix",
+        "velocidad": 3,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 3,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Dejamos reposar la masa en la jarra hasta que doble su volumen (unos 30 minutos). Sacamos la masa de la jarra para ponerla sobre nuestra superficie de trabajo enharinada. Con la espátula o con una cuchara sopera vamos haciendo los bollitos (veréis que es una masa pegajosa y muy blanda así que es mejor utilizar un par de cucharas -o la espátula y una cuchara- que trabajarla con las manos). Vamos colocando esas bolitas sobre la bandeja del horno cubierta previamente con papel de hornear. Salen bastantes así que necesitaremos más de una bandeja.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 30,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "horno",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Paso de horno: se programa en el horno, no en la Mambo."
+        ]
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Los dejamos reposar en un lugar templado y libre de corrientes de aire durante 45 minutos aproximadamente (ese tiempo lo podemos aprovechar para hacer la trufa). Pasado ese tiempo del segundo levado los pincelamos con huevo batido y les ponemos un poco de azúcar en la superficie.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 45,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Precalentamos el horno a 250 °C. Cuando hayan doblado su tamaño los horneamos durante 7 minutos.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 7,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "horno",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Paso de horno: se programa en el horno, no en la Mambo.",
+          "Horno a 250 °C."
+        ]
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Sacamos nuestros “cuerpos de araña” del horno y los dejamos enfriar.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "horno",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Paso de horno: se programa en el horno, no en la Mambo."
+        ]
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Mientras los suizos están levando (2º levado de la masa) podemos hacer la trufa.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 10,
+        "instruccion": "Podemos enfriar la jarra picando unos cubitos de hielo que luego tiraremos (para montar la nata tanto la jarra como nuestra nata tienen que estar muy fríos). Ponemos la Mariposa en las cuchillas. Agitamos bien el envase de nata y echamos su contenido en la jarra. Añadimos las dos cucharadas de cacao en polvo y también una cucharada de queso Philadelphia que dará más consistencia a nuestra nata. Ponemos a funcionar la Thermomix en velocidad 4, sin programar tiempo. Cuando esté lista paramos la máquina y añadimos a la nata montada el azúcar glas. Integramos azúcar y nata ayudándonos con la espátula y con movimientos envolventes. Reservamos en la nevera.",
+        "accesorio": "Mariposa",
+        "velocidad": 4,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "baja",
+        "sin_convertir": true,
+        "notas_conversion": [
+          "El texto original no indica tiempo de programación; hay que revisar manualmente."
+        ]
+      },
+      {
+        "paso_numero": 11,
+        "instruccion": "Cuando los suizos estén fríos pasaremos al trabajo fácil y divertido: transformarlos en araña.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 12,
+        "instruccion": "Cogemos un suizo, le hacemos unos agujeritos ayudándonos de un cuchillo en los ocho puntos donde colocaremos las patas. Ponemos las 8 patitas (trocitos de regaliz negro), cada una en un agujerito.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 13,
+        "instruccion": "Ahora vamos a poner sobre el suizo una capa de trufa y espolvoreamos encima un poco de cacao en polvo.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 14,
+        "instruccion": "Colocamos los ojos. Las pastillitas blancas se pegarán sin problema a la trufa. Las gotas de chocolate negro las podemos pegar al blanco con un poquito de trufa.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/aranas-dulces-para-halloween/",
+    "creado_en": "2026-11-22"
+  },
+  {
+    "id": "8c8cfada-560c-4d21-be6f-23b2999c29b3",
+    "slug": "tarta-ligera-de-queso-yogur-y-manzanas-verdes",
+    "titulo": "Tarta ligera de queso, yogur y manzanas verdes",
+    "descripcion": "Tarta ligera de queso, yogur y manzanas verdes: receta de postre para 6 personas con un tiempo total de 186 min. Ingredientes principales: bizcochos de soletilla, mantequilla, queso de untar light. Los 9 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/10/tarta-queso-yogur.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 186,
+    "comensales": 6,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "100 g de bizcochos de soletilla",
+      "75 g de mantequilla",
+      "300 g de queso de untar light",
+      "150 g de yogur desnatado",
+      "25 ml de zumo de limón",
+      "40 g de azúcar",
+      "4 láminas de gelatina neutra",
+      "2 manzanas verdes (400 g aprox.). Pueden ser tipo Golden o Granny Smith.",
+      "100 ml de zumo de manzana",
+      "1 hoja de papel de hornear"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos la gelatina en un recipiente sumergida en agua fría. Reservamos.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Introducimos en la jarra los bizcochos y la mantequilla. Programamos 1 minuto y 30 segundos, 100 °C, velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": 100,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 1.5,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Forramos el interior de un molde con una lámina de papel de hornear y sobre ella, extendemos la mezcla de los bizcochos, presionando bien.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "horno",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Paso de horno: se programa en el horno, no en la Mambo."
+        ]
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Enjuagamos la jarra e introducimos el queso, el yogur, el zumo de limón y una manzana y media (300 g aprox) pelada y a grandes trozos, reservando la otra mitad. Trituramos durante 30 segundos a velocidad 3. Sacamos y reservamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 0.5,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Enjuagamos la jarra e introducimos el zumo de manzana y el azúcar. Calentamos durante 2 minutos, 100 °C, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 2,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Añadimos la gelatina escurrida y mezclamos bien durante 1 minuto a velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 1,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Añadimos la mezcla del queso reservada y mezclamos durante 1 minuto a velocidad 2.",
+        "accesorio": "Cuchillas",
+        "velocidad": 2,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 1,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Vertemos en el molde e introducimos en el frigorífico durante al menos 3 horas.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 180,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Desmoldamos con ayuda del papel de hornear y servimos con rodajas de la media manzana que hemos reservado.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "horno",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Paso de horno: se programa en el horno, no en la Mambo."
+        ]
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/tarta-ligera-de-queso-yogur-y-manzanas-verdes/",
+    "creado_en": "2026-11-22"
+  },
+  {
+    "id": "7b5ffe92-7a24-4009-976e-9c4b03f19230",
+    "slug": "crema-de-zanahoria-colora",
+    "titulo": "Crema de zanahoria colorá",
+    "descripcion": "Crema de zanahoria colorá: receta de sopa o crema para 4 personas con un tiempo total de 34 min. Ingredientes principales: r de aceite de oliva virgen extra, 4 zanahorias medianas peladas, 1 puerro limpio (solo la parte blanca). Los 5 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/10/Crema_zanahoria_colora.jpg",
+    "categoria": "sopas-y-cremas",
+    "tiempo_total_min": 34,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "50 gr de aceite de oliva virgen extra",
+      "4 zanahorias medianas peladas",
+      "1 puerro limpio (solo la parte blanca)",
+      "2 patatas medianas peladas",
+      "100 gr de pimiento rojo",
+      "1 litro de caldo de verduras (o agua con una pastilla de caldo). Para los no vegetarianos, puede ser también caldo de pollo.",
+      "Sal",
+      "Pimienta",
+      "Nuez moscada",
+      "200 gr de leche",
+      "Zumo de medio limón"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos las zanahorias, el puerro, el pimiento y la patata en trozos grandes dentro de la jarra. Añadimos el aceite y una pizca de sal. Programamos 10 minutos, 120 °C con la Vaporera de dos niveles, velocidad 1.",
+        "accesorio": "Vaporera",
+        "velocidad": 1,
+        "temperatura_c": 120,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 10,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Agregamos el caldo, pimienta y nuez moscada al gusto y programamos 20 minutos, 120 °C con la Vaporera de dos niveles, Cuchara MamboMix, velocidad 1.",
+        "accesorio": "Vaporera",
+        "velocidad": 1,
+        "temperatura_c": 120,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 20,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Esperamos a que baje la temperatura de la jarra a unos 70 °C y trituramos 1 minuto, subiendo la velocidad de forma progresiva 5, 7 y 10 (ajústala a mano: la Mambo no tiene velocidad progresiva).",
+        "accesorio": "Cuchillas",
+        "velocidad": 10,
+        "temperatura_c": 70,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 1,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "media",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Velocidad progresiva 5-7-10: la Mambo no la programa; ajusta la velocidad a mano en 3 tramos.",
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ],
+        "velocidad_progresiva": [
+          5,
+          7,
+          10
+        ]
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Agregamos la leche y programamos 3 minutos, velocidad 3, 90 °C. Añadimos el zumo de limón y removemos unos segundos a velocidad 3 sin calor. Rectificamos el punto de sal y pimienta.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 3,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Sin calor: no seleccionar temperatura ni potencia calorífica."
+        ]
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Servimos y ponemos los picatostes por encima.",
+        "accesorio": "Cuchillas",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/crema-de-zanahoria-colora/",
+    "creado_en": "2026-11-22"
+  },
+  {
+    "id": "012bf0fb-3598-4cb5-9e18-d0b37ea52972",
+    "slug": "dedos-de-frankenstein-para-halloween",
+    "titulo": "Dedos de Frankenstein para Halloween",
+    "descripcion": "Dedos de Frankenstein para Halloween: receta de bebida para 4 personas con un tiempo total de 5 min. Ingredientes principales: 2 aguacates maduros de tamaño medio, 1 cayena seca sin semillas, ajo. Los 4 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/10/dedos-de-frankenstein-para-halloween-thermorecetas.jpg",
+    "categoria": "bebidas",
+    "tiempo_total_min": 0,
+    "comensales": 4,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "2 aguacates maduros de tamaño medio",
+      "1 cayena seca sin semillas",
+      "1 diente de ajo",
+      "1 cucharadita de café de cominos en polvo",
+      "el zumo de media lima o limón",
+      "1/2 cebolla fresca",
+      "Sal y pimienta",
+      "Zanahorias crudas",
+      "Almendras laminadas"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Poner el diente de ajo, el aguacate pelado y la cayena en la jarra. Picar durante 5 segundos a velocidad 8. Bajar los trocitos hacia las cuchillas. Añadir el resto de los ingredientes excepto la cebolla, programar jarra cerrado y presionar el botón de turbo durante 2 segundos. Comprobar que tiene la textura deseada, de lo contrario triturar durante un par de segundos más.",
+        "accesorio": "Cuchillas",
+        "velocidad": "Turbo",
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 0.12,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "media",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "El Turbo de la Mambo está limitado a 5 s por pulsación y solo funciona con cuchillas: repite en pulsos."
+        ]
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Verter la mezcla en un bol y añadir la cebolla cortada en paisana. Mezclar bien con un espátula o cuchara. Rectificar de sal y pimienta si hiciera falta.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Raspar y lavar las zanahorias. Cortar los extremos y hacer una incisión en el lado más estrecho. Colocar una lámina de almendra por zanahoria.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "A la hora de servir introducirlas en el dip o crema de aguacate, de forma que queden las almendras hacia arriba como si fueran las uñas de los dedos.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "baja",
+        "sin_convertir": true,
+        "notas_conversion": [
+          "El texto menciona un tiempo que no se ha podido convertir; revisar manualmente."
+        ]
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/dedos-de-frankenstein-para-halloween/",
+    "creado_en": "2026-11-22"
+  },
+  {
+    "id": "15ddd482-7512-4154-8c66-c4263a4689db",
+    "slug": "dorada-al-horno-con-puerro-a-la-naranja-y-pistachos",
+    "titulo": "Dorada al horno con puerro a la naranja y pistachos",
+    "descripcion": "Dorada al horno con puerro a la naranja y pistachos: receta de pescado para 4 personas con un tiempo total de 47 min. Ingredientes principales: puerro, en rodajas de 1 cm, aceite de oliva virgen extra, 2 naranjas. Los 2 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
+    "imagen": "https://www.misthermorecetas.com/wp-content/uploads/2025/12/dorada_horno_puerro_naranja_pistachos.jpg",
+    "categoria": "pescados",
+    "tiempo_total_min": 47,
+    "comensales": 4,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "400 g de puerro, en rodajas de 1 cm",
+      "40 g de aceite de oliva virgen extra",
+      "2 naranjas",
+      "40 g de vino blanco",
+      "2 ramitas de tomillo fresco (o 2 cucharaditas de tomillo seco)",
+      "½ cucharadita de sal",
+      "2 pellizcos de pimienta negra molida",
+      "2 doradas grandes (sin escamas y sin vísceras) o 4 pequeñas",
+      "4 pellizcos de sal",
+      "4 pellizcos de pimienta negra molida",
+      "4-6 ramitas de tomillo fresco (o 3 cucharaditas de tomillo seco)",
+      "60-80 g de pistachos troceados"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "En la jarra de la Thermomix ponemos 200 g de puerro y 20 g de aceite. Iniciamos función \"Alta Temperatura\" (en TM5: programamos 6 minutos, 120 °C y velocidad 1, poniendo el cestillo sobre la tapa en lugar del cubilete). Mezclamos con la espátula y troceamos durante 4 segundos, a velocidad 5. Retiramos a un bol y reservamos. Ponemos los otros 200 g de puerro en la jarra y 20 g de aceite. Iniciamos función \"Alta Temperatura\" (en TM5: programamos 6 minutos, 120 °C y velocidad 1, poniendo el cestillo sobre la tapa en lugar del cubilete). Mientras tanto, rallamos la piel de 1 naranja y reservamos en un bol. Después, la exprimimos y reservamos el zumo con la ralladura de naranja. Cortamos la otra naranja en rodajas de aprox. 2 mm y reservamos. Terminado de sofreírse el puerro, mezclamos con la espátula y troceamos durante 4 segundos, a velocidad 5. Añadimos la otra mitad de puerro pochado reservado, la piel y el zumo de naranja, el vino blanco, el tomillo, la sal y la pimienta. Programamos 5 minutos, 120 °C, con la Cuchara MamboMix (función SlowMambo) y velocidad 1, poniendo el cestillo sobre la tapa en lugar del cubilete. Mientras tanto, precalentamos el horno a 200 °C y forramos una bandeja de horno con papel de hornear. Vertemos los puerros en la bandeja preparada y, con la espátula, lo extendemos formando un rectángulo.",
+        "accesorio": "Cestillo de hervir",
+        "velocidad": 1,
+        "temperatura_c": 120,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 17.13,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Espolvoreamos las doradas con sal y pimienta y las colocamos sobre los puerros a la naranja. Con un cuchillo afilado, hacemos 2 o 3 cortes de 0,5 cm de profundidad en el lomo de cada dorada. Ponemos en cada corte 1 rodaja (o ½) de naranja y repartimos las ramitas de tomillo (o el tomillo seco) sobre las doradas. Ponemos en el interior de las doradas el resto de rodajas de naranja que nos hayan sobrado. Horneamos durante 25-30 minutos, a 200 °C. Retiramos del horno y espolvoreamos por encima los pistachos troceados. Servimos inmediatamente.",
+        "accesorio": "Cuchillas",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 25,
+        "tiempo_max_minutos": 30,
+        "tipo_paso": "horno",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Paso de horno: se programa en el horno, no en la Mambo.",
+          "Horno a 200 °C."
+        ]
+      }
+    ],
+    "fuente_url": "https://www.misthermorecetas.com/dorada-al-horno-con-puerro-a-la-naranja-y-pistachos/",
+    "creado_en": "2026-11-22"
+  },
+  {
+    "id": "230a9616-1155-4124-bf40-7b212822857c",
+    "slug": "roscon-con-mousse-de-salmon-y-langostinos",
+    "titulo": "Roscón con mousse de salmón y langostinos",
+    "descripcion": "Roscón con mousse de salmón y langostinos: receta de pescado para 12 personas con un tiempo total de 161 min. Ingredientes principales: pimientos variados (rojo, amarillo y verde) en trozos de 2-3 cm, aceite de oliva, leche. Los 5 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
+    "imagen": "https://www.misthermorecetas.com/wp-content/uploads/2022/01/roscon_mousse_salmon_langostinos00.jpg",
+    "categoria": "pescados",
+    "tiempo_total_min": 161,
+    "comensales": 12,
+    "dificultad": "Media",
+    "ingredientes": [
+      "140 g de pimientos variados (rojo, amarillo y verde) en trozos de 2-3 cm",
+      "10 g de aceite de oliva",
+      "80 g de leche",
+      "10 g de levadura prensada fresca",
+      "1 cucharadita de azúcar",
+      "130 g de harina de fuerza",
+      "120 g de azúcar",
+      "6-8 tiras de piel de limón (solo la parte amarilla)",
+      "6-8 tiras de piel de naranja ( solo la parte naranja)",
+      "80 g de leche",
+      "70 g de mantequilla a temperatura ambiente",
+      "2 huevos",
+      "15 g de levadura prensada fresca",
+      "30 g de agua de azahar",
+      "450 g de harina de fuerza",
+      "1 pellizco de sal",
+      "1 huevo batido, para pincelar la masa",
+      "250 g de langostinos cocidos, pelados",
+      "200 g de pepinillos en vinagre, escurridos",
+      "200 g de salmón ahumado, en trozos",
+      "500 g de nata, con 35% m.g.",
+      "50 g de queso cremoso",
+      "4 gotas de salsa inglesa (salsa Worcestershire)",
+      "1-2 pellizcos de pimienta molida"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Colocamos un bol sobre la tapa de la jarra, pulsamos la función balanza y ponemos los trozos de pimiento y el aceite. Mezclamos bien y reservamos.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Ponemos todos los ingredientes de la esponja y programamos 15 segundos, a velocidad 4. Retiramos de la jarra y formamos una bola. Introducimos la masa en un bol y cubrimos con agua templada (aprox. 15 minutos). Cuando la bola de masa flote y doble su volumen, estará lista.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 15.25,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Ponemos en la jarra el azúcar, las pieles de limón y de naranja. Programamos 20 segundos, a velocidad 10. Con la espátula, bajamos los restos que hayan quedado en las paredes y tapa de la jarra hacia las cuchillas y volvemos a programar otros 20 segundos, a velocidad 10. Añadimos la leche, la mantequilla (tiene que estar a temperatura ambiente), los huevos, la levadura prensada fresca desmenuzada, el agua de azahar, la harina de fuerza, la sal y la bola de masa. Programamos 30 segundos, a velocidad 6 y seguidamente, programamos 3 minutos, función amasado (espiga). Dejamos reposar la masa dentro de la jarra hasta que doble su volumen (la masa tiene que tocar el cubilete), aprox. 2 horas en función de la temperatura ambiente. Forramos una bandeja de horno con papel de hornear. Reservamos. Con la espátula, bajamos la masa hacia el fondo de la jarra y programamos 1 minuto, función amasado (espiga). Retiramos la masa de la jarra (estará blanda) y la ponemos sobre una superficie enharinada. Le damos forma de bola alisándola bien con las manos. Para formar el roscón, introducimos los dedos en el centro y abrimos la masa de modo que el agujero central sea bastante grande. Lo colocamos en la bandeja de horno preparada y dejamos reposar hasta que doble su volumen, en un lugar cálido, libre de corrientes de aire (por ejemplo, dentro del horno apagado, pero precalentado a 50 °C). Lavamos la jarra. Precalentamos el horno a 200 °C.",
+        "accesorio": "Cuchara MamboMix",
+        "velocidad": 10,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 125.17,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "baja",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "«A temperatura ambiente» se refiere al ingrediente: el paso es sin calor.",
+          "Velocidad 10 por encima del máximo documentado del accesorio Cuchara MamboMix (máx. 3).",
+          "La Mambo limita el uso continuo a velocidad 8 o superior a 5 minutos."
+        ]
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Pincelamos el roscón con huevo batido y decoramos con los pimientos reservados. Horneamos durante 5 minutos, a 200 °C, después bajamos la temperatura a 180 °C y horneamos durante 15-20 minutos más. Dejamos enfriar antes de rellenar.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 15,
+        "tiempo_max_minutos": 20,
+        "tipo_paso": "horno",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Paso de horno: se programa en el horno, no en la Mambo.",
+          "Horno a 200 °C."
+        ]
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Ponemos en la jarra los langostinos y troceamos durante 4 segundos, a velocidad 4. Ponemos en un bol y reservamos. Sin lavar la jarra, ponemos los pepinillos y troceamos durante 5 segundos, a velocidad 5. Retiramos a otro bol y reservamos. Sin lavar la jarra, ponemos el salmón y troceamos durante 5 segundos, a velocidad 6. Con la espátula, bajamos el salmón hacia el fondo de la jarra y programamos 3 segundos, a velocidad 6. De nuevo, bajamos el salmón hacia el fondo de la jarra con la espátula. Añadimos la nata, el queso cremoso, la salsa inglesa y la pimienta y, sin programar tiempo, programamos a velocidad 3½ hasta que esté montada (tarda poco segundos). Retiramos de la jarra y lo ponemos en una manga pastelera con boquilla lisa. Cortamos el roscón por la mitad transversalmente. Colocamos la base en una bandeja y ponemos el relleno con la manga formando picos. Distribuimos por encima los langostinos y los pepinillos troceados. Volvemos a poner la parte de arriba del roscón, cortamos en porciones y servimos o reservamos en el frigorífico hasta el momento de servir.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 0.28,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      }
+    ],
+    "fuente_url": "https://www.misthermorecetas.com/roscon-con-mousse-de-salmon-y-langostinos/",
+    "creado_en": "2026-11-22"
+  },
+  {
+    "id": "5f373c66-1e77-4f5e-a415-e153a9a6c2e6",
+    "slug": "roscon-de-reyes-relleno-de-nata",
+    "titulo": "Roscón de Reyes relleno de nata",
+    "descripcion": "Roscón de Reyes relleno de nata: receta de postre para 4 personas con un tiempo total de 585 min. Ingredientes principales: azúcar, la piel de ½ naranja, sin nada de parte blanca, la piel de ½ limón, sin nada de parte blanca. Los 6 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
+    "imagen": "https://www.misthermorecetas.com/wp-content/uploads/2026/01/roscon_reyes_nata_montada0.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 585,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "120 g de azúcar",
+      "la piel de ½ naranja, sin nada de parte blanca",
+      "la piel de ½ limón, sin nada de parte blanca",
+      "80 g de leche",
+      "10 g de levadura fresca de panadería",
+      "1 cucharadita de azúcar",
+      "130 g de harina de fuerza",
+      "60 g de leche",
+      "70 g de mantequilla, a temperatura ambiente",
+      "2 huevos",
+      "20 g de levadura fresca de panadería",
+      "30 g de agua de azahar",
+      "450 g de harina de fuerza",
+      "1 pellizco de sal",
+      "1 huevo batido",
+      "azúcar humedecido",
+      "almendras fileteadas",
+      "frutas escarchadas",
+      "600 g de nata para montar, con 35% m.g., muy fría",
+      "150 g de queso cremoso, tipo Philadelphia®, frío",
+      "120 g de azúcar glas",
+      "1 chorrito de vainilla líquida"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "En la jarra bien limpio y seco, echamos el azúcar y pulverizamos durante 30 segundos, subiendo la velocidad de forma progresiva 5, 7 y 10 (ajústala a mano: la Mambo no tiene velocidad progresiva). Añadimos la piel de naranja y de limón y programamos otros 15 segundos, subiendo la velocidad de forma progresiva 5, 7 y 10 (ajústala a mano: la Mambo no tiene velocidad progresiva). Reservamos en un bol.",
+        "accesorio": "Cuchillas",
+        "velocidad": 10,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 0.75,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "media",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Velocidad progresiva 5-7-10: la Mambo no la programa; ajusta la velocidad a mano en 3 tramos."
+        ],
+        "velocidad_progresiva": [
+          5,
+          7,
+          10
+        ]
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Ponemos todos los ingredientes de la masa madre en la jarra y programamos 15 segundos, a velocidad 4. Retiramos de la jarra y formamos una bola. Lo introducimos en un bol con agua templada (el agua tiene que cubrir la bola completamente). La masa estará lista cuando doble su volumen y flote en el agua (15 minutos aprox.).",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 15.25,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "En la jarra, ponemos el azúcar glas aromatizado, todos los ingredientes de la masa y, por último, la masa madre (tiene que ser en este orden). Programamos 30 segundos, a velocidad 6. Seguidamente, programamos 8 minutos, función amasado (espiga), para que se amase bien. Dejamos que repose dentro de la jarra hasta que la masa se salga por el abertura de la tapa. Yo tapo la jarra con una manta para que leve mejor. El tiempo que tarda depende de la temperatura ambiente y suele ser entre 1 hora y media y 2 horas, pero si no tenéis prisa os recomiendo dejarlo 3 o 4 horas, quedará mucho más esponjoso. Retiramos la masa de la jarra y la ponemos sobre una superficie enharinada o sobre papel film. Amasamos un poquito para desgasificarla, damos forma de bola y alisamos con las manos. En una bandeja de horno, colocamos papel vegetal o una lámina de silicona (silpat). Ponemos la masa encima y con los dedos abrimos un agujero en el centro (vamos abriéndolo poco a poco para hacerlo bastante grande). Tiene que quedar una corona de unos 35 cm de diámetro con un gran agujero en el centro porque ahora, tiene que volver a levar y si es pequeño la masa se unirá. Es más fácil hacerlo si cogemos la masa con las manos y la vamos girando de modo que se va abriendo y vamos dejándola con el mismo grosor por todo el roscón. ¡Importante!: metemos la sorpresa entre la masa. Lo colocamos en la bandeja, sobre el papel y metemos en el horno \"apagado\" para que doble su volumen. Dentro del horno no hay corrientes y así levará mejor, tardará más o menos 2 horas. Sacamos la bandeja con el roscón del horno y precalentamos el horno a 200 °C.",
+        "accesorio": "Cuchara MamboMix",
+        "velocidad": 6,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 548.5,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "baja",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "«A temperatura ambiente» se refiere al ingrediente: el paso es sin calor.",
+          "Velocidad 6 por encima del máximo documentado del accesorio Cuchara MamboMix (máx. 3)."
+        ]
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Mientras se precalienta el horno, pincelamos el roscón con huevo batido, muy suavemente. Colocamos trozos de fruta escarchada, almendras fileteadas y azúcar humedecida con unas gotas de agua. Horneamos durante 5 minutos, a 200 °C, bajamos la temperatura a 180 °C y horneamos durante 15-20 minutos más. Si vemos que se está tostando mucho, colocamos papel de aluminio encima. Sacamos del horno y dejamos que enfríe completamente sobre una rejilla.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 15,
+        "tiempo_max_minutos": 20,
+        "tipo_paso": "horno",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Paso de horno: se programa en el horno, no en la Mambo.",
+          "Horno a 200 °C."
+        ]
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Colocamos la Mariposa en las cuchillas y ponemos la nata, el queso cremoso, el azúcar glas y la vainilla en la jarra. Programamos a velocidad 3½, sin programar tiempo, vigilando por el abertura de la tapa hasta que veamos que la nata ha montado. Retiramos la Mariposa y vertemos la nata montada en una manga pastelera con boquilla rizada. Reservamos en el frigorífico mientras abrimos el roscón.",
+        "accesorio": "Mariposa",
+        "velocidad": 3,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "media",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Sin tiempo fijo: cocinar según el punto indicado en el texto."
+        ]
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Cortamos el roscón por la mitad transversalmente y colocamos la base en una bandeja grande. Con la manga pastelera vamos cubriendo toda la base del roscón con la nata montada. Si nos sobra un poco, lo distribuimos sobre la nata que hemos puesto sobre la base. Ponemos la parte superior del roscón sobre la nata montada, presionando ligeramente con las manos. Partimos en porciones y servimos.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      }
+    ],
+    "fuente_url": "https://www.misthermorecetas.com/roscon-de-reyes-relleno-de-nata/",
+    "creado_en": "2026-11-22"
   }
 ]
