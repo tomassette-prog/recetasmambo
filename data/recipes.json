@@ -89186,5 +89186,580 @@
     ],
     "fuente_url": "https://www.misthermorecetas.com/roscon-de-reyes-relleno-de-nata/",
     "creado_en": "2026-11-22"
+  },
+  {
+    "id": "70eb0e22-44cb-41e1-8c61-445dbec82890",
+    "slug": "crema-de-pollo-para-untar",
+    "titulo": "Crema de pollo para untar",
+    "descripcion": "Crema de pollo para untar: receta de sopa o crema para 2 personas con un tiempo total de 5 min. Ingredientes principales: pollo (ya cocinado, limpio, sin huesos ni piel), zanahoria pelada, manzana pelada. Los 3 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/10/crema-de-pollo-para-untar.jpg",
+    "categoria": "sopas-y-cremas",
+    "tiempo_total_min": 0,
+    "comensales": 2,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "90 g de pollo (ya cocinado, limpio, sin huesos ni piel)",
+      "50 g de zanahoria pelada",
+      "40 g de manzana pelada",
+      "2 pepinillos en vinagre (de los pequeñitos)",
+      "85 g de yogur natural",
+      "1/2 cucharada de mayonesa",
+      "1/2 cucharada de zumo de limón",
+      "Sal (si lo creéis necesario)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos en la jarra el pollo, la zanahoria, la manzana y los pepinillos. Trituramos con varios golpes de turbo.",
+        "accesorio": "Cuchillas",
+        "velocidad": "Turbo",
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "baja",
+        "sin_convertir": true,
+        "notas_conversion": [
+          "El texto original no indica tiempo de programación; hay que revisar manualmente."
+        ]
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Añadimos el yogur, la mayonesa y el zumo de limón y programamos 10 segundos, velocidad 2. Probamos y añadimos sal si lo consideramos necesario.",
+        "accesorio": "Cuchillas",
+        "velocidad": 2,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 0.17,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "¡Y listo para hacer nuestro sandwich o para poner en la mesa junto con unos crackers o unas rodajitas de pan!",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/crema-de-pollo-para-untar/",
+    "creado_en": "2026-11-23"
+  },
+  {
+    "id": "6c24fd87-7aab-4d71-9263-95b351f10cc6",
+    "slug": "crema-de-setas-con-virutas-de-bacon",
+    "titulo": "Crema de setas con virutas de bacon",
+    "descripcion": "Crema de setas con virutas de bacon: receta de sopa o crema para 6 personas con un tiempo total de 40 min. Ingredientes principales: setas variadas, bacon en lonchas, ajo. Los 9 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/10/crema-setas.jpg",
+    "categoria": "sopas-y-cremas",
+    "tiempo_total_min": 40,
+    "comensales": 6,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "400 g de setas variadas",
+      "100 g de bacon en lonchas",
+      "1 diente de ajo",
+      "80 g de cebolla (media cebolla)",
+      "60 g de puerro (la parte blanca)",
+      "250 g de patatas",
+      "50 ml de aceite (medio cubilete)",
+      "50 g de mantequilla",
+      "100 ml de vino blanco seco (1 cubilete)",
+      "500 ml de caldo de pollo o verduras (podéis poner 500 ml de agua y una pastilla de caldo)",
+      "400 ml de nata líquida para cocinar",
+      "2 cucharaditas de sal",
+      "pimienta negra al gusto"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Cortamos las lonchas de bacon en cuatro trozos y las ponemos en la jarra. Trituramos a golpe de turbo.",
+        "accesorio": "Cuchillas",
+        "velocidad": "Turbo",
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "baja",
+        "sin_convertir": true,
+        "notas_conversion": [
+          "El texto original no indica tiempo de programación; hay que revisar manualmente."
+        ]
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Añadimos el aceite y rehogamos durante 4 minutos, 100 °C, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 4,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Sacamos, colamos y reservamos el aceite y el bacon, por separado.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "El aceite lo devolvemos a la jarra. Añadimos la mantequilla, el ajo, la cebolla, el puerro, la patata en grandes trozos (yo la lavo y le dejo la piel) y las setas. Trituramos a golpe de turbo.",
+        "accesorio": "Cuchillas",
+        "velocidad": "Turbo",
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "baja",
+        "sin_convertir": true,
+        "notas_conversion": [
+          "El texto original no indica tiempo de programación; hay que revisar manualmente."
+        ]
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Bajamos los restos con la espátula y cocemos durante 15 minutos, 100 °C, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 15,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Añadimos el caldo (o el agua y la pastilla), el vino blanco, la sal y la pimienta. Cocemos durante 10 minutos, 100 °C, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 10,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Dejamos que enfríe un poquito y trituramos durante 30 segundos a velocidad 1. Tiene que quedar una crema fina. Si no es así, repetimos con otros 30 segundos a velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 1,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Añadimos la nata y programamos 10 minutos, 100 °C, velocidad 2.",
+        "accesorio": "Cuchillas",
+        "velocidad": 2,
+        "temperatura_c": 100,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 10,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Servimos decorando con los trocitos de bacon reservados.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/crema-de-setas-con-virutas-de-bacon/",
+    "creado_en": "2026-11-23"
+  },
+  {
+    "id": "466dfcf0-4ce5-4c26-8e8e-c39247c2934b",
+    "slug": "pizza-ojo-de-halloween",
+    "titulo": "Pizza ojo de Halloween",
+    "descripcion": "Pizza ojo de Halloween: receta de pan o masa para 2 personas con un tiempo total de 108 min. Ingredientes principales: r de harina de fuerza, r de levadura fresca de panadería, r de agua. Los 8 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/10/Pizza_ojo_halloween.jpg",
+    "categoria": "panes-masas",
+    "tiempo_total_min": 108,
+    "comensales": 2,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "170 gr de harina de fuerza",
+      "16 gr de levadura fresca de panadería",
+      "110 gr de agua",
+      "1/2 cucharadita de sal",
+      "50 gr de aceitunas negras sin hueso",
+      "100 gr de carne picada",
+      "200 gr de quesos variados rallados",
+      "Tomate frito",
+      "Tiras muy finitas de pimiento morrón",
+      "20 gr de aceite de oliva virgen",
+      "Sal al gusto",
+      "Pimienta al gusto",
+      "Sal de ajo al gusto (o ajo en polvo)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Aliñamos la carne picada con sal, pimienta y sal de ajo al gusto. Echamos el aceite de oliva en la jarra y calentamos 1 minuto, 120 °C con la Vaporera de dos niveles, velocidad 1. Añadimos la carne y cocinamos 6 minutos, 120 °C con la Vaporera de dos niveles, velocidad 1, con la Cuchara MamboMix (función SlowMambo). Retiramos.",
+        "accesorio": "Vaporera",
+        "velocidad": 1,
+        "temperatura_c": 120,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 7,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Sin lavar la jarra, añadimos el agua y templamos durante 1 minuto, 37 °C, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 37,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 1,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Añadimos la levadura desmenuzada y programamos 1 minuto, 37 °C, velocidad 1. Agregamos la harina y la sal y programamos 3 minutos, jarra cerrado, Cuchara MamboMix, velocidad 3.",
+        "accesorio": "Cuchara MamboMix",
+        "velocidad": 1,
+        "temperatura_c": 37,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 4,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Miramos la textura de la masa: debe estar elástica y blanda, pero no pegarse a los dedos. Si se os pega, añadimos un poco de harina y volvemos a programar 30 segundos, jarra cerrado, Cuchara MamboMix, velocidad 3. Si veis que la masa está muy dura y poco elástica, es porque le falta agua. Así que añadimos un pelín (muy poquita) de agua tibia y programamos 1 minuto, jarra cerrado y Cuchara MamboMix, velocidad 3.",
+        "accesorio": "Cuchara MamboMix",
+        "velocidad": 3,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 1.5,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Retiramos la masa de la jarra y dejamos reposar en un lugar templado durante 40 minutos. Mi consejo es que pongáis el horno a 50 °C durante 2 minutos, lo apaguéis y metáis la masa dentro de un recipiente en el horno. Así estará calentita y libre de corrientes de aire. Debemos dejarla reposar unos 40 minutos.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 82,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "horno",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Paso de horno: se programa en el horno, no en la Mambo.",
+          "Horno a 50 °C."
+        ]
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Extendemos la masa con ayuda de un rodillo o con las manos con forma redonda. Untamos la bandeja del horno con aceite de oliva y espolvoreamos con harina. Colocamos encima la masa.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "horno",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Paso de horno: se programa en el horno, no en la Mambo."
+        ]
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Con una cuchara añadimos el tomate frito y lo extendemos muy bien. Colocamos primero los quesos, en el centro la carne picada y más en el centro las aceitunas picaditas y bien escurridas. Colocamos unas tiras muy finitas de pimiento encima de la parte de los quesos a modo de venas (fijaos en la foto para ver la colocación).",
+        "accesorio": "Cuchillas",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Con el horno precalentado a 230 °C, metemos la bandeja en el nivel 1 (el carril que está en la parte más baja del horno) y si tenemos función ventilador la ponemos. Lo tendremos unos 10 – 12 minutos aprox, pero controlad que no se queme por debajo.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 10,
+        "tiempo_max_minutos": 12,
+        "tipo_paso": "horno",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Paso de horno: se programa en el horno, no en la Mambo.",
+          "Horno a 230 °C."
+        ]
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/pizza-ojo-de-halloween/",
+    "creado_en": "2026-11-23"
+  },
+  {
+    "id": "0280a913-8aa9-40e3-af53-1ff9ac9e59ce",
+    "slug": "sandwich-croque-monsieur",
+    "titulo": "Sándwich croque monsieur",
+    "descripcion": "Sándwich croque monsieur: receta de pan o masa para 2 personas con un tiempo total de 10 min. Ingredientes principales: 4 rebanadas de pan de molde, onchas de jamón cocido, onchas de queso emmental. Los 5 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/10/sándwich-croque-monsieur-thermorecetas.jpg",
+    "categoria": "panes-masas",
+    "tiempo_total_min": 10,
+    "comensales": 2,
+    "dificultad": "Media",
+    "ingredientes": [
+      "4 rebanadas de pan de molde",
+      "2 lonchas de jamón cocido",
+      "2 lonchas de queso emmental",
+      "30 g de mantequilla",
+      "10 g de harina",
+      "110 g de leche a temperatura ambiente",
+      "15 g de queso rallado",
+      "unos trocitos pequeños de mantequilla",
+      "1 pellizco de nuez moscada",
+      "Sal y pimienta"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Precalentar el horno a 180 °C. Poner la mantequilla en la jarra y derretir durante 1 minuto, 100 °C, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 180,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 1,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "media",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "180 °C es válido en Mambo CooKing (37-180 °C) pero no verificado en generaciones anteriores de Mambo (máx. 120 °C).",
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Pincelar la base de un molde de 15 x 24 cm. Poner dos rebanadas, una al lado de la otra. Poner encima una loncha de jamón york y otra de queso, terminar poniendo las dos rebanadas restantes. Pincelar la parte superior con un poco más de mantequilla e introducir en el horno mientras se hace la bechamel.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "horno",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Paso de horno: se programa en el horno, no en la Mambo."
+        ]
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Calentar de nuevo la mantequilla restante que está en la jarra, programando 1 minuto, 100 °C, velocidad 1. Añadir la harina y mezlcar durante 30 segundos a velocidad 2. Verter la leche, la nuez moscada y salpimentar. Programar 4 minutos, 100 °C, velocidad 3.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 5.5,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Retirar el molde del horno y repartir la salsa encima de los dos sándwiches, espolvorear con el queso rallado y unos puntitos de mantequilla. Volver a introducir en el horno y gratinar unos 3 minutos. Retirar cuando la superficie esté doradita.",
+        "accesorio": "Cuchillas",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 3,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "horno",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Paso de horno: se programa en el horno, no en la Mambo."
+        ]
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Servir enseguida.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/sandwich-croque-monsieur/",
+    "creado_en": "2026-11-23"
+  },
+  {
+    "id": "ea3acadb-9ee9-4d35-98cb-6c0cc9257446",
+    "slug": "galletas-de-parmesano-con-tomate-y-jamon",
+    "titulo": "Galletas de parmesano con tomate y jamón",
+    "descripcion": "Galletas de parmesano con tomate y jamón: receta de carne para 8 personas con un tiempo total de 36 min. Ingredientes principales: queso parmesano en trozos, harina de repostería (y un poco más para espolvorear), mantequilla en trozos. Los 3 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
+    "imagen": "https://www.misthermorecetas.com/wp-content/uploads/2021/12/galletas_de_parmesano_tomate_jamon.jpg",
+    "categoria": "carnes",
+    "tiempo_total_min": 36,
+    "comensales": 8,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "100 g de queso parmesano en trozos",
+      "100 g de harina de repostería (y un poco más para espolvorear)",
+      "100 g de mantequilla en trozos",
+      "30 g de chalota en mitades",
+      "1 diente de ajo",
+      "15 g de aceite de oliva",
+      "400 g de tomate en dados",
+      "1 cucharadita de hierbas provenzales secas",
+      "1 pellizco de sal",
+      "1 pellizco de pimienta molida",
+      "8 lonchas de jamón ibérico o de lomo de cerdo embuchado",
+      "250 g de tomates cherry en cuartos",
+      "1 bandeja de brotes germinados (opcional)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "En la jarra del Thermomix ponemos el parmesano y lo rallamos durante 10 segundos, a velocidad 10. Añadimos la harina y la mantequilla y mezclamos durante 20 segundos, a velocidad 6. Retiramos la masa sobre la superficie de trabajo ligeramente enharinada y formamos una bola. La envolvemos en film transparente y reservamos en el frigorífico durante 20 minutos. Lavamos y secamos la jarra y la tapa.",
+        "accesorio": "Cuchillas",
+        "velocidad": 10,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 20.5,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "baja",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "La Mambo limita el uso continuo a velocidad 8 o superior a 5 minutos."
+        ]
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Ponemos en la jarra la chalota y el ajo. Troceamos durante 5 segundos, a velocidad 5. Con la espátula, bajamos los ingredientes hacia el fondo de la jarra. Añadimos el aceite, los tomates, las hierbas provenzales, la sal y la pimienta. Sofreímos durante 8 minutos, 120 °C (en TM31: temp. Vaporera de dos niveles) y Cuchara MamboMix, velocidad 1. Retiramos a un bol y dejamos enfriar durante 30 minutos. Precalentamos el horno a 180 °C. Con la ayuda de un rodillo, extendemos la masa entre dos láminas de papel de hornear. Retiramos la lámina de arriba y, con un cortapastas de 8 x 8 cm., cortamos la masa en 8 cuadrados. Forramos la bandeja de horno con papel de hornear, colocamos las galletas y horneamos durante 10-15 minutos, a 180 °C (o hasta que veamos que están ligeramente tostadas). Retiramos del horno y dejamos que enfríen completamente.",
+        "accesorio": "Vaporera",
+        "velocidad": 5,
+        "temperatura_c": 120,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 10,
+        "tiempo_max_minutos": 15,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Ponemos una galleta de parmesano en el plato y ponemos el cortapastas encima. Rellenamos con una capa fina y regular del concassé de tomate preparado. Después, retiramos el cortapastas. Disponemos encima de forma decorativa la loncha de jamón o lomo, los tomates cherry y los brotes germinados. Rellenamos las galletas restantes de la misma forma y servimos inmediatamente.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      }
+    ],
+    "fuente_url": "https://www.misthermorecetas.com/galletas-de-parmesano-con-tomate-y-jamon/",
+    "creado_en": "2026-11-23"
   }
 ]
