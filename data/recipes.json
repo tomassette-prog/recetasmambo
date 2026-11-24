@@ -89761,5 +89761,459 @@
     ],
     "fuente_url": "https://www.misthermorecetas.com/galletas-de-parmesano-con-tomate-y-jamon/",
     "creado_en": "2026-11-23"
+  },
+  {
+    "id": "cd7aa68c-f0f4-4ba8-8e3b-398f8d484329",
+    "slug": "patatas-deluxe",
+    "titulo": "Patatas Deluxe",
+    "descripcion": "Patatas Deluxe: receta de verduras para 4 personas con un tiempo total de 30 min. Ingredientes principales: patatas bien lavadas (las vamos a cocinar con piel), de mediano tamaño, harina, pimentón dulce. Los 6 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/10/patatas-deluxe.jpg",
+    "categoria": "verduras",
+    "tiempo_total_min": 30,
+    "comensales": 4,
+    "dificultad": "Media",
+    "ingredientes": [
+      "600 g de patatas bien lavadas (las vamos a cocinar con piel), de mediano tamaño",
+      "50 g de harina",
+      "1/2 cucharada de pimentón dulce",
+      "5 g de ajo en polvo",
+      "1 cucharadita (de las de postre) de orégano",
+      "1 cucharadita (de las de café) de tomillo",
+      "1 cucharadita (de las de café) de sal",
+      "Aceite para freir"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Lavamos muy bien las patatas las cortamos en gajos y las ponemos en un bol con agua. Ahí estarán unos 10 minutos.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 10,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Mientras, ponemos en la jarra de nuestra Thermomix 1’5 litros de agua. Programamos 10 minutos, 120 °C con la Vaporera de dos niveles, velocidad 1.",
+        "accesorio": "Vaporera",
+        "velocidad": 1,
+        "temperatura_c": 120,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 10,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Acabado el tiempo escurrimos las patatas con ayuda del cestillo y las ponemos en nuestro jarra, en el agua hirviendo. Programamos 5 minutos, 120 °C con la Vaporera de dos niveles, con la Cuchara MamboMix (función SlowMambo), Cuchara MamboMix, velocidad 1.",
+        "accesorio": "Cestillo de hervir",
+        "velocidad": 1,
+        "temperatura_c": 120,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 5,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Aprovechamos esos 5 minutos para preparar lo que será el rebozado: ponemos en un bol la harina, el pimentón, el ajo, las especias y la sal, y removemos.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 5,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Acabado el tiempo, escurrimos las patatas, de nuevo con la ayuda del cestillo. Las rebozamos en la mezcla que acabamos de hacer y las freímos en abundante aceite no demasiado fuerte.",
+        "accesorio": "Cestillo de hervir",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Cuando estén doradas las sacamos a un plato cubierto con papel de cocina para que escurra bien el aceite, emplatamos y servimos inmediatamente.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "baja",
+        "sin_convertir": true,
+        "notas_conversion": [
+          "El texto original no indica velocidad de la Mambo; hay que revisar manualmente.",
+          "El texto original no indica tiempo de programación; hay que revisar manualmente."
+        ]
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/patatas-deluxe/",
+    "creado_en": "2026-11-24"
+  },
+  {
+    "id": "c00bdd6c-2abd-46cf-86d6-9201b87cca38",
+    "slug": "helados-fantasma-de-vainilla-con-chocolate-blanco",
+    "titulo": "Helados fantasma de vainilla con chocolate blanco",
+    "descripcion": "Helados fantasma de vainilla con chocolate blanco: receta de postre para 8 personas con un tiempo total de 1482 min. Ingredientes principales: leche, azúcar, 2 yemas de huevo. Los 6 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/10/helados-fantasma.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 1482,
+    "comensales": 8,
+    "dificultad": "Media",
+    "ingredientes": [
+      "250 ml de leche",
+      "100 g de azúcar",
+      "2 yemas de huevo",
+      "2 cucharaditas (de las de café) de esencia de vainilla",
+      "15 g de aceite de oliva suave o girasol.",
+      "400 g de chocolate blanco",
+      "perlas o bolitas de chocolate, lacasitos o similar para hacer los ojos."
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Introducimos en la jarra la leche, las yemas, el azúcar y la vainilla y calentamos durante 6 minutos, 90 °C, velocidad 2.",
+        "accesorio": "Cuchillas",
+        "velocidad": 2,
+        "temperatura_c": 90,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 6,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Rellenamos los moldes para helados con la mezcla y les ponemos el palito. Introducimos en el congelador durante, al menos, 24 horas.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 1440,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Pasado ese tiempo, los cubriremos con chocolate blanco. Para ello, ponemos el chocolate blanco troceado en la jarra y lo rallamos a golpe de turbo.",
+        "accesorio": "Cuchillas",
+        "velocidad": "Turbo",
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "baja",
+        "sin_convertir": true,
+        "notas_conversion": [
+          "El texto original no indica tiempo de programación; hay que revisar manualmente."
+        ]
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Bajamos los restos de las paredes, añadimos el aceite y derretimos durante 6 minutos, 50 °C, velocidad 1.",
+        "accesorio": "Cuchillas",
+        "velocidad": 1,
+        "temperatura_c": 50,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 6,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Vertemos la mezcla en una jarra alto. Sumergiremos en ella nuestros helados desmoldados. Los dejamos escurrir y los colocamos en una bandeja sobre una hoja de papel de horno. Les ponemos entonces las perlas de chocolate como si fueran los ojos.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "horno",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Paso de horno: se programa en el horno, no en la Mambo."
+        ]
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Introducimos la bandeja en el congelador 30 minutos antes de servirlos.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 30,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/helados-fantasma-de-vainilla-con-chocolate-blanco/",
+    "creado_en": "2026-11-24"
+  },
+  {
+    "id": "6a5b8daa-8f2b-4c21-9b75-ec541acf5506",
+    "slug": "espirales-brioche-de-jamon-y-queso",
+    "titulo": "Espirales brioche de jamón y queso",
+    "descripcion": "Espirales brioche de jamón y queso: receta de carne para 6 personas con un tiempo total de 25 min. Ingredientes principales: r leche, sal (si es para dulce), r azúcar. Los 7 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/10/Espirales_jamón-queso1.jpg",
+    "categoria": "carnes",
+    "tiempo_total_min": 25,
+    "comensales": 6,
+    "dificultad": "Media",
+    "ingredientes": [
+      "150 gr leche",
+      "1 pellizco sal (si es para dulce)",
+      "50 gr azúcar",
+      "70 gr mantequilla",
+      "3 yemas huevo mediano",
+      "1 paquete de levadura liofilizada de panadero (o 20 gramos de levadura fresca)",
+      "400 gr de harina (la cantidad dependerá del tamaño de las yemas con huevos, más grandes más harina)",
+      "2 cucharadas de azúcar vainillada (si fuera para dulce ó 1 cucharadita de sal si es para salado)",
+      "lonchas de jamón y queso (para mi versión salada de hoy)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos en la jarra la leche, la sal, el azúcar y mantequilla, y programamos 1 minuto, 37 °C, velocidad. 2. Añadimos las yemas y mezclamos unos segundos a velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 2,
+        "temperatura_c": 37,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 1,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Agregamos la harina y la levadura y mezclamos 15 segundos a velocidad 6. Amasamos 3 minutos, Cuchara MamboMix, velocidad 3.",
+        "accesorio": "Cuchara MamboMix",
+        "velocidad": 6,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 3.25,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "baja",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Velocidad 6 por encima del máximo documentado del accesorio Cuchara MamboMix (máx. 3)."
+        ]
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Estiramos la masa formando rectángulo, lo pintamos con mantequilla fundida, y añadimos el relleno elegido, dulce o salado, y enrollamos.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Yo estiro la masa, y le pongo encima el relleno que me guste. Luego la masa la enrollo muy bien como en el brazo gitano que quede muy bien liada y lo voy cortando con un cuchillo afilado en rodajas gruesas. Es como si el rollito fuera como un chorizo que cortas en rodajas. Tienen que ser un poco gruesas. Y entonces colocamos las rodajas en cápsulas de magdalena o sobre la bandeja del horno cubierta con papel de horno.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "horno",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Paso de horno: se programa en el horno, no en la Mambo."
+        ]
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "Pintar la superficie con huevo y dejarlas hasta que doblen su volumen. Esta foto es antes de que hayan doblado su volumen para que veáis cómo las he colocado para el reposo dentro del horno.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "horno",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Paso de horno: se programa en el horno, no en la Mambo."
+        ]
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Yo las meto dentro del horno pero apagado para que no tengan corriente de aire. Recordad que para que las masas con levadura de panadero crezcan bien deben tener una temperatura cercana a los 25 °C. Por eso yo primero pongo el horno 30 segundos a 50 °C y lo apago. Entonces meto la masa. Tardará en doblar el volumen como una hora más o menos. Eso lo vais viendo vosotros. Pero es importante no tener prisa.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 0.5,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "horno",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Paso de horno: se programa en el horno, no en la Mambo.",
+          "Horno a 25 °C."
+        ]
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Cuando hayan crecido, sacamos nuestras espirales del horno y lo precalentamos a 180 °C. Horneamos de 15 a 20 minutos, sacarlas cuando estén doradas.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 15,
+        "tiempo_max_minutos": 20,
+        "tipo_paso": "horno",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Paso de horno: se programa en el horno, no en la Mambo.",
+          "Horno a 180 °C."
+        ]
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/espirales-brioche-de-jamon-y-queso/",
+    "creado_en": "2026-11-24"
+  },
+  {
+    "id": "a1ad0887-a21a-47ec-9bde-6ac9dbee9e26",
+    "slug": "escobas-de-brujas-para-halloween",
+    "titulo": "Escobas de brujas para Halloween",
+    "descripcion": "Escobas de brujas para Halloween: receta de pan o masa para 10 personas con un tiempo total de 31 min. Ingredientes principales: harina, mantequilla fría, queso rallado. Los 4 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/10/escobas-de-brujas-para-halloween-thermorecetas.jpg",
+    "categoria": "panes-masas",
+    "tiempo_total_min": 31,
+    "comensales": 10,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "175 g de harina",
+      "90 g de mantequilla fría",
+      "90 g de queso rallado",
+      "40 g de leche",
+      "15 g de Marmite",
+      "Semillas de amapola"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Poner en la jarra de la Thermomix la harina y la mantequilla cortada en cubos. Programar 20 segundos, velocidad 4 para formar como unas migas. Añadir el queso y la leche, mezclar durante 30 segundos a velocidad 4. Poner la masa en la encimera, formar una bola, envolver en papel transparente y dejar reposar en la nevera 15 minutos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 15.83,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Precalentar el horno a 200 °C. Estirar la masa con el rodillo hasta formar un rectángulo de 1 cm de grosor. Cortar tiras de unos 10 cm de largo y de 1/2 cm de ancho. Con cuidado pasar las tiras a las bandejas forradas con papel de hornear o similar. Hacer varios cortes en uno de los extremos (a modo de cepillo).",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "horno",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Paso de horno: se programa en el horno, no en la Mambo.",
+          "Horno a 200 °C."
+        ]
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Mezclar el Marmite con 1 cucharada sopera de agua caliente, pincelar las escobas con esta mezcla y espolvorear por encima las semillas de amapola.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Hornear entre 10 y 15 minutos hasta que estén crujientes y doradas. Retirar de la bandejas cuando estén completamente frías.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 10,
+        "tiempo_max_minutos": 15,
+        "tipo_paso": "horno",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Paso de horno: se programa en el horno, no en la Mambo."
+        ]
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/escobas-de-brujas-para-halloween/",
+    "creado_en": "2026-11-24"
   }
 ]
