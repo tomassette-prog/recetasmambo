@@ -90215,5 +90215,439 @@
     ],
     "fuente_url": "https://www.thermorecetas.com/escobas-de-brujas-para-halloween/",
     "creado_en": "2026-11-24"
+  },
+  {
+    "id": "04816c42-aba5-4500-b6b1-2d42f2c59916",
+    "slug": "crujiente-de-manzana",
+    "titulo": "Crujiente de manzana",
+    "descripcion": "Crujiente de manzana: receta de pan o masa para 4 personas con un tiempo total de 35 min. Ingredientes principales: mantequilla en trozos, azúcar moreno, harina. Los 4 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/10/crujiente-de-manzana.jpg",
+    "categoria": "panes-masas",
+    "tiempo_total_min": 35,
+    "comensales": 4,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "100 g de mantequilla en trozos",
+      "80 g de azúcar moreno",
+      "80 g de harina",
+      "70 g de frutos secos (almendras, avellanas, nueces… podemos usar un solo tipo o varios mezclados)",
+      "1 pellizco de sal",
+      "600 g de manzana pelada, descorazonada y cortada en cuartos",
+      "1 cucharada de zumo de limón",
+      "40 g de azúcar",
+      "1 cucharadita de canela en polvo",
+      "Un poco de mantequilla para engrasar el/los molde/s"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Trituramos los frutos secos poniéndolos en la jarra y pulsando varias veces el botón de turbo. Añadimos el resto de los ingredientes de las migas. Programamos 10 segundos, velocidad 6. Sacamos de la jarra y reservamos.",
+        "accesorio": "Cuchillas",
+        "velocidad": "Turbo",
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 0.17,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "media",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "El Turbo de la Mambo está limitado a 5 s por pulsación y solo funciona con cuchillas: repite en pulsos."
+        ]
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Ponemos todos los ingredientes del relleno en la jarra y programamos 2 segundos, velocidad 4. A continuación programamos 5 minutos, 100 °C, con la Cuchara MamboMix (función SlowMambo), velocidad 1.",
+        "accesorio": "Cuchara MamboMix",
+        "velocidad": 4,
+        "temperatura_c": 100,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 5.03,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "baja",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Velocidad 4 por encima del máximo documentado del accesorio Cuchara MamboMix (máx. 3).",
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Ponemos esas manzanas cocidas en una fuente (o en varias) apta para horno previamente engrasada con un poco de mantequilla.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "horno",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Paso de horno: se programa en el horno, no en la Mambo."
+        ]
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Distribuimos las migas sobre el relleno y horneamos, a 180 °C, entre 25 y 30 minutos, hasta que esté dorado.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 25,
+        "tiempo_max_minutos": 30,
+        "tipo_paso": "horno",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Paso de horno: se programa en el horno, no en la Mambo.",
+          "Horno a 180 °C."
+        ]
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/crujiente-de-manzana/",
+    "creado_en": "2026-11-25"
+  },
+  {
+    "id": "6e480a40-2ece-403f-b79f-dd8056ac31cc",
+    "slug": "crema-de-calabaza-asada",
+    "titulo": "Crema de calabaza asada",
+    "descripcion": "Crema de calabaza asada: receta de sopa o crema para 4 personas con un tiempo total de 17 min. Ingredientes principales: calabaza asada, caldo de verduras, cebolla. Los 4 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/11/crema-calabaza-asada.jpg",
+    "categoria": "sopas-y-cremas",
+    "tiempo_total_min": 17,
+    "comensales": 4,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "400 g de calabaza asada",
+      "400 ml de caldo de verduras",
+      "100 g de cebolla",
+      "200 ml de nata líquida para cocinar",
+      "2 cucharaditas de miel",
+      "1 cucharadita de sal",
+      "50 ml de aceite de oliva",
+      "pimienta al gusto",
+      "1 cucharadita de comino en polvo (opcional)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Introducimos la cebolla en la jarra y trituramos durante 5 segundos a velocidad 5.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 0.08,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Añadimos el aceite de oliva y rehogamos durante 10 minutos, 120 °C con la Vaporera de dos niveles, velocidad 1. Con cubilete.",
+        "accesorio": "Vaporera",
+        "velocidad": 1,
+        "temperatura_c": 120,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 10,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Añadimos la calabaza asada, la miel y el caldo de verduras y trituramos durante 30 segundos a velocidad 7. Con cubilete",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 0.5,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Añadimos la nata, la sal, la pimienta y el comino y programamos 6 minutos, 120 °C con la Vaporera de dos niveles, velocidad 2. Con cubilete.",
+        "accesorio": "Vaporera",
+        "velocidad": 2,
+        "temperatura_c": 120,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 6,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/crema-de-calabaza-asada/",
+    "creado_en": "2026-11-25"
+  },
+  {
+    "id": "0ab77519-508e-4428-95e5-c695f644779c",
+    "slug": "delicatessen-de-pollo-al-curry",
+    "titulo": "Delicatessen de pollo al curry",
+    "descripcion": "Delicatessen de pollo al curry: receta de carne para 4 personas con un tiempo total de 35 min. Ingredientes principales: r de pechuga de pollo en trocitos pequeños, r de aceite de oliva virgen extra, r de queso crema tipo philadelphia. Los 4 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/10/delicatessen-de-pollo-al-curry.jpg",
+    "categoria": "carnes",
+    "tiempo_total_min": 35,
+    "comensales": 4,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "400 gr de pechuga de pollo en trocitos pequeños",
+      "50 gr de aceite de oliva virgen extra",
+      "200 gr de queso crema tipo philadelphia",
+      "sal de ajo",
+      "pimienta",
+      "curry",
+      "sal (al gusto)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Aliñamos los trocitos de pollo con la sal de ajo, la sal, el curry y la pimienta. Lo dejamos macerar 20 minutos.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 20,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Ponemos en la jarra el aceite y el pollo. Cocinamos 15 minutos, velocidad 1, con la Cuchara MamboMix (función SlowMambo), 120 °C con la Vaporera de dos niveles. Esperamos a que baje un poco la temperatura (hasta 80 °C).",
+        "accesorio": "Vaporera",
+        "velocidad": 1,
+        "temperatura_c": 120,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 15,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Añadimos el queso crema y trituramos 10 segundos, velocidad 5. Bajamos los restos de las paredes y la tapa y trituramos de nuevo 10 segundos, velocidad 7. Probamos y rectificamos de sal.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 0.33,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Untamos en tostadas de pan.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/delicatessen-de-pollo-al-curry/",
+    "creado_en": "2026-11-25"
+  },
+  {
+    "id": "773dc9ad-5245-4428-a097-03b1aae9905e",
+    "slug": "pasta-expres-para-2",
+    "titulo": "Pasta exprés para 2",
+    "descripcion": "Pasta exprés para 2: receta de pan o masa para 2 personas con un tiempo total de 13 min. Ingredientes principales: macarrones, agua, tomate frito. Los 3 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/11/pasta-exprés-para-2-thermorecetas.jpg",
+    "categoria": "panes-masas",
+    "tiempo_total_min": 13,
+    "comensales": 2,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "130 g de macarrones",
+      "230 g de agua",
+      "150 g de tomate frito",
+      "1 chorrito o hilo de aceite",
+      "1 cucharadita (de café) de pimentón de la Vera",
+      "30 g de jamón serrano en tacos",
+      "45 g de chorizo picante",
+      "Sal y pimienta",
+      "Orégano"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Cortar el chorizo en rodajas y después cada rodaja a la mitad.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Poner la Mariposa en las cuchillas. Añadir la pasta y el resto de los ingredientes. Salpimentar al gusto y programar 13 minutos, 100 °C, velocidad 1, con la Cuchara MamboMix (función SlowMambo).",
+        "accesorio": "Mariposa",
+        "velocidad": 1,
+        "temperatura_c": 100,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 13,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Terminado el tiempo repartir la pasta en dos platos y espolvorear el orégano.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/pasta-expres-para-2/",
+    "creado_en": "2026-11-25"
+  },
+  {
+    "id": "1d7e9a5d-542e-4efe-b77e-1d344a46d288",
+    "slug": "tarta-de-la-abuela-tarta-de-galletas-y-crema",
+    "titulo": "Tarta de la abuela (tarta de galletas y crema)",
+    "descripcion": "Tarta de la abuela (tarta de galletas y crema): receta de postre para 12 personas con un tiempo total de 263 min. Ingredientes principales: 450-500 g de galletas rectangulares o cuadradas, leche, cacao en polvo o 2 cucharaditas de café soluble (puede ser descafeinado). Los 4 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
+    "imagen": "https://www.misthermorecetas.com/wp-content/uploads/2017/01/tarta_galletas_crema_cumpleaños.jpg",
+    "categoria": "postres",
+    "tiempo_total_min": 263,
+    "comensales": 12,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "450-500 g de galletas rectangulares o cuadradas",
+      "250 g de leche",
+      "1 cucharada de cacao en polvo o 2 cucharaditas de café soluble (puede ser descafeinado)",
+      "110 g de azúcar",
+      "2 cucharaditas de azúcar vainillado o 1 cucharadita de vainilla líquida",
+      "500 g de leche entera",
+      "50 g de harina fina de maíz (Maizena)",
+      "3 huevos",
+      "130 g de chocolate fondant en trozos",
+      "110 g de azúcar",
+      "2 cucharaditas de azúcar vainillado o 1 cucharadita de vainilla líquida",
+      "500 g de leche entera",
+      "50 g de harina fina de maíz (Maizena)",
+      "3 huevos",
+      "150 g de chocolate fondant en trozos",
+      "50 g de agua",
+      "50 g de mantequilla",
+      "bolitas de chocolate o fideos de chocolate"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos todos los ingredientes en la jarra de la Thermomix y programamos 7 minutos, 90 °C y velocidad 4. Retiramos de la jarra y reservamos en un bol cubierto con film transparente pegado a la crema para que no se forme costra. Dejamos templar a temperatura ambiente mientras hacemos la crema de chocolate. Lavamos y secamos la jarra y la tapa.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 7,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "«A temperatura ambiente» se refiere al ingrediente: el paso es sin calor."
+        ]
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Ponemos el chocolate en la jarra de la Thermomix y lo rallamos durante 10 segundos, a velocidad 8. Retiramos a un bol y reservamos. Sin lavar la jarra, ponemos el azúcar, el azúcar vainillado, la leche, la maizena y los huevos. Programamos 7 minutos, 90 °C y velocidad 4. Agregamos el chocolate reservado y programamos 30 segundos, a velocidad 4. Retiramos y reservamos en un recipiente cubierto con film transparente pegado a la crema para que no se forme costra.",
+        "accesorio": "Cuchillas",
+        "velocidad": 8,
+        "temperatura_c": 90,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 7.67,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "baja",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "La Mambo limita el uso continuo a velocidad 8 o superior a 5 minutos.",
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "En un bol o plato hondo ponemos la leche y el cacao o café. La calentamos durante 20 segundos en el microondas para templar, no tiene que quedar caliente. Cubrimos la base de un molde cuadrado desmoldable de 20 x 20 cm o 22 x 22 cm con galletas remojadas en la leche (hay que remojarlas muy poquito para que no queden demasiado blandas). Encima ponemos una capa de la crema de chocolate (de aprox. 0,5 cm), cubrimos con otra capa de galletas remojadas en la leche, luego una capa de crema pastelera y así sucesivamente hasta terminar con una capa de galletas. Tapamos con film transparente y reservamos en el frigorífico durante un mínimo de 4 horas.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 240.33,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Ponemos el chocolate en la jarra y programamos 20 segundos, subiendo la velocidad de forma progresiva 5 y 7 (ajústala a mano: la Mambo no tiene velocidad progresiva). Con la espátula, bajamos el chocolate que quede en las paredes de la jarra. Añadimos el agua y programamos 4 minutos, 37 °C y velocidad 2. Agregamos la mantequilla y programamos 4 minutos, 37 °C y velocidad 2. Mezclamos con la espátula hasta que quede una mezcla homogénea. Retiramos el film de la tarta y la desmoldamos con cuidado. Ponemos la tarta en el plato o bandeja donde vayamos a servirla y cubrimos con la cobertura de chocolate. Decoramos a nuestro gusto, por ejemplo con bolas de chocolate, fideos de chocolate, … Reservamos en el frigorífico hasta que la cobertura se endurezca. Partimos en porciones y servimos.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": 37,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 8.33,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "media",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Velocidad progresiva 5-7: la Mambo no la programa; ajusta la velocidad a mano en 2 tramos.",
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ],
+        "velocidad_progresiva": [
+          5,
+          7
+        ]
+      }
+    ],
+    "fuente_url": "https://www.misthermorecetas.com/tarta-de-galletas-y-crema-para-cumpleanos/",
+    "creado_en": "2026-11-25"
   }
 ]
