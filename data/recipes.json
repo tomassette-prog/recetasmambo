@@ -91723,5 +91723,362 @@
     ],
     "fuente_url": "https://www.misthermorecetas.com/roscon-de-reyes-de-pistacho/",
     "creado_en": "2026-11-27"
+  },
+  {
+    "id": "18175c7d-bca5-488e-b1ab-26acff73e61e",
+    "slug": "pumpkin-puree",
+    "titulo": "Pumpkin puree",
+    "descripcion": "Pumpkin puree: receta de verduras para 4 personas con un tiempo total de 17 min. Ingredientes principales: Entre 400 y 700 g de calabaza ya limpia, sin corteza ni pepitas, cortada en trozos pequeños. Los 3 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/11/pumpkin-en-thermomix.jpg",
+    "categoria": "verduras",
+    "tiempo_total_min": 17,
+    "comensales": 4,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "Entre 400 y 700 g de calabaza ya limpia, sin corteza ni pepitas, cortada en trozos pequeños"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos la calabaza en la jarra y trituramos con varios golpes de turbo. Programamos 17 minutos, 120 °C con la Vaporera de dos niveles, velocidad 1.",
+        "accesorio": "Vaporera",
+        "velocidad": "Turbo",
+        "temperatura_c": 120,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 17,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "media",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "El Turbo de la Mambo está limitado a 5 s por pulsación y solo funciona con cuchillas: repite en pulsos.",
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Y listo.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Podemos ponerlo en un bote con tapa y conservarlo en la nevera o dejarlo enfriar y utilizarlo en la preparación que consideremos.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/pumpkin/",
+    "creado_en": "2026-11-28"
+  },
+  {
+    "id": "2d97014a-470f-475a-ba5c-4f9f1933fe57",
+    "slug": "zumo-medicinal-antigripal",
+    "titulo": "Zumo medicinal antigripal",
+    "descripcion": "Zumo medicinal antigripal: receta de bebida para 4 personas con un tiempo total de 1 min. Ingredientes principales: 1 naranja, 1 mandarina, 1 kiwi. Los 3 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/11/zumo-catarro.jpg",
+    "categoria": "bebidas",
+    "tiempo_total_min": 1,
+    "comensales": 4,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "1 naranja",
+      "1 mandarina",
+      "1 kiwi",
+      "medio limón",
+      "4 cucharadas de miel",
+      "650 ml de agua",
+      "1 trocito de raíz de jengibre (una rodajita como de 1/2 cm. aprox)"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Introducimos en la jarra, pelados, las frutas y el medio limón, la miel y el jengibre. Trituramos durante 1 minuto, subiendo la velocidad de forma progresiva hasta 5 (ajústala a mano: la Mambo no tiene velocidad progresiva)/10.",
+        "accesorio": "Cuchillas",
+        "velocidad": 5,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 1,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "media",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Velocidad progresiva 5: la Mambo no la programa; ajusta la velocidad a mano en 1 tramos."
+        ],
+        "velocidad_progresiva": [
+          5
+        ]
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Añadimos el agua y volvemos a triturar durante 10 segundos a velocidad 7.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 0.17,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Probamos la textura y el sabor y añadimos más agua o más miel si lo precisara. Mezclamos de nuevo 10 segundos velocidad 7.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 0.17,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/zumo-medicinal-antigripal/",
+    "creado_en": "2026-11-28"
+  },
+  {
+    "id": "f6f50db4-74f9-4437-a3f4-d2ec921f540b",
+    "slug": "dip-de-queso-y-atun-en-1-minuto",
+    "titulo": "Dip de queso y atún en 1 minuto",
+    "descripcion": "Dip de queso y atún en 1 minuto: receta de pescado para 4 personas con un tiempo total de 1 min. Ingredientes principales: r de queso philadelphia, atas de atún en aceite (escurridas), 1/2 cebolleta. Los 3 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/11/Dip_queso_atún.jpg",
+    "categoria": "pescados",
+    "tiempo_total_min": 1,
+    "comensales": 4,
+    "dificultad": "Fácil",
+    "ingredientes": [
+      "200 gr de queso philadelphia",
+      "2 latas de atún en aceite (escurridas)",
+      "1/2 cebolleta",
+      "un chorrito de zumo de limón"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Ponemos la cebolleta en la jarra y trituramos 5 segundos, velocidad 7. Tendremos que repetir esta operación bajando los restos de las paredes porque es muy poquito cantidad al menos 3 veces.",
+        "accesorio": "Cuchillas",
+        "velocidad": 7,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 0.08,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Añadimos el queso, el atún y el zumo de limón y trituramos 30 segundos, velocidad 4.",
+        "accesorio": "Cuchillas",
+        "velocidad": 4,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 0.5,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "¡Listo!",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/dip-de-queso-y-atun-en-1-minuto/",
+    "creado_en": "2026-11-28"
+  },
+  {
+    "id": "760dd159-3303-49a1-8a97-e10c24e7c903",
+    "slug": "magdalenas-de-chorizo",
+    "titulo": "Magdalenas de chorizo",
+    "descripcion": "Magdalenas de chorizo: receta de carne para 20 personas con un tiempo total de 24 min. Ingredientes principales: chorizo picante, 2 huevos camperos, harina de trigo. Los 9 pasos están adaptados a la Mambo Cooking Total Gourmet con tiempos, temperaturas y velocidades convertidas.",
+    "imagen": "https://www.thermorecetas.com/wp-content/uploads/2013/11/magdalenas-de-chorizo-thermorecetas.jpg",
+    "categoria": "carnes",
+    "tiempo_total_min": 24,
+    "comensales": 20,
+    "dificultad": "Difícil",
+    "ingredientes": [
+      "100 g de chorizo picante",
+      "2 huevos camperos",
+      "110 g de harina de trigo",
+      "10 g de levadura en polvo",
+      "75 g de mantequilla sin sal",
+      "40 g de leche",
+      "10 g de azúcar blanquilla",
+      "1 pellizco de sal",
+      "Pimienta y romero",
+      "Spray o aceite"
+    ],
+    "pasos_mambo": [
+      {
+        "paso_numero": 1,
+        "instruccion": "Precalentar el horno a 180 °C.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "horno",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Paso de horno: se programa en el horno, no en la Mambo.",
+          "Horno a 180 °C."
+        ]
+      },
+      {
+        "paso_numero": 2,
+        "instruccion": "Trocear el chorizo y ponerlo en jarra durante 5 minutos, 120 °C con la Vaporera de dos niveles, Cuchara MamboMix, velocidad 1, con la Cuchara MamboMix (función SlowMambo). Transcurrido el tiempo retirar y reservar.",
+        "accesorio": "Vaporera",
+        "velocidad": 1,
+        "temperatura_c": 120,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 5,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Potencia calorífica: deja la configuración por defecto de la Mambo (la Thermomix no controla la potencia)."
+        ]
+      },
+      {
+        "paso_numero": 3,
+        "instruccion": "Limpiar la jarra con un papel de cocina, poner la Mariposa en las cuchillas y batir los huevos, con el azúcar y la sal durante 3 minutos, a velocidad 4.",
+        "accesorio": "Mariposa",
+        "velocidad": 4,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 3,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 4,
+        "instruccion": "Mientras derretir la mantequilla en el microondas sin que llegue a hervir.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 5,
+        "instruccion": "A continuación incorporar a la jarra la harina, la levadura, la mantequilla y la leche. Espolvorear pimienta recién molida y un poco de romero. Batir durante 1 minuto, velocidad 3.",
+        "accesorio": "Cuchillas",
+        "velocidad": 3,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 1,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "robot",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 6,
+        "instruccion": "Quitar la Mariposa, agregar el chorizo reservado y terminar mezclando con la espátula.",
+        "accesorio": "Mariposa",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 7,
+        "instruccion": "Engrasar el molde de magdalenas con spray o aceite y rellenar los huecos con la masa.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      },
+      {
+        "paso_numero": 8,
+        "instruccion": "Hornear durante 15 minutos o hasta que al pincharlos el palito salga limpio.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": 15,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "horno",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": [
+          "Paso de horno: se programa en el horno, no en la Mambo."
+        ]
+      },
+      {
+        "paso_numero": 9,
+        "instruccion": "Desmoldar con cuidado y dejar enfriar sobre rejilla.",
+        "accesorio": "Ninguno",
+        "velocidad": null,
+        "temperatura_c": null,
+        "potencia_calorifica": null,
+        "tiempo_minutos": null,
+        "tiempo_max_minutos": null,
+        "tipo_paso": "manual",
+        "confianza": "alta",
+        "sin_convertir": false,
+        "notas_conversion": []
+      }
+    ],
+    "fuente_url": "https://www.thermorecetas.com/magdalenas-de-chorizo/",
+    "creado_en": "2026-11-28"
   }
 ]
